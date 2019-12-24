@@ -1,0 +1,82 @@
+{
+    "Name": "Keaton",
+    "Url": "https://nookipedia.com/wiki/Keaton",
+    "Biography": {
+        "Siblings": "Fifth of 6",
+        "Skill": "Tongue twisters",
+        "Goal": "Musician",
+        "Fear": "Werewolf"
+    },
+    "Favorites": {
+        "Clothing": "Flashy",
+        "Color": "Aqua"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "None",
+        "Sugar": "None"
+    },
+    "Gifts": [
+        {
+            "Name": "Hospital Screen",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "IV Drip",
+            "Price": "1,480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Portable Toilet",
+            "Price": "2,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Sloppy Bed",
+            "Price": "-",
+            "Source": "Re-Tail/Police Station"
+        },
+        {
+            "Name": "Sloppy Chair",
+            "Price": "-",
+            "Source": "Re-Tail/Police Station"
+        },
+        {
+            "Name": "Sloppy Closet",
+            "Price": "-",
+            "Source": "Re-Tail/Police Station"
+        },
+        {
+            "Name": "Sloppy Dresser",
+            "Price": "-",
+            "Source": "Re-Tail/Police Station"
+        },
+        {
+            "Name": "Sloppy Lamp",
+            "Price": "-",
+            "Source": "Re-Tail/Police Station"
+        },
+        {
+            "Name": "Sloppy Sofa",
+            "Price": "-",
+            "Source": "Re-Tail/Police Station"
+        },
+        {
+            "Name": "Sloppy Table",
+            "Price": "-",
+            "Source": "Re-Tail/Police Station"
+        }
+    ],
+    "Species": "Eagle",
+    "Personality": "Smug",
+    "Gender": "Male",
+    "Birthday": "June 1st",
+    "Star Sign": "Gemini",
+    "Initial Phrase": "wingo",
+    "Initial Clothes": "Raglan Shirt",
+    "Favorite Saying": "Even in a room full of fools, someone is the smartest.",
+    "image": "/w/images/thumb/a/a2/Keaton_NL.png/200px-Keaton_NL.png",
+    "Song": "K.K. Moody",
+    "Style": "Flashy"
+}

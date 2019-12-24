@@ -1,0 +1,82 @@
+{
+    "Name": "Leonardo",
+    "Url": "https://nookipedia.com/wiki/Leonardo",
+    "Biography": {
+        "Siblings": "Fourth of six",
+        "Skill": "Playing catch",
+        "Goal": "Soccer Player",
+        "Fear": "Werewolf"
+    },
+    "Favorites": {
+        "Clothing": "Sporty",
+        "Color": "Orange"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "A little bit",
+        "Sugar": "One spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Scoreboard",
+            "Price": "2,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Flower Pop Carpet",
+            "Price": "1,480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Dragon Suit",
+            "Price": "340",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Fishing Vest",
+            "Price": "420",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Five-Ball Tee",
+            "Price": "340",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Matador's Jacket",
+            "Price": "5,600",
+            "Source": "GracieGrace (Sales)"
+        },
+        {
+            "Name": "No.23 Shirt",
+            "Price": "250",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "No.3 Shirt",
+            "Price": "250",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "No.67 Shirt",
+            "Price": "250",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Orange Jacket",
+            "Price": "200",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Tiger",
+    "Personality": "Jock",
+    "Gender": "Male",
+    "Birthday": "May 15th",
+    "Star Sign": "Taurus",
+    "Initial Phrase": "flexin",
+    "Initial Clothes": "Three-Ball Shirt",
+    "Favorite Saying": "That's the way the energy bar crumbles.",
+    "image": "/w/images/thumb/1/19/Leonardo_NL.png/175px-Leonardo_NL.png",
+    "Song": "K.K. Safari",
+    "Style": "Sporty"
+}

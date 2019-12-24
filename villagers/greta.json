@@ -1,0 +1,82 @@
+{
+    "Name": "Greta",
+    "Url": "https://nookipedia.com/wiki/Greta",
+    "Biography": {
+        "Siblings": "Eldest of four",
+        "Skill": "Playing horseshoes",
+        "Goal": "Florist",
+        "Fear": "Skeleton Hood"
+    },
+    "Favorites": {
+        "Clothing": "Iconic",
+        "Color": "Purple"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "None at all",
+        "Sugar": "None at all"
+    },
+    "Gifts": [
+        {
+            "Name": "Eggplant Cow",
+            "Price": "-",
+            "Source": "Obon (Japan)"
+        },
+        {
+            "Name": "Zodiac Dragon",
+            "Price": "-",
+            "Source": "New Year's Day"
+        },
+        {
+            "Name": "Zodiac Monkey",
+            "Price": "-",
+            "Source": "New Year's Day"
+        },
+        {
+            "Name": "Zodiac Rat",
+            "Price": "-",
+            "Source": "New Year's Day"
+        },
+        {
+            "Name": "Bad Plaid Shirt",
+            "Price": "420",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Bad Plaid Tee",
+            "Price": "420",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Genie Shirt",
+            "Price": "640",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Genie Vest",
+            "Price": "280",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "New Spring Tee",
+            "Price": "520",
+            "Source": "Ables (Spring)"
+        },
+        {
+            "Name": "Periwinkle Shirt",
+            "Price": "380",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Mouse",
+    "Personality": "Snooty",
+    "Gender": "Female",
+    "Birthday": "September 5th",
+    "Star Sign": "Virgo",
+    "Initial Phrase": "yelp",
+    "Initial Clothes": "Blossom Tee",
+    "Favorite Saying": "The world is a stage.",
+    "image": "/w/images/thumb/5/58/Greta_NL.png/150px-Greta_NL.png",
+    "Song": "K.K. Jongara",
+    "Style": "Iconic"
+}

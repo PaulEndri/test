@@ -1,0 +1,82 @@
+{
+    "Name": "Tucker",
+    "Url": "https://nookipedia.com/wiki/Tucker",
+    "Biography": {
+        "Siblings": "Youngest of two",
+        "Skill": "Oversleeping",
+        "Goal": "Archaeologist",
+        "Fear": "Bug"
+    },
+    "Favorites": {
+        "Clothing": "Iconic",
+        "Color": "Orange"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "The regular amount",
+        "Sugar": "Two spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Festive Candle",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's (North America)"
+        },
+        {
+            "Name": "Sconce",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Zodiac Dog",
+            "Price": "-",
+            "Source": "New Year's Day"
+        },
+        {
+            "Name": "Zodiac Rooster",
+            "Price": "-",
+            "Source": "New Year's Day"
+        },
+        {
+            "Name": "Red Tartan Pants",
+            "Price": "360",
+            "Source": "Ables (Fall)"
+        },
+        {
+            "Name": "Blossoming Dress",
+            "Price": "620",
+            "Source": "Ables (Spring)"
+        },
+        {
+            "Name": "Muumuu",
+            "Price": "15 (medals)",
+            "Source": "Club Tortimer"
+        },
+        {
+            "Name": "Poncho",
+            "Price": "580",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Masquerade Mask",
+            "Price": "480",
+            "Source": "Accessory Corner"
+        },
+        {
+            "Name": "Argyle Tights",
+            "Price": "200",
+            "Source": "Kicks"
+        }
+    ],
+    "Species": "Elephant",
+    "Personality": "Lazy",
+    "Gender": "Male",
+    "Birthday": "September 7th",
+    "Star Sign": "Virgo",
+    "Initial Phrase": "fuzzers",
+    "Initial Clothes": "Leopard Shirt",
+    "Favorite Saying": "Time makes fossils of us all.",
+    "image": "/w/images/thumb/d/dc/Tucker_NL.png/200px-Tucker_NL.png",
+    "Song": "K.K. Safari",
+    "Style": "Iconic"
+}

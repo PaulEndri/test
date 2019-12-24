@@ -1,0 +1,82 @@
+{
+    "Name": "Goldie",
+    "Url": "https://nookipedia.com/wiki/Goldie",
+    "Biography": {
+        "Siblings": "Eldest triplet",
+        "Skill": "Dusting",
+        "Goal": "Dentist",
+        "Fear": "Werewolf"
+    },
+    "Favorites": {
+        "Clothing": "Basic",
+        "Color": "White"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "Lots",
+        "Sugar": "Three spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Automatic Washer",
+            "Price": "4,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Bathroom Sink",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Blue Dresser",
+            "Price": "2,100",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Box of Tissues",
+            "Price": "-",
+            "Source": "Savings"
+        },
+        {
+            "Name": "Breaker",
+            "Price": "800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Bromeliaceae",
+            "Price": "1,300",
+            "Source": "Garden Corner"
+        },
+        {
+            "Name": "Cacao Tree",
+            "Price": "-",
+            "Source": "Valentine's Day"
+        },
+        {
+            "Name": "Candle",
+            "Price": "1,280",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Classic Bed",
+            "Price": "2,580",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Coffeemaker",
+            "Price": "-",
+            "Source": "Brewster"
+        }
+    ],
+    "Species": "Dog",
+    "Personality": "Normal",
+    "Gender": "Female",
+    "Birthday": "December 27th",
+    "Star Sign": "Capricorn",
+    "Initial Phrase": "woof",
+    "Initial Clothes": "Hippie Shirt*Jade Check Print*Dapper Shirt*",
+    "Favorite Saying": "A little bit of happiness is better than a lot of anguish.I'm really into that Lab on the cover of Nintendogs. He's pretty dreamy.",
+    "image": "/w/images/thumb/5/51/Goldie_NLa.png/175px-Goldie_NLa.png",
+    "Song": "K.K. Bossa",
+    "Style": "Basic"
+}

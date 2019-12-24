@@ -1,0 +1,82 @@
+{
+    "Name": "Ike",
+    "Url": "https://nookipedia.com/wiki/Ike",
+    "Biography": {
+        "Siblings": "Eldest of 3",
+        "Skill": "Doing chin-ups",
+        "Goal": "Carpenter",
+        "Fear": "Bug"
+    },
+    "Favorites": {
+        "Clothing": "Rock 'n' Roll",
+        "Color": "Blue"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "None",
+        "Sugar": "None"
+    },
+    "Gifts": [
+        {
+            "Name": "Robo-Bed",
+            "Price": "2,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Robo-Sofa",
+            "Price": "2,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Acid-Washed Jacket",
+            "Price": "5,600",
+            "Source": "GracieGrace (Fall)"
+        },
+        {
+            "Name": "Blue Letter Jacket",
+            "Price": "420",
+            "Source": "Ables (Winter)"
+        },
+        {
+            "Name": "Chain-Gang Shirt",
+            "Price": "420",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Chain-Gang Tee",
+            "Price": "260",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Denim Vest",
+            "Price": "420",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Dragon Jacket",
+            "Price": "5,200",
+            "Source": "GracieGrace (Sales)"
+        },
+        {
+            "Name": "Lightning Tee",
+            "Price": "380",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Rugby Shirt",
+            "Price": "420",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Bear",
+    "Personality": "Cranky",
+    "Gender": "Male",
+    "Birthday": "May 16th",
+    "Star Sign": "Taurus",
+    "Initial Phrase": "roadie",
+    "Initial Clothes": "Camo Shirt",
+    "Favorite Saying": "The higher you climb, the smaller things look.",
+    "image": "/w/images/thumb/6/62/Ike_NL.png/200px-Ike_NL.png",
+    "Song": "K.K. Rock",
+    "Style": "Rock n' roll"
+}

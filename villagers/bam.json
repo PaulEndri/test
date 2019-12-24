@@ -1,0 +1,82 @@
+{
+    "Name": "Bam",
+    "Url": "https://nookipedia.com/wiki/Bam",
+    "Biography": {
+        "Siblings": "Fourth of five",
+        "Skill": "Back flipping",
+        "Goal": "Soccer player",
+        "Fear": "Mummy mask"
+    },
+    "Favorites": {
+        "Clothing": "Sporty",
+        "Color": "Aqua"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "A little",
+        "Sugar": "1 spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Backyard Pool",
+            "Price": "990",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Bobsled",
+            "Price": "-",
+            "Source": "Snowman"
+        },
+        {
+            "Name": "Golf Bag",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Life Preserver",
+            "Price": "25 (medals)",
+            "Source": "Island"
+        },
+        {
+            "Name": "Surfboard",
+            "Price": "1,400",
+            "Source": "Tent Camper"
+        },
+        {
+            "Name": "Skyscraper Wall",
+            "Price": "-",
+            "Source": "Saharah"
+        },
+        {
+            "Name": "Sporty Wall",
+            "Price": "-",
+            "Source": "Saharah"
+        },
+        {
+            "Name": "Summit Wall",
+            "Price": "-",
+            "Source": "Saharah"
+        },
+        {
+            "Name": "Deep-Blue Tank",
+            "Price": "280",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Deep-Blue Tee",
+            "Price": "380",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Deer",
+    "Personality": "Jock",
+    "Gender": "Male",
+    "Birthday": "November 7th",
+    "Star Sign": "Scorpio",
+    "Initial Phrase": "booshprang",
+    "Initial Clothes": "Green Warmup Shirt",
+    "Favorite Saying": "Get while the getting's good.",
+    "image": "/w/images/thumb/9/96/Bam_NL.png/200px-Bam_NL.png",
+    "Song": "DJ K.K.",
+    "Style": "Sporty"
+}

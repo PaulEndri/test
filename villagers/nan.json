@@ -1,0 +1,82 @@
+{
+    "Name": "Nan",
+    "Url": "https://nookipedia.com/wiki/Nan",
+    "Biography": {
+        "Siblings": "Fourth of five",
+        "Skill": "Playing horseshoes",
+        "Goal": "Illustrator",
+        "Fear": "Ghost"
+    },
+    "Favorites": {
+        "Clothing": "Basic",
+        "Color": "Black"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "None",
+        "Sugar": "None"
+    },
+    "Gifts": [
+        {
+            "Name": "Deluxe Range",
+            "Price": "3,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Desk Light",
+            "Price": "1,280",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Ebony Piano",
+            "Price": "3,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Hi-Fi Stereo",
+            "Price": "5,400",
+            "Source": "Spotlight/Wishy"
+        },
+        {
+            "Name": "High-End Stereo",
+            "Price": "2,750",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Safe",
+            "Price": "-",
+            "Source": "Savings"
+        },
+        {
+            "Name": "Sleek Bed",
+            "Price": "1,640",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Sleek Chair",
+            "Price": "1,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Sleek Clock",
+            "Price": "1,580",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Sleek Closet",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Goat",
+    "Personality": "Normal",
+    "Gender": "Female",
+    "Birthday": "August 24th",
+    "Star Sign": "Virgo",
+    "Initial Phrase": "kid",
+    "Initial Clothes": "Citrus Gingham*Straw Shirt*",
+    "Favorite Saying": "Nanny-nanny boo-boo!",
+    "image": "/w/images/thumb/5/5d/Nan_NLa.png/175px-Nan_NLa.png",
+    "Song": "K.K. Étude",
+    "Style": "Basic"
+}

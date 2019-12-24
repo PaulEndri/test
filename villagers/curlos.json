@@ -1,0 +1,82 @@
+{
+    "Name": "Curlos",
+    "Url": "https://nookipedia.com/wiki/Curlos",
+    "Biography": {
+        "Siblings": "Eldest Quadruplet",
+        "Skill": "Calculating Tips",
+        "Goal": "Actor",
+        "Fear": "Wolves"
+    },
+    "Favorites": {
+        "Clothing": "Rock 'n' Roll",
+        "Color": "Yellow"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "Lots of milk",
+        "Sugar": "3 spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Bingo Wheel",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Cement Mixer",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Steamroller",
+            "Price": "4,500",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Striped Cone",
+            "Price": "800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Wet-Road Sign",
+            "Price": "850",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Circuit Tank",
+            "Price": "5,120",
+            "Source": "GracieGrace (Fall)"
+        },
+        {
+            "Name": "Fish Tee",
+            "Price": "380",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Jagged Tank",
+            "Price": "280",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Jagged Tee",
+            "Price": "360",
+            "Source": "(All)"
+        },
+        {
+            "Name": "Leopard Tank",
+            "Price": "280",
+            "Source": "Ables (Summer)"
+        }
+    ],
+    "Species": "Sheep",
+    "Personality": "CrankySmug",
+    "Gender": "Male",
+    "Birthday": "May 8th",
+    "Star Sign": "Taurus",
+    "Initial Phrase": "shearly",
+    "Initial Clothes": "Blue Aloha Shirt*Reggae Shirt*",
+    "Favorite Saying": "If you want to know yourself better, ask your neighbors.",
+    "image": "/w/images/thumb/f/f0/Curlos_NLa.png/200px-Curlos_NLa.png",
+    "Song": "K.K. Samba",
+    "Style": "Rock 'n' roll"
+}

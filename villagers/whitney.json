@@ -1,0 +1,52 @@
+{
+    "Name": "Whitney",
+    "Url": "https://nookipedia.com/wiki/Whitney",
+    "Biography": {
+        "Siblings": "Eldest of 6",
+        "Skill": "Typing",
+        "Goal": "Makeup Artist",
+        "Fear": "Bugs"
+    },
+    "Favorites": {
+        "Clothing": "Ornate",
+        "Color": "Purple"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "Little Bbit",
+        "Sugar": "1"
+    },
+    "Gifts": [
+        {
+            "Name": "Beaded Shirt",
+            "Price": "420",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Corseted Shirt",
+            "Price": "400",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Blue Lace-Up Dress",
+            "Price": "700",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Frock Coat",
+            "Price": "1,000",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Wolf",
+    "Personality": "Snooty",
+    "Gender": "Female",
+    "Birthday": "September 17th",
+    "Star Sign": "Virgo",
+    "Initial Phrase": "snappy",
+    "Initial Clothes": "Floral Knit",
+    "Favorite Saying": "Don't cry wolf unless you mean it.If you even THINK about crossing me, just think about these pearly whites!",
+    "image": "/w/images/thumb/2/21/Whitney_NLa.png/175px-Whitney_NLa.png",
+    "Song": "Lucky K.K.",
+    "Style": "Ornate"
+}

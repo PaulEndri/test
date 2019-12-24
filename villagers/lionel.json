@@ -1,0 +1,81 @@
+{
+    "Name": "Lionel",
+    "Url": "https://nookipedia.com/wiki/Lionel",
+    "Biography": {
+        "Skill": "Drawing circles",
+        "Goal": "Professor",
+        "Fear": "Monster"
+    },
+    "Favorites": {
+        "Clothing": "Historical",
+        "Color": "Gray"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "Lots",
+        "Sugar": "Three spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Broken Post",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Clay Furnace",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Coffee Grinder",
+            "Price": "-",
+            "Source": "Brewster"
+        },
+        {
+            "Name": "Corinthian Post",
+            "Price": "3,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Cow Skull",
+            "Price": "1,020",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Ionian Post",
+            "Price": "3,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Master Sword",
+            "Price": "-",
+            "Source": "Fortune Cookie"
+        },
+        {
+            "Name": "Old Sewing Machine",
+            "Price": "1,350",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Pantheon Post",
+            "Price": "3,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Plate Armor",
+            "Price": "6,400",
+            "Source": "Spotlight/Wishy"
+        }
+    ],
+    "Species": "Lion",
+    "Personality": "Smug",
+    "Gender": "Male",
+    "Birthday": "July 29th",
+    "Star Sign": "",
+    "Initial Phrase": "precisely",
+    "Initial Clothes": "Military Uniform",
+    "Favorite Saying": "Love is blind.",
+    "image": "/w/images/thumb/5/58/Lionel_NL.png/200px-Lionel_NL.png",
+    "Song": "K.K. Moody",
+    "Style": "Historical"
+}

@@ -1,0 +1,72 @@
+{
+    "Name": "Bud",
+    "Url": "https://nookipedia.com/wiki/Bud",
+    "Biography": {
+        "Siblings": "4th Quintuplet",
+        "Skill": "Rapping",
+        "Goal": "Singer",
+        "Fear": "Ghost Mask"
+    },
+    "Favorites": {
+        "Clothing": "Sporty",
+        "Color": "Colorful"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "None",
+        "Sugar": "None"
+    },
+    "Gifts": [
+        {
+            "Name": "Ball Return",
+            "Price": "6,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Diver Dan",
+            "Price": "60 (medals)",
+            "Source": "Island"
+        },
+        {
+            "Name": "Foosball Table",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Kitschy Clock",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Ski Rack",
+            "Price": "-",
+            "Source": "Snowman"
+        },
+        {
+            "Name": "Racing Shirt",
+            "Price": "460",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Rally Tank",
+            "Price": "280",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Rally Tee",
+            "Price": "380",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Lion",
+    "Personality": "Jock",
+    "Gender": "Male",
+    "Birthday": "August 8th",
+    "Star Sign": "Leo",
+    "Initial Phrase": "doodmaaan",
+    "Initial Clothes": "Blue Aloha Shirt*Flowery Shirt*",
+    "Favorite Saying": "You're not living unless you're sweating!",
+    "image": "/w/images/thumb/8/83/Bud_NLa.png/175px-Bud_NLa.png",
+    "Song": "K.K. Ska",
+    "Style": "Sporty"
+}

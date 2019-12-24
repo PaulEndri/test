@@ -1,0 +1,57 @@
+{
+    "Name": "Octavian",
+    "Url": "https://nookipedia.com/wiki/Octavian",
+    "Biography": {
+        "Siblings": "Second quadruplet",
+        "Skill": "Trivia",
+        "Goal": "Fisherman",
+        "Fear": "Werewolves"
+    },
+    "Favorites": {
+        "Clothing": "Official",
+        "Color": "Red"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "None",
+        "Sugar": "None"
+    },
+    "Gifts": [
+        {
+            "Name": "Fancy Frame",
+            "Price": "10,000",
+            "Source": "Museum Shop"
+        },
+        {
+            "Name": "Oil Lamp",
+            "Price": "680",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Chef's Outfit",
+            "Price": "640",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "HHA Jacket",
+            "Price": "-",
+            "Source": "HHA"
+        },
+        {
+            "Name": "White Stockings",
+            "Price": "160",
+            "Source": "Kicks"
+        }
+    ],
+    "Species": "Octopus",
+    "Personality": "Cranky",
+    "Gender": "Male",
+    "Birthday": "September 20th",
+    "Star Sign": "Virgo",
+    "Initial Phrase": "sucker",
+    "Initial Clothes": "Big Star Shirt",
+    "Favorite Saying": "Don't be a sucker!",
+    "image": "/w/images/thumb/e/e0/Octavian_NLa.png/200px-Octavian_NLa.png",
+    "Song": "K.K. D & B",
+    "Style": "Official"
+}

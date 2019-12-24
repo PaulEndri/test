@@ -1,0 +1,81 @@
+{
+    "Name": "Billy",
+    "Url": "https://nookipedia.com/wiki/Billy",
+    "Biography": {
+        "Siblings": "Eldest of 2 kids",
+        "Skill": "Subsistence living",
+        "Goal": "Archaeologist",
+        "Fear": "Skulls"
+    },
+    "Favorites": {
+        "Clothing": "Historical",
+        "Color": "Brown"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "None",
+        "Sugar": "None"
+    },
+    "Gifts": [
+        {
+            "Name": "Anchor",
+            "Price": "-",
+            "Source": "Pascal"
+        },
+        {
+            "Name": "Antique Clock",
+            "Price": "2,350",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Ayer's Rock",
+            "Price": "1,200",
+            "Source": "Gulliver"
+        },
+        {
+            "Name": "Barrel",
+            "Price": "-",
+            "Source": "Pascal"
+        },
+        {
+            "Name": "Cash Register",
+            "Price": "6,480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Checkout Counter",
+            "Price": "3,480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Clay Furnace",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Coffee Grinder",
+            "Price": "-",
+            "Source": "Brewster"
+        },
+        {
+            "Name": "Covered Wagon",
+            "Price": "3,800",
+            "Source": "Spotlight/Wishy"
+        },
+        {
+            "Name": "Cuckoo Clock",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Goat",
+    "Personality": "Jock",
+    "Gender": "Male",
+    "Birthday": "March 25th",
+    "Star Sign": "Aries",
+    "Initial Phrase": "dagnaabit",
+    "Initial Clothes": "Sharp Outfit",
+    "Favorite Saying": "Old dogs can learn new tricks.\"\"",
+    "image": "/w/images/thumb/c/c8/Billy_NL.png/200px-Billy_NL.png",
+    "Song": "K.K. Sonata"
+}

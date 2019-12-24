@@ -1,0 +1,56 @@
+{
+    "Name": "Plucky",
+    "Url": "https://nookipedia.com/wiki/Plucky",
+    "Biography": {
+        "Siblings": "Third of five",
+        "Skill": "Hula dancing",
+        "Goal": "Dancer",
+        "Fear": "Ghost Hood"
+    },
+    "Favorites": {
+        "Clothing": "Modern",
+        "Color": "Yellow"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "A little bit",
+        "Sugar": "One spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Cube Clock",
+            "Price": "1,100",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Ceramic Tile",
+            "Price": "1,390",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Cheese Floor",
+            "Price": "1,360",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Swell Shirt",
+            "Price": "400",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Swell Tee",
+            "Price": "400",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Chicken",
+    "Personality": "PeppyUchi",
+    "Gender": "Female",
+    "Birthday": "",
+    "Star Sign": "Libra",
+    "Initial Phrase": "chicky poo",
+    "Initial Clothes": "Red Aloha Shirt*  Cool Tank*",
+    "Favorite Saying": "Keep your crumbs out of the bed.",
+    "image": "/w/images/thumb/5/56/Plucky_NL.png/200px-Plucky_NL.png",
+    "Song": "K.K. Island"
+}

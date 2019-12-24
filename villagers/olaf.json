@@ -1,0 +1,57 @@
+{
+    "Name": "Olaf",
+    "Url": "https://nookipedia.com/wiki/Olaf",
+    "Biography": {
+        "Siblings": "Older twin brother",
+        "Skill": "Dancing",
+        "Goal": "Dancer",
+        "Fear": "Monster Mask"
+    },
+    "Favorites": {
+        "Clothing": "Official",
+        "Color": "Red"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "None at all",
+        "Sugar": "None at all"
+    },
+    "Gifts": [
+        {
+            "Name": "Fancy Frame",
+            "Price": "10,000",
+            "Source": "Museum Shop"
+        },
+        {
+            "Name": "Oil Lamp",
+            "Price": "680",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Chef's Outfit",
+            "Price": "640",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "HHA Jacket",
+            "Price": "-",
+            "Source": "HHA"
+        },
+        {
+            "Name": "White Stockings",
+            "Price": "160",
+            "Source": "Kicks"
+        }
+    ],
+    "Species": "Anteater",
+    "Personality": "Smug",
+    "Gender": "Male",
+    "Birthday": "May 19th",
+    "Star Sign": "Taurus",
+    "Initial Phrase": "whiffa",
+    "Initial Clothes": "Matador's Jacket",
+    "Favorite Saying": "Keep your nose clean.",
+    "image": "/w/images/thumb/b/bc/Olaf_NL.png/175px-Olaf_NL.png",
+    "Song": "K.K. Milonga",
+    "Style": "Official"
+}

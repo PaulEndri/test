@@ -1,0 +1,82 @@
+{
+    "Name": "Lucha",
+    "Url": "https://nookipedia.com/wiki/Lucha",
+    "Biography": {
+        "Siblings": "Fifth of six",
+        "Skill": "Making faces",
+        "Goal": "Pro wrestler",
+        "Fear": "Bug Mask"
+    },
+    "Favorites": {
+        "Clothing": "Sporty",
+        "Color": "Red"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "Lots",
+        "Sugar": "Three spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Barbecue",
+            "Price": "1,760",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Bilboquet",
+            "Price": "2,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Bonfire",
+            "Price": "2,240",
+            "Source": "Tent Camper"
+        },
+        {
+            "Name": "Campfire",
+            "Price": "1,360",
+            "Source": "Igloo Camper"
+        },
+        {
+            "Name": "Lantern",
+            "Price": "1,180",
+            "Source": "Isabelle/Timmy & Tommy's"
+        },
+        {
+            "Name": "Life Ring",
+            "Price": "20 (medals)",
+            "Source": "Island"
+        },
+        {
+            "Name": "Miniature Car",
+            "Price": "-",
+            "Source": "Fireworks"
+        },
+        {
+            "Name": "Red Corner",
+            "Price": "6,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Sandbag",
+            "Price": "3,190",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Slalom Gate",
+            "Price": "-",
+            "Source": "Snowman"
+        }
+    ],
+    "Species": "Bird",
+    "Personality": "Smug",
+    "Gender": "Male",
+    "Birthday": "December 12th",
+    "Star Sign": "Sagittarius",
+    "Initial Phrase": "cacaw",
+    "Initial Clothes": "Dragon Jacket",
+    "Favorite Saying": "Birds of a feather, et cetera, et cetera...",
+    "image": "/w/images/thumb/a/a6/Lucha_NLa.png/175px-Lucha_NLa.png",
+    "Song": "K.K. Western",
+    "Style": "Sporty"
+}

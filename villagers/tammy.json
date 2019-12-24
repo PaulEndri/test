@@ -1,0 +1,82 @@
+{
+    "Name": "Tammy",
+    "Url": "https://nookipedia.com/wiki/Tammy",
+    "Biography": {
+        "Siblings": "Eldest of 5",
+        "Skill": "Staying positive",
+        "Goal": "Movie director",
+        "Fear": "Skeleton Hood"
+    },
+    "Favorites": {
+        "Clothing": "Modern",
+        "Color": "Purple"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "A little bit",
+        "Sugar": "One spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Harvest Bed",
+            "Price": "3,333",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Harvest Bureau",
+            "Price": "3,333",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Harvest Chair",
+            "Price": "3,333",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Harvest Clock",
+            "Price": "3,333",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Harvest Dresser",
+            "Price": "3,333",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Harvest Lamp",
+            "Price": "3,333",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Harvest Mirror",
+            "Price": "3,333",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Harvest Sofa",
+            "Price": "3,333",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Harvest Table",
+            "Price": "3,333",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Harvest TV",
+            "Price": "3,333",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Cub",
+    "Personality": "Uchi",
+    "Gender": "Female",
+    "Birthday": "June 23rd",
+    "Star Sign": "Cancer",
+    "Initial Phrase": "ya heard",
+    "Initial Clothes": "Red Jacket",
+    "Favorite Saying": "If a job is worth doing, do it right!",
+    "image": "/w/images/thumb/a/ae/Tammy_NL.png/175px-Tammy_NL.png",
+    "Song": "K.K. Disco",
+    "Style": "Modern"
+}

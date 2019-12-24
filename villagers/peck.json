@@ -1,0 +1,57 @@
+{
+    "Name": "Peck",
+    "Url": "https://nookipedia.com/wiki/Peck",
+    "Biography": {
+        "Siblings": "Youngest of three",
+        "Skill": "Rock paper scissors",
+        "Goal": "Firefighter",
+        "Fear": "Skeleton Hood"
+    },
+    "Favorites": {
+        "Clothing": "Sporty",
+        "Color": "Beige"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "Lots",
+        "Sugar": "Three"
+    },
+    "Gifts": [
+        {
+            "Name": "Vaulting Horse",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Sporty Floor",
+            "Price": "-",
+            "Source": "Saharah"
+        },
+        {
+            "Name": "Explorer Tee",
+            "Price": "400",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Wrap Shirt",
+            "Price": "320",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Explorer Pants",
+            "Price": "360",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Bird",
+    "Personality": "Jock",
+    "Gender": "Male",
+    "Birthday": "July 25th",
+    "Star Sign": "Leo",
+    "Initial Phrase": "crunch",
+    "Initial Clothes": "Grey Tank Top",
+    "Favorite Saying": "The best defense is a good offense.",
+    "image": "/w/images/thumb/8/88/Peck_NL.png/175px-Peck_NL.png",
+    "Song": "Forest Life",
+    "Style": "Sporty"
+}

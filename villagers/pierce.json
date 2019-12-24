@@ -1,0 +1,82 @@
+{
+    "Name": "Pierce",
+    "Url": "https://nookipedia.com/wiki/Pierce",
+    "Biography": {
+        "Siblings": "Youngest of triplets",
+        "Skill": "Playing catch",
+        "Goal": "Rugby Player",
+        "Fear": "Insects"
+    },
+    "Favorites": {
+        "Clothing": "Sporty",
+        "Color": "Blue"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "A little",
+        "Sugar": "One spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Backpack",
+            "Price": "1,980",
+            "Source": "Tent Camper"
+        },
+        {
+            "Name": "Ball Catcher",
+            "Price": "2,040",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Beach Table",
+            "Price": "30 (medals)",
+            "Source": "Island"
+        },
+        {
+            "Name": "Blue Corner",
+            "Price": "6,800",
+            "Source": "Spotlight/Wishy"
+        },
+        {
+            "Name": "Blue Falcon",
+            "Price": "-",
+            "Source": "Fortune Cookie"
+        },
+        {
+            "Name": "Boxing Barricade",
+            "Price": "1,050",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Boxing Mat",
+            "Price": "1,180",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Golf Bag",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Hurdle",
+            "Price": "980",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Snow Machine",
+            "Price": "-",
+            "Source": "Snowman"
+        }
+    ],
+    "Species": "Eagle",
+    "Personality": "Jock",
+    "Gender": "Male",
+    "Birthday": "January 8th",
+    "Star Sign": "Capricorn",
+    "Initial Phrase": "wingerhawkeye",
+    "Initial Clothes": "Circus Shirt*Camel Shirt*",
+    "Favorite Saying": "When someone says fly, you ask how high!No one likes flabby wings!",
+    "image": "/w/images/thumb/3/38/Pierce_NLa.png/200px-Pierce_NLa.png",
+    "Song": "K.K. Étude",
+    "Style": "Sporty"
+}

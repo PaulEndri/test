@@ -1,0 +1,80 @@
+{
+    "Name": "Carmen",
+    "Url": "https://nookipedia.com/wiki/Carmen_(rabbit)",
+    "Biography": {
+        "Siblings": "Eldest of seven",
+        "Skill": "Ventriloquism",
+        "Goal": "Movie Director",
+        "Fear": "Frankenstein"
+    },
+    "Favorites": {
+        "Clothing": "Modern",
+        "Color": "Brown"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "Lots",
+        "Sugar": "Three spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Bishop",
+            "Price": "2,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Cool Globe",
+            "Price": "-",
+            "Source": "Nature Day (North America)"
+        },
+        {
+            "Name": "Gracie Bed",
+            "Price": "250,000",
+            "Source": "GracieGrace (Summer)"
+        },
+        {
+            "Name": "Gracie Bench",
+            "Price": "110,000",
+            "Source": "GracieGrace (Summer)"
+        },
+        {
+            "Name": "Gracie Chair",
+            "Price": "150,000",
+            "Source": "GracieGrace (Summer)"
+        },
+        {
+            "Name": "Gracie Chest",
+            "Price": "300,000",
+            "Source": "GracieGrace (Summer)"
+        },
+        {
+            "Name": "Gracie Desk",
+            "Price": "250,000",
+            "Source": "GracieGrace (Summer)"
+        },
+        {
+            "Name": "Gracie Low Table",
+            "Price": "68,000",
+            "Source": "GracieGrace (Summer)"
+        },
+        {
+            "Name": "Gracie Shelf",
+            "Price": "350,000",
+            "Source": "GracieGrace (Summer)"
+        },
+        {
+            "Name": "Gracie Wagon",
+            "Price": "300,000",
+            "Source": "GracieGrace (Summer)"
+        }
+    ],
+    "Species": "Rabbit",
+    "Personality": "Peppy",
+    "Gender": "Female",
+    "Birthday": "January 6th",
+    "Star Sign": "Capricorn",
+    "Initial Phrase": "nougat",
+    "Initial Clothes": "Blue Retro Shirt*Mint Gingham Tee*",
+    "Favorite Saying": "Absence makes the heart grow fonder.",
+    "image": "/w/images/thumb/d/d7/Carmen_NLa.png/175px-Carmen_NLa.png"
+}

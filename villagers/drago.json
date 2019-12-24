@@ -1,0 +1,82 @@
+{
+    "Name": "Drago",
+    "Url": "https://nookipedia.com/wiki/Drago",
+    "Biography": {
+        "Siblings": "Fifth of six",
+        "Skill": "Blowing bubbles",
+        "Goal": "Pilot",
+        "Fear": "Bug Mask"
+    },
+    "Favorites": {
+        "Clothing": "Iconic",
+        "Color": "Red"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "A little bit",
+        "Sugar": "One spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Bureom",
+            "Price": "-",
+            "Source": "Daeboreum (Korea)"
+        },
+        {
+            "Name": "Dala Horse",
+            "Price": "1,200",
+            "Source": "Gulliver"
+        },
+        {
+            "Name": "Doghouse",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Dream Catcher",
+            "Price": "1,600",
+            "Source": "Gulliver"
+        },
+        {
+            "Name": "Festival Lamp",
+            "Price": "900",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Fruit Basket",
+            "Price": "-",
+            "Source": "Harvest Festival"
+        },
+        {
+            "Name": "Hinaningyo",
+            "Price": "2,560",
+            "Source": "Timmy & Tommy's (Japan)"
+        },
+        {
+            "Name": "Hospital TV",
+            "Price": "1,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Hula Doll",
+            "Price": "1,800",
+            "Source": "Gulliver"
+        },
+        {
+            "Name": "Lawn Mower",
+            "Price": "2,760",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Alligator",
+    "Personality": "Lazy",
+    "Gender": "Male",
+    "Birthday": "February 12th",
+    "Star Sign": "Aquarius",
+    "Initial Phrase": "burrrn",
+    "Initial Clothes": "Dragon Suit",
+    "Favorite Saying": "There's no room for two dragons in one pond.",
+    "image": "/w/images/thumb/1/15/Drago_NL.png/200px-Drago_NL.png",
+    "Song": "Imperial K.K.",
+    "Style": "Iconic"
+}

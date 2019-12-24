@@ -1,0 +1,82 @@
+{
+    "Name": "Bitty",
+    "Url": "https://nookipedia.com/wiki/Bitty",
+    "Biography": {
+        "Siblings": "second of 4 kids",
+        "Skill": "stomping ground",
+        "Goal": "designer",
+        "Fear": "Ghost Mask"
+    },
+    "Favorites": {
+        "Clothing": "Cute",
+        "Color": "Red"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "None",
+        "Sugar": "None"
+    },
+    "Gifts": [
+        {
+            "Name": "Balloon-Dog Lamp",
+            "Price": "-",
+            "Source": "Balloon"
+        },
+        {
+            "Name": "Birthday Cake",
+            "Price": "-",
+            "Source": "Birthday"
+        },
+        {
+            "Name": "Birthday Candles",
+            "Price": "-",
+            "Source": "Birthday"
+        },
+        {
+            "Name": "Birthday Table",
+            "Price": "-",
+            "Source": "Birthday"
+        },
+        {
+            "Name": "Candy Machine",
+            "Price": "980",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Capsule-Toy Machine",
+            "Price": "1,480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Card Bed",
+            "Price": "220,000",
+            "Source": "GracieGrace"
+        },
+        {
+            "Name": "Card Chair",
+            "Price": "100,000",
+            "Source": "GracieGrace"
+        },
+        {
+            "Name": "Card Closet",
+            "Price": "240,000",
+            "Source": "GracieGrace"
+        },
+        {
+            "Name": "Card Dresser",
+            "Price": "120,000",
+            "Source": "GracieGrace"
+        }
+    ],
+    "Species": "Hippo",
+    "Personality": "Snooty",
+    "Gender": "Female",
+    "Birthday": "October 6th",
+    "Star Sign": "Libra",
+    "Initial Phrase": "my dear",
+    "Initial Clothes": "Funky Dot Shirt",
+    "Favorite Saying": "Necessity is the mother of invention.",
+    "image": "/w/images/thumb/a/a6/Bitty_NL.png/200px-Bitty_NL.png",
+    "Song": "K.K. Disco",
+    "Style": "Cute"
+}

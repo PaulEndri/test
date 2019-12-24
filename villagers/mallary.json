@@ -1,0 +1,82 @@
+{
+    "Name": "Mallary",
+    "Url": "https://nookipedia.com/wiki/Mallary",
+    "Biography": {
+        "Siblings": "Middle of 3",
+        "Skill": "Debating",
+        "Goal": "Esthetician",
+        "Fear": "Mummy mask"
+    },
+    "Favorites": {
+        "Clothing": "Modern",
+        "Color": "Brown"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "None",
+        "Sugar": "None"
+    },
+    "Gifts": [
+        {
+            "Name": "Bishop",
+            "Price": "2,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Cool Globe",
+            "Price": "-",
+            "Source": "Nature Day (North America)"
+        },
+        {
+            "Name": "Gracie Bed",
+            "Price": "250,000",
+            "Source": "GracieGrace (Summer)"
+        },
+        {
+            "Name": "Gracie Bench",
+            "Price": "110,000",
+            "Source": "GracieGrace (Summer)"
+        },
+        {
+            "Name": "Gracie Chair",
+            "Price": "150,000",
+            "Source": "GracieGrace (Summer)"
+        },
+        {
+            "Name": "Gracie Chest",
+            "Price": "300,000",
+            "Source": "GracieGrace (Summer)"
+        },
+        {
+            "Name": "Gracie Desk",
+            "Price": "250,000",
+            "Source": "GracieGrace (Summer)"
+        },
+        {
+            "Name": "Gracie Low Table",
+            "Price": "68,000",
+            "Source": "GracieGrace (Summer)"
+        },
+        {
+            "Name": "Gracie Shelf",
+            "Price": "350,000",
+            "Source": "GracieGrace (Summer)"
+        },
+        {
+            "Name": "Gracie Wagon",
+            "Price": "300,000",
+            "Source": "GracieGrace (Summer)"
+        }
+    ],
+    "Species": "Duck",
+    "Personality": "Snooty",
+    "Gender": "Female",
+    "Birthday": "November 17th",
+    "Star Sign": "Scorpio",
+    "Initial Phrase": "quackpth",
+    "Initial Clothes": "Blue Stripe Knit",
+    "Favorite Saying": "Purple is the color of royalty.Purple is the color of royalty, you know!",
+    "image": "/w/images/thumb/d/dc/Mallary_NLa.png/175px-Mallary_NLa.png",
+    "Song": "K.K. Bossa",
+    "Style": "Modern"
+}

@@ -1,0 +1,82 @@
+{
+    "Name": "Marcel",
+    "Url": "https://nookipedia.com/wiki/Marcel",
+    "Biography": {
+        "Siblings": "Second of five",
+        "Skill": "Eating frequently",
+        "Goal": "Artist",
+        "Fear": "Mummy"
+    },
+    "Favorites": {
+        "Clothing": "Iconic",
+        "Color": "Green"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "Regular amount",
+        "Sugar": "Two spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Bamboo Grass",
+            "Price": "-",
+            "Source": "Starcrossed Day (Japan)"
+        },
+        {
+            "Name": "Cucumber Horse",
+            "Price": "-",
+            "Source": "Obon (Japan)"
+        },
+        {
+            "Name": "Deer Scare",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Fan",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Hawthorn Bonsai",
+            "Price": "1,800",
+            "Source": "Garden Corner"
+        },
+        {
+            "Name": "Holly Bonsai",
+            "Price": "1,600",
+            "Source": "Garden Corner"
+        },
+        {
+            "Name": "Hourglass",
+            "Price": "480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Hula Doll",
+            "Price": "1,800",
+            "Source": "Gulliver"
+        },
+        {
+            "Name": "Kinderdijik Windmill",
+            "Price": "1,200",
+            "Source": "Gulliver"
+        },
+        {
+            "Name": "Mugho Bonsai",
+            "Price": "1,800",
+            "Source": "Garden Corner"
+        }
+    ],
+    "Species": "Dog",
+    "Personality": "Lazy",
+    "Gender": "Male",
+    "Birthday": "December 31st",
+    "Star Sign": "Capricorn",
+    "Initial Phrase": "non",
+    "Initial Clothes": "Chichi Print",
+    "Favorite Saying": "There's not a dog so bad that he won't wag his tail.",
+    "image": "/w/images/thumb/e/e2/Marcel_NLa.png/175px-Marcel_NLa.png",
+    "Song": "Comrade K.K.",
+    "Style": "Iconic"
+}

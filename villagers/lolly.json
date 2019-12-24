@@ -1,0 +1,81 @@
+{
+    "Name": "Lolly",
+    "Url": "https://nookipedia.com/wiki/Lolly",
+    "Biography": {
+        "Skill": "Peeling apples",
+        "Goal": "Chef",
+        "Fear": "Bug"
+    },
+    "Favorites": {
+        "Clothing": "Basic",
+        "Color": "Yellow"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "A little bit",
+        "Sugar": "One spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Blue Bed",
+            "Price": "2,100",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Blue Table",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Bucket",
+            "Price": "600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Candle",
+            "Price": "1,280",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Classic Sofa",
+            "Price": "2,240",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Drum Set",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Gold House Model",
+            "Price": "-",
+            "Source": "HHA"
+        },
+        {
+            "Name": "Gold Stereo",
+            "Price": "2,640",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Harpsichord",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Kettle",
+            "Price": "800",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Cat",
+    "Personality": "Normal",
+    "Gender": "Female",
+    "Birthday": "March 27th",
+    "Star Sign": "Aries",
+    "Initial Phrase": "bonbon",
+    "Initial Clothes": "Natty Shirt",
+    "Favorite Saying": "Laughter is the best medicine.",
+    "image": "/w/images/thumb/0/05/Lolly_NLa.png/175px-Lolly_NLa.png",
+    "Song": "K.K. Stroll",
+    "Style": "Basic"
+}

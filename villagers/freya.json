@@ -1,0 +1,82 @@
+{
+    "Name": "Freya",
+    "Url": "https://nookipedia.com/wiki/Freya",
+    "Biography": {
+        "Siblings": "Eldest of seven",
+        "Skill": "Peeling apples",
+        "Goal": "Judge",
+        "Fear": "Bug"
+    },
+    "Favorites": {
+        "Clothing": "Rock 'n' Roll",
+        "Color": "Black"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "A little",
+        "Sugar": "One spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Amp",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Bingo Wheel",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "DJ's Turntable",
+            "Price": "3,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Effects Rack",
+            "Price": "2,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Metal Guitar",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Mic Stand",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Steamroller",
+            "Price": "4,500",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Striped Cone",
+            "Price": "800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Tabletop Game",
+            "Price": "2,480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Virtual Boy",
+            "Price": "-",
+            "Source": "Fortune Cookie"
+        }
+    ],
+    "Species": "Wolf",
+    "Personality": "Snooty",
+    "Gender": "Female",
+    "Birthday": "December 14th",
+    "Star Sign": "Sagittarius",
+    "Initial Phrase": "uff da",
+    "Initial Clothes": "Deer Shirt",
+    "Favorite Saying": "Don't stray too far from the pack.",
+    "image": "/w/images/thumb/6/62/Freya_NLa.png/175px-Freya_NLa.png",
+    "Song": "Rockin' K.K.",
+    "Style": "Rock 'n' roll"
+}

@@ -1,0 +1,81 @@
+{
+    "Name": "Ursala",
+    "Url": "https://nookipedia.com/wiki/Ursala",
+    "Biography": {
+        "Siblings": "Eldest of 2",
+        "Skill": "Staying positive",
+        "Goal": "Florist",
+        "Fear": "Monsters"
+    },
+    "Favorites": {
+        "Clothing": "Iconic",
+        "Color": "Red"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "None",
+        "Sugar": "None"
+    },
+    "Gifts": [
+        {
+            "Name": "Bureom",
+            "Price": "-",
+            "Source": "Daeboreum (Korea)"
+        },
+        {
+            "Name": "Dala Horse",
+            "Price": "1,200",
+            "Source": "Gulliver"
+        },
+        {
+            "Name": "Doghouse",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Dream Catcher",
+            "Price": "1,600",
+            "Source": "Gulliver"
+        },
+        {
+            "Name": "Festival Lamp",
+            "Price": "900",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Fruit Basket",
+            "Price": "-",
+            "Source": "Harvest Festival"
+        },
+        {
+            "Name": "Hinaningyo",
+            "Price": "2,560",
+            "Source": "Timmy & Tommy's (Japan)"
+        },
+        {
+            "Name": "Hospital TV",
+            "Price": "1,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Hula Doll",
+            "Price": "1,800",
+            "Source": "Gulliver"
+        },
+        {
+            "Name": "Lawn Mower",
+            "Price": "2,760",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Bear",
+    "Personality": "SnootyUchi",
+    "Gender": "Female",
+    "Birthday": "January 16th",
+    "Star Sign": "Capricorn",
+    "Initial Phrase": "grooomph",
+    "Initial Clothes": "Pastel-Stripe Tee",
+    "Favorite Saying": "Surround yourself with things you love.",
+    "image": "/w/images/thumb/1/10/Ursala_NL.png/200px-Ursala_NL.png",
+    "Song": "K.K. Country"
+}

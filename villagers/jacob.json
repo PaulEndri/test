@@ -1,0 +1,81 @@
+{
+    "Name": "Jacob (US)Jakey (EU)",
+    "Url": "https://nookipedia.com/wiki/Jacob",
+    "Biography": {
+        "Siblings": "Youngest of 5",
+        "Skill": "Staying up late",
+        "Goal": "Poet",
+        "Fear": "Mummy"
+    },
+    "Favorites": {
+        "Clothing": "Basic",
+        "Color": "Green"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "A little bit",
+        "Sugar": "1 spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Aloe",
+            "Price": "1,200",
+            "Source": "Garden Corner"
+        },
+        {
+            "Name": "Bath Mat",
+            "Price": "600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Box Corner Sofa",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Box Sofa",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Bromeliaceae",
+            "Price": "1,300",
+            "Source": "Garden Corner"
+        },
+        {
+            "Name": "Cacao Tree",
+            "Price": "-",
+            "Source": "Valentine's Day"
+        },
+        {
+            "Name": "Cactus",
+            "Price": "1,700",
+            "Source": "Garden Corner"
+        },
+        {
+            "Name": "Caladium",
+            "Price": "1,300",
+            "Source": "Garden Corner"
+        },
+        {
+            "Name": "Coconut Palm",
+            "Price": "1,200",
+            "Source": "Garden Corner"
+        },
+        {
+            "Name": "Common Chair",
+            "Price": "800",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Bird",
+    "Personality": "Lazy",
+    "Gender": "Male",
+    "Birthday": "August 24th",
+    "Star Sign": "Virgo",
+    "Initial Phrase": "ya feel",
+    "Initial Clothes": "Green Tie-Dye Tee",
+    "Favorite Saying": "Your greatest strength can be your greatest weakness.",
+    "image": "/w/images/d/da/Jacob_NL.png",
+    "Song": "K.K. Song"
+}

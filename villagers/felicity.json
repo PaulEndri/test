@@ -1,0 +1,82 @@
+{
+    "Name": "Felicity",
+    "Url": "https://nookipedia.com/wiki/Felicity",
+    "Biography": {
+        "Siblings": "Second of 3 sisters",
+        "Skill": "Rock paper scissors",
+        "Goal": "Swimmer",
+        "Fear": "Werewolf"
+    },
+    "Favorites": {
+        "Clothing": "Cute",
+        "Color": "Beige"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "Regular",
+        "Sugar": "2 spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Capsule-Toy Machine",
+            "Price": "1,480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Clothes Closet",
+            "Price": "1,340",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Juicy-Apple Clock",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Juicy-Apple TV",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Mama Bear",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Modern Wood Bed",
+            "Price": "1,680",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Modern Wood Chair",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Modern Wood Chest",
+            "Price": "1,480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Modern Wood Clock",
+            "Price": "1,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Modern Wood Closet",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Cat",
+    "Personality": "Peppy",
+    "Gender": "Female",
+    "Birthday": "March 30th",
+    "Star Sign": "",
+    "Initial Phrase": "mimimi",
+    "Initial Clothes": "Dapper Shirt",
+    "Favorite Saying": "Love has no bounds.",
+    "image": "/w/images/thumb/5/5e/Felicity_NLa.png/175px-Felicity_NLa.png",
+    "Song": "K.K. Lullaby",
+    "Style": "Cute"
+}

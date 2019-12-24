@@ -1,0 +1,82 @@
+{
+    "Name": "Lucky",
+    "Url": "https://nookipedia.com/wiki/Lucky",
+    "Biography": {
+        "Siblings": "Fourth quintuplet",
+        "Skill": "Forgetting stuff",
+        "Goal": "Doctor",
+        "Fear": "Mummy Mask"
+    },
+    "Favorites": {
+        "Clothing": "Flashy",
+        "Color": "Purple"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "The regular amount",
+        "Sugar": "Two spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Creepy Cauldron",
+            "Price": "-",
+            "Source": "Halloween"
+        },
+        {
+            "Name": "Spooky Bed",
+            "Price": "4,124",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Spooky Table",
+            "Price": "4,124",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Future Tank",
+            "Price": "390",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Jester Shirt",
+            "Price": "420",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Jester Tank",
+            "Price": "280",
+            "Source": "Ables (Spring)"
+        },
+        {
+            "Name": "Nebula Shirt",
+            "Price": "420",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Nebula Tee",
+            "Price": "390",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Splendid Tee",
+            "Price": "420",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Jester Pants",
+            "Price": "480",
+            "Source": "Ables (Spring)"
+        }
+    ],
+    "Species": "Dog",
+    "Personality": "Lazy",
+    "Gender": "Male",
+    "Birthday": "November 4th",
+    "Star Sign": "Scorpio",
+    "Initial Phrase": "rrr-owch",
+    "Initial Clothes": "No. 23 Shirt",
+    "Favorite Saying": "Don't bite the hand that feeds you.Ow...",
+    "image": "/w/images/thumb/2/25/Lucky_NLa.png/175px-Lucky_NLa.png",
+    "Song": "K.K. Dirge",
+    "Style": "Flashy"
+}

@@ -1,0 +1,35 @@
+{
+    "Name": "Elvis",
+    "Url": "https://nookipedia.com/wiki/Elvis",
+    "Biography": {
+        "Siblings": "Eldest quadruplet",
+        "Skill": "Competitive eating",
+        "Goal": "Tycoon",
+        "Fear": "Bugs"
+    },
+    "Favorites": {
+        "Clothing": "Ornate",
+        "Color": "Gray"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "None at all",
+        "Sugar": "None at all"
+    },
+    "Gifts": [
+        {
+            "Name": "No Gray Ornate Items"
+        }
+    ],
+    "Species": "Lion",
+    "Personality": "Cranky",
+    "Gender": "Male",
+    "Birthday": "July 23rd",
+    "Star Sign": "Leo",
+    "Initial Phrase": "unh-hunh",
+    "Initial Clothes": "Royal Shirt",
+    "Favorite Saying": "Better a live coward than a dead hero.Thank you very much.",
+    "image": "/w/images/thumb/5/51/Elvis_NLa.png/175px-Elvis_NLa.png",
+    "Song": "K.K. Casbah",
+    "Style": "Ornate"
+}

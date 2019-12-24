@@ -1,0 +1,82 @@
+{
+    "Name": "Vladimir",
+    "Url": "https://nookipedia.com/wiki/Vladimir",
+    "Biography": {
+        "Siblings": "Second of 6",
+        "Skill": "Belly dancing",
+        "Goal": "Movie Director",
+        "Fear": "Skulls"
+    },
+    "Favorites": {
+        "Clothing": "Flashy",
+        "Color": "Yellow"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "Lots",
+        "Sugar": "3"
+    },
+    "Gifts": [
+        {
+            "Name": "Flying Saucer",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "LED Display",
+            "Price": "3,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Lunar Lander",
+            "Price": "3,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Small LED Display",
+            "Price": "2,500",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Bold-Check Tee",
+            "Price": "360",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Caterpillar Tee",
+            "Price": "6,800",
+            "Source": "GracieGrace (Spring)"
+        },
+        {
+            "Name": "Dr. Shrunk's Jacket",
+            "Price": "-",
+            "Source": "Shrunk"
+        },
+        {
+            "Name": "Future Tank",
+            "Price": "390",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Giraffe Tank",
+            "Price": "5,800",
+            "Source": "GracieGrace (Summer)"
+        },
+        {
+            "Name": "Giraffe Tee",
+            "Price": "6,200",
+            "Source": "GracieGrace (Winter)"
+        }
+    ],
+    "Species": "Cub",
+    "Personality": "Cranky",
+    "Gender": "Male",
+    "Birthday": "August 2nd",
+    "Star Sign": "Leo",
+    "Initial Phrase": "nyet",
+    "Initial Clothes": "Tiger Print*Lite Polka Shirt*",
+    "Favorite Saying": "Trouble never comes alone.",
+    "image": "/w/images/thumb/8/84/Vladimir_NLa.png/175px-Vladimir_NLa.png",
+    "Song": "Agent K.K.",
+    "Style": "Flashy"
+}

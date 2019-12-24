@@ -1,0 +1,82 @@
+{
+    "Name": "Biff",
+    "Url": "https://nookipedia.com/wiki/Biff",
+    "Biography": {
+        "Siblings": "Second of 4",
+        "Skill": "Limboing",
+        "Goal": "Basketball player",
+        "Fear": "Ghosts"
+    },
+    "Favorites": {
+        "Clothing": "Flashy",
+        "Color": "Green"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "None",
+        "Sugar": "None"
+    },
+    "Gifts": [
+        {
+            "Name": "Creepy Cauldron",
+            "Price": "-",
+            "Source": "Halloween"
+        },
+        {
+            "Name": "Florence Flask",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Hospital Bed",
+            "Price": "3,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Caterpillar Tee",
+            "Price": "6,800",
+            "Source": "GracieGrace (Spring)"
+        },
+        {
+            "Name": "Crossing Shirt",
+            "Price": "420",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Kappa Costume",
+            "Price": "20 (medals)",
+            "Source": "Island"
+        },
+        {
+            "Name": "Loud Bloom Tee",
+            "Price": "360",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Pop Bloom Tee",
+            "Price": "360",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Sundae Tank",
+            "Price": "420",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Kappa-Costume Pants",
+            "Price": "15 (medals)",
+            "Source": "Island"
+        }
+    ],
+    "Species": "Hippo",
+    "Personality": "Jock",
+    "Gender": "Male",
+    "Birthday": "March 29th",
+    "Star Sign": "AriesTaurus",
+    "Initial Phrase": "squirt",
+    "Initial Clothes": "Jagged Shirt",
+    "Favorite Saying": "Eighth place is just the seventh loser.",
+    "image": "/w/images/thumb/c/c8/Biff_NLa.png/200px-Biff_NLa.png",
+    "Song": "The K. Funk",
+    "Style": "Flashy"
+}

@@ -1,0 +1,82 @@
+{
+    "Name": "Zell",
+    "Url": "https://nookipedia.com/wiki/Zell",
+    "Biography": {
+        "Siblings": "Second of 4",
+        "Skill": "Calculating tips",
+        "Goal": "Movie Director",
+        "Fear": "Skulls"
+    },
+    "Favorites": {
+        "Clothing": "Modern",
+        "Color": "Purple"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "Little bit",
+        "Sugar": "1"
+    },
+    "Gifts": [
+        {
+            "Name": "Harvest Bed",
+            "Price": "3,333",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Harvest Bureau",
+            "Price": "3,333",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Harvest Chair",
+            "Price": "3,333",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Harvest Clock",
+            "Price": "3,333",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Harvest Dresser",
+            "Price": "3,333",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Harvest Lamp",
+            "Price": "3,333",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Harvest Mirror",
+            "Price": "3,333",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Harvest Sofa",
+            "Price": "3,333",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Harvest Table",
+            "Price": "3,333",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Harvest TV",
+            "Price": "3,333",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Deer",
+    "Personality": "Smug",
+    "Gender": "Male",
+    "Birthday": "June 7th",
+    "Star Sign": "Gemini",
+    "Initial Phrase": "pronk",
+    "Initial Clothes": "Arctic-Camo Tee",
+    "Favorite Saying": "Clothes totally make the man.",
+    "image": "/w/images/thumb/e/e8/Zell_NLa.png/175px-Zell_NLa.png",
+    "Song": "K.K. D&B",
+    "Style": "Modern"
+}

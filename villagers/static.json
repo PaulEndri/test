@@ -1,0 +1,82 @@
+{
+    "Name": "Static",
+    "Url": "https://nookipedia.com/wiki/Static",
+    "Biography": {
+        "Siblings": "Oldest of 8",
+        "Skill": "Back flipping",
+        "Goal": "Guitarist",
+        "Fear": "Skeleton Hood"
+    },
+    "Favorites": {
+        "Clothing": "Rock 'n' Roll",
+        "Color": "Black"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "The regular amount",
+        "Sugar": "2 spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Amp",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Bingo Wheel",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "DJ's Turntable",
+            "Price": "3,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Effects Rack",
+            "Price": "2,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Metal Guitar",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Mic Stand",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Steamroller",
+            "Price": "4,500",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Striped Cone",
+            "Price": "800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Tabletop Game",
+            "Price": "2,480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Virtual Boy",
+            "Price": "-",
+            "Source": "Fortune Cookie"
+        }
+    ],
+    "Species": "Squirrel",
+    "Personality": "Cranky",
+    "Gender": "Male",
+    "Birthday": "July 9th",
+    "Star Sign": "Cancer",
+    "Initial Phrase": "krzzt",
+    "Initial Clothes": "Melon Shirt",
+    "Favorite Saying": "Lightning never strikes twice. Zap!",
+    "image": "/w/images/thumb/7/7b/Static_NLa.png/175px-Static_NLa.png",
+    "Song": "Surfin' K.K.",
+    "Style": "Rock 'n' Roll"
+}

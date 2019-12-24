@@ -1,0 +1,82 @@
+{
+    "Name": "Tiffany",
+    "Url": "https://nookipedia.com/wiki/Tiffany",
+    "Biography": {
+        "Siblings": "Third of 4",
+        "Skill": "Oversleeping",
+        "Goal": "CEO",
+        "Fear": "Skeleton"
+    },
+    "Favorites": {
+        "Clothing": "Rock 'n' Roll",
+        "Color": "Red"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "A little bit",
+        "Sugar": "One spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Detour Arrow",
+            "Price": "600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Electric Guitar",
+            "Price": "1,900",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Handcart",
+            "Price": "800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Iron Frame",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Jackhammer",
+            "Price": "1,880",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Orange Cone",
+            "Price": "600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Sawhorse",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Traffic Cone",
+            "Price": "800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Virtual Boy",
+            "Price": "-",
+            "Source": "Fortune Cookie"
+        },
+        {
+            "Name": "After-School Jacket",
+            "Price": "420",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Rabbit",
+    "Personality": "Snooty",
+    "Gender": "Female",
+    "Birthday": "January 9th",
+    "Star Sign": "Capricorn",
+    "Initial Phrase": "bun bun",
+    "Initial Clothes": "Spiderweb Shirt",
+    "Favorite Saying": "What is cheap is most costly.What's up, bun bun?",
+    "image": "/w/images/thumb/8/8d/Tiffany_NLa.png/175px-Tiffany_NLa.png",
+    "Song": "K.K. Rock",
+    "Style": "Rock 'n' roll"
+}

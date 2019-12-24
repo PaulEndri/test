@@ -1,0 +1,82 @@
+{
+    "Name": "Celia",
+    "Url": "https://nookipedia.com/wiki/Celia",
+    "Biography": {
+        "Siblings": "Youngest Of 3 Kids",
+        "Skill": "Brainteasers",
+        "Goal": "Florist",
+        "Fear": "Mummies"
+    },
+    "Favorites": {
+        "Clothing": "Cute",
+        "Color": "Pink"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "A regular amount of milk",
+        "Sugar": "2 spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Azalea Stool",
+            "Price": "-",
+            "Source": "Leif"
+        },
+        {
+            "Name": "Boxed Figurine",
+            "Price": "-",
+            "Source": "Fireworks"
+        },
+        {
+            "Name": "Cradle",
+            "Price": "3,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Crane Game",
+            "Price": "1,680",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Dollhouse",
+            "Price": "2,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Flower Bouquet",
+            "Price": "-",
+            "Source": "Leif"
+        },
+        {
+            "Name": "Lotus Lamp",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Lovely Armoire",
+            "Price": "2,240",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Lovely Bed",
+            "Price": "2,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Lovely Chair",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Eagle",
+    "Personality": "Normal",
+    "Gender": "Female",
+    "Birthday": "March 25th",
+    "Star Sign": "Aries",
+    "Initial Phrase": "feathers",
+    "Initial Clothes": "Loud Bloom Shirt",
+    "Favorite Saying": "It's the thought that counts.",
+    "image": "/w/images/thumb/a/a3/Celia_NL.png/200px-Celia_NL.png",
+    "Song": "K.K. Aria",
+    "Style": "Cute"
+}

@@ -1,0 +1,57 @@
+{
+    "Name": "Chadder",
+    "Url": "https://nookipedia.com/wiki/Chadder",
+    "Biography": {
+        "Siblings": "Oldest of 9",
+        "Skill": "Cramming for tests",
+        "Goal": "Actor",
+        "Fear": "Bug mask"
+    },
+    "Favorites": {
+        "Clothing": "Official",
+        "Color": "Yellow"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "A lot",
+        "Sugar": "3 spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Fancy Frame",
+            "Price": "10,000",
+            "Source": "Museum Shop"
+        },
+        {
+            "Name": "Small Spotlight",
+            "Price": "1,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Standing Spotlight",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Canary Shirt",
+            "Price": "480",
+            "Source": "Ables (Spring)"
+        },
+        {
+            "Name": "School Hat",
+            "Price": "240",
+            "Source": "Accessory Corner"
+        }
+    ],
+    "Species": "Mouse",
+    "Personality": "Smug",
+    "Gender": "Male",
+    "Birthday": "December 15th",
+    "Star Sign": "Sagittarius",
+    "Initial Phrase": "fromage",
+    "Initial Clothes": "Tuxedo",
+    "Favorite Saying": "Meeting is just the start of us saying good-bye.",
+    "image": "/w/images/thumb/3/34/Chadder_NL.png/150px-Chadder_NL.png",
+    "Song": "K.K. Soul",
+    "Style": "Official"
+}

@@ -1,0 +1,42 @@
+{
+    "Name": "Julian",
+    "Url": "https://nookipedia.com/wiki/Julian",
+    "Biography": {
+        "Siblings": "Younger twin",
+        "Skill": "Speed reading",
+        "Goal": "Designer",
+        "Fear": "Bug Mask"
+    },
+    "Favorites": {
+        "Clothing": "Ornate",
+        "Color": "Aqua"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "None at all",
+        "Sugar": "None at all"
+    },
+    "Gifts": [
+        {
+            "Name": "Corseted Skirt",
+            "Price": "480",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Princess Dress",
+            "Price": "1,000",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Horse",
+    "Personality": "Smug",
+    "Gender": "Male",
+    "Birthday": "March 15th",
+    "Star Sign": "Pisces",
+    "Initial Phrase": "glitter",
+    "Initial Clothes": "Twinkle Shirt",
+    "Favorite Saying": "Never trot when you can prance.",
+    "image": "/w/images/thumb/4/43/Julian_NL.png/200px-Julian_NL.png",
+    "Song": "Stale Cupcakes",
+    "Style": "Ornate"
+}

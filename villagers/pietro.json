@@ -1,0 +1,82 @@
+{
+    "Name": "Pietro",
+    "Url": "https://nookipedia.com/wiki/Pietro",
+    "Biography": {
+        "Siblings": "Eldest of three",
+        "Skill": "Making crafts",
+        "Goal": "Artist",
+        "Fear": "Werewolf Hood"
+    },
+    "Favorites": {
+        "Clothing": "Flashy",
+        "Color": "Colorful"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "A little bit",
+        "Sugar": "1 spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Flashy-Flower Sign",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Neon Sign",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Sloppy Stereo",
+            "Price": "-",
+            "Source": "Re-Tail/Police Station"
+        },
+        {
+            "Name": "Hot-Dog Tank",
+            "Price": "6,000",
+            "Source": "GracieGrace (Fall)"
+        },
+        {
+            "Name": "Kiddie Tee",
+            "Price": "340",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Noodle Tee",
+            "Price": "380",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Prism Tee",
+            "Price": "370",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Sandwich Tank",
+            "Price": "6,400",
+            "Source": "GracieGrace (Fall)"
+        },
+        {
+            "Name": "Star Tee",
+            "Price": "370",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Star Tank Dress",
+            "Price": "720",
+            "Source": "Ables (Summer)"
+        }
+    ],
+    "Species": "Sheep",
+    "Personality": "Smug",
+    "Gender": "Male",
+    "Birthday": "April 19th",
+    "Star Sign": "Aries",
+    "Initial Phrase": "honk honk",
+    "Initial Clothes": "Dawn Tee",
+    "Favorite Saying": "Be the class clown!",
+    "image": "/w/images/thumb/5/5e/Pietro_NL.png/200px-Pietro_NL.png",
+    "Song": "K.K. Parade",
+    "Style": "Flashy"
+}

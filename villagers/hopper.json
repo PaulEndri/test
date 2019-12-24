@@ -1,0 +1,82 @@
+{
+    "Name": "Hopper",
+    "Url": "https://nookipedia.com/wiki/Hopper",
+    "Biography": {
+        "Siblings": "Eldest of two",
+        "Skill": "Mental math",
+        "Goal": "Firefighter",
+        "Fear": "Monster"
+    },
+    "Favorites": {
+        "Clothing": "Rock 'n' Roll",
+        "Color": "Yellow"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "Lots",
+        "Sugar": "Three spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Bingo Wheel",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Cement Mixer",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Steamroller",
+            "Price": "4,500",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Striped Cone",
+            "Price": "800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Wet-Road Sign",
+            "Price": "850",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Circuit Tank",
+            "Price": "5,120",
+            "Source": "GracieGrace (Fall)"
+        },
+        {
+            "Name": "Fish Tee",
+            "Price": "380",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Jagged Tank",
+            "Price": "280",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Jagged Tee",
+            "Price": "360",
+            "Source": "(All)"
+        },
+        {
+            "Name": "Leopard Tank",
+            "Price": "280",
+            "Source": "Ables (Summer)"
+        }
+    ],
+    "Species": "Penguin",
+    "Personality": "Cranky",
+    "Gender": "Male",
+    "Birthday": "April 6th",
+    "Star Sign": "Aries",
+    "Initial Phrase": "slushie",
+    "Initial Clothes": "Dragon Shirt",
+    "Favorite Saying": "Always have a comeback.This is my good side.",
+    "image": "/w/images/thumb/5/53/Hopper_NLa.png/175px-Hopper_NLa.png",
+    "Song": "Lucky K.K.",
+    "Style": "Rock 'n' roll"
+}

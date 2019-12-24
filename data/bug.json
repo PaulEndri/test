@@ -1,0 +1,1415 @@
+[
+    {
+        "Name": "Common Butterfly",
+        "Price": 90,
+        "Location": "Air",
+        "Months": [
+            "March",
+            "April",
+            "May",
+            "June",
+            "September"
+        ],
+        "Times": [
+            "Morning (8a-5p)",
+            "Evening (4p-7p)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Mosquito",
+        "Price": 130,
+        "Location": "Air",
+        "Months": [
+            "June",
+            "July",
+            "August",
+            "September"
+        ],
+        "Times": [
+            "Evening (4p-7p)",
+            "Night (7p-4a)"
+        ]
+    },
+    {
+        "Name": "Darner Dragonfly",
+        "Price": 200,
+        "Location": "Air",
+        "Months": [
+            "June",
+            "July",
+            "August"
+        ],
+        "Times": [
+            "Morning (8a-5p)"
+        ]
+    },
+    {
+        "Name": "Agrias Butterfly",
+        "Price": 3000,
+        "Location": "Air",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December"
+        ],
+        "Times": [
+            "Morning (8a-5p)"
+        ]
+    },
+    {
+        "Name": "Moth",
+        "Price": 60,
+        "Location": "Air (Near Lights)",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November"
+        ],
+        "Times": [
+            "Morning (8a-5p)",
+            "Evening (4p-7p)"
+        ]
+    },
+    {
+        "Name": "Firefly",
+        "Price": 300,
+        "Location": "Air (Near Water)",
+        "Months": [
+            "June"
+        ],
+        "Times": [
+            "Evening (4p-7p)"
+        ]
+    },
+    {
+        "Name": "Raja Brooke Butterfly",
+        "Price": 2500,
+        "Location": "Air (Near Water)",
+        "Months": [
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "December"
+        ],
+        "Times": [
+            "Morning (8a-5p)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Wharf Roach",
+        "Price": 200,
+        "Location": "Beach",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December"
+        ],
+        "Times": [
+            "Night (7p-4a)"
+        ]
+    },
+    {
+        "Name": "Yellow Butterfly",
+        "Price": 90,
+        "Location": "Flowers",
+        "Months": [
+            "March",
+            "April",
+            "May",
+            "June",
+            "September"
+        ],
+        "Times": [
+            "Night (7p-4a)"
+        ]
+    },
+    {
+        "Name": "Honeybee",
+        "Price": 100,
+        "Location": "Flowers",
+        "Months": [
+            "March",
+            "April",
+            "May",
+            "June",
+            "July"
+        ],
+        "Times": [
+            "Morning (8a-5p)"
+        ]
+    },
+    {
+        "Name": "Ladybug",
+        "Price": 200,
+        "Location": "Flowers",
+        "Months": [
+            "March",
+            "April",
+            "May",
+            "June",
+            "October"
+        ],
+        "Times": [
+            "Morning (8a-5p)"
+        ]
+    },
+    {
+        "Name": "Mantis",
+        "Price": 430,
+        "Location": "Flowers",
+        "Months": [
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December"
+        ],
+        "Times": [
+            "Morning (8a-5p)",
+            "Evening (4p-7p)",
+            "Night (7p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Emperor Butterfly",
+        "Price": 2500,
+        "Location": "Flowers",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December"
+        ],
+        "Times": [
+            "Night (7p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Birdwing Butterfly",
+        "Price": 4000,
+        "Location": "Flowers",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November"
+        ],
+        "Times": [
+            "Evening (4p-7p)",
+            "Night (7p-4a)"
+        ]
+    },
+    {
+        "Name": "Peacock Butterfly",
+        "Price": 220,
+        "Location": "Flowers (Blue/Black/Purple)",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November"
+        ],
+        "Times": [
+            "Morning (8a-5p)"
+        ]
+    },
+    {
+        "Name": "Tiger Butterfly",
+        "Price": 160,
+        "Location": "Flowers (Red)",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November"
+        ],
+        "Times": [
+            "Morning (8a-5p)"
+        ]
+    },
+    {
+        "Name": "Orchid Mantis",
+        "Price": 2400,
+        "Location": "Flowers (White)",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November"
+        ],
+        "Times": [
+            "Morning (8a-5p)"
+        ]
+    },
+    {
+        "Name": "Long Locust",
+        "Price": 200,
+        "Location": "Ground",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December"
+        ],
+        "Times": [
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Tiger Beetle",
+        "Price": 1500,
+        "Location": "Ground",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December"
+        ],
+        "Times": [
+            "Morning (8a-5p)"
+        ]
+    },
+    {
+        "Name": "Tarantula",
+        "Price": 8000,
+        "Location": "Ground",
+        "Months": [
+            "June",
+            "July",
+            "August",
+            "December"
+        ],
+        "Times": [
+            "Morning (8a-5p)",
+            "Evening (4p-7p)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Pill Bug",
+        "Price": 250,
+        "Location": "Hit Rocks",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December"
+        ],
+        "Times": [
+            "Morning (8a-5p)",
+            "Evening (4p-7p)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Pondskater",
+        "Price": 130,
+        "Location": "Ponds",
+        "Months": [
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "December"
+        ],
+        "Times": [
+            "Morning (8a-5p)",
+            "Evening (4p-7p)"
+        ]
+    },
+    {
+        "Name": "Diving Beetle",
+        "Price": 800,
+        "Location": "River",
+        "Months": [
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "December"
+        ],
+        "Times": [
+            "Morning (8a-5p)",
+            "Evening (4p-7p)"
+        ]
+    },
+    {
+        "Name": "Snail",
+        "Price": 250,
+        "Location": "Shrubs (Rain)",
+        "Months": [
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "December"
+        ],
+        "Times": [
+            "Morning (8a-5p)",
+            "Evening (4p-7p)",
+            "Night (7p-4a)"
+        ]
+    },
+    {
+        "Name": "Violin Beetle",
+        "Price": 260,
+        "Location": "Stumps",
+        "Months": [
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November"
+        ],
+        "Times": [
+            "Morning (8a-5p)",
+            "Night (7p-4a)"
+        ]
+    },
+    {
+        "Name": "Fly",
+        "Price": 60,
+        "Location": "Trash",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December"
+        ],
+        "Times": [
+            "Morning (8a-5p)"
+        ]
+    },
+    {
+        "Name": "Ant",
+        "Price": 80,
+        "Location": "Trash",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December"
+        ],
+        "Times": [
+            "Morning (8a-5p)",
+            "Evening (4p-7p)"
+        ]
+    },
+    {
+        "Name": "Stink Bug",
+        "Price": 120,
+        "Location": "Trees",
+        "Months": [
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October"
+        ],
+        "Times": [
+            "Evening (4p-7p)",
+            "Night (7p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Oak Silk Moth",
+        "Price": 1200,
+        "Location": "Trees",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November"
+        ],
+        "Times": [
+            "Morning (8a-5p)",
+            "Evening (4p-7p)"
+        ]
+    },
+    {
+        "Name": "Horned Dynastid",
+        "Price": 1350,
+        "Location": "Trees",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November"
+        ],
+        "Times": [
+            "Morning (8a-5p)"
+        ]
+    },
+    {
+        "Name": "Lantern Fly",
+        "Price": 1800,
+        "Location": "Trees",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November"
+        ],
+        "Times": [
+            "Evening (4p-7p)",
+            "Night (7p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Rainbow Stag",
+        "Price": 10000,
+        "Location": "Trees",
+        "Months": [
+            "June",
+            "July",
+            "August",
+            "September"
+        ],
+        "Times": [
+            "Night (7p-4a)"
+        ]
+    },
+    {
+        "Name": "Goliath Beetle",
+        "Price": 6000,
+        "Location": "Trees (Palm)",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December"
+        ],
+        "Times": [
+            "Morning (8a-5p)",
+            "Evening (4p-7p)",
+            "Night (7p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Horned Atlas",
+        "Price": 8000,
+        "Location": "Trees (Palm)",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November"
+        ],
+        "Times": [
+            "Night (7p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Spider",
+        "Price": 300,
+        "Location": "Trees (Shaken)",
+        "Months": [
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October"
+        ],
+        "Times": [
+            "Evening (4p-7p)",
+            "Night (7p-4a)"
+        ]
+    },
+    {
+        "Name": "Bee",
+        "Price": 2500,
+        "Location": "Trees (Shaken)",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November"
+        ],
+        "Times": [
+            "Morning (8a-5p)",
+            "Evening (4p-7p)"
+        ]
+    },
+    {
+        "Name": "Flea",
+        "Price": 70,
+        "Location": "Villagers",
+        "Months": [
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November"
+        ],
+        "Times": [
+            "Morning (8a-5p)"
+        ]
+    },
+    {
+        "Name": "Monarch Butterfly",
+        "Price": 140,
+        "Location": "Air (Near Flowers)",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November"
+        ],
+        "Times": [
+            "Morning (8a-5p)",
+            "Evening (4p-7p)",
+            "Night (7p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Hermit Crab",
+        "Price": 1000,
+        "Location": "Beach (Island)",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December"
+        ],
+        "Times": [
+            "Evening (4p-7p)",
+            "Night (7p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Grasshopper",
+        "Price": 160,
+        "Location": "Ground",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November"
+        ],
+        "Times": [
+            "Morning (8a-5p)",
+            "Evening (4p-7p)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Migratory Locust",
+        "Price": 600,
+        "Location": "Ground",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December"
+        ],
+        "Times": [
+            "Morning (8a-5p)",
+            "Evening (4p-7p)",
+            "Night (7p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Longhorn Beetle",
+        "Price": 260,
+        "Location": "Stumps",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December"
+        ],
+        "Times": [
+            "Morning (8a-5p)",
+            "Evening (4p-7p)",
+            "Night (7p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Drone Beetle",
+        "Price": 100,
+        "Location": "Trees",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December"
+        ],
+        "Times": [
+            "Morning (8a-5p)",
+            "Evening (4p-7p)",
+            "Night (7p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Fruit Beetle",
+        "Price": 100,
+        "Location": "Trees",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November"
+        ],
+        "Times": [
+            "Morning (8a-5p)",
+            "Evening (4p-7p)",
+            "Night (7p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Walking Stick",
+        "Price": 600,
+        "Location": "Trees",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December"
+        ],
+        "Times": [
+            "Night (7p-4a)"
+        ]
+    },
+    {
+        "Name": "Miyama Stag",
+        "Price": 1000,
+        "Location": "Trees",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December"
+        ],
+        "Times": [
+            "Evening (4p-7p)",
+            "Night (7p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Saw Stag Beetle",
+        "Price": 2000,
+        "Location": "Trees",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December"
+        ],
+        "Times": [
+            "Night (7p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Jewel Beetle",
+        "Price": 2400,
+        "Location": "Trees",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November"
+        ],
+        "Times": [
+            "Evening (4p-7p)",
+            "Night (7p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Scarab Beetle",
+        "Price": 6000,
+        "Location": "Trees",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December"
+        ],
+        "Times": [
+            "Morning (8a-5p)",
+            "Evening (4p-7p)",
+            "Night (7p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Giant Stag",
+        "Price": 10000,
+        "Location": "Trees",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December"
+        ],
+        "Times": [
+            "Morning (8a-5p)",
+            "Evening (4p-7p)",
+            "Night (7p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Horned Elephant",
+        "Price": 8000,
+        "Location": "Trees (Palm)",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December"
+        ],
+        "Times": [
+            "Morning (8a-5p)",
+            "Evening (4p-7p)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Cyclommatus Stag",
+        "Price": 8000,
+        "Location": "Trees (Palm)",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December"
+        ],
+        "Times": [
+            "Morning (8a-5p)",
+            "Evening (4p-7p)",
+            "Night (7p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Golden Stag",
+        "Price": 12000,
+        "Location": "Trees (Palm)",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December"
+        ],
+        "Times": [
+            "Morning (8a-5p)",
+            "Evening (4p-7p)",
+            "Night (7p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Horned Hercules",
+        "Price": 12000,
+        "Location": "Trees (Palm)",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December"
+        ],
+        "Times": [
+            "Morning (8a-5p)"
+        ]
+    },
+    {
+        "Name": "Red Dragonfly",
+        "Price": 80,
+        "Location": "Air",
+        "Months": [
+            "September",
+            "October",
+            "December"
+        ],
+        "Times": [
+            "Night (7p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Petaltail Dragonfly",
+        "Price": 8000,
+        "Location": "Air",
+        "Months": [
+            "August",
+            "September",
+            "October",
+            "December"
+        ],
+        "Times": [
+            "Night (7p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Banded Dragonfly",
+        "Price": 4500,
+        "Location": "Air (Near Water)",
+        "Months": [
+            "July",
+            "August"
+        ],
+        "Times": [
+            "Morning (8a-5p)",
+            "Evening (4p-7p)",
+            "Night (7p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Cricket",
+        "Price": 160,
+        "Location": "Ground",
+        "Months": [
+            "September",
+            "October",
+            "November"
+        ],
+        "Times": [
+            "Morning (8a-5p)"
+        ]
+    },
+    {
+        "Name": "Locust",
+        "Price": 400,
+        "Location": "Ground",
+        "Months": [
+            "August",
+            "September",
+            "October",
+            "November"
+        ],
+        "Times": [
+            "Morning (8a-5p)"
+        ]
+    },
+    {
+        "Name": "Walking Leaf",
+        "Price": 600,
+        "Location": "Ground",
+        "Months": [
+            "July",
+            "August",
+            "September"
+        ],
+        "Times": [
+            "Morning (8a-5p)"
+        ]
+    },
+    {
+        "Name": "Bell Cricket",
+        "Price": 1720,
+        "Location": "Ground",
+        "Months": [
+            "September",
+            "October"
+        ],
+        "Times": [
+            "Morning (8a-5p)"
+        ]
+    },
+    {
+        "Name": "Scorpion",
+        "Price": 8000,
+        "Location": "Ground",
+        "Months": [
+            "July",
+            "August",
+            "September"
+        ],
+        "Times": [
+            "Evening (4p-7p)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "House Centipede",
+        "Price": 250,
+        "Location": "Hit Rocks",
+        "Months": [
+            "August",
+            "September",
+            "October",
+            "December"
+        ],
+        "Times": [
+            "Night (7p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Centipede",
+        "Price": 300,
+        "Location": "Hit Rocks",
+        "Months": [
+            "January",
+            "February",
+            "June",
+            "December"
+        ],
+        "Times": [
+            "Evening (4p-7p)",
+            "Night (7p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Dung Beetle",
+        "Price": 800,
+        "Location": "Snowballs",
+        "Months": [
+            "January",
+            "February",
+            "December"
+        ],
+        "Times": [
+            "Evening (4p-7p)",
+            "Night (7p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Cicada Shell",
+        "Price": 100,
+        "Location": "Trees",
+        "Months": [
+            "July",
+            "August",
+            "December"
+        ],
+        "Times": [
+            "Evening (4p-7p)",
+            "Night (7p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Brown Cicada",
+        "Price": 200,
+        "Location": "Trees",
+        "Months": [
+            "July",
+            "August",
+            "December"
+        ],
+        "Times": [
+            "Evening (4p-7p)",
+            "Night (7p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Robust Cicada",
+        "Price": 300,
+        "Location": "Trees",
+        "Months": [
+            "July",
+            "August",
+            "December"
+        ],
+        "Times": [
+            "Evening (4p-7p)",
+            "Night (7p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Walker Cicada",
+        "Price": 400,
+        "Location": "Trees",
+        "Months": [
+            "July",
+            "August",
+            "September"
+        ],
+        "Times": [
+            "Morning (8a-5p)",
+            "Evening (4p-7p)",
+            "Night (7p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Giant Cicada",
+        "Price": 500,
+        "Location": "Trees",
+        "Months": [
+            "July",
+            "August",
+            "December"
+        ],
+        "Times": [
+            "Morning (8a-5p)",
+            "Evening (4p-7p)",
+            "Night (7p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Evening Cicada",
+        "Price": 550,
+        "Location": "Trees",
+        "Months": [
+            "July",
+            "August",
+            "December"
+        ],
+        "Times": [
+            "Morning (8a-5p)",
+            "Evening (4p-7p)",
+            "Night (7p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Bagworm",
+        "Price": 300,
+        "Location": "Trees (Shaken)",
+        "Months": [
+            "January",
+            "February",
+            "October",
+            "November",
+            "December"
+        ],
+        "Times": [
+            "Morning (8a-5p)",
+            "Evening (4p-7p)",
+            "Night (7p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Mole Cricket",
+        "Price": 280,
+        "Location": "Underground",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "November"
+        ],
+        "Times": [
+            "Morning (8a-5p)",
+            "Evening (4p-7p)",
+            "Night (7p-4a)",
+            "Late (4a-9a)"
+        ]
+    }
+]

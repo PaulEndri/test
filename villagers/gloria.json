@@ -1,0 +1,81 @@
+{
+    "Name": "Gloria",
+    "Url": "https://nookipedia.com/wiki/Gloria",
+    "Biography": {
+        "Skill": "Boardgames",
+        "Goal": "Stylist",
+        "Fear": "Mummy"
+    },
+    "Favorites": {
+        "Clothing": "Ornate",
+        "Color": "Black"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "None of all",
+        "Sugar": "None of all"
+    },
+    "Gifts": [
+        {
+            "Name": "Gorgeous Bed",
+            "Price": "300,000",
+            "Source": "GracieGrace (Winter)"
+        },
+        {
+            "Name": "Gorgeous Chest",
+            "Price": "90,000",
+            "Source": "GracieGrace (Winter)"
+        },
+        {
+            "Name": "Gorgeous Closet",
+            "Price": "140,000",
+            "Source": "GracieGrace (Winter)"
+        },
+        {
+            "Name": "Gorgeous Counter",
+            "Price": "180,000",
+            "Source": "GracieGrace (Winter)"
+        },
+        {
+            "Name": "Gorgeous Desk",
+            "Price": "250,000",
+            "Source": "GracieGrace (Winter)"
+        },
+        {
+            "Name": "Gorgeous Lamp",
+            "Price": "60,000",
+            "Source": "GracieGrace (Winter)"
+        },
+        {
+            "Name": "Gorgeous Table",
+            "Price": "250,000",
+            "Source": "GracieGrace (Winter)"
+        },
+        {
+            "Name": "Gorgeous Wall Clock",
+            "Price": "350,000",
+            "Source": "GracieGrace (Winter)"
+        },
+        {
+            "Name": "Beaded Shirt",
+            "Price": "420",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Corseted Shirt",
+            "Price": "400",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Duck",
+    "Personality": "Snooty",
+    "Gender": "Female",
+    "Birthday": "August 12th",
+    "Star Sign": "Leo",
+    "Initial Phrase": "quacker",
+    "Initial Clothes": "Turnip Top*Bodice*",
+    "Favorite Saying": "Time is money.",
+    "image": "/w/images/thumb/6/6a/Gloria_NLa.png/175px-Gloria_NLa.png",
+    "Song": "K.K. Milonga",
+    "Style": "Ornate"
+}

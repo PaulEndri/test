@@ -1,0 +1,82 @@
+{
+    "Name": "Croque",
+    "Url": "https://nookipedia.com/wiki/Croque",
+    "Biography": {
+        "Siblings": "Eldest of three",
+        "Skill": "Bunting",
+        "Goal": "Architect",
+        "Fear": "Mummies"
+    },
+    "Favorites": {
+        "Clothing": "Iconic",
+        "Color": "Red"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "None at all",
+        "Sugar": "None at all"
+    },
+    "Gifts": [
+        {
+            "Name": "Bureom",
+            "Price": "-",
+            "Source": "Daeboreum (Korea)"
+        },
+        {
+            "Name": "Dala Horse",
+            "Price": "1,200",
+            "Source": "Gulliver"
+        },
+        {
+            "Name": "Doghouse",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Dream Catcher",
+            "Price": "1,600",
+            "Source": "Gulliver"
+        },
+        {
+            "Name": "Festival Lamp",
+            "Price": "900",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Fruit Basket",
+            "Price": "-",
+            "Source": "Harvest Festival"
+        },
+        {
+            "Name": "Hinaningyo",
+            "Price": "2,560",
+            "Source": "Timmy & Tommy's (Japan)"
+        },
+        {
+            "Name": "Hospital TV",
+            "Price": "1,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Hula Doll",
+            "Price": "1,800",
+            "Source": "Gulliver"
+        },
+        {
+            "Name": "Lawn Mower",
+            "Price": "2,760",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Frog",
+    "Personality": "Cranky",
+    "Gender": "Male",
+    "Birthday": "July 18th",
+    "Star Sign": "Cancer",
+    "Initial Phrase": "as if",
+    "Initial Clothes": "Chinese Shirt",
+    "Favorite Saying": "Where there's smoke, there's fire.",
+    "image": "/w/images/thumb/a/a6/Croque_NL.png/150px-Croque_NL.png",
+    "Song": "K.K. Jongara",
+    "Style": "Iconic"
+}

@@ -1,0 +1,57 @@
+{
+    "Name": "Pancetti",
+    "Url": "https://nookipedia.com/wiki/Pancetti",
+    "Biography": {
+        "Siblings": "Eldest of seven",
+        "Skill": "Forgetting",
+        "Goal": "President",
+        "Fear": "Mummy"
+    },
+    "Favorites": {
+        "Clothing": "Modern",
+        "Color": "Yellow"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "A little",
+        "Sugar": "One spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Cube Clock",
+            "Price": "1,100",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Ceramic Tile",
+            "Price": "1,390",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Cheese Floor",
+            "Price": "1,360",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Swell Shirt",
+            "Price": "400",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Swell Tee",
+            "Price": "400",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Pig",
+    "Personality": "Snooty",
+    "Gender": "Female",
+    "Birthday": "November 14th",
+    "Star Sign": "",
+    "Initial Phrase": "sooey",
+    "Initial Clothes": "Canary Shirt",
+    "Favorite Saying": "Always get it in writing.",
+    "image": "/w/images/thumb/4/47/Pancetti_NL.png/200px-Pancetti_NL.png",
+    "Song": "K.K. Fusion",
+    "Style": "Modern"
+}

@@ -1,0 +1,82 @@
+{
+    "Name": "Queenie",
+    "Url": "https://nookipedia.com/wiki/Queenie",
+    "Biography": {
+        "Siblings": "Oldest Twin",
+        "Skill": "Hitting snooze",
+        "Goal": "Dancer",
+        "Fear": "Mummy Mask"
+    },
+    "Favorites": {
+        "Clothing": "Ornate",
+        "Color": "Black"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "A little bit",
+        "Sugar": "One spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Gorgeous Bed",
+            "Price": "300,000",
+            "Source": "GracieGrace (Winter)"
+        },
+        {
+            "Name": "Gorgeous Chest",
+            "Price": "90,000",
+            "Source": "GracieGrace (Winter)"
+        },
+        {
+            "Name": "Gorgeous Closet",
+            "Price": "140,000",
+            "Source": "GracieGrace (Winter)"
+        },
+        {
+            "Name": "Gorgeous Counter",
+            "Price": "180,000",
+            "Source": "GracieGrace (Winter)"
+        },
+        {
+            "Name": "Gorgeous Desk",
+            "Price": "250,000",
+            "Source": "GracieGrace (Winter)"
+        },
+        {
+            "Name": "Gorgeous Lamp",
+            "Price": "60,000",
+            "Source": "GracieGrace (Winter)"
+        },
+        {
+            "Name": "Gorgeous Table",
+            "Price": "250,000",
+            "Source": "GracieGrace (Winter)"
+        },
+        {
+            "Name": "Gorgeous Wall Clock",
+            "Price": "350,000",
+            "Source": "GracieGrace (Winter)"
+        },
+        {
+            "Name": "Beaded Shirt",
+            "Price": "420",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Corseted Shirt",
+            "Price": "400",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Ostrich",
+    "Personality": "Snooty",
+    "Gender": "Female",
+    "Birthday": "November 13th",
+    "Star Sign": "Scorpio",
+    "Initial Phrase": "chicken",
+    "Initial Clothes": "Laced Shirt* Amethyst Tee*",
+    "Favorite Saying": "You never get a second chance to make a first impression.No retouch necessary.",
+    "image": "/w/images/thumb/2/27/Queenie_NLa.png/175px-Queenie_NLa.png",
+    "Song": "K.K. Gumbo",
+    "Style": "Ornate"
+}

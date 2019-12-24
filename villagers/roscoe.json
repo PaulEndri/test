@@ -1,0 +1,82 @@
+{
+    "Name": "Roscoe",
+    "Url": "https://nookipedia.com/wiki/Roscoe",
+    "Biography": {
+        "Siblings": "Third of 6",
+        "Skill": "Making crafts",
+        "Goal": "Lawyer",
+        "Fear": "Ghost Mask"
+    },
+    "Favorites": {
+        "Clothing": "Rock 'n' Roll",
+        "Color": "Black"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "A little bit",
+        "Sugar": "1 spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Amp",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Bingo Wheel",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "DJ's Turntable",
+            "Price": "3,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Effects Rack",
+            "Price": "2,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Metal Guitar",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Mic Stand",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Steamroller",
+            "Price": "4,500",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Striped Cone",
+            "Price": "800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Tabletop Game",
+            "Price": "2,480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Virtual Boy",
+            "Price": "-",
+            "Source": "Fortune Cookie"
+        }
+    ],
+    "Species": "Horse",
+    "Personality": "Cranky",
+    "Gender": "Male",
+    "Birthday": "June 16th",
+    "Star Sign": "Gemini",
+    "Initial Phrase": "nay",
+    "Initial Clothes": "Checkered Shirt",
+    "Favorite Saying": "Trouble rides a fast horse.I've got my eye on you, bucko!",
+    "image": "/w/images/thumb/1/10/Roscoe_NLa.png/200px-Roscoe_NLa.png",
+    "Song": "K.K. Dirge",
+    "Style": "Sporty"
+}

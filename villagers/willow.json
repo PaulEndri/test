@@ -1,0 +1,82 @@
+{
+    "Name": "Willow",
+    "Url": "https://nookipedia.com/wiki/Willow",
+    "Biography": {
+        "Siblings": "Second of 3 sisters",
+        "Skill": "Playing old maid",
+        "Goal": "Designer",
+        "Fear": "Wolves"
+    },
+    "Favorites": {
+        "Clothing": "Cute",
+        "Color": "White"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "None",
+        "Sugar": "None"
+    },
+    "Gifts": [
+        {
+            "Name": "Baby Bed",
+            "Price": "2,900",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Baby Panda",
+            "Price": "480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Bird Feeder",
+            "Price": "1,260",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Birthday Cake",
+            "Price": "-",
+            "Source": "Birthday"
+        },
+        {
+            "Name": "Birthday Table",
+            "Price": "-",
+            "Source": "Birthday"
+        },
+        {
+            "Name": "Card Bed",
+            "Price": "220,000",
+            "Source": "GracieGrace"
+        },
+        {
+            "Name": "Card Chair",
+            "Price": "100,000",
+            "Source": "GracieGrace"
+        },
+        {
+            "Name": "Card Closet",
+            "Price": "240,000",
+            "Source": "GracieGrace"
+        },
+        {
+            "Name": "Closet Dresser",
+            "Price": "120,000",
+            "Source": "GracieGrace"
+        },
+        {
+            "Name": "Card Lamp",
+            "Price": "80,000",
+            "Source": "GracieGrace"
+        }
+    ],
+    "Species": "Sheep",
+    "Personality": "Snooty",
+    "Gender": "Female",
+    "Birthday": "November 26th",
+    "Star Sign": "",
+    "Initial Phrase": "bo peep",
+    "Initial Clothes": "Bad Plaid Shirt",
+    "Favorite Saying": "You can't fight your genes.",
+    "image": "/w/images/thumb/f/f6/Willow_NLa.png/175px-Willow_NLa.png",
+    "Song": "K.K. Étude",
+    "Style": "Cute"
+}

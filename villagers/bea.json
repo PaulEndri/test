@@ -1,0 +1,66 @@
+{
+    "Name": "Bea",
+    "Url": "https://nookipedia.com/wiki/Bea",
+    "Biography": {
+        "Siblings": "Older Twin Sister",
+        "Skill": "Waking Up Early",
+        "Goal": "Dentist",
+        "Fear": "Wolves"
+    },
+    "Favorites": {
+        "Clothing": "Modern",
+        "Color": "Green"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "Little",
+        "Sugar": "One Spoon"
+    },
+    "Gifts": [
+        {
+            "Name": "Poinsettia",
+            "Price": "1,200",
+            "Source": "Garden Corner"
+        },
+        {
+            "Name": "Diner Tile",
+            "Price": "1,300",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Brown-Bar Shirt",
+            "Price": "5,000",
+            "Source": "GracieGrace (Spring)"
+        },
+        {
+            "Name": "Brown-Bar Tee",
+            "Price": "5,000",
+            "Source": "GracieGrace (Spring)"
+        },
+        {
+            "Name": "Crewel Tee",
+            "Price": "380",
+            "Source": "Ables (Winter)"
+        },
+        {
+            "Name": "Jade Plaid Shirt",
+            "Price": "360",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Jade Plaid Tee",
+            "Price": "360",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Dog",
+    "Personality": "Normal",
+    "Gender": "Female",
+    "Birthday": "October 15th",
+    "Star Sign": "Libra",
+    "Initial Phrase": "bingo",
+    "Initial Clothes": "Go-Go Shirt",
+    "Favorite Saying": "The perfect pair complements each other.",
+    "image": "/w/images/thumb/5/57/Bea_NL.png/200px-Bea_NL.png",
+    "Song": "K.K. Soul"
+}

@@ -1,0 +1,72 @@
+{
+    "Name": "Harry",
+    "Url": "https://nookipedia.com/wiki/Harry",
+    "Biography": {
+        "Siblings": "Oldest of 5",
+        "Skill": "Tongue twisters",
+        "Goal": "Fisherman",
+        "Fear": "Monster Mask"
+    },
+    "Favorites": {
+        "Clothing": "Historical",
+        "Color": "Aqua"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "None",
+        "Sugar": "None"
+    },
+    "Gifts": [
+        {
+            "Name": "Blue Vase",
+            "Price": "2,500",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "CD Player",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Shaved-Ice Maker",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Wall Fan",
+            "Price": "1,680",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Blue-Armor Suit",
+            "Price": "480",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Scale-Armor Pants",
+            "Price": "1,000",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Rimmed Glasses",
+            "Price": "240",
+            "Source": "Accessory Corner"
+        },
+        {
+            "Name": "Round Glasses",
+            "Price": "240",
+            "Source": "Accessory Corner"
+        }
+    ],
+    "Species": "Hippo",
+    "Personality": "JockCranky",
+    "Gender": "Male",
+    "Birthday": "January 7th",
+    "Star Sign": "Capricorn",
+    "Initial Phrase": "beach bum",
+    "Initial Clothes": "Blue aloha shirt*Jungle camo*",
+    "Favorite Saying": "Patience is a virtue for folks with time.",
+    "image": "/w/images/thumb/8/81/Harry_NLa.png/175px-Harry_NLa.png",
+    "Song": "K.K. Calypso",
+    "Style": "Historical"
+}

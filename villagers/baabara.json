@@ -1,0 +1,82 @@
+{
+    "Name": "Baabara",
+    "Url": "https://nookipedia.com/wiki/Baabara",
+    "Biography": {
+        "Siblings": "Third of six",
+        "Skill": "Drawing circles",
+        "Goal": "Esthetician",
+        "Fear": "Wolves"
+    },
+    "Favorites": {
+        "Clothing": "Ornate",
+        "Color": "Brown"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "None",
+        "Sugar": "None"
+    },
+    "Gifts": [
+        {
+            "Name": "Chaise Lounge",
+            "Price": "2,480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Chocolate Fountain",
+            "Price": "2,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Peacock Chair",
+            "Price": "3,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Rococo Bed",
+            "Price": "3,520",
+            "Source": "Spotlight/Wishy"
+        },
+        {
+            "Name": "Rococo Candlestick",
+            "Price": "3,120",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Rococo Chair",
+            "Price": "3,100",
+            "Source": "Spotlight/Wishy"
+        },
+        {
+            "Name": "Rococo Clock",
+            "Price": "3,360",
+            "Source": "Spotlight/Wishy"
+        },
+        {
+            "Name": "Rococo Dresser",
+            "Price": "2,540",
+            "Source": "Spotlight/Wishy"
+        },
+        {
+            "Name": "Rococo Lamp",
+            "Price": "3,200",
+            "Source": "Spotlight/Wishy"
+        },
+        {
+            "Name": "Rococo Shelf",
+            "Price": "3,820",
+            "Source": "Spotlight/Wishy"
+        }
+    ],
+    "Species": "Sheep",
+    "Personality": "Snooty",
+    "Gender": "Female",
+    "Birthday": "March 28th",
+    "Star Sign": "Aries",
+    "Initial Phrase": "daahling",
+    "Initial Clothes": "Purple Tie-Dye",
+    "Favorite Saying": "Don't just follow the flock.I'm so soft that I don't even need a pillow!",
+    "image": "/w/images/thumb/2/2e/Baabara_NLa.png/175px-Baabara_NLa.png",
+    "Song": "K.K. Swing",
+    "Style": "Ornate"
+}

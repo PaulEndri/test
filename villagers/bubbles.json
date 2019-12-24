@@ -1,0 +1,82 @@
+{
+    "Name": "Bubbles",
+    "Url": "https://nookipedia.com/wiki/Bubbles",
+    "Biography": {
+        "Siblings": "Third of 4 Kids",
+        "Skill": "Limboing",
+        "Goal": "Volleyball Player",
+        "Fear": "Ghosts"
+    },
+    "Favorites": {
+        "Clothing": "Sporty",
+        "Color": "Orange"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "None",
+        "Sugar": "None"
+    },
+    "Gifts": [
+        {
+            "Name": "Scoreboard",
+            "Price": "2,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Flower Pop Carpet",
+            "Price": "1,480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Dragon Suit",
+            "Price": "340",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Fishing Vest",
+            "Price": "420",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Five-Ball Tee",
+            "Price": "340",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Matador's Jacket",
+            "Price": "5,600",
+            "Source": "GracieGrace (Sales)"
+        },
+        {
+            "Name": "No.23 Shirt",
+            "Price": "250",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "No.3 Shirt",
+            "Price": "250",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "No.67 Shirt",
+            "Price": "250",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Orange Jacket",
+            "Price": "200",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Hippo",
+    "Personality": "Peppy",
+    "Gender": "Female",
+    "Birthday": "September 18th",
+    "Star Sign": "Virgo",
+    "Initial Phrase": "hipster",
+    "Initial Clothes": "Crossing Shirt*Grape Shirt*",
+    "Favorite Saying": "It's best to keep your lips and purse sealed.",
+    "image": "/w/images/thumb/b/b7/Bubbles_NLa.png/175px-Bubbles_NLa.png",
+    "Song": "K.K. Stroll",
+    "Style": "Sporty"
+}

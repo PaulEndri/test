@@ -1,0 +1,62 @@
+{
+    "Name": "Puddles",
+    "Url": "https://nookipedia.com/wiki/Puddles",
+    "Biography": {
+        "Siblings": "Youngest twin",
+        "Skill": "Limboing",
+        "Goal": "Tennis player",
+        "Fear": "Skeleton"
+    },
+    "Favorites": {
+        "Clothing": "Ornate",
+        "Color": "Pink"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "The regular amount",
+        "Sugar": "Two spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Amethyst Shirt",
+            "Price": "420",
+            "Source": "Ables (Fall)"
+        },
+        {
+            "Name": "Amethyst Tee",
+            "Price": "360",
+            "Source": "Ables (Fall)"
+        },
+        {
+            "Name": "Classic Dress",
+            "Price": "720",
+            "Source": "Ables (Fall)"
+        },
+        {
+            "Name": "Pink Lace-Up Dress",
+            "Price": "7,2000",
+            "Source": "GracieGrace (Spring)"
+        },
+        {
+            "Name": "Festivale Accessory",
+            "Price": "680",
+            "Source": "Accessory Corner"
+        },
+        {
+            "Name": "Flashy Hairpin",
+            "Price": "4,800",
+            "Source": "GracieGrace (Summer)"
+        }
+    ],
+    "Species": "Frog",
+    "Personality": "Peppy",
+    "Gender": "Female",
+    "Birthday": "January 13th",
+    "Star Sign": "Capricorn",
+    "Initial Phrase": "splish",
+    "Initial Clothes": "Lovely Shirt*Pink Heart Shirt*",
+    "Favorite Saying": "Look before you leap.HIP HOP HO! Hey, let's go!",
+    "image": "/w/images/thumb/a/a0/Puddles_NLa.png/150px-Puddles_NLa.png",
+    "Song": "K.K. Ballad",
+    "Style": "Ornate"
+}

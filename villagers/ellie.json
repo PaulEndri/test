@@ -1,0 +1,81 @@
+{
+    "Name": "Ellie",
+    "Url": "https://nookipedia.com/wiki/Ellie",
+    "Biography": {
+        "Siblings": "Blank",
+        "Skill": "Calculating tips",
+        "Goal": "Dentist",
+        "Fear": "Skeletons"
+    },
+    "Favorites": {
+        "Clothing": "Basic",
+        "Color": "Pink"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "Regular amount of milk",
+        "Sugar": "2 spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Game Shelf",
+            "Price": "980",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Super Toilet",
+            "Price": "1,980",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Picnic Shirt",
+            "Price": "420",
+            "Source": "Ables (Fall)"
+        },
+        {
+            "Name": "Picnic Tee",
+            "Price": "330",
+            "Source": "Ables (Fall)"
+        },
+        {
+            "Name": "Pink Parka",
+            "Price": "420",
+            "Source": "Ables (Winter)"
+        },
+        {
+            "Name": "Pink PJ Shirt",
+            "Price": "240",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Red Tie-Dye Tank",
+            "Price": "280",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Red Tie-Dye Tee",
+            "Price": "380",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Picnic Skirt",
+            "Price": "480",
+            "Source": "Ables (Fall)"
+        },
+        {
+            "Name": "Pink PJ Bottoms",
+            "Price": "240",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Elephant",
+    "Personality": "Normal",
+    "Gender": "Female",
+    "Birthday": "May 12th",
+    "Star Sign": "Taurus",
+    "Initial Phrase": "wee one li'l one",
+    "Initial Clothes": "Red Grid Shirt",
+    "Favorite Saying": "You need the sour to highlight the sweet.",
+    "image": "/w/images/thumb/d/dc/Ellie_NL.png/200px-Ellie_NL.png",
+    "Song": "Cafe K.K."
+}

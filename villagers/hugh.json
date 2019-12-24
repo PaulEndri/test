@@ -1,0 +1,82 @@
+{
+    "Name": "Hugh",
+    "Url": "https://nookipedia.com/wiki/Hugh",
+    "Biography": {
+        "Siblings": "Third quadruplet",
+        "Skill": "Eating quickly",
+        "Goal": "Carpenter",
+        "Fear": "Bug mask"
+    },
+    "Favorites": {
+        "Clothing": "Modern",
+        "Color": "Blue"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "Lots",
+        "Sugar": "Three spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Arwing",
+            "Price": "-",
+            "Source": "Fortune Cookie"
+        },
+        {
+            "Name": "Gracie Bed",
+            "Price": "250,000",
+            "Source": "GracieGrace (Summer)"
+        },
+        {
+            "Name": "Gracie Lamp",
+            "Price": "120,000",
+            "Source": "GracieGrace (Summer)"
+        },
+        {
+            "Name": "Upright Vacuum",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Wall-Mounted Monitor",
+            "Price": "3,800",
+            "Source": "Spotlight/Wishy"
+        },
+        {
+            "Name": "Blue Diamond Tee",
+            "Price": "370",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Blue Plaid Shirt",
+            "Price": "420",
+            "Source": "Ables (Fall)"
+        },
+        {
+            "Name": "Blue Plaid Tee",
+            "Price": "360",
+            "Source": "Ables (Fall)"
+        },
+        {
+            "Name": "Gracie Tank",
+            "Price": "6,200",
+            "Source": "GracieGrace (Summer)"
+        },
+        {
+            "Name": "Night-Sky Tee",
+            "Price": "420",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Pig",
+    "Personality": "Lazy",
+    "Gender": "Male",
+    "Birthday": "December 30th",
+    "Star Sign": "Capricorn",
+    "Initial Phrase": "snortle",
+    "Initial Clothes": "Jade Check Print",
+    "Favorite Saying": "Keep it real. Real chill.",
+    "image": "/w/images/thumb/9/9f/Hugh_NLa.png/175px-Hugh_NLa.png",
+    "Song": "K.K. Mambo",
+    "Style": "Modern"
+}

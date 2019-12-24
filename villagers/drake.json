@@ -1,0 +1,82 @@
+{
+    "Name": "Drake",
+    "Url": "https://nookipedia.com/wiki/Drake",
+    "Biography": {
+        "Siblings": "Youngest Triplet",
+        "Skill": "Rock Paper Scissors",
+        "Goal": "Cartoonist",
+        "Fear": "Monster Mask"
+    },
+    "Favorites": {
+        "Clothing": "Modern",
+        "Color": "Brown"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "None at all",
+        "Sugar": "None at all"
+    },
+    "Gifts": [
+        {
+            "Name": "Bishop",
+            "Price": "2,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Cool Globe",
+            "Price": "-",
+            "Source": "Nature Day (North America)"
+        },
+        {
+            "Name": "Gracie Bed",
+            "Price": "250,000",
+            "Source": "GracieGrace (Summer)"
+        },
+        {
+            "Name": "Gracie Bench",
+            "Price": "110,000",
+            "Source": "GracieGrace (Summer)"
+        },
+        {
+            "Name": "Gracie Chair",
+            "Price": "150,000",
+            "Source": "GracieGrace (Summer)"
+        },
+        {
+            "Name": "Gracie Chest",
+            "Price": "300,000",
+            "Source": "GracieGrace (Summer)"
+        },
+        {
+            "Name": "Gracie Desk",
+            "Price": "250,000",
+            "Source": "GracieGrace (Summer)"
+        },
+        {
+            "Name": "Gracie Low Table",
+            "Price": "68,000",
+            "Source": "GracieGrace (Summer)"
+        },
+        {
+            "Name": "Gracie Shelf",
+            "Price": "350,000",
+            "Source": "GracieGrace (Summer)"
+        },
+        {
+            "Name": "Gracie Wagon",
+            "Price": "300,000",
+            "Source": "GracieGrace (Summer)"
+        }
+    ],
+    "Species": "Duck",
+    "Personality": "Lazy",
+    "Gender": "Male",
+    "Birthday": "June 25th",
+    "Star Sign": "Cancer",
+    "Initial Phrase": "quacko",
+    "Initial Clothes": "Folk Shirt",
+    "Favorite Saying": "...Quack.Got any snacks on you?",
+    "image": "/w/images/thumb/a/ab/Drake_NLa.png/175px-Drake_NLa.png",
+    "Song": "K.K. Blues",
+    "Style": "Modern"
+}

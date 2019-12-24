@@ -1,0 +1,82 @@
+{
+    "Name": "Winnie",
+    "Url": "https://nookipedia.com/wiki/Winnie",
+    "Biography": {
+        "Siblings": "Only child",
+        "Skill": "Tiptoeing",
+        "Goal": "Volleyball Player",
+        "Fear": "Wolves"
+    },
+    "Favorites": {
+        "Clothing": "Modern",
+        "Color": "Colorful"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "Little bit",
+        "Sugar": "1"
+    },
+    "Gifts": [
+        {
+            "Name": "Captain's Monitor",
+            "Price": "2,800",
+            "Source": "Spotlight/Wishy"
+        },
+        {
+            "Name": "Conveyor-Belt Sushi",
+            "Price": "3,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Crew's Monitor",
+            "Price": "2,400",
+            "Source": "Spotlight/Wishy"
+        },
+        {
+            "Name": "Gaudi's Lizard",
+            "Price": "1,200",
+            "Source": "Gulliver"
+        },
+        {
+            "Name": "Gracie Bench",
+            "Price": "110,000",
+            "Source": "GracieGrace (Summer)"
+        },
+        {
+            "Name": "Gracie Chair",
+            "Price": "150,000",
+            "Source": "GracieGrace (Summer)"
+        },
+        {
+            "Name": "Gracie Lamp",
+            "Price": "120,000",
+            "Source": "GracieGrace (Summer)"
+        },
+        {
+            "Name": "Gracie Low Table",
+            "Price": "68,000",
+            "Source": "GracieGrace (Summer)"
+        },
+        {
+            "Name": "Gracie Shelf",
+            "Price": "350,000",
+            "Source": "GracieGrace (Summer)"
+        },
+        {
+            "Name": "Gracie Wagon",
+            "Price": "300,000",
+            "Source": "GracieGrace (Summer)"
+        }
+    ],
+    "Species": "Horse",
+    "Personality": "Peppy",
+    "Gender": "Female",
+    "Birthday": "January 31st",
+    "Star Sign": "Aquarius",
+    "Initial Phrase": "hay-OK    biadina",
+    "Initial Clothes": "Cow Shirt",
+    "Favorite Saying": "Smile, and the world smiles with you.",
+    "image": "/w/images/thumb/a/a9/Winnie_NLa.png/175px-Winnie_NLa.png",
+    "Song": "My Place",
+    "Style": "Modern"
+}

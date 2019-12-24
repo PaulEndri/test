@@ -1,0 +1,82 @@
+{
+    "Name": "Jambette",
+    "Url": "https://nookipedia.com/wiki/Jambette",
+    "Biography": {
+        "Siblings": "Third of four",
+        "Skill": "Ventriloquism",
+        "Goal": "Artist",
+        "Fear": "Ghost"
+    },
+    "Favorites": {
+        "Clothing": "Modern",
+        "Color": "Brown"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "A little bit",
+        "Sugar": "One spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Bishop",
+            "Price": "2,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Cool Globe",
+            "Price": "-",
+            "Source": "Nature Day (North America)"
+        },
+        {
+            "Name": "Gracie Bed",
+            "Price": "250,000",
+            "Source": "GracieGrace (Summer)"
+        },
+        {
+            "Name": "Gracie Bench",
+            "Price": "110,000",
+            "Source": "GracieGrace (Summer)"
+        },
+        {
+            "Name": "Gracie Chair",
+            "Price": "150,000",
+            "Source": "GracieGrace (Summer)"
+        },
+        {
+            "Name": "Gracie Chest",
+            "Price": "300,000",
+            "Source": "GracieGrace (Summer)"
+        },
+        {
+            "Name": "Gracie Desk",
+            "Price": "250,000",
+            "Source": "GracieGrace (Summer)"
+        },
+        {
+            "Name": "Gracie Low Table",
+            "Price": "68,000",
+            "Source": "GracieGrace (Summer)"
+        },
+        {
+            "Name": "Gracie Shelf",
+            "Price": "350,000",
+            "Source": "GracieGrace (Summer)"
+        },
+        {
+            "Name": "Gracie Wagon",
+            "Price": "300,000",
+            "Source": "GracieGrace (Summer)"
+        }
+    ],
+    "Species": "Frog",
+    "Personality": "Normal",
+    "Gender": "Female",
+    "Birthday": "October 27th",
+    "Star Sign": "Scorpio",
+    "Initial Phrase": "croak-kay",
+    "Initial Clothes": "Prism Shirt",
+    "Favorite Saying": "It takes more muscles to frown than to smile.",
+    "image": "/w/images/thumb/f/fe/Jambette_NLa.png/175px-Jambette_NLa.png",
+    "Song": "K.K. Country",
+    "Style": "Modern"
+}

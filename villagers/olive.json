@@ -1,0 +1,82 @@
+{
+    "Name": "Olive",
+    "Url": "https://nookipedia.com/wiki/Olive",
+    "Biography": {
+        "Siblings": "Youngest of 2",
+        "Skill": "Dancing",
+        "Goal": "Pastry chef",
+        "Fear": "Bug"
+    },
+    "Favorites": {
+        "Clothing": "Basic",
+        "Color": "Pink"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "None",
+        "Sugar": "None"
+    },
+    "Gifts": [
+        {
+            "Name": "Game Shelf",
+            "Price": "980",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Super Toilet",
+            "Price": "1,980",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Picnic Shirt",
+            "Price": "420",
+            "Source": "Ables (Fall)"
+        },
+        {
+            "Name": "Picnic Tee",
+            "Price": "330",
+            "Source": "Ables (Fall)"
+        },
+        {
+            "Name": "Pink Parka",
+            "Price": "420",
+            "Source": "Ables (Winter)"
+        },
+        {
+            "Name": "Pink PJ Shirt",
+            "Price": "240",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Red Tie-Dye Tank",
+            "Price": "280",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Red Tie-Dye Tee",
+            "Price": "380",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Picnic Skirt",
+            "Price": "480",
+            "Source": "Ables (Fall)"
+        },
+        {
+            "Name": "Pink PJ Bottoms",
+            "Price": "240",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Cub",
+    "Personality": "Normal",
+    "Gender": "Female",
+    "Birthday": "",
+    "Star Sign": "Cancer",
+    "Initial Phrase": "sweet pea",
+    "Initial Clothes": "Dapper Shirt",
+    "Favorite Saying": "Sticky fingers attract bees.",
+    "image": "/w/images/thumb/3/3d/Olive_NL.png/200px-Olive_NL.png",
+    "Song": "Café K.K.",
+    "Style": "Basic"
+}

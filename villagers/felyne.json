@@ -1,0 +1,37 @@
+{
+    "Name": "Felyne",
+    "Url": "https://nookipedia.com/wiki/Felyne",
+    "Biography": {
+        "Siblings": "Only child",
+        "Skill": "Befriending cats",
+        "Goal": "Monster hunter",
+        "Fear": "Monster Mask"
+    },
+    "Favorites": {
+        "Clothing": "Sporty",
+        "Color": "None"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "Lots",
+        "Sugar": "3 spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "(Name)",
+            "Price": "(Price)",
+            "Source": "(Available)"
+        }
+    ],
+    "Species": "Cat",
+    "Personality": "Lazy",
+    "Gender": "Male",
+    "Birthday": "",
+    "Star Sign": "Capricorn",
+    "Initial Phrase": "nya",
+    "Initial Clothes": "Felyne's Suit",
+    "Favorite Saying": "♪ Calmly gathering. Ah, the life of a hunter. ♪",
+    "image": "/w/images/3/31/Felyne_HHD.png",
+    "Song": "K.K. March",
+    "Style": "Sporty"
+}

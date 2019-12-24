@@ -1,0 +1,82 @@
+{
+    "Name": "Blanche",
+    "Url": "https://nookipedia.com/wiki/Blanche",
+    "Biography": {
+        "Siblings": "Fourth of 5 kids",
+        "Skill": "Dusting",
+        "Goal": "Chef",
+        "Fear": "Mummy Mask"
+    },
+    "Favorites": {
+        "Clothing": "Official",
+        "Color": "White"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "Lots",
+        "Sugar": "Three spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Arrow Sign",
+            "Price": "3,500",
+            "Source": "Museum Shop"
+        },
+        {
+            "Name": "Coffee Cup",
+            "Price": "-",
+            "Source": "Brewster"
+        },
+        {
+            "Name": "Computer Desk",
+            "Price": "3,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Display Stand",
+            "Price": "1,500",
+            "Source": "Museum Shop"
+        },
+        {
+            "Name": "Exhibit Partition",
+            "Price": "3,000",
+            "Source": "Museum Shop"
+        },
+        {
+            "Name": "Flat Display Case",
+            "Price": "2,500",
+            "Source": "Museum Shop"
+        },
+        {
+            "Name": "Glass Display Case",
+            "Price": "2,000",
+            "Source": "Museum Shop"
+        },
+        {
+            "Name": "Homework Set",
+            "Price": "680",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Museum Chair",
+            "Price": "3,000",
+            "Source": "Museum Shop"
+        },
+        {
+            "Name": "Reception Table",
+            "Price": "2,000",
+            "Source": "Museum Shop"
+        }
+    ],
+    "Species": "Ostrich",
+    "Personality": "Snooty",
+    "Gender": "Female",
+    "Birthday": "December 21st",
+    "Star Sign": "",
+    "Initial Phrase": "quite so",
+    "Initial Clothes": "Straw Shirt",
+    "Favorite Saying": "Nothing beats personal experience.",
+    "image": "/w/images/thumb/4/47/Blanche_NL.png/200px-Blanche_NL.png",
+    "Song": "K.K. Jongara",
+    "Style": "Official"
+}

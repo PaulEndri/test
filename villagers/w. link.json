@@ -1,0 +1,82 @@
+{
+    "Name": "W. Link",
+    "Url": "https://nookipedia.com/wiki/W._Link",
+    "Biography": {
+        "Siblings": "Only child",
+        "Skill": "Howling",
+        "Goal": "Normal boy",
+        "Fear": "Skeletons"
+    },
+    "Favorites": {
+        "Clothing": "Iconic",
+        "Color": "Green"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "Regular",
+        "Sugar": "2"
+    },
+    "Gifts": [
+        {
+            "Name": "Bamboo Grass",
+            "Price": "-",
+            "Source": "Starcrossed Day (Japan)"
+        },
+        {
+            "Name": "Cucumber Horse",
+            "Price": "-",
+            "Source": "Obon (Japan)"
+        },
+        {
+            "Name": "Deer Scare",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Fan",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Hawthorn Bonsai",
+            "Price": "1,800",
+            "Source": "Garden Corner"
+        },
+        {
+            "Name": "Holly Bonsai",
+            "Price": "1,600",
+            "Source": "Garden Corner"
+        },
+        {
+            "Name": "Hourglass",
+            "Price": "480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Hula Doll",
+            "Price": "1,800",
+            "Source": "Gulliver"
+        },
+        {
+            "Name": "Kinderdijik Windmill",
+            "Price": "1,200",
+            "Source": "Gulliver"
+        },
+        {
+            "Name": "Mugho Bonsai",
+            "Price": "1,800",
+            "Source": "Garden Corner"
+        }
+    ],
+    "Species": "Wolf",
+    "Personality": "Smug",
+    "Gender": "Male",
+    "Birthday": "December 2nd",
+    "Star Sign": "Sagittarius",
+    "Initial Phrase": "ruff ruff",
+    "Initial Clothes": "Wolf Link outfit",
+    "Favorite Saying": "Walk on the wild side.",
+    "image": "/w/images/thumb/3/3d/W._Link_NL_Model.png/100px-W._Link_NL_Model.png",
+    "Song": "K.K. Western",
+    "Style": "Iconic"
+}

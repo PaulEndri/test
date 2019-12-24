@@ -1,0 +1,82 @@
+{
+    "Name": "Frita",
+    "Url": "https://nookipedia.com/wiki/Frita",
+    "Biography": {
+        "Siblings": "Eldest of eight",
+        "Skill": "Chopping vegetables",
+        "Goal": "Chef",
+        "Fear": "Werewolf Hood"
+    },
+    "Favorites": {
+        "Clothing": "Flashy",
+        "Color": "Yellow"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "None at all",
+        "Sugar": "None at all"
+    },
+    "Gifts": [
+        {
+            "Name": "Flying Saucer",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "LED Display",
+            "Price": "3,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Lunar Lander",
+            "Price": "3,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Small LED Display",
+            "Price": "2,500",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Bold-Check Tee",
+            "Price": "360",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Caterpillar Tee",
+            "Price": "6,800",
+            "Source": "GracieGrace (Spring)"
+        },
+        {
+            "Name": "Dr. Shrunk's Jacket",
+            "Price": "-",
+            "Source": "Shrunk"
+        },
+        {
+            "Name": "Future Tank",
+            "Price": "390",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Giraffe Tank",
+            "Price": "5,800",
+            "Source": "GracieGrace (Summer)"
+        },
+        {
+            "Name": "Giraffe Tee",
+            "Price": "6,200",
+            "Source": "GracieGrace (Winter)"
+        }
+    ],
+    "Species": "Sheep",
+    "Personality": "Uchi",
+    "Gender": "Female",
+    "Birthday": "July 16th",
+    "Star Sign": "Cancer",
+    "Initial Phrase": "oh ewe",
+    "Initial Clothes": "Reggae Tee",
+    "Favorite Saying": "Don't sweat the small potatoes.",
+    "image": "/w/images/thumb/4/4c/Frita_NL.png/200px-Frita_NL.png",
+    "Song": "K.K. Rockabilly",
+    "Style": "Flashy"
+}

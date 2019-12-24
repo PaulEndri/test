@@ -1,0 +1,82 @@
+{
+    "Name": "Pompom",
+    "Url": "https://nookipedia.com/wiki/Pompom",
+    "Biography": {
+        "Siblings": "Third of six",
+        "Skill": "Trivia",
+        "Goal": "CEO",
+        "Fear": "Werewolves"
+    },
+    "Favorites": {
+        "Clothing": "Cute",
+        "Color": "Aqua"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "The regular amount",
+        "Sugar": "Two spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Egg Lamp",
+            "Price": "-",
+            "Source": "Zipper"
+        },
+        {
+            "Name": "Ice Bed",
+            "Price": "-",
+            "Source": "Snowmam"
+        },
+        {
+            "Name": "Ice Chair",
+            "Price": "-",
+            "Source": "Snowmam"
+        },
+        {
+            "Name": "Ice Clock",
+            "Price": "-",
+            "Source": "Snowmam"
+        },
+        {
+            "Name": "Ice Closet",
+            "Price": "-",
+            "Source": "Snowmam"
+        },
+        {
+            "Name": "Ice Dresser",
+            "Price": "-",
+            "Source": "Snowmam"
+        },
+        {
+            "Name": "Ice Lamp",
+            "Price": "-",
+            "Source": "Snowmam"
+        },
+        {
+            "Name": "Ice Shelf",
+            "Price": "-",
+            "Source": "Snowmam"
+        },
+        {
+            "Name": "Ice Side Table",
+            "Price": "-",
+            "Source": "Snowmam"
+        },
+        {
+            "Name": "Ice Sofa",
+            "Price": "-",
+            "Source": "Snowmam"
+        }
+    ],
+    "Species": "Duck",
+    "Personality": "Peppy",
+    "Gender": "Female",
+    "Birthday": "February 11th",
+    "Star Sign": "Aquarius",
+    "Initial Phrase": "rah rah",
+    "Initial Clothes": "No. 4 Shirt",
+    "Favorite Saying": "Happiness is a rainy day.This one goes out to all my fans!",
+    "image": "/w/images/thumb/6/6e/Pompom_NLa.png/175px-Pompom_NLa.png",
+    "Song": "K.K. Jazz",
+    "Style": "Cute"
+}

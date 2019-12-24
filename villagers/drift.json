@@ -1,0 +1,82 @@
+{
+    "Name": "Drift",
+    "Url": "https://nookipedia.com/wiki/Drift",
+    "Biography": {
+        "Siblings": "Youngest of 3 Kids",
+        "Skill": "Yo-yoing or shadow puppetry",
+        "Goal": "Tycoon",
+        "Fear": "Bug Mask"
+    },
+    "Favorites": {
+        "Clothing": "Flashy",
+        "Color": "Orange"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "Regular",
+        "Sugar": "2 spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Astro Bed",
+            "Price": "3,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Astro CD Player",
+            "Price": "3,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Astro Chair",
+            "Price": "2,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Astro Clock",
+            "Price": "2,980",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Astro Closet",
+            "Price": "3,480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Astro Dresser",
+            "Price": "3,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Astro Lamp",
+            "Price": "2,680",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Astro Shelf",
+            "Price": "2,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Astro Sofa",
+            "Price": "3,280",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Astro Table",
+            "Price": "3,000",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Frog",
+    "Personality": "Jock",
+    "Gender": "Male",
+    "Birthday": "October 9th",
+    "Star Sign": "Libra",
+    "Initial Phrase": "brah",
+    "Initial Clothes": "Blue Aloha Shirt*No. 67 shirt*",
+    "Favorite Saying": "Always go for the gold!",
+    "image": "/w/images/thumb/f/fd/Drift_NLa.png/150px-Drift_NLa.png",
+    "Song": "K.K. Country",
+    "Style": "Flashy"
+}

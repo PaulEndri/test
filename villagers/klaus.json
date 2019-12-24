@@ -1,0 +1,82 @@
+{
+    "Name": "Klaus",
+    "Url": "https://nookipedia.com/wiki/Klaus",
+    "Biography": {
+        "Siblings": "Eldest of seven",
+        "Skill": "Debating",
+        "Goal": "Politician",
+        "Fear": "Ghosts"
+    },
+    "Favorites": {
+        "Clothing": "Historical",
+        "Color": "Gray"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "A little bit",
+        "Sugar": "One spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Broken Post",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Clay Furnace",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Coffee Grinder",
+            "Price": "-",
+            "Source": "Brewster"
+        },
+        {
+            "Name": "Corinthian Post",
+            "Price": "3,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Cow Skull",
+            "Price": "1,020",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Ionian Post",
+            "Price": "3,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Master Sword",
+            "Price": "-",
+            "Source": "Fortune Cookie"
+        },
+        {
+            "Name": "Old Sewing Machine",
+            "Price": "1,350",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Pantheon Post",
+            "Price": "3,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Plate Armor",
+            "Price": "6,400",
+            "Source": "Spotlight/Wishy"
+        }
+    ],
+    "Species": "Bear",
+    "Personality": "Smug",
+    "Gender": "Male",
+    "Birthday": "March 31",
+    "Star Sign": "Aries",
+    "Initial Phrase": "strudel",
+    "Initial Clothes": "Gold Armor Suit",
+    "Favorite Saying": "Pride goes before fall.",
+    "image": "/w/images/thumb/2/22/Klaus_NLa.png/190px-Klaus_NLa.png",
+    "Song": "K.K. Milonga",
+    "Style": "Historical"
+}

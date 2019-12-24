@@ -1,0 +1,40 @@
+{
+    "Name": "Cherry",
+    "Url": "https://nookipedia.com/wiki/Cherry_(dog)",
+    "Biography": {
+        "Siblings": "Second of five kids",
+        "Skill": "Waking up early",
+        "Goal": "Dancer",
+        "Fear": "Ghost Mask"
+    },
+    "Favorites": {
+        "Clothing": "Rock 'n' Roll",
+        "Color": "Purple"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "The regular amount",
+        "Sugar": "Two spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Tiger Jacket",
+            "Price": "5,000",
+            "Source": "GracieGrace (Sales)"
+        },
+        {
+            "Name": "Funky Glasses",
+            "Price": "240",
+            "Source": "Accessory Corner"
+        }
+    ],
+    "Species": "Dog",
+    "Personality": "Uchi",
+    "Gender": "Female",
+    "Birthday": "May 11th",
+    "Star Sign": "Taurus",
+    "Initial Phrase": "what what",
+    "Initial Clothes": "Spiderweb Tee",
+    "Favorite Saying": "One dog barks at something; the rest bark at him.",
+    "image": "/w/images/thumb/3/32/Cherry_NLa.png/175px-Cherry_NLa.png"
+}

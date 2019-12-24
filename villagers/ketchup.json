@@ -1,0 +1,81 @@
+{
+    "Name": "Ketchup",
+    "Url": "https://nookipedia.com/wiki/Ketchup",
+    "Biography": {
+        "Siblings": "Eldest triplet",
+        "Skill": "Chopping vegetables",
+        "Goal": "Singer",
+        "Fear": "Werewolf Hood"
+    },
+    "Favorites": {
+        "Clothing": "Cute",
+        "Color": "Yellow"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "A little bit",
+        "Sugar": "One spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Coin",
+            "Price": "-",
+            "Source": "Fortune Cookie"
+        },
+        {
+            "Name": "Elephant Slide",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Firefly Lamp",
+            "Price": "-",
+            "Source": "Nat"
+        },
+        {
+            "Name": "Flower Bouquet",
+            "Price": "-",
+            "Source": "Leif"
+        },
+        {
+            "Name": "Giraffe Ruler",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Honeybee Chest",
+            "Price": "-",
+            "Source": "Net"
+        },
+        {
+            "Name": "Lemon Table",
+            "Price": "1,500",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Lily Lamp",
+            "Price": "-",
+            "Source": "Leif"
+        },
+        {
+            "Name": "Pansy Table",
+            "Price": "-",
+            "Source": "Leif"
+        },
+        {
+            "Name": "Pineapple Bed",
+            "Price": "1,990",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Duck",
+    "Personality": "Peppy",
+    "Gender": "Female",
+    "Birthday": "July 27th",
+    "Star Sign": "Leo",
+    "Initial Phrase": "Bitty",
+    "Initial Clothes": "Flicker Shirt*Rose Sky Tee*",
+    "Favorite Saying": "When in doubt, eat a tomato!",
+    "image": "/w/images/thumb/6/6b/Ketchup_NL.png/150px-Ketchup_NL.png",
+    "Song": "Neapolitan"
+}

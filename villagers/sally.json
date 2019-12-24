@@ -1,0 +1,55 @@
+{
+    "Name": "Sally",
+    "Url": "https://nookipedia.com/wiki/Sally",
+    "Biography": {
+        "Siblings": "Youngest of six",
+        "Skill": "Blowing bubbles",
+        "Goal": "Chef",
+        "Fear": "Skeleton"
+    },
+    "Favorites": {
+        "Clothing": "Official",
+        "Color": "Yellow"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "A little bit",
+        "Sugar": "One spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Fancy Frame",
+            "Price": "10,000",
+            "Source": "Museum Shop"
+        },
+        {
+            "Name": "Small Spotlight",
+            "Price": "1,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Standing Spotlight",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Canary Shirt",
+            "Price": "480",
+            "Source": "Ables (Spring)"
+        },
+        {
+            "Name": "School Hat",
+            "Price": "240",
+            "Source": "Accessory Corner"
+        }
+    ],
+    "Species": "Squirrel",
+    "Personality": "Normal",
+    "Gender": "Female",
+    "Birthday": "June 19th",
+    "Star Sign": "Gemini",
+    "Initial Phrase": "nutmeg",
+    "Initial Clothes": "Neo Classic Knit*Icy Shirt*",
+    "Favorite Saying": "Even the smallest acorn may grow into the tallest tree.\"\"Just something to remember me by.",
+    "image": "/w/images/thumb/5/54/Sally_NLa.png/175px-Sally_NLa.png"
+}

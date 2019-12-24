@@ -1,0 +1,82 @@
+{
+    "Name": "Opal",
+    "Url": "https://nookipedia.com/wiki/Opal",
+    "Biography": {
+        "Siblings": "Middle of three",
+        "Skill": "Memorizing stuff",
+        "Goal": "Doctor",
+        "Fear": "Ghost"
+    },
+    "Favorites": {
+        "Clothing": "Official",
+        "Color": "White"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "Lots",
+        "Sugar": "Three spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Arrow Sign",
+            "Price": "3,500",
+            "Source": "Museum Shop"
+        },
+        {
+            "Name": "Coffee Cup",
+            "Price": "-",
+            "Source": "Brewster"
+        },
+        {
+            "Name": "Computer Desk",
+            "Price": "3,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Display Stand",
+            "Price": "1,500",
+            "Source": "Museum Shop"
+        },
+        {
+            "Name": "Exhibit Partition",
+            "Price": "3,000",
+            "Source": "Museum Shop"
+        },
+        {
+            "Name": "Flat Display Case",
+            "Price": "2,500",
+            "Source": "Museum Shop"
+        },
+        {
+            "Name": "Glass Display Case",
+            "Price": "2,000",
+            "Source": "Museum Shop"
+        },
+        {
+            "Name": "Homework Set",
+            "Price": "680",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Museum Chair",
+            "Price": "3,000",
+            "Source": "Museum Shop"
+        },
+        {
+            "Name": "Reception Table",
+            "Price": "2,000",
+            "Source": "Museum Shop"
+        }
+    ],
+    "Species": "Elephant",
+    "Personality": "Snooty",
+    "Gender": "Female",
+    "Birthday": "January 20th",
+    "Star Sign": "Aquarius",
+    "Initial Phrase": "snoot",
+    "Initial Clothes": "Gray Tartan",
+    "Favorite Saying": "However little you think of an elephant, you can't say it won't fill a pot.Now whenever you see this picture of me, you can think warm thoughts.",
+    "image": "/w/images/thumb/5/5f/Opal_NLa.png/175px-Opal_NLa.png",
+    "Song": "Forest Life",
+    "Style": "Official"
+}

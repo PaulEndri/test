@@ -1,0 +1,42 @@
+{
+    "Name": "Marshal",
+    "Url": "https://nookipedia.com/wiki/Marshal",
+    "Biography": {
+        "Siblings": "Middle child",
+        "Skill": "Mental math",
+        "Goal": "Designer",
+        "Fear": "Ghost Mask"
+    },
+    "Favorites": {
+        "Clothing": "Ornate",
+        "Color": "Aqua"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "A little bit",
+        "Sugar": "One spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Corseted Skirt",
+            "Price": "480",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Princess Dress",
+            "Price": "1,000",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Squirrel",
+    "Personality": "Smug",
+    "Gender": "Male",
+    "Birthday": "September 29th",
+    "Star Sign": "Libra",
+    "Initial Phrase": "sulky",
+    "Initial Clothes": "Denim Jacket",
+    "Favorite Saying": "Seize the day.",
+    "image": "/w/images/thumb/b/bb/Marshal_NL.png/175px-Marshal_NL.png",
+    "Song": "Space K.K.",
+    "Style": "Ornate"
+}

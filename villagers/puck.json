@@ -1,0 +1,82 @@
+{
+    "Name": "Puck",
+    "Url": "https://nookipedia.com/wiki/Puck",
+    "Biography": {
+        "Siblings": "Middle kid",
+        "Skill": "Doing handstands",
+        "Goal": "Superhero",
+        "Fear": "Werewolf"
+    },
+    "Favorites": {
+        "Clothing": "Sporty",
+        "Color": "Blue"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "A little bit",
+        "Sugar": "One spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Backpack",
+            "Price": "1,980",
+            "Source": "Tent Camper"
+        },
+        {
+            "Name": "Ball Catcher",
+            "Price": "2,040",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Beach Table",
+            "Price": "30 (medals)",
+            "Source": "Island"
+        },
+        {
+            "Name": "Blue Corner",
+            "Price": "6,800",
+            "Source": "Spotlight/Wishy"
+        },
+        {
+            "Name": "Blue Falcon",
+            "Price": "-",
+            "Source": "Fortune Cookie"
+        },
+        {
+            "Name": "Boxing Barricade",
+            "Price": "1,050",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Boxing Mat",
+            "Price": "1,180",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Golf Bag",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Hurdle",
+            "Price": "980",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Snow Machine",
+            "Price": "-",
+            "Source": "Snowman"
+        }
+    ],
+    "Species": "Penguin",
+    "Personality": "Lazy",
+    "Gender": "Male",
+    "Birthday": "February 21st",
+    "Star Sign": "Pisces",
+    "Initial Phrase": "brrrrrrrrr",
+    "Initial Clothes": "BB Shirt",
+    "Favorite Saying": "A bad attitude will land you in the penalty box.",
+    "image": "/w/images/thumb/b/bc/Puck_NLa.png/200px-Puck_NLa.png",
+    "Song": "K.K. Casbah",
+    "Style": "Sporty"
+}

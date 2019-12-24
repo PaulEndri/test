@@ -1,0 +1,77 @@
+{
+    "Name": "Robin",
+    "Url": "https://nookipedia.com/wiki/Robin",
+    "Biography": {
+        "Siblings": "Third of four sisters",
+        "Skill": "Skimming books",
+        "Goal": "Dermatologist",
+        "Fear": "Werewolf Hood"
+    },
+    "Favorites": {
+        "Clothing": "Official",
+        "Color": "Aqua"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "The regular amount",
+        "Sugar": "Two spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Exhibit Partition",
+            "Price": "3,000",
+            "Source": "Museum Shop"
+        },
+        {
+            "Name": "Folding Chair",
+            "Price": "600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Globe",
+            "Price": "-",
+            "Source": "Katie"
+        },
+        {
+            "Name": "Oil Lamp",
+            "Price": "680",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Tall Display Case",
+            "Price": "2,500",
+            "Source": "Museum Shop"
+        },
+        {
+            "Name": "Blue Tartan Tee",
+            "Price": "390",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Security Tee",
+            "Price": "420",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Sky Dress",
+            "Price": "640",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Monocle",
+            "Price": "320",
+            "Source": "Accessory Corner"
+        }
+    ],
+    "Species": "Bird",
+    "Personality": "Snooty",
+    "Gender": "Female",
+    "Birthday": "December 4th",
+    "Star Sign": "Sagittarius",
+    "Initial Phrase": "la-di-datweet-tawoo",
+    "Initial Clothes": "Kiwi Shirt",
+    "Favorite Saying": "Always keep your wings manicured so you can fly away!",
+    "image": "/w/images/thumb/9/94/Robin_NLa.png/175px-Robin_NLa.png",
+    "Song": "K.K. Bossa",
+    "Style": "Official"
+}

@@ -1,0 +1,57 @@
+{
+    "Name": "Soleil",
+    "Url": "https://nookipedia.com/wiki/Soleil",
+    "Biography": {
+        "Siblings": "Fourth of six",
+        "Skill": "Skimming books",
+        "Goal": "Translator",
+        "Fear": "Ghost mask"
+    },
+    "Favorites": {
+        "Clothing": "Modern",
+        "Color": "Orange"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "Lots",
+        "Sugar": "3 spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Astro Wall",
+            "Price": "2,120",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Kitchen Flooring",
+            "Price": "1,230",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Go-Go Shirt",
+            "Price": "360",
+            "Source": "Ables (Fall)"
+        },
+        {
+            "Name": "Clogs",
+            "Price": "480",
+            "Source": "Kicks"
+        },
+        {
+            "Name": "Stripe Shoes",
+            "Price": "4,000",
+            "Source": "GracieGrace (Fall)"
+        }
+    ],
+    "Species": "Hamster",
+    "Personality": "Snooty",
+    "Gender": "Female",
+    "Birthday": "August 9th",
+    "Star Sign": "Leo",
+    "Initial Phrase": "tarnation",
+    "Initial Clothes": "Swell Shirt",
+    "Favorite Saying": "Sometimes dreams are merely dreams.",
+    "image": "/w/images/thumb/1/1b/Soleil_NL.png/150px-Soleil_NL.png",
+    "Song": "K.K. Oasis",
+    "Style": "Modern"
+}

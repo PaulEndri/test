@@ -1,0 +1,82 @@
+{
+    "Name": "Kid Cat",
+    "Url": "https://nookipedia.com/wiki/Kid_Cat",
+    "Biography": {
+        "Siblings": "Eldest of four",
+        "Skill": "Sprinting",
+        "Goal": "Superhero",
+        "Fear": "Ghost"
+    },
+    "Favorites": {
+        "Clothing": "Sporty",
+        "Color": "Red"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "Regular amount",
+        "Sugar": "Two spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Barbecue",
+            "Price": "1,760",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Bilboquet",
+            "Price": "2,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Bonfire",
+            "Price": "2,240",
+            "Source": "Tent Camper"
+        },
+        {
+            "Name": "Campfire",
+            "Price": "1,360",
+            "Source": "Igloo Camper"
+        },
+        {
+            "Name": "Lantern",
+            "Price": "1,180",
+            "Source": "Isabelle/Timmy & Tommy's"
+        },
+        {
+            "Name": "Life Ring",
+            "Price": "20 (medals)",
+            "Source": "Island"
+        },
+        {
+            "Name": "Miniature Car",
+            "Price": "-",
+            "Source": "Fireworks"
+        },
+        {
+            "Name": "Red Corner",
+            "Price": "6,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Sandbag",
+            "Price": "3,190",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Slalom Gate",
+            "Price": "-",
+            "Source": "Snowman"
+        }
+    ],
+    "Species": "Cat",
+    "Personality": "Jock",
+    "Gender": "Male",
+    "Birthday": "August 1st",
+    "Star Sign": "Leo",
+    "Initial Phrase": "psst",
+    "Initial Clothes": "No. 1 Shirt",
+    "Favorite Saying": "Crime doesn't pay!Spandex is the best disguise.",
+    "image": "/w/images/thumb/1/1b/Kid_Cat_NLa.png/175px-Kid_Cat_NLa.png",
+    "Song": "Go K.K. Rider!",
+    "Style": "Sporty"
+}

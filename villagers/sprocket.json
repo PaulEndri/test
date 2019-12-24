@@ -1,0 +1,81 @@
+{
+    "Name": "Sprocket",
+    "Url": "https://nookipedia.com/wiki/Sprocket",
+    "Biography": {
+        "Siblings": "Middle triplet",
+        "Skill": "Air guitar",
+        "Goal": "Guitarist",
+        "Fear": "Ghost"
+    },
+    "Favorites": {
+        "Clothing": "Sporty",
+        "Color": "Blue"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "Regular",
+        "Sugar": "2"
+    },
+    "Gifts": [
+        {
+            "Name": "Backpack",
+            "Price": "1,980",
+            "Source": "Tent Camper"
+        },
+        {
+            "Name": "Ball Catcher",
+            "Price": "2,040",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Beach Table",
+            "Price": "30 (medals)",
+            "Source": "Island"
+        },
+        {
+            "Name": "Blue Corner",
+            "Price": "6,800",
+            "Source": "Spotlight/Wishy"
+        },
+        {
+            "Name": "Blue Falcon",
+            "Price": "-",
+            "Source": "Fortune Cookie"
+        },
+        {
+            "Name": "Boxing Barricade",
+            "Price": "1,050",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Boxing Mat",
+            "Price": "1,180",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Golf Bag",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Hurdle",
+            "Price": "980",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Snow Machine",
+            "Price": "-",
+            "Source": "Snowman"
+        }
+    ],
+    "Species": "Ostrich",
+    "Personality": "Jock",
+    "Gender": "Male",
+    "Birthday": "",
+    "Star Sign": "Sagittarius",
+    "Initial Phrase": "zort",
+    "Initial Clothes": "No. 67 Shirt",
+    "Favorite Saying": "Strike while the iron is hot.",
+    "image": "/w/images/thumb/7/7a/Sprocket_NL.png/200px-Sprocket_NL.png",
+    "Song": "K.K. Metal"
+}

@@ -1,0 +1,42 @@
+{
+    "Name": "Tex",
+    "Url": "https://nookipedia.com/wiki/Tex",
+    "Biography": {
+        "Siblings": "Eldest of four",
+        "Skill": "Sprinting",
+        "Goal": "Basketball player",
+        "Fear": "Ghost"
+    },
+    "Favorites": {
+        "Clothing": "Rock 'n' Roll",
+        "Color": "Purple"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "The regular amount",
+        "Sugar": "Two spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Tiger Jacket",
+            "Price": "5,000",
+            "Source": "GracieGrace (Sales)"
+        },
+        {
+            "Name": "Funky Glasses",
+            "Price": "240",
+            "Source": "Accessory Corner"
+        }
+    ],
+    "Species": "Penguin",
+    "Personality": "Smug",
+    "Gender": "Male",
+    "Birthday": "October 6th",
+    "Star Sign": "Libra",
+    "Initial Phrase": "picante",
+    "Initial Clothes": "Blue Letter Jacket",
+    "Favorite Saying": "Rules were made to be broken.",
+    "image": "/w/images/thumb/3/36/Tex_NL.png/200px-Tex_NL.png",
+    "Song": "K.K. Metal",
+    "Style": "Rock 'n' roll"
+}

@@ -1,0 +1,82 @@
+{
+    "Name": "Chevre",
+    "Url": "https://nookipedia.com/wiki/Chevre",
+    "Biography": {
+        "Siblings": "Eldest of 5 Kids",
+        "Skill": "Calculating Tips",
+        "Goal": "Teacher",
+        "Fear": "Ghost"
+    },
+    "Favorites": {
+        "Clothing": "Cute",
+        "Color": "White"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "None",
+        "Sugar": "None"
+    },
+    "Gifts": [
+        {
+            "Name": "Baby Bed",
+            "Price": "2,900",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Baby Panda",
+            "Price": "480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Bird Feeder",
+            "Price": "1,260",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Birthday Cake",
+            "Price": "-",
+            "Source": "Birthday"
+        },
+        {
+            "Name": "Birthday Table",
+            "Price": "-",
+            "Source": "Birthday"
+        },
+        {
+            "Name": "Card Bed",
+            "Price": "220,000",
+            "Source": "GracieGrace"
+        },
+        {
+            "Name": "Card Chair",
+            "Price": "100,000",
+            "Source": "GracieGrace"
+        },
+        {
+            "Name": "Card Closet",
+            "Price": "240,000",
+            "Source": "GracieGrace"
+        },
+        {
+            "Name": "Closet Dresser",
+            "Price": "120,000",
+            "Source": "GracieGrace"
+        },
+        {
+            "Name": "Card Lamp",
+            "Price": "80,000",
+            "Source": "GracieGrace"
+        }
+    ],
+    "Species": "Goat",
+    "Personality": "Normal",
+    "Gender": "Female",
+    "Birthday": "March 6th",
+    "Star Sign": "Pisces",
+    "Initial Phrase": "la baa",
+    "Initial Clothes": "Natty Shirt",
+    "Favorite Saying": "If you're gonna dream, dream big.Dream a little dream.",
+    "image": "/w/images/thumb/4/48/Chevre_NLa.png/175px-Chevre_NLa.png",
+    "Song": "K.K. Chorale",
+    "Style": "Cute"
+}

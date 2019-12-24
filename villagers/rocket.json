@@ -1,0 +1,72 @@
+{
+    "Name": "Rocket",
+    "Url": "https://nookipedia.com/wiki/Rocket",
+    "Biography": {
+        "Siblings": "Youngest of 4",
+        "Skill": "Cramming for tests",
+        "Goal": "Swimmer",
+        "Fear": "Bug Mask"
+    },
+    "Favorites": {
+        "Clothing": "Sporty",
+        "Color": "Pink"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "Regular",
+        "Sugar": "2 spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Black Track Jacket",
+            "Price": "420",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Jockey Shirt",
+            "Price": "420",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "No.4 Shirt",
+            "Price": "250",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Pink Sweatpants",
+            "Price": "360",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Pink-Zap Suit",
+            "Price": "760",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Pink-Zap Helmet",
+            "Price": "600",
+            "Source": "Accessory Corner"
+        },
+        {
+            "Name": "Star Cap",
+            "Price": "320",
+            "Source": "Accessory Corner"
+        },
+        {
+            "Name": "Ballet Slippers",
+            "Price": "400",
+            "Source": "Kicks"
+        }
+    ],
+    "Species": "Gorilla",
+    "Personality": "Uchi",
+    "Gender": "Female",
+    "Birthday": "April 14th",
+    "Star Sign": "Aries",
+    "Initial Phrase": "vroom",
+    "Initial Clothes": "No. 4 Shirt",
+    "Favorite Saying": "Art feeds the soul. So does pizza.",
+    "image": "/w/images/thumb/5/5b/Rocket_NL.png/200px-Rocket_NL.png",
+    "Song": "K.K. Adventure",
+    "Style": "Sporty"
+}

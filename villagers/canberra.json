@@ -1,0 +1,82 @@
+{
+    "Name": "Canberra",
+    "Url": "https://nookipedia.com/wiki/Canberra",
+    "Biography": {
+        "Siblings": "Second of six",
+        "Skill": "Making faces",
+        "Goal": "Tennis player",
+        "Fear": "Werewolf Hood"
+    },
+    "Favorites": {
+        "Clothing": "Sporty",
+        "Color": "Orange"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "Lots",
+        "Sugar": "Three spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Scoreboard",
+            "Price": "2,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Flower Pop Carpet",
+            "Price": "1,480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Dragon Suit",
+            "Price": "340",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Fishing Vest",
+            "Price": "420",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Five-Ball Tee",
+            "Price": "340",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Matador's Jacket",
+            "Price": "5,600",
+            "Source": "GracieGrace (Sales)"
+        },
+        {
+            "Name": "No.23 Shirt",
+            "Price": "250",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "No.3 Shirt",
+            "Price": "250",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "No.67 Shirt",
+            "Price": "250",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Orange Jacket",
+            "Price": "200",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Koala",
+    "Personality": "Uchi",
+    "Gender": "Female",
+    "Birthday": "May 14th",
+    "Star Sign": "Taurus",
+    "Initial Phrase": "nuh uh",
+    "Initial Clothes": "Green Striped Tee",
+    "Favorite Saying": "It's never too late to start over.",
+    "image": "/w/images/thumb/a/af/Canberra_NL.png/200px-Canberra_NL.png",
+    "Song": "K.K. House",
+    "Style": "Sporty"
+}

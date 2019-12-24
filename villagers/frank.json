@@ -1,0 +1,82 @@
+{
+    "Name": "Frank",
+    "Url": "https://nookipedia.com/wiki/Frank",
+    "Biography": {
+        "Siblings": "Third of four",
+        "Skill": "Pretending to sleep",
+        "Goal": "Teacher",
+        "Fear": "Ghost"
+    },
+    "Favorites": {
+        "Clothing": "Rock 'n' Roll",
+        "Color": "Gray"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "A little bit",
+        "Sugar": "One spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "DJ's Turntable",
+            "Price": "3,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Drip Pail",
+            "Price": "800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Jackhammer",
+            "Price": "1,880",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Karaoke System",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Manhole Cover",
+            "Price": "1,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Mic Stand",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Wave Breaker",
+            "Price": "35 (medals)",
+            "Source": "Island"
+        },
+        {
+            "Name": "Illusion Wall",
+            "Price": "1,360",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Lab Wall",
+            "Price": "1,460",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Lab Floor",
+            "Price": "1,280",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Eagle",
+    "Personality": "Cranky",
+    "Gender": "Male",
+    "Birthday": "July 30th",
+    "Star Sign": "Cancer",
+    "Initial Phrase": "crushy",
+    "Initial Clothes": "Blue Aloha Shirt*Black Letter Jacket*",
+    "Favorite Saying": "Today is the last day of the rest of your life.",
+    "image": "/w/images/thumb/a/a9/Frank_NL.png/200px-Frank_NL.png",
+    "Song": "K.K. Casbah",
+    "Style": "Rock 'n' roll"
+}

@@ -1,0 +1,81 @@
+{
+    "Name": "Butch",
+    "Url": "https://nookipedia.com/wiki/Butch",
+    "Biography": {
+        "Skill": "Air guitar",
+        "Goal": "Race car driver",
+        "Fear": "Monster Mask"
+    },
+    "Favorites": {
+        "Clothing": "Sporty",
+        "Color": "Black"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "None at all",
+        "Sugar": "None at all"
+    },
+    "Gifts": [
+        {
+            "Name": "Butterfly Machine",
+            "Price": "2,680",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Camp Stove",
+            "Price": "1,200",
+            "Source": "Igloo Camper"
+        },
+        {
+            "Name": "Dartboard",
+            "Price": "1,520",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Snowmobile",
+            "Price": "-",
+            "Source": "Snowman"
+        },
+        {
+            "Name": "Telescope",
+            "Price": "5,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Treadmill",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Volleyball Net",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Weight Bench",
+            "Price": "3,590",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Basketball Tank",
+            "Price": "420",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Beatnik Shirt",
+            "Price": "420",
+            "Source": "Ables (Fall)"
+        }
+    ],
+    "Species": "Dog",
+    "Personality": "Cranky",
+    "Gender": "Male",
+    "Birthday": "November 1st",
+    "Star Sign": "Scorpio",
+    "Initial Phrase": "ROOOOOWF",
+    "Initial Clothes": "Houndstooth Knit*  Arctic Camo*  Arctic-Camo Tee*",
+    "Favorite Saying": "A house without either a cat or a dog is a sad house indeed.I'm watching you!",
+    "image": "/w/images/thumb/d/da/Butch_NLa.png/175px-Butch_NLa.png",
+    "Song": "K.K. Fusion",
+    "Style": "Sporty"
+}

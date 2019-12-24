@@ -1,0 +1,82 @@
+{
+    "Name": "Étoile",
+    "Url": "https://nookipedia.com/wiki/%C3%89toile",
+    "Biography": {
+        "Siblings": "Older twin sister",
+        "Skill": "Handiwork",
+        "Goal": "Interior designer",
+        "Fear": "Werewolf Hood"
+    },
+    "Favorites": {
+        "Clothing": "Cute",
+        "Color": "Pink"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "Lots",
+        "Sugar": "Three spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Azalea Stool",
+            "Price": "-",
+            "Source": "Leif"
+        },
+        {
+            "Name": "Boxed Figurine",
+            "Price": "-",
+            "Source": "Fireworks"
+        },
+        {
+            "Name": "Cradle",
+            "Price": "3,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Crane Game",
+            "Price": "1,680",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Dollhouse",
+            "Price": "2,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Flower Bouquet",
+            "Price": "-",
+            "Source": "Leif"
+        },
+        {
+            "Name": "Lotus Lamp",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Lovely Armoire",
+            "Price": "2,240",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Lovely Bed",
+            "Price": "2,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Lovely Chair",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Sheep",
+    "Personality": "Normal",
+    "Gender": "Female",
+    "Birthday": "December 25th",
+    "Star Sign": "Capricorn",
+    "Initial Phrase": "fuzzy",
+    "Initial Clothes": "Kiki-&-Lala-Outfit",
+    "Favorite Saying": "Who knows what the stars have in store for us?",
+    "image": "/w/images/thumb/7/7c/Etoile_NLa.png/150px-Etoile_NLa.png",
+    "Song": "K.K. Lullaby",
+    "Style": "Cute"
+}

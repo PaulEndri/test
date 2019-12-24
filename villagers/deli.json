@@ -1,0 +1,82 @@
+{
+    "Name": "Deli",
+    "Url": "https://nookipedia.com/wiki/Deli",
+    "Biography": {
+        "Siblings": "Youngest of two",
+        "Skill": "Jumping rope",
+        "Goal": "Musician",
+        "Fear": "Monsters"
+    },
+    "Favorites": {
+        "Clothing": "Iconic",
+        "Color": "Purple"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "Lots",
+        "Sugar": "Three spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Eggplant Cow",
+            "Price": "-",
+            "Source": "Obon (Japan)"
+        },
+        {
+            "Name": "Zodiac Dragon",
+            "Price": "-",
+            "Source": "New Year's Day"
+        },
+        {
+            "Name": "Zodiac Monkey",
+            "Price": "-",
+            "Source": "New Year's Day"
+        },
+        {
+            "Name": "Zodiac Rat",
+            "Price": "-",
+            "Source": "New Year's Day"
+        },
+        {
+            "Name": "Bad Plaid Shirt",
+            "Price": "420",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Bad Plaid Tee",
+            "Price": "420",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Genie Shirt",
+            "Price": "640",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Genie Vest",
+            "Price": "280",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "New Spring Tee",
+            "Price": "520",
+            "Source": "Ables (Spring)"
+        },
+        {
+            "Name": "Periwinkle Shirt",
+            "Price": "380",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Monkey",
+    "Personality": "Lazy",
+    "Gender": "Male",
+    "Birthday": "May 24th",
+    "Star Sign": "Gemini",
+    "Initial Phrase": "monch",
+    "Initial Clothes": "Blue Diamond Shirt",
+    "Favorite Saying": "Righty tighty, lefty loosey.",
+    "image": "/w/images/thumb/5/53/Deli_NL.png/200px-Deli_NL.png",
+    "Song": "K.K. Marathon",
+    "Style": "Iconic"
+}

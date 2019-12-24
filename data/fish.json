@@ -1,0 +1,1425 @@
+[
+    {
+        "Name": "Ribbon Eel",
+        "Price": 600,
+        "Location": "Island",
+        "Size": "Thin",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December"
+        ],
+        "Times": [
+            "Morning (9a-4p)",
+            "Evening (4p-9p)",
+            "Night (9p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Moray Eel",
+        "Price": 2000,
+        "Location": "Island",
+        "Size": "Very Large",
+        "Months": [
+            "June",
+            "July",
+            "August",
+            "September",
+            "October"
+        ],
+        "Times": [
+            "Morning (9a-4p)",
+            "Evening (4p-9p)",
+            "Night (9p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Ray",
+        "Price": 3000,
+        "Location": "Island",
+        "Size": "Very Large",
+        "Months": [
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November"
+        ],
+        "Times": [
+            "Morning (9a-4p)",
+            "Evening (4p-9p)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Giant Trevally",
+        "Price": 4500,
+        "Location": "Island",
+        "Size": "Very Large",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December"
+        ],
+        "Times": [
+            "Morning (9a-4p)",
+            "Evening (4p-9p)",
+            "Night (9p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Napoleonfish",
+        "Price": 10000,
+        "Location": "Island",
+        "Size": "Huge",
+        "Months": [
+            "June",
+            "July",
+            "August"
+        ],
+        "Times": [
+            "Morning (9a-4p)",
+            "Evening (4p-9p)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Whale Shark",
+        "Price": 13000,
+        "Location": "Island",
+        "Size": "Huge with Fin",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December"
+        ],
+        "Times": [
+            "Morning (9a-4p)",
+            "Evening (4p-9p)",
+            "Night (9p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Catfish",
+        "Price": 800,
+        "Location": "Large Pond",
+        "Size": "Large",
+        "Months": [
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October"
+        ],
+        "Times": [
+            "Evening (4p-9p)",
+            "Night (9p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Giant Snakehead",
+        "Price": 5500,
+        "Location": "Large Pond",
+        "Size": "Very Large",
+        "Months": [
+            "June",
+            "July",
+            "August"
+        ],
+        "Times": [
+            "Morning (9a-4p)"
+        ]
+    },
+    {
+        "Name": "Gar",
+        "Price": 6000,
+        "Location": "Large Pond",
+        "Size": "Huge",
+        "Months": [
+            "June",
+            "July",
+            "August",
+            "September"
+        ],
+        "Times": [
+            "Evening (4p-9p)",
+            "Night (9p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Clownfish",
+        "Price": 650,
+        "Location": "Ocean",
+        "Size": "Tiny",
+        "Months": [
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September"
+        ],
+        "Times": [
+            "Morning (9a-4p)",
+            "Evening (4p-9p)",
+            "Night (9p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Seahorse",
+        "Price": 1100,
+        "Location": "Ocean",
+        "Size": "Tiny",
+        "Months": [
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November"
+        ],
+        "Times": [
+            "Morning (9a-4p)",
+            "Evening (4p-9p)",
+            "Night (9p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Horse Mackerel",
+        "Price": 150,
+        "Location": "Ocean",
+        "Size": "Small",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December"
+        ],
+        "Times": [
+            "Morning (9a-4p)",
+            "Evening (4p-9p)",
+            "Night (9p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Butterflyfish",
+        "Price": 1000,
+        "Location": "Ocean",
+        "Size": "Small",
+        "Months": [
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September"
+        ],
+        "Times": [
+            "Morning (9a-4p)",
+            "Evening (4p-9p)",
+            "Night (9p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Surgeonfish",
+        "Price": 1000,
+        "Location": "Ocean",
+        "Size": "Small",
+        "Months": [
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September"
+        ],
+        "Times": [
+            "Morning (9a-4p)",
+            "Evening (4p-9p)",
+            "Night (9p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Puffer Fish",
+        "Price": 240,
+        "Location": "Ocean",
+        "Size": "Medium",
+        "Months": [
+            "June",
+            "July",
+            "August",
+            "September"
+        ],
+        "Times": [
+            "Morning (9a-4p)",
+            "Evening (4p-9p)",
+            "Night (9p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Squid",
+        "Price": 400,
+        "Location": "Ocean",
+        "Size": "Medium",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "December"
+        ],
+        "Times": [
+            "Morning (9a-4p)",
+            "Evening (4p-9p)",
+            "Night (9p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Zebra Turkeyfish",
+        "Price": 400,
+        "Location": "Ocean",
+        "Size": "Medium",
+        "Months": [
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November"
+        ],
+        "Times": [
+            "Morning (9a-4p)",
+            "Evening (4p-9p)",
+            "Night (9p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Red Snapper",
+        "Price": 3000,
+        "Location": "Ocean",
+        "Size": "Medium",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December"
+        ],
+        "Times": [
+            "Morning (9a-4p)",
+            "Evening (4p-9p)",
+            "Night (9p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Barred Knifejaw",
+        "Price": 5000,
+        "Location": "Ocean",
+        "Size": "Medium",
+        "Months": [
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November"
+        ],
+        "Times": [
+            "Morning (9a-4p)",
+            "Evening (4p-9p)",
+            "Night (9p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Olive Flounder",
+        "Price": 300,
+        "Location": "Ocean",
+        "Size": "Large",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December"
+        ],
+        "Times": [
+            "Morning (9a-4p)",
+            "Evening (4p-9p)",
+            "Night (9p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Sea Bass",
+        "Price": 200,
+        "Location": "Ocean",
+        "Size": "Very Large",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December"
+        ],
+        "Times": [
+            "Morning (9a-4p)",
+            "Evening (4p-9p)",
+            "Night (9p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Blue Marlin",
+        "Price": 10000,
+        "Location": "Ocean",
+        "Size": "Huge",
+        "Months": [
+            "June",
+            "July",
+            "August",
+            "September"
+        ],
+        "Times": [
+            "Morning (9a-4p)",
+            "Evening (4p-9p)",
+            "Night (9p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Coelacanth",
+        "Price": 15000,
+        "Location": "Ocean",
+        "Size": "Huge",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December"
+        ],
+        "Times": [
+            "Evening (4p-9p)",
+            "Night (9p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Ocean Sunfish",
+        "Price": 4000,
+        "Location": "Ocean",
+        "Size": "Huge with Fin",
+        "Months": [
+            "June",
+            "July",
+            "August",
+            "September"
+        ],
+        "Times": [
+            "Morning (9a-4p)",
+            "Evening (4p-9p)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Hammerhead Shark",
+        "Price": 8000,
+        "Location": "Ocean",
+        "Size": "Huge with Fin",
+        "Months": [
+            "June",
+            "July",
+            "August",
+            "September"
+        ],
+        "Times": [
+            "Evening (4p-9p)",
+            "Night (9p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Saw Shark",
+        "Price": 12000,
+        "Location": "Ocean",
+        "Size": "Huge with Fin",
+        "Months": [
+            "June",
+            "July",
+            "August",
+            "September"
+        ],
+        "Times": [
+            "Evening (4p-9p)",
+            "Night (9p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Shark",
+        "Price": 15000,
+        "Location": "Ocean",
+        "Size": "Huge with Fin",
+        "Months": [
+            "June",
+            "July",
+            "August",
+            "September"
+        ],
+        "Times": [
+            "Evening (4p-9p)",
+            "Night (9p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Sea Butterfly",
+        "Price": 1000,
+        "Location": "Ocean",
+        "Size": "Tiny",
+        "Months": [
+            "January",
+            "February",
+            "December"
+        ],
+        "Times": [
+            "Morning (9a-4p)",
+            "Evening (4p-9p)",
+            "Night (9p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Blowfish",
+        "Price": 125,
+        "Location": "Ocean",
+        "Size": "Medium",
+        "Months": [
+            "January",
+            "February",
+            "November",
+            "December"
+        ],
+        "Times": [
+            "Morning (9a-4p)",
+            "Evening (4p-9p)",
+            "Night (9p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Dab",
+        "Price": 300,
+        "Location": "Ocean",
+        "Size": "Medium",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "October",
+            "November",
+            "December"
+        ],
+        "Times": [
+            "Morning (9a-4p)",
+            "Evening (4p-9p)",
+            "Night (9p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Football Fish",
+        "Price": 2500,
+        "Location": "Ocean",
+        "Size": "Large",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "November",
+            "December"
+        ],
+        "Times": [
+            "Evening (4p-9p)",
+            "Night (9p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Tuna",
+        "Price": 7000,
+        "Location": "Ocean",
+        "Size": "Huge",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "November",
+            "December"
+        ],
+        "Times": [
+            "Morning (9a-4p)",
+            "Evening (4p-9p)",
+            "Night (9p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Oarfish",
+        "Price": 9000,
+        "Location": "Ocean",
+        "Size": "Huge",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "December"
+        ],
+        "Times": [
+            "Morning (9a-4p)",
+            "Evening (4p-9p)",
+            "Night (9p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Tadpole",
+        "Price": 100,
+        "Location": "Pond",
+        "Size": "Tiny",
+        "Months": [
+            "March",
+            "April",
+            "May",
+            "June",
+            "July"
+        ],
+        "Times": [
+            "Morning (9a-4p)",
+            "Evening (4p-9p)",
+            "Night (9p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Frog",
+        "Price": 120,
+        "Location": "Pond",
+        "Size": "Tiny",
+        "Months": [
+            "May",
+            "June",
+            "July",
+            "August"
+        ],
+        "Times": [
+            "Morning (9a-4p)",
+            "Evening (4p-9p)",
+            "Night (9p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Killifish",
+        "Price": 300,
+        "Location": "Pond",
+        "Size": "Tiny",
+        "Months": [
+            "April",
+            "May",
+            "June",
+            "July",
+            "August"
+        ],
+        "Times": [
+            "Morning (9a-4p)",
+            "Evening (4p-9p)",
+            "Night (9p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Crawfish",
+        "Price": 200,
+        "Location": "Pond",
+        "Size": "Small",
+        "Months": [
+            "April",
+            "May",
+            "June",
+            "July",
+            "August"
+        ],
+        "Times": [
+            "Morning (9a-4p)",
+            "Evening (4p-9p)",
+            "Night (9p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Eel",
+        "Price": 2000,
+        "Location": "River",
+        "Size": "Thin",
+        "Months": [
+            "June",
+            "July",
+            "August"
+        ],
+        "Times": [
+            "Evening (4p-9p)",
+            "Night (9p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Pale Chub",
+        "Price": 200,
+        "Location": "River",
+        "Size": "Tiny",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December"
+        ],
+        "Times": [
+            "Morning (9a-4p)"
+        ]
+    },
+    {
+        "Name": "Neon Tetra",
+        "Price": 500,
+        "Location": "River",
+        "Size": "Tiny",
+        "Months": [
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November"
+        ],
+        "Times": [
+            "Morning (9a-4p)"
+        ]
+    },
+    {
+        "Name": "Goldfish",
+        "Price": 1300,
+        "Location": "River",
+        "Size": "Tiny",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December"
+        ],
+        "Times": [
+            "Morning (9a-4p)",
+            "Evening (4p-9p)",
+            "Night (9p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Guppy",
+        "Price": 1300,
+        "Location": "River",
+        "Size": "Tiny",
+        "Months": [
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November"
+        ],
+        "Times": [
+            "Morning (9a-4p)"
+        ]
+    },
+    {
+        "Name": "Bluegill",
+        "Price": 120,
+        "Location": "River",
+        "Size": "Small",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December"
+        ],
+        "Times": [
+            "Morning (9a-4p)"
+        ]
+    },
+    {
+        "Name": "Crucian Carp",
+        "Price": 120,
+        "Location": "River",
+        "Size": "Small",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December"
+        ],
+        "Times": [
+            "Morning (9a-4p)",
+            "Evening (4p-9p)",
+            "Night (9p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Freshwater Goby",
+        "Price": 300,
+        "Location": "River",
+        "Size": "Small",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December"
+        ],
+        "Times": [
+            "Evening (4p-9p)",
+            "Night (9p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Popeyed Goldfish",
+        "Price": 1300,
+        "Location": "River",
+        "Size": "Tiny",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December"
+        ],
+        "Times": [
+            "Morning (9a-4p)"
+        ]
+    },
+    {
+        "Name": "Nibble Fish",
+        "Price": 1500,
+        "Location": "River",
+        "Size": "Small",
+        "Months": [
+            "May",
+            "June",
+            "July",
+            "August",
+            "September"
+        ],
+        "Times": [
+            "Morning (9a-4p)"
+        ]
+    },
+    {
+        "Name": "Piranha",
+        "Price": 2500,
+        "Location": "River",
+        "Size": "Small",
+        "Months": [
+            "June",
+            "July",
+            "August"
+        ],
+        "Times": [
+            "Morning (9a-4p)",
+            "Night (9p-4a)"
+        ]
+    },
+    {
+        "Name": "Angelfish",
+        "Price": 3000,
+        "Location": "River",
+        "Size": "Small",
+        "Months": [
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October"
+        ],
+        "Times": [
+            "Evening (4p-9p)",
+            "Night (9p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Barbel Steed",
+        "Price": 200,
+        "Location": "River",
+        "Size": "Medium",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December"
+        ],
+        "Times": [
+            "Morning (9a-4p)",
+            "Evening (4p-9p)",
+            "Night (9p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Dace",
+        "Price": 200,
+        "Location": "River",
+        "Size": "Medium",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December"
+        ],
+        "Times": [
+            "Evening (4p-9p)",
+            "Night (9p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Cherry Salmon",
+        "Price": 1000,
+        "Location": "River",
+        "Size": "Medium",
+        "Months": [
+            "March",
+            "April",
+            "May",
+            "June"
+        ],
+        "Times": [
+            "Evening (4p-9p)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Char",
+        "Price": 3800,
+        "Location": "River",
+        "Size": "Medium",
+        "Months": [
+            "March",
+            "April",
+            "May",
+            "June"
+        ],
+        "Times": [
+            "Evening (4p-9p)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Arowana",
+        "Price": 10000,
+        "Location": "River",
+        "Size": "Medium",
+        "Months": [
+            "June",
+            "July",
+            "August"
+        ],
+        "Times": [
+            "Evening (4p-9p)",
+            "Night (9p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Black Bass",
+        "Price": 300,
+        "Location": "River",
+        "Size": "Large",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December"
+        ],
+        "Times": [
+            "Morning (9a-4p)",
+            "Evening (4p-9p)",
+            "Night (9p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Carp",
+        "Price": 300,
+        "Location": "River",
+        "Size": "Large",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December"
+        ],
+        "Times": [
+            "Morning (9a-4p)",
+            "Evening (4p-9p)",
+            "Night (9p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Rainbow Trout",
+        "Price": 800,
+        "Location": "River",
+        "Size": "Large",
+        "Months": [
+            "March",
+            "April",
+            "May",
+            "June"
+        ],
+        "Times": [
+            "Evening (4p-9p)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Koi",
+        "Price": 4000,
+        "Location": "River",
+        "Size": "Large",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December"
+        ],
+        "Times": [
+            "Evening (4p-9p)",
+            "Night (9p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Saddled Bichir",
+        "Price": 4000,
+        "Location": "River",
+        "Size": "Large",
+        "Months": [
+            "June",
+            "July",
+            "August",
+            "September"
+        ],
+        "Times": [
+            "Night (9p-4a)"
+        ]
+    },
+    {
+        "Name": "Dorado",
+        "Price": 15000,
+        "Location": "River",
+        "Size": "Very Large",
+        "Months": [
+            "June",
+            "July",
+            "August",
+            "September"
+        ],
+        "Times": [
+            "Morning (9a-4p)",
+            "Evening (4p-9p)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Bitterling",
+        "Price": 800,
+        "Location": "River",
+        "Size": "Tiny",
+        "Months": [
+            "January",
+            "February",
+            "December"
+        ],
+        "Times": [
+            "Morning (9a-4p)",
+            "Evening (4p-9p)",
+            "Night (9p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Loach",
+        "Price": 300,
+        "Location": "River",
+        "Size": "Small",
+        "Months": [
+            "March",
+            "April",
+            "May"
+        ],
+        "Times": [
+            "Morning (9a-4p)",
+            "Evening (4p-9p)",
+            "Night (9p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Pond Smelt",
+        "Price": 300,
+        "Location": "River",
+        "Size": "Small",
+        "Months": [
+            "January",
+            "February",
+            "December"
+        ],
+        "Times": [
+            "Morning (9a-4p)",
+            "Evening (4p-9p)",
+            "Night (9p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Mitten Crab",
+        "Price": 2000,
+        "Location": "River",
+        "Size": "Small",
+        "Months": [
+            "October",
+            "November"
+        ],
+        "Times": [
+            "Evening (4p-9p)",
+            "Night (9p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Yellow Perch",
+        "Price": 240,
+        "Location": "River",
+        "Size": "Medium",
+        "Months": [
+            "January",
+            "February",
+            "March",
+            "October",
+            "November",
+            "December"
+        ],
+        "Times": [
+            "Morning (9a-4p)",
+            "Evening (4p-9p)",
+            "Night (9p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Sweetfish",
+        "Price": 900,
+        "Location": "River",
+        "Size": "Medium",
+        "Months": [
+            "July",
+            "August"
+        ],
+        "Times": [
+            "Morning (9a-4p)",
+            "Evening (4p-9p)",
+            "Night (9p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Soft Shelled Turtle",
+        "Price": 3750,
+        "Location": "River",
+        "Size": "Medium",
+        "Months": [
+            "August",
+            "September"
+        ],
+        "Times": [
+            "Evening (4p-9p)",
+            "Night (9p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Salmon",
+        "Price": 700,
+        "Location": "River",
+        "Size": "Large",
+        "Months": [
+            "September"
+        ],
+        "Times": [
+            "Morning (9a-4p)",
+            "Evening (4p-9p)",
+            "Night (9p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Pike",
+        "Price": 1800,
+        "Location": "River",
+        "Size": "Very Large",
+        "Months": [
+            "September",
+            "October",
+            "November",
+            "December"
+        ],
+        "Times": [
+            "Morning (9a-4p)",
+            "Evening (4p-9p)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "King Salmon",
+        "Price": 1800,
+        "Location": "River",
+        "Size": "Huge",
+        "Months": [
+            "September"
+        ],
+        "Times": [
+            "Morning (9a-4p)",
+            "Evening (4p-9p)",
+            "Night (9p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Arapaima",
+        "Price": 10000,
+        "Location": "River",
+        "Size": "Huge",
+        "Months": [
+            "July",
+            "August",
+            "September"
+        ],
+        "Times": [
+            "Evening (4p-9p)",
+            "Night (9p-4a)",
+            "Late (4a-9a)"
+        ]
+    },
+    {
+        "Name": "Stringfish",
+        "Price": 15000,
+        "Location": "River",
+        "Size": "Huge",
+        "Months": [
+            "January",
+            "February",
+            "December"
+        ],
+        "Times": [
+            "Evening (4p-9p)",
+            "Night (9p-4a)",
+            "Late (4a-9a)"
+        ]
+    }
+]

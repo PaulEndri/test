@@ -1,0 +1,62 @@
+{
+    "Name": "Molly",
+    "Url": "https://nookipedia.com/wiki/Molly",
+    "Biography": {
+        "Siblings": "Eldest of nine",
+        "Skill": "Drawing circles",
+        "Goal": "Florist",
+        "Fear": "Ghost"
+    },
+    "Favorites": {
+        "Clothing": "Official",
+        "Color": "Beige"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "Lots",
+        "Sugar": "Three spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Flat Display Case",
+            "Price": "2,500",
+            "Source": "Museum Shop"
+        },
+        {
+            "Name": "Beige Emblem Blazer",
+            "Price": "420",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Green Lace-Up Dress",
+            "Price": "700",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Orange Lace-Up Dress",
+            "Price": "700",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Orange Retro Dress",
+            "Price": "680",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Trench Coat",
+            "Price": "5,200",
+            "Source": "GracieGrace (Winter)"
+        }
+    ],
+    "Species": "Duck",
+    "Personality": "Normal",
+    "Gender": "Female",
+    "Birthday": "March 7",
+    "Star Sign": "",
+    "Initial Phrase": "quackidee",
+    "Initial Clothes": "Canary Shirt",
+    "Favorite Saying": "Like water off a duck's back.",
+    "image": "/w/images/thumb/d/db/Molly_NL.png/150px-Molly_NL.png",
+    "Song": "K.K. Ballad",
+    "Style": "Official"
+}

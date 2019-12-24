@@ -1,0 +1,81 @@
+{
+    "Name": "Murphy",
+    "Url": "https://nookipedia.com/wiki/Murphy",
+    "Biography": {
+        "Siblings": "Eldest of 2",
+        "Skill": "Brainteasers",
+        "Goal": "Teacher",
+        "Fear": "Skeleton"
+    },
+    "Favorites": {
+        "Clothing": "Basic",
+        "Color": "White"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "Little bit",
+        "Sugar": "1"
+    },
+    "Gifts": [
+        {
+            "Name": "Automatic Washer",
+            "Price": "4,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Bathroom Sink",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Blue Dresser",
+            "Price": "2,100",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Box of Tissues",
+            "Price": "-",
+            "Source": "Savings"
+        },
+        {
+            "Name": "Breaker",
+            "Price": "800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Bromeliaceae",
+            "Price": "1,300",
+            "Source": "Garden Corner"
+        },
+        {
+            "Name": "Cacao Tree",
+            "Price": "-",
+            "Source": "Valentine's Day"
+        },
+        {
+            "Name": "Candle",
+            "Price": "1,280",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Classic Bed",
+            "Price": "2,580",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Coffeemaker",
+            "Price": "-",
+            "Source": "Brewster"
+        }
+    ],
+    "Species": "Cub",
+    "Personality": "Cranky",
+    "Gender": "Male",
+    "Birthday": "",
+    "Star Sign": "Capricorn",
+    "Initial Phrase": "laddie",
+    "Initial Clothes": "Static Shirt*Purple tye dye*",
+    "Favorite Saying": "More money, more problems.",
+    "image": "/w/images/thumb/7/79/Murphy_NL.png/200px-Murphy_NL.png",
+    "Song": "[[K.K. D & B ACPondering NL]]"
+}

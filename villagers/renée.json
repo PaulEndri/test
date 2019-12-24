@@ -1,0 +1,42 @@
+{
+    "Name": "Renée",
+    "Url": "https://nookipedia.com/wiki/Ren%C3%A9e",
+    "Biography": {
+        "Siblings": "Fourth of six",
+        "Skill": "Making puns",
+        "Goal": "Marathon runner",
+        "Fear": "Mummy"
+    },
+    "Favorites": {
+        "Clothing": "Rock 'n' Roll",
+        "Color": "Purple"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "A regular amount",
+        "Sugar": "Two spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Tiger Jacket",
+            "Price": "5,000",
+            "Source": "GracieGrace (Sales)"
+        },
+        {
+            "Name": "Funky Glasses",
+            "Price": "240",
+            "Source": "Accessory Corner"
+        }
+    ],
+    "Species": "Rhino",
+    "Personality": "Uchi",
+    "Gender": "Female",
+    "Birthday": "May 28th",
+    "Star Sign": "Gemini",
+    "Initial Phrase": "yo yo yo",
+    "Initial Clothes": "Sailor's Tee",
+    "Favorite Saying": "Reckless youth makes rueful age.",
+    "image": "/w/images/thumb/3/35/Renee_NL.png/200px-Renee_NL.png",
+    "Song": "Surfin' K.K.",
+    "Style": "Rock 'n' roll"
+}

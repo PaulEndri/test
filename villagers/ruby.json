@@ -1,0 +1,57 @@
+{
+    "Name": "Ruby",
+    "Url": "https://nookipedia.com/wiki/Ruby",
+    "Biography": {
+        "Siblings": "Only child",
+        "Skill": "Doing handstands",
+        "Goal": "Photographer",
+        "Fear": "Monster"
+    },
+    "Favorites": {
+        "Clothing": "Modern",
+        "Color": "Yellow"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "Lots",
+        "Sugar": "Three spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Cube Clock",
+            "Price": "1,100",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Ceramic Tile",
+            "Price": "1,390",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Cheese Floor",
+            "Price": "1,360",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Swell Shirt",
+            "Price": "400",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Swell Tee",
+            "Price": "400",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Rabbit",
+    "Personality": "Peppy",
+    "Gender": "Female",
+    "Birthday": "December 25th",
+    "Star Sign": "Sagittarius",
+    "Initial Phrase": "li'l ears",
+    "Initial Clothes": "Bunny Shirt",
+    "Favorite Saying": "You can always take the red-eye.I'm not sick, I'm just Albino!",
+    "image": "/w/images/thumb/9/9f/Ruby_NLa.png/175px-Ruby_NLa.png",
+    "Song": "K.K. Ska",
+    "Style": "Modern"
+}

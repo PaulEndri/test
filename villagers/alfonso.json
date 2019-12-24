@@ -1,0 +1,82 @@
+{
+    "Name": "Alfonso",
+    "Url": "https://nookipedia.com/wiki/Alfonso",
+    "Biography": {
+        "Siblings": "Youngest quintuplet",
+        "Skill": "Fishing",
+        "Goal": "Cartoonist",
+        "Fear": "Bugs"
+    },
+    "Favorites": {
+        "Clothing": "Basic",
+        "Color": "Green"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "Regular",
+        "Sugar": "2"
+    },
+    "Gifts": [
+        {
+            "Name": "Aloe",
+            "Price": "1,200",
+            "Source": "Garden Corner"
+        },
+        {
+            "Name": "Bath Mat",
+            "Price": "600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Box Corner Sofa",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Box Sofa",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Bromeliaceae",
+            "Price": "1,300",
+            "Source": "Garden Corner"
+        },
+        {
+            "Name": "Cacao Tree",
+            "Price": "-",
+            "Source": "Valentine's Day"
+        },
+        {
+            "Name": "Cactus",
+            "Price": "1,700",
+            "Source": "Garden Corner"
+        },
+        {
+            "Name": "Caladium",
+            "Price": "1,300",
+            "Source": "Garden Corner"
+        },
+        {
+            "Name": "Coconut Palm",
+            "Price": "1,200",
+            "Source": "Garden Corner"
+        },
+        {
+            "Name": "Common Chair",
+            "Price": "800",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Alligator",
+    "Personality": "Lazy",
+    "Gender": "Male",
+    "Birthday": "June 9th",
+    "Star Sign": "Gemini",
+    "Initial Phrase": "",
+    "Initial Clothes": "Big Bro Shirt",
+    "Favorite Saying": "Slow and steady wins the race.We're friends, so I won't gnaw on your legs, even though I'm starving.",
+    "image": "/w/images/thumb/3/31/Alfonso_NLa.png/175px-Alfonso_NLa.png",
+    "Song": "Forest Life",
+    "Style": "Basic"
+}

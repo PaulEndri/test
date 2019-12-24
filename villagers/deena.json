@@ -1,0 +1,82 @@
+{
+    "Name": "Deena",
+    "Url": "https://nookipedia.com/wiki/Deena",
+    "Biography": {
+        "Siblings": "Second of five",
+        "Skill": "Blowing bubbles",
+        "Goal": "Illustrator",
+        "Fear": "Ghost Mask"
+    },
+    "Favorites": {
+        "Clothing": "Modern",
+        "Color": "Gray"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "A little bit",
+        "Sugar": "One spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Aluminum Briefcase",
+            "Price": "-",
+            "Source": "Savings"
+        },
+        {
+            "Name": "Arwing",
+            "Price": "-",
+            "Source": "Fortune Cookie"
+        },
+        {
+            "Name": "Dishwasher",
+            "Price": "1,980",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Drinking Fountain",
+            "Price": "2,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Espresso Maker",
+            "Price": "-",
+            "Source": "Brewster"
+        },
+        {
+            "Name": "Hologram Machine",
+            "Price": "3,600",
+            "Source": "Spotlight/Wishy"
+        },
+        {
+            "Name": "Large Space Console",
+            "Price": "3,200",
+            "Source": "Spotlight/Wishy"
+        },
+        {
+            "Name": "Salad Bar",
+            "Price": "3,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Small Space Console",
+            "Price": "2,680",
+            "Source": "Spotlight/Wishy"
+        },
+        {
+            "Name": "Space Console",
+            "Price": "3,000",
+            "Source": "Spotlight/Wishy"
+        }
+    ],
+    "Species": "Duck",
+    "Personality": "Normal",
+    "Gender": "Female",
+    "Birthday": "June 27th",
+    "Star Sign": "Cancer",
+    "Initial Phrase": "sugarbill   woowoo",
+    "Initial Clothes": "Mosaic Shirt*  Kiddie Shirt*",
+    "Favorite Saying": "Duck...duck...GOOSE!\"\"I'm not a lame duck!",
+    "image": "/w/images/thumb/7/7b/Deena_NLa.png/175px-Deena_NLa.png",
+    "Song": "Mr. K.K.",
+    "Style": "Modern"
+}

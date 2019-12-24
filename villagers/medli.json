@@ -1,0 +1,82 @@
+{
+    "Name": "Medli",
+    "Url": "https://nookipedia.com/wiki/Medli",
+    "Biography": {
+        "Siblings": "Only child",
+        "Skill": "Helping others",
+        "Goal": "Harpist",
+        "Fear": "Ghost Mask"
+    },
+    "Favorites": {
+        "Clothing": "Iconic",
+        "Color": "White"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "A little",
+        "Sugar": "1 spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Berliner",
+            "Price": "-",
+            "Source": "New Year's Countdown (Europe: German)"
+        },
+        {
+            "Name": "Blossom Lantern",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's (Japan)"
+        },
+        {
+            "Name": "Blue Certificate",
+            "Price": "960",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Bunk Bed",
+            "Price": "2,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Cabana Armchair",
+            "Price": "40 (medals)",
+            "Source": "Island"
+        },
+        {
+            "Name": "Cabana Bed",
+            "Price": "40 (medals)",
+            "Source": "Island"
+        },
+        {
+            "Name": "Dango",
+            "Price": "-",
+            "Source": "Tsukimi (Japan)"
+        },
+        {
+            "Name": "Elder Mask",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Exotic Chair",
+            "Price": "1,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Fancy Doll",
+            "Price": "1,400",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Bird",
+    "Personality": "Normal",
+    "Gender": "Female",
+    "Birthday": "December 13th",
+    "Star Sign": "Sagittarius",
+    "Initial Phrase": "gimme",
+    "Initial Clothes": "Medli Shirt",
+    "Favorite Saying": "",
+    "image": "/w/images/4/46/Medli_NL.png",
+    "Song": "K.K. Island",
+    "Style": "Iconic"
+}

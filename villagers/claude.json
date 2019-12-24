@@ -1,0 +1,81 @@
+{
+    "Name": "Claude",
+    "Url": "https://nookipedia.com/wiki/Claude",
+    "Biography": {
+        "Siblings": "Eldest of six",
+        "Skill": "Calculating tips",
+        "Goal": "Superhero",
+        "Fear": "Ghost Mask"
+    },
+    "Favorites": {
+        "Clothing": "Modern",
+        "Color": "Black"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "None",
+        "Sugar": "None"
+    },
+    "Gifts": [
+        {
+            "Name": "Digital-Photo Frame",
+            "Price": "-",
+            "Source": "Katie"
+        },
+        {
+            "Name": "Flat-Screen TV",
+            "Price": "4,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Hot Plate",
+            "Price": "1,680",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Modern Bed",
+            "Price": "2,320",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Modern Cabinet",
+            "Price": "2,580",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Modern Chair",
+            "Price": "1,500",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Modern Desk",
+            "Price": "2,480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Modern Dresser",
+            "Price": "2,250",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Modern End Table",
+            "Price": "1,900",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Modern Lamp",
+            "Price": "1,400",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Rabbit",
+    "Personality": "Lazy",
+    "Gender": "Male",
+    "Birthday": "",
+    "Star Sign": "Sagittarius",
+    "Initial Phrase": "hopalong",
+    "Initial Clothes": "Dark Polka Shirt",
+    "Favorite Saying": "Don't judge a rabbit by its ears.",
+    "image": "/w/images/thumb/2/25/Claude_NL.png/175px-Claude_NL.png",
+    "Song": "Pondering"
+}

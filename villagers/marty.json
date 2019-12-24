@@ -1,0 +1,81 @@
+{
+    "Name": "Marty",
+    "Url": "https://nookipedia.com/wiki/Marty",
+    "Biography": {
+        "Siblings": "Eldest of 2 kids",
+        "Skill": "Hiding shoes",
+        "Goal": "Baker",
+        "Fear": "Ghost Mask"
+    },
+    "Favorites": {
+        "Clothing": "Sporty",
+        "Color": "Yellow"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "None",
+        "Sugar": "None"
+    },
+    "Gifts": [
+        {
+            "Name": "Camp Stove",
+            "Price": "1,200",
+            "Source": "Igloo Camper"
+        },
+        {
+            "Name": "Curling Stone",
+            "Price": "-",
+            "Source": "Snowman"
+        },
+        {
+            "Name": "Judge's Bell",
+            "Price": "1,790",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Kayak",
+            "Price": "3,460",
+            "Source": "Tent Camper"
+        },
+        {
+            "Name": "Mountain Bike",
+            "Price": "3,380",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Snowmobile",
+            "Price": "-",
+            "Source": "Snowman"
+        },
+        {
+            "Name": "Sprinkler",
+            "Price": "1,640",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Basketball Tank",
+            "Price": "420",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Firefighter Shirt",
+            "Price": "320",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Nine-Ball Shirt",
+            "Price": "340",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Cub",
+    "Personality": "Lazy",
+    "Gender": "Male",
+    "Birthday": "April 16th",
+    "Star Sign": "Aries",
+    "Initial Phrase": "pompom",
+    "Initial Clothes": "Pompompurin outfit",
+    "Favorite Saying": "Just wait until I get started!",
+    "image": "/w/images/thumb/7/7f/Marty_ACPC.png/200px-Marty_ACPC.png",
+    "Song": "My Place"
+}

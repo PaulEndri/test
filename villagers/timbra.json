@@ -1,0 +1,82 @@
+{
+    "Name": "Timbra",
+    "Url": "https://nookipedia.com/wiki/Timbra",
+    "Biography": {
+        "Siblings": "Older twin",
+        "Skill": "Spoon bending",
+        "Goal": "Stylist",
+        "Fear": "Wolf Mask"
+    },
+    "Favorites": {
+        "Clothing": "Ornate",
+        "Color": "Brown"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "Regular amount",
+        "Sugar": "2 spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Chaise Lounge",
+            "Price": "2,480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Chocolate Fountain",
+            "Price": "2,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Peacock Chair",
+            "Price": "3,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Rococo Bed",
+            "Price": "3,520",
+            "Source": "Spotlight/Wishy"
+        },
+        {
+            "Name": "Rococo Candlestick",
+            "Price": "3,120",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Rococo Chair",
+            "Price": "3,100",
+            "Source": "Spotlight/Wishy"
+        },
+        {
+            "Name": "Rococo Clock",
+            "Price": "3,360",
+            "Source": "Spotlight/Wishy"
+        },
+        {
+            "Name": "Rococo Dresser",
+            "Price": "2,540",
+            "Source": "Spotlight/Wishy"
+        },
+        {
+            "Name": "Rococo Lamp",
+            "Price": "3,200",
+            "Source": "Spotlight/Wishy"
+        },
+        {
+            "Name": "Rococo Shelf",
+            "Price": "3,820",
+            "Source": "Spotlight/Wishy"
+        }
+    ],
+    "Species": "Sheep",
+    "Personality": "Snooty",
+    "Gender": "Female",
+    "Birthday": "October 21st",
+    "Star Sign": "Libra",
+    "Initial Phrase": "pine nut",
+    "Initial Clothes": "Leopard print",
+    "Favorite Saying": "Don't pine for the past.",
+    "image": "/w/images/thumb/3/34/Timbra_NL.png/200px-Timbra_NL.png",
+    "Song": "K.K. Cruisin'",
+    "Style": "Ornate"
+}

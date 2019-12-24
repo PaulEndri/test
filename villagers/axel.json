@@ -1,0 +1,72 @@
+{
+    "Name": "Axel",
+    "Url": "https://nookipedia.com/wiki/Axel",
+    "Biography": {
+        "Siblings": "Eldest of four",
+        "Skill": "Competitive eating",
+        "Goal": "Basketball player",
+        "Fear": "Monsters"
+    },
+    "Favorites": {
+        "Clothing": "Sporty",
+        "Color": "Colorful"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "A little milk",
+        "Sugar": "One spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Ball Return",
+            "Price": "6,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Diver Dan",
+            "Price": "60 (medals)",
+            "Source": "Island"
+        },
+        {
+            "Name": "Foosball Table",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Kitschy Clock",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Ski Rack",
+            "Price": "-",
+            "Source": "Snowman"
+        },
+        {
+            "Name": "Racing Shirt",
+            "Price": "460",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Rally Tank",
+            "Price": "280",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Rally Tee",
+            "Price": "380",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Elephant",
+    "Personality": "Jock",
+    "Gender": "Male",
+    "Birthday": "March 23rd",
+    "Star Sign": "Aries",
+    "Initial Phrase": "WHONK",
+    "Initial Clothes": "Fresh Shirt",
+    "Favorite Saying": "Do not compare a fly with an elephant.",
+    "image": "/w/images/thumb/e/e1/Axel_NLa.png/200px-Axel_NLa.png",
+    "Song": "K.K. Dixie",
+    "Style": "Sporty"
+}

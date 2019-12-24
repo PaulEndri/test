@@ -1,0 +1,82 @@
+{
+    "Name": "Anabelle",
+    "Url": "https://nookipedia.com/wiki/Anabelle",
+    "Biography": {
+        "Siblings": "Second of four",
+        "Skill": "Jumping rope",
+        "Goal": "Judge",
+        "Fear": "Ghosts"
+    },
+    "Favorites": {
+        "Clothing": "Cute",
+        "Color": "Green"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "A little bit",
+        "Sugar": "One spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "1-Up Mushroom",
+            "Price": "-",
+            "Source": "Fortune Cookie"
+        },
+        {
+            "Name": "Baby Panda",
+            "Price": "480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Big Festive Tree",
+            "Price": "2,480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Birdbath",
+            "Price": "1,450",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Caterpillar Sofa",
+            "Price": "-",
+            "Source": "Nat"
+        },
+        {
+            "Name": "Cosmos Fan",
+            "Price": "-",
+            "Source": "Leif"
+        },
+        {
+            "Name": "Festive Tree",
+            "Price": "1,300",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Festive Wreath",
+            "Price": "-",
+            "Source": "Toy Day"
+        },
+        {
+            "Name": "Firefly Lamp",
+            "Price": "-",
+            "Source": "Nat"
+        },
+        {
+            "Name": "Flounder Table",
+            "Price": "-",
+            "Source": "Chip"
+        }
+    ],
+    "Species": "Anteater",
+    "Personality": "Peppy",
+    "Gender": "Female",
+    "Birthday": "February 16",
+    "Star Sign": "Aquarius",
+    "Initial Phrase": "snorty",
+    "Initial Clothes": "Tropical Shirt",
+    "Favorite Saying": "Dance like no one's watching!I'll remember you even when I'm famous!",
+    "image": "/w/images/thumb/0/03/Anabelle_NLa.png/200px-Anabelle_NLa.png",
+    "Song": "Aloha K.K.",
+    "Style": "Cute"
+}

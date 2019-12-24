@@ -1,0 +1,82 @@
+{
+    "Name": "Benedict",
+    "Url": "https://nookipedia.com/wiki/Benedict",
+    "Biography": {
+        "Siblings": "Youngest quadruplet",
+        "Skill": "Remembering stuff",
+        "Goal": "Poet",
+        "Fear": "Skulls"
+    },
+    "Favorites": {
+        "Clothing": "Historical",
+        "Color": "Yellow"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "Little Bit",
+        "Sugar": "1"
+    },
+    "Gifts": [
+        {
+            "Name": "Cash Register",
+            "Price": "6,480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Genie's Lamp",
+            "Price": "1,500",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Mummy's Casket",
+            "Price": "4,400",
+            "Source": "Gulliver"
+        },
+        {
+            "Name": "Odd Clock",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Phonograph",
+            "Price": "1,840",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Pyramid",
+            "Price": "3,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Screen",
+            "Price": "1,650",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Sphinx",
+            "Price": "3,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Throne",
+            "Price": "800,000",
+            "Source": "Spotlight/Wishy"
+        },
+        {
+            "Name": "Treasure Chest",
+            "Price": "150 (medals)",
+            "Source": "Island"
+        }
+    ],
+    "Species": "Chicken",
+    "Personality": "Lazy",
+    "Gender": "Male",
+    "Birthday": "October 10th",
+    "Star Sign": "Libra",
+    "Initial Phrase": "uh-hoo",
+    "Initial Clothes": "Two-Ball Shirt",
+    "Favorite Saying": "Don't put all your eggs in one basket.Bok bok bok? Just kidding. A huh huh huh!",
+    "image": "/w/images/thumb/b/bd/Benedict_NLa.png/175px-Benedict_NLa.png",
+    "Song": "I Love You",
+    "Style": "Historical"
+}

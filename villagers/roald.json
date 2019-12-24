@@ -1,0 +1,82 @@
+{
+    "Name": "Roald",
+    "Url": "https://nookipedia.com/wiki/Roald",
+    "Biography": {
+        "Siblings": "Youngest of five",
+        "Skill": "Belly dancing",
+        "Goal": "Pro golfer",
+        "Fear": "Insects"
+    },
+    "Favorites": {
+        "Clothing": "Basic",
+        "Color": "Orange"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "Lots",
+        "Sugar": "Three spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Corkboard",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Deluxe Washer",
+            "Price": "5,200",
+            "Source": "Spotlight/Wishy"
+        },
+        {
+            "Name": "Gerbera",
+            "Price": "780",
+            "Source": "Garden Corner"
+        },
+        {
+            "Name": "Green Bed",
+            "Price": "2,160",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Green Chair",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Green Dresser",
+            "Price": "2,320",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Green Lamp",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Green Table",
+            "Price": "1,700",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Green Wall Clock",
+            "Price": "1,680",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Astro Floor",
+            "Price": "2,120",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Penguin",
+    "Personality": "Jock",
+    "Gender": "Male",
+    "Birthday": "January 5th",
+    "Star Sign": "Capricorn",
+    "Initial Phrase": "b-b-buddy",
+    "Initial Clothes": "Café Shirt",
+    "Favorite Saying": "You must learn to waddle before you can swim.I'm not waddling! I'm working my glutes!",
+    "image": "/w/images/thumb/b/b4/Roald_NLa.png/175px-Roald_NLa.png",
+    "Song": "K.K. Parade",
+    "Style": "Basic"
+}

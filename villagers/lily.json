@@ -1,0 +1,82 @@
+{
+    "Name": "Lily",
+    "Url": "https://nookipedia.com/wiki/Lily",
+    "Biography": {
+        "Siblings": "Eldest of three",
+        "Skill": "Calligraphy",
+        "Goal": "Professor",
+        "Fear": "Ghost mask"
+    },
+    "Favorites": {
+        "Clothing": "Cute",
+        "Color": "Green"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "A little bit",
+        "Sugar": "One spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "1-Up Mushroom",
+            "Price": "-",
+            "Source": "Fortune Cookie"
+        },
+        {
+            "Name": "Baby Panda",
+            "Price": "480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Big Festive Tree",
+            "Price": "2,480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Birdbath",
+            "Price": "1,450",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Caterpillar Sofa",
+            "Price": "-",
+            "Source": "Nat"
+        },
+        {
+            "Name": "Cosmos Fan",
+            "Price": "-",
+            "Source": "Leif"
+        },
+        {
+            "Name": "Festive Tree",
+            "Price": "1,300",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Festive Wreath",
+            "Price": "-",
+            "Source": "Toy Day"
+        },
+        {
+            "Name": "Firefly Lamp",
+            "Price": "-",
+            "Source": "Nat"
+        },
+        {
+            "Name": "Flounder Table",
+            "Price": "-",
+            "Source": "Chip"
+        }
+    ],
+    "Species": "Frog",
+    "Personality": "Normal",
+    "Gender": "Female",
+    "Birthday": "February 4th",
+    "Star Sign": "Aquarius",
+    "Initial Phrase": "toadyzzrrbbitt",
+    "Initial Clothes": "Neo-Classic Knit*Icy Shirt*",
+    "Favorite Saying": "Don't jump to conclusions!",
+    "image": "/w/images/thumb/4/43/Lily_NLa.png/175px-Lily_NLa.png",
+    "Song": "K.K. Salsa",
+    "Style": "Cute"
+}

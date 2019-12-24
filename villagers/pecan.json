@@ -1,0 +1,57 @@
+{
+    "Name": "Pecan",
+    "Url": "https://nookipedia.com/wiki/Pecan",
+    "Biography": {
+        "Siblings": "Older twin",
+        "Skill": "Forgetting stuff",
+        "Goal": "Translator",
+        "Fear": "Werewolf Hood"
+    },
+    "Favorites": {
+        "Clothing": "Official",
+        "Color": "Red"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "None at all",
+        "Sugar": "None at all"
+    },
+    "Gifts": [
+        {
+            "Name": "Fancy Frame",
+            "Price": "10,000",
+            "Source": "Museum Shop"
+        },
+        {
+            "Name": "Oil Lamp",
+            "Price": "680",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Chef's Outfit",
+            "Price": "640",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "HHA Jacket",
+            "Price": "-",
+            "Source": "HHA"
+        },
+        {
+            "Name": "White Stockings",
+            "Price": "160",
+            "Source": "Kicks"
+        }
+    ],
+    "Species": "Squirrel",
+    "Personality": "Snooty",
+    "Gender": "Female",
+    "Birthday": "September 10th",
+    "Star Sign": "Virgo",
+    "Initial Phrase": "chipmunk",
+    "Initial Clothes": "Red Check Shirt",
+    "Favorite Saying": "Promises are like pie crusts - they're made to be broken.One picture of me is worth a thousand pictures of somebody else.",
+    "image": "/w/images/thumb/9/94/Pecan_NLa.png/175px-Pecan_NLa.png",
+    "Song": "Café K.K.",
+    "Style": "Official"
+}

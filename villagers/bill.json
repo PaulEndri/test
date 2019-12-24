@@ -1,0 +1,82 @@
+{
+    "Name": "Bill",
+    "Url": "https://nookipedia.com/wiki/Bill",
+    "Biography": {
+        "Siblings": "Second of quadruplets",
+        "Skill": "Bunting",
+        "Goal": "Race car driver",
+        "Fear": "Wolves"
+    },
+    "Favorites": {
+        "Clothing": "Sporty",
+        "Color": "Green"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "A little bit",
+        "Sugar": "One spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "High-Jump Mat",
+            "Price": "2,980",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Mountain Bike",
+            "Price": "3,380",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Sleeping Bag",
+            "Price": "1,960",
+            "Source": "Tent Camper"
+        },
+        {
+            "Name": "Tennis Table",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Fresh Tank",
+            "Price": "280",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Fresh Tee",
+            "Price": "380",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Green Gym Tee",
+            "Price": "420",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Green Warm-Up Jacket",
+            "Price": "420",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Green-Stripe Tank",
+            "Price": "320",
+            "Source": "Ables (Summer"
+        },
+        {
+            "Name": "Green-Zap Suit",
+            "Price": "640",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Duck",
+    "Personality": "Jock",
+    "Gender": "Male",
+    "Birthday": "February 1st",
+    "Star Sign": "Aquarius",
+    "Initial Phrase": "quacko",
+    "Initial Clothes": "No. 2 Shirt",
+    "Favorite Saying": "Even though there's no 'I' in team, there is a 'me'!Even though there's no 'I' in team, there's no 'everybody' either!",
+    "image": "/w/images/thumb/5/51/Bill_NLa.png/250px-Bill_NLa.png",
+    "Song": "King K.K.",
+    "Style": "Sporty"
+}

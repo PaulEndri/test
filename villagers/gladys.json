@@ -1,0 +1,82 @@
+{
+    "Name": "Gladys",
+    "Url": "https://nookipedia.com/wiki/Gladys",
+    "Biography": {
+        "Siblings": "Eldest of three",
+        "Skill": "Calligraphy",
+        "Goal": "Architect",
+        "Fear": "Bugs"
+    },
+    "Favorites": {
+        "Clothing": "Iconic",
+        "Color": "Green"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "The regular amount",
+        "Sugar": "Two spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Bamboo Grass",
+            "Price": "-",
+            "Source": "Starcrossed Day (Japan)"
+        },
+        {
+            "Name": "Cucumber Horse",
+            "Price": "-",
+            "Source": "Obon (Japan)"
+        },
+        {
+            "Name": "Deer Scare",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Fan",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Hawthorn Bonsai",
+            "Price": "1,800",
+            "Source": "Garden Corner"
+        },
+        {
+            "Name": "Holly Bonsai",
+            "Price": "1,600",
+            "Source": "Garden Corner"
+        },
+        {
+            "Name": "Hourglass",
+            "Price": "480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Hula Doll",
+            "Price": "1,800",
+            "Source": "Gulliver"
+        },
+        {
+            "Name": "Kinderdijik Windmill",
+            "Price": "1,200",
+            "Source": "Gulliver"
+        },
+        {
+            "Name": "Mugho Bonsai",
+            "Price": "1,800",
+            "Source": "Garden Corner"
+        }
+    ],
+    "Species": "Ostrich",
+    "Personality": "Normal",
+    "Gender": "Female",
+    "Birthday": "January 15th",
+    "Star Sign": "Capricorn",
+    "Initial Phrase": "stretch",
+    "Initial Clothes": "Misty Shirt",
+    "Favorite Saying": "Smiles are free.Smiles are free, you know.",
+    "image": "/w/images/thumb/6/6e/Gladys_NLa.png/175px-Gladys_NLa.png",
+    "Song": "K.K. Folk",
+    "Style": "Iconic"
+}

@@ -1,0 +1,46 @@
+{
+    "Name": "Leopold",
+    "Url": "https://nookipedia.com/wiki/Leopold",
+    "Biography": {
+        "Siblings": "Eldest triplet",
+        "Skill": "Debating",
+        "Goal": "Professor",
+        "Fear": "Monster Mask"
+    },
+    "Favorites": {
+        "Clothing": "Ornate",
+        "Color": "Green"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "Lots",
+        "Sugar": "Three spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Moth Orchid",
+            "Price": "2,480",
+            "Source": "Garden Corner"
+        },
+        {
+            "Name": "Peacock Chair",
+            "Price": "3,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Regal Wall",
+            "Price": "2,240",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Lion",
+    "Personality": "JockSmug",
+    "Gender": "Male",
+    "Birthday": "August 14th",
+    "Star Sign": "Leo",
+    "Initial Phrase": "lion cub",
+    "Initial Clothes": "Noble Shirt",
+    "Favorite Saying": "The bigger the first, the bigger your dinner.",
+    "image": "/w/images/thumb/e/ee/Leopold_NL.png/200px-Leopold_NL.png",
+    "Song": "Mr. K.K."
+}

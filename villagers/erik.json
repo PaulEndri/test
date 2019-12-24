@@ -1,0 +1,82 @@
+{
+    "Name": "Erik",
+    "Url": "https://nookipedia.com/wiki/Erik",
+    "Biography": {
+        "Siblings": "Youngest of two",
+        "Skill": "Playing horseshoes",
+        "Goal": "Carpenter",
+        "Fear": "Werewolf Hood"
+    },
+    "Favorites": {
+        "Clothing": "Basic",
+        "Color": "Aqua"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "Lots",
+        "Sugar": "Three spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Bathtub",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Men's Toilet",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Shower Stall",
+            "Price": "2,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Spa Chair",
+            "Price": "600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Table Lamp",
+            "Price": "640",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Trash Can",
+            "Price": "1,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Washbasin",
+            "Price": "2,880",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Water Cooler",
+            "Price": "2,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Backyard Fence",
+            "Price": "800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Aqua Polka Tank",
+            "Price": "280",
+            "Source": "Ables (Summer)"
+        }
+    ],
+    "Species": "Deer",
+    "Personality": "Lazy",
+    "Gender": "Male",
+    "Birthday": "July 27th",
+    "Star Sign": "Leo",
+    "Initial Phrase": "chow down",
+    "Initial Clothes": "Comfy Sweater",
+    "Favorite Saying": "If you're afraid of wolves, don't go to the woods.",
+    "image": "/w/images/thumb/d/db/Erik_NL.png/175px-Erik_NL.png",
+    "Song": "Neapolitan",
+    "Style": "Basic"
+}

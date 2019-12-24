@@ -1,0 +1,82 @@
+{
+    "Name": "Tank",
+    "Url": "https://nookipedia.com/wiki/Tank",
+    "Biography": {
+        "Siblings": "Youngest twin",
+        "Skill": "Doing push-ups",
+        "Goal": "Cartoonist",
+        "Fear": "Skulls"
+    },
+    "Favorites": {
+        "Clothing": "Rock 'n' Roll",
+        "Color": "Green"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "None at all",
+        "Sugar": "None at all"
+    },
+    "Gifts": [
+        {
+            "Name": "Billiard Table",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Dentist's Chair",
+            "Price": "3,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Mahjong Table",
+            "Price": "4,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Oil Barrel",
+            "Price": "800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Robo-Lamp",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Rock Guitar",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Circuit Tank",
+            "Price": "5,120",
+            "Source": "GracieGrace (Fall)"
+        },
+        {
+            "Name": "Jungle-Camo Shirt",
+            "Price": "420",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Kanji Tee",
+            "Price": "420",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Pulse Shirt",
+            "Price": "6,400",
+            "Source": "GracieGrace (Winter)"
+        }
+    ],
+    "Species": "Rhino",
+    "Personality": "Jock",
+    "Gender": "Male",
+    "Birthday": "May 6th",
+    "Star Sign": "Taurus",
+    "Initial Phrase": "kerPOW",
+    "Initial Clothes": "No. 1 Shirt",
+    "Favorite Saying": "Remember to keep your core muscles engaged!",
+    "image": "/w/images/thumb/c/c6/Tank_NLa.png/175px-Tank_NLa.png",
+    "Song": "K.K. Lament",
+    "Style": "Rock 'n' roll"
+}

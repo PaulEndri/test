@@ -1,0 +1,82 @@
+{
+    "Name": "Mott",
+    "Url": "https://nookipedia.com/wiki/Mott",
+    "Biography": {
+        "Siblings": "Eldest of two",
+        "Skill": "Mental math",
+        "Goal": "Lawyer",
+        "Fear": "Ghost Mask"
+    },
+    "Favorites": {
+        "Clothing": "Iconic",
+        "Color": "Aqua"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "None at all",
+        "Sugar": "None at all"
+    },
+    "Gifts": [
+        {
+            "Name": "Boomerang",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Clothesline Pole",
+            "Price": "960",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Fan",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Fancy Doll",
+            "Price": "1,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "World Map",
+            "Price": "-",
+            "Source": "Katie"
+        },
+        {
+            "Name": "Genie Shirt",
+            "Price": "640",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Genie Vest",
+            "Price": "280",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Chima Jeogori Dress",
+            "Price": "880",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Kimono",
+            "Price": "820",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Spring Kimono",
+            "Price": "800",
+            "Source": "Ables (Summer)"
+        }
+    ],
+    "Species": "Lion",
+    "Personality": "Jock",
+    "Gender": "Male",
+    "Birthday": "July 10th",
+    "Star Sign": "Cancer",
+    "Initial Phrase": "cagey",
+    "Initial Clothes": "Pirate's Coat*  Blue Letter Jacket*",
+    "Favorite Saying": "The lion's share goes to the lion.",
+    "image": "/w/images/thumb/b/bc/Mott_NLa.png/175px-Mott_NLa.png",
+    "Song": "Marine Song 2001",
+    "Style": "Iconic"
+}

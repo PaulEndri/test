@@ -1,0 +1,82 @@
+{
+    "Name": "Agnes",
+    "Url": "https://nookipedia.com/wiki/Agnes",
+    "Biography": {
+        "Siblings": "Youngest of 4 kids",
+        "Skill": "Cramming for tests",
+        "Goal": "Pro Golfer",
+        "Fear": "Skeletons"
+    },
+    "Favorites": {
+        "Clothing": "Rock 'n' Roll",
+        "Color": "White"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "Lots",
+        "Sugar": "3"
+    },
+    "Gifts": [
+        {
+            "Name": "Arcade Machine",
+            "Price": "4,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Dentist's Chair",
+            "Price": "3,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Detour Arrow",
+            "Price": "600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Robo-Bed",
+            "Price": "2,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Robo-Chair",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Robo-Clock",
+            "Price": "1,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Robo-Closet",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Robo-Dresser",
+            "Price": "2,560",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Robo-Lamp",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Robo-Sofa",
+            "Price": "2,000",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Pig",
+    "Personality": "Uchi",
+    "Gender": "Female",
+    "Birthday": "April 21st",
+    "Star Sign": "Taurus",
+    "Initial Phrase": "snuffle",
+    "Initial Clothes": "Dazed Shirt",
+    "Favorite Saying": "You reap what you sow.",
+    "image": "/w/images/thumb/5/5c/Agnes_NL.png/150px-Agnes_NL.png",
+    "Song": "K.K. House",
+    "Style": "Rock 'n' roll"
+}

@@ -1,0 +1,82 @@
+{
+    "Name": "Camofrog",
+    "Url": "https://nookipedia.com/wiki/Camofrog",
+    "Biography": {
+        "Siblings": "Second of 5 Kids",
+        "Skill": "Playing Jacks",
+        "Goal": "Pilot",
+        "Fear": "Mummies"
+    },
+    "Favorites": {
+        "Clothing": "Rock 'n' Roll",
+        "Color": "Blue"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "A regular amount",
+        "Sugar": "Two spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Robo-Bed",
+            "Price": "2,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Robo-Sofa",
+            "Price": "2,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Acid-Washed Jacket",
+            "Price": "5,600",
+            "Source": "GracieGrace (Fall)"
+        },
+        {
+            "Name": "Blue Letter Jacket",
+            "Price": "420",
+            "Source": "Ables (Winter)"
+        },
+        {
+            "Name": "Chain-Gang Shirt",
+            "Price": "420",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Chain-Gang Tee",
+            "Price": "260",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Denim Vest",
+            "Price": "420",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Dragon Jacket",
+            "Price": "5,200",
+            "Source": "GracieGrace (Sales)"
+        },
+        {
+            "Name": "Lightning Tee",
+            "Price": "380",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Rugby Shirt",
+            "Price": "420",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Frog",
+    "Personality": "Cranky",
+    "Gender": "Male",
+    "Birthday": "June 5th",
+    "Star Sign": "Gemini",
+    "Initial Phrase": "ten-hut",
+    "Initial Clothes": "MVP Shirt",
+    "Favorite Saying": "What you can't see can't hurt you.You can't see me.",
+    "image": "/w/images/thumb/d/d5/Camofrog_NLa.png/150px-Camofrog_NLa.png",
+    "Song": "K.K. Rock",
+    "Style": "Rock 'n' roll"
+}

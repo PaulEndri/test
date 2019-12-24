@@ -1,0 +1,82 @@
+{
+    "Name": "Lobo",
+    "Url": "https://nookipedia.com/wiki/Lobo",
+    "Biography": {
+        "Siblings": "Third Quadruplet",
+        "Skill": "Fishing",
+        "Goal": "Forest ranger",
+        "Fear": "Werewolf Hood"
+    },
+    "Favorites": {
+        "Clothing": "Historical",
+        "Color": "Black"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "Lots",
+        "Sugar": "Three spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Anchor",
+            "Price": "-",
+            "Source": "Pascal"
+        },
+        {
+            "Name": "Beacon Fire",
+            "Price": "1,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Circle Banner",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "General's Fan",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "General's Stool",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Jolly Roger",
+            "Price": "-",
+            "Source": "Pascal"
+        },
+        {
+            "Name": "Record Player",
+            "Price": "1,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Reel-to-Reel",
+            "Price": "2,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Retro Streo",
+            "Price": "5,500",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Ship Cannon",
+            "Price": "-",
+            "Source": "Pascal"
+        }
+    ],
+    "Species": "Wolf",
+    "Personality": "Cranky",
+    "Gender": "Male",
+    "Birthday": "November 5th",
+    "Star Sign": "Scorpio",
+    "Initial Phrase": "ah-rooooo",
+    "Initial Clothes": "Checkered Shirt",
+    "Favorite Saying": "If it's not one thing, it's another.\"\"I'm always watching you!",
+    "image": "/w/images/thumb/1/14/Lobo_NLa.png/175px-Lobo_NLa.png",
+    "Song": "K.K. Safari",
+    "Style": "Rock 'n' roll"
+}

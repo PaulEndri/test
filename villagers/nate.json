@@ -1,0 +1,82 @@
+{
+    "Name": "Nate",
+    "Url": "https://nookipedia.com/wiki/Nate",
+    "Biography": {
+        "Siblings": "Third of four kids",
+        "Skill": "Playing horseshoes",
+        "Goal": "Sumo wrestler",
+        "Fear": "Werewolf Hood"
+    },
+    "Favorites": {
+        "Clothing": "Basic",
+        "Color": "White"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "None at all",
+        "Sugar": "None at all"
+    },
+    "Gifts": [
+        {
+            "Name": "Automatic Washer",
+            "Price": "4,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Bathroom Sink",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Blue Dresser",
+            "Price": "2,100",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Box of Tissues",
+            "Price": "-",
+            "Source": "Savings"
+        },
+        {
+            "Name": "Breaker",
+            "Price": "800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Bromeliaceae",
+            "Price": "1,300",
+            "Source": "Garden Corner"
+        },
+        {
+            "Name": "Cacao Tree",
+            "Price": "-",
+            "Source": "Valentine's Day"
+        },
+        {
+            "Name": "Candle",
+            "Price": "1,280",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Classic Bed",
+            "Price": "2,580",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Coffeemaker",
+            "Price": "-",
+            "Source": "Brewster"
+        }
+    ],
+    "Species": "Bear",
+    "Personality": "Lazy",
+    "Gender": "Male",
+    "Birthday": "August 16",
+    "Star Sign": "Leo",
+    "Initial Phrase": "yawwwn",
+    "Initial Clothes": "Spring Shirt",
+    "Favorite Saying": "Be true to yourself.",
+    "image": "/w/images/thumb/d/d0/Nate_NLa.png/175px-Nate_NLa.png",
+    "Song": "K.K. Lullaby",
+    "Style": "Basic"
+}

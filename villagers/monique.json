@@ -1,0 +1,62 @@
+{
+    "Name": "Monique",
+    "Url": "https://nookipedia.com/wiki/Monique",
+    "Biography": {
+        "Siblings": "Oldest of four",
+        "Skill": "Juggling",
+        "Goal": "Drummer",
+        "Fear": "Monster Mask"
+    },
+    "Favorites": {
+        "Clothing": "Ornate",
+        "Color": "Pink"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "None",
+        "Sugar": "None"
+    },
+    "Gifts": [
+        {
+            "Name": "Amethyst Shirt",
+            "Price": "420",
+            "Source": "Ables (Fall)"
+        },
+        {
+            "Name": "Amethyst Tee",
+            "Price": "360",
+            "Source": "Ables (Fall)"
+        },
+        {
+            "Name": "Classic Dress",
+            "Price": "720",
+            "Source": "Ables (Fall)"
+        },
+        {
+            "Name": "Pink Lace-Up Dress",
+            "Price": "7,2000",
+            "Source": "GracieGrace (Spring)"
+        },
+        {
+            "Name": "Festivale Accessory",
+            "Price": "680",
+            "Source": "Accessory Corner"
+        },
+        {
+            "Name": "Flashy Hairpin",
+            "Price": "4,800",
+            "Source": "GracieGrace (Summer)"
+        }
+    ],
+    "Species": "Cat",
+    "Personality": "Snooty",
+    "Gender": "Female",
+    "Birthday": "September 30th",
+    "Star Sign": "Libra",
+    "Initial Phrase": "pffffft",
+    "Initial Clothes": "Grape Shirt",
+    "Favorite Saying": "All publicity is good publicity!No airbrushing necessary!",
+    "image": "/w/images/thumb/8/8c/Monique_NLa.png/175px-Monique_NLa.png",
+    "Song": "K.K. Swing",
+    "Style": "Ornate"
+}

@@ -1,0 +1,82 @@
+{
+    "Name": "Goose",
+    "Url": "https://nookipedia.com/wiki/Goose",
+    "Biography": {
+        "Siblings": "Eldest of five",
+        "Skill": "Waking up early",
+        "Goal": "Soccer player",
+        "Fear": "Werewolf"
+    },
+    "Favorites": {
+        "Clothing": "Basic",
+        "Color": "White"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "Lots",
+        "Sugar": "Three spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Automatic Washer",
+            "Price": "4,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Bathroom Sink",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Blue Dresser",
+            "Price": "2,100",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Box of Tissues",
+            "Price": "-",
+            "Source": "Savings"
+        },
+        {
+            "Name": "Breaker",
+            "Price": "800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Bromeliaceae",
+            "Price": "1,300",
+            "Source": "Garden Corner"
+        },
+        {
+            "Name": "Cacao Tree",
+            "Price": "-",
+            "Source": "Valentine's Day"
+        },
+        {
+            "Name": "Candle",
+            "Price": "1,280",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Classic Bed",
+            "Price": "2,580",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Coffeemaker",
+            "Price": "-",
+            "Source": "Brewster"
+        }
+    ],
+    "Species": "Chicken",
+    "Personality": "Jock",
+    "Gender": "Male",
+    "Birthday": "October 4th",
+    "Star Sign": "Libra",
+    "Initial Phrase": "buh-kay",
+    "Initial Clothes": "Tropical Shirt",
+    "Favorite Saying": "Birds of a feather crow together.Who ya callin' chicken, chicken?!",
+    "image": "/w/images/thumb/1/1d/Goose_NLa.png/200px-Goose_NLa.png",
+    "Song": "K.K. Country",
+    "Style": "Basic"
+}

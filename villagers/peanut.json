@@ -1,0 +1,82 @@
+{
+    "Name": "Peanut",
+    "Url": "https://nookipedia.com/wiki/Peanut",
+    "Biography": {
+        "Siblings": "Middle triplet",
+        "Skill": "Hula dancing",
+        "Goal": "Model",
+        "Fear": "Bug mask"
+    },
+    "Favorites": {
+        "Clothing": "Cute",
+        "Color": "Red"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "Regular",
+        "Sugar": "2 spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Balloon-Dog Lamp",
+            "Price": "-",
+            "Source": "Balloon"
+        },
+        {
+            "Name": "Birthday Cake",
+            "Price": "-",
+            "Source": "Birthday"
+        },
+        {
+            "Name": "Birthday Candles",
+            "Price": "-",
+            "Source": "Birthday"
+        },
+        {
+            "Name": "Birthday Table",
+            "Price": "-",
+            "Source": "Birthday"
+        },
+        {
+            "Name": "Candy Machine",
+            "Price": "980",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Capsule-Toy Machine",
+            "Price": "1,480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Card Bed",
+            "Price": "220,000",
+            "Source": "GracieGrace"
+        },
+        {
+            "Name": "Card Chair",
+            "Price": "100,000",
+            "Source": "GracieGrace"
+        },
+        {
+            "Name": "Card Closet",
+            "Price": "240,000",
+            "Source": "GracieGrace"
+        },
+        {
+            "Name": "Card Dresser",
+            "Price": "120,000",
+            "Source": "GracieGrace"
+        }
+    ],
+    "Species": "Squirrel",
+    "Personality": "Peppy",
+    "Gender": "Female",
+    "Birthday": "June 8th",
+    "Star Sign": "Gemini",
+    "Initial Phrase": "slacker",
+    "Initial Clothes": "Beatnik Shirt",
+    "Favorite Saying": "Never take a nibble when you can take a bite.This is my star smile.",
+    "image": "/w/images/thumb/2/29/Peanut_NLa.png/175px-Peanut_NLa.png",
+    "Song": "K.K. Salsa",
+    "Style": "Cute"
+}

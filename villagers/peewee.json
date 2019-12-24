@@ -1,0 +1,82 @@
+{
+    "Name": "Peewee",
+    "Url": "https://nookipedia.com/wiki/Peewee",
+    "Biography": {
+        "Siblings": "Third of six",
+        "Skill": "Karaoke",
+        "Goal": "Pro wrestler",
+        "Fear": "Monster"
+    },
+    "Favorites": {
+        "Clothing": "Sporty",
+        "Color": "Gray"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "A little bit",
+        "Sugar": "One spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Basketball Hoop",
+            "Price": "2,120",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Butterfly Machine",
+            "Price": "2,680",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Curling Stone",
+            "Price": "-",
+            "Source": "Snowman"
+        },
+        {
+            "Name": "Exercise Bike",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Kitschy Clock",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Lat Pulldown Machine",
+            "Price": "2,380",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Lift Chair",
+            "Price": "-",
+            "Source": "Snowman"
+        },
+        {
+            "Name": "Mini Circuit",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Propane Stove",
+            "Price": "1,470",
+            "Source": "Tent Camper"
+        },
+        {
+            "Name": "Sandbag",
+            "Price": "3,190",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Gorilla",
+    "Personality": "Cranky",
+    "Gender": "Male",
+    "Birthday": "September 11th",
+    "Star Sign": "Virgo",
+    "Initial Phrase": "Li'l dude",
+    "Initial Clothes": "Five-Ball Tee",
+    "Favorite Saying": "Look behind you.I AM BEHIND YOU!",
+    "image": "/w/images/thumb/f/ff/Peewee_NLa.png/200px-Peewee_NLa.png",
+    "Song": "K.K. Rally",
+    "Style": "Sporty"
+}

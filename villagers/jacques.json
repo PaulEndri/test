@@ -1,0 +1,82 @@
+{
+    "Name": "Jacques",
+    "Url": "https://nookipedia.com/wiki/Jacques",
+    "Biography": {
+        "Siblings": "Third of fifth",
+        "Skill": "Beat boxing",
+        "Goal": "Singer",
+        "Fear": "Bug Mask"
+    },
+    "Favorites": {
+        "Clothing": "Flashy",
+        "Color": "Green"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "Lots",
+        "Sugar": "Three spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Creepy Cauldron",
+            "Price": "-",
+            "Source": "Halloween"
+        },
+        {
+            "Name": "Florence Flask",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Hospital Bed",
+            "Price": "3,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Caterpillar Tee",
+            "Price": "6,800",
+            "Source": "GracieGrace (Spring)"
+        },
+        {
+            "Name": "Crossing Shirt",
+            "Price": "420",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Kappa Costume",
+            "Price": "20 (medals)",
+            "Source": "Island"
+        },
+        {
+            "Name": "Loud Bloom Tee",
+            "Price": "360",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Pop Bloom Tee",
+            "Price": "360",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Sundae Tank",
+            "Price": "420",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Kappa-Costume Pants",
+            "Price": "15 (medals)",
+            "Source": "Island"
+        }
+    ],
+    "Species": "Bird",
+    "Personality": "Smug",
+    "Gender": "Male",
+    "Birthday": "June 22nd",
+    "Star Sign": "Cancer",
+    "Initial Phrase": "zut alors",
+    "Initial Clothes": "Red Flannel Shirt",
+    "Favorite Saying": "Better to have loved and squawked than to have never loved at all.",
+    "image": "/w/images/thumb/9/99/Jacques_NL.png/175px-Jacques_NL.png",
+    "Song": "K.K. House",
+    "Style": "Flashy"
+}

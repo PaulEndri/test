@@ -1,0 +1,82 @@
+{
+    "Name": "Sterling",
+    "Url": "https://nookipedia.com/wiki/Sterling",
+    "Biography": {
+        "Siblings": "Eldest of five",
+        "Skill": "Doing chin-ups",
+        "Goal": "Police officer",
+        "Fear": "Bug"
+    },
+    "Favorites": {
+        "Clothing": "Historical",
+        "Color": "Blue"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "A little bit",
+        "Sugar": "One spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Kotatsu",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Master Sword",
+            "Price": "-",
+            "Source": "Fortune Cookie"
+        },
+        {
+            "Name": "Ninja Shirt",
+            "Price": "420",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Scale-Armor Suit",
+            "Price": "480",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Vertigo Shirt",
+            "Price": "420",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Vertigo Tee",
+            "Price": "380",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Ninja Pants",
+            "Price": "480",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Samurai Pants",
+            "Price": "800",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Scale-Armor Pants",
+            "Price": "1,000",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "King Tut Mask",
+            "Price": "12,000",
+            "Source": "Accessory Corner"
+        }
+    ],
+    "Species": "Eagle",
+    "Personality": "Jock",
+    "Gender": "Male",
+    "Birthday": "December 11th",
+    "Star Sign": "Sagittarius",
+    "Initial Phrase": "skraaaaw",
+    "Initial Clothes": "Scale Armor Suit",
+    "Favorite Saying": "Discretion is the better part of valor.",
+    "image": "/w/images/thumb/7/71/Sterling_NLa.png/175px-Sterling_NLa.png",
+    "Song": "Lucky K.K.",
+    "Style": "Historical"
+}

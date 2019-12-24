@@ -1,0 +1,82 @@
+{
+    "Name": "Clay",
+    "Url": "https://nookipedia.com/wiki/Clay",
+    "Biography": {
+        "Siblings": "Eldest of 7 Kids",
+        "Skill": "Writing Backwards",
+        "Goal": "Archaeologist",
+        "Fear": "Mummies"
+    },
+    "Favorites": {
+        "Clothing": "Historical",
+        "Color": "Beige"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "None at all",
+        "Sugar": "None at all"
+    },
+    "Gifts": [
+        {
+            "Name": "Covered Wagon",
+            "Price": "3,800",
+            "Source": "Spotlight/Wishy"
+        },
+        {
+            "Name": "General's Stool",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Ice-Cream Case",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Low Screen",
+            "Price": "1,480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Paper Lantern",
+            "Price": "800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Paper Wall Lamp",
+            "Price": "800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Paulownia Closet",
+            "Price": "1,300",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Tea Vase",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Chic Wall",
+            "Price": "1,960",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Beige Knit Shirt",
+            "Price": "320",
+            "Source": "Ables (Winter)"
+        }
+    ],
+    "Species": "Hamster",
+    "Personality": "Lazy",
+    "Gender": "Male",
+    "Birthday": "October 19th",
+    "Star Sign": "Libra",
+    "Initial Phrase": "thump",
+    "Initial Clothes": "Uncommon Shirt",
+    "Favorite Saying": "Life is just a bowl of cherries.",
+    "image": "/w/images/thumb/7/77/Clay_NL.png/150px-Clay_NL.png",
+    "Song": "K.K. Safari",
+    "Style": "Historical"
+}

@@ -1,0 +1,81 @@
+{
+    "Name": "Tad",
+    "Url": "https://nookipedia.com/wiki/Tad",
+    "Biography": {
+        "Siblings": "Third quintuplet",
+        "Skill": "Telling jokes",
+        "Goal": "CEO",
+        "Fear": "Bug"
+    },
+    "Favorites": {
+        "Clothing": "Sporty",
+        "Color": "Yellow"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "Little bit",
+        "Sugar": "1"
+    },
+    "Gifts": [
+        {
+            "Name": "Camp Stove",
+            "Price": "1,200",
+            "Source": "Igloo Camper"
+        },
+        {
+            "Name": "Curling Stone",
+            "Price": "-",
+            "Source": "Snowman"
+        },
+        {
+            "Name": "Judge's Bell",
+            "Price": "1,790",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Kayak",
+            "Price": "3,460",
+            "Source": "Tent Camper"
+        },
+        {
+            "Name": "Mountain Bike",
+            "Price": "3,380",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Snowmobile",
+            "Price": "-",
+            "Source": "Snowman"
+        },
+        {
+            "Name": "Sprinkler",
+            "Price": "1,640",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Basketball Tank",
+            "Price": "420",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Firefighter Shirt",
+            "Price": "320",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Nine-Ball Shirt",
+            "Price": "340",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Frog",
+    "Personality": "Jock",
+    "Gender": "Male",
+    "Birthday": "August 3rd",
+    "Star Sign": "Leo",
+    "Initial Phrase": "sluuuurp",
+    "Initial Clothes": "1-Ball Shirt",
+    "Favorite Saying": "Take a leap!",
+    "image": "/w/images/thumb/b/b5/Tad_NL.png/200px-Tad_NL.png",
+    "Song": "Wandering"
+}

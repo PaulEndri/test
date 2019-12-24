@@ -1,0 +1,82 @@
+{
+    "Name": "Dora",
+    "Url": "https://nookipedia.com/wiki/Dora",
+    "Biography": {
+        "Siblings": "Eldest of six",
+        "Skill": "Dusting",
+        "Goal": "Translator",
+        "Fear": "Ghosts"
+    },
+    "Favorites": {
+        "Clothing": "Iconic",
+        "Color": "Purple"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "Lots",
+        "Sugar": "Three spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Eggplant Cow",
+            "Price": "-",
+            "Source": "Obon (Japan)"
+        },
+        {
+            "Name": "Zodiac Dragon",
+            "Price": "-",
+            "Source": "New Year's Day"
+        },
+        {
+            "Name": "Zodiac Monkey",
+            "Price": "-",
+            "Source": "New Year's Day"
+        },
+        {
+            "Name": "Zodiac Rat",
+            "Price": "-",
+            "Source": "New Year's Day"
+        },
+        {
+            "Name": "Bad Plaid Shirt",
+            "Price": "420",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Bad Plaid Tee",
+            "Price": "420",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Genie Shirt",
+            "Price": "640",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Genie Vest",
+            "Price": "280",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "New Spring Tee",
+            "Price": "520",
+            "Source": "Ables (Spring)"
+        },
+        {
+            "Name": "Periwinkle Shirt",
+            "Price": "380",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Mouse",
+    "Personality": "Normal",
+    "Gender": "Female",
+    "Birthday": "February 18th",
+    "Star Sign": "Aquarius",
+    "Initial Phrase": "squeaky",
+    "Initial Clothes": "Sharp Outfit",
+    "Favorite Saying": "The squeaky wheel gets the cheese.Got any cheese for me?",
+    "image": "/w/images/thumb/2/21/Dora_NLa.png/175px-Dora_NLa.png",
+    "Song": "Only Me",
+    "Style": "Iconic"
+}

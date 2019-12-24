@@ -1,0 +1,67 @@
+{
+    "Name": "Eloise",
+    "Url": "https://nookipedia.com/wiki/Eloise",
+    "Biography": {
+        "Siblings": "Second youngest of four",
+        "Skill": "Memorizing stuff",
+        "Goal": "Painter",
+        "Fear": "Ghost mask"
+    },
+    "Favorites": {
+        "Clothing": "Official",
+        "Color": "Green"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "Lots",
+        "Sugar": "3 spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Left Platform",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Right Platform",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Green Emblem Blazer",
+            "Price": "420",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Military Uniform",
+            "Price": "380",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Military Pants",
+            "Price": "600",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Green Lace-Up Dress",
+            "Price": "700",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Mailman's Hat",
+            "Price": "-",
+            "Source": "Savings"
+        }
+    ],
+    "Species": "Elephant",
+    "Personality": "Snooty",
+    "Gender": "Female",
+    "Birthday": "December 8th",
+    "Star Sign": "Sagittarius",
+    "Initial Phrase": "tooooot",
+    "Initial Clothes": "Loud Line Shirt*Yellow Bar Shirt*",
+    "Favorite Saying": "An elephant never forgets.You'll want to display this prominently!",
+    "image": "/w/images/thumb/5/51/Eloise_NLa.png/175px-Eloise_NLa.png",
+    "Song": "K.K. Jazz",
+    "Style": "Official"
+}

@@ -1,0 +1,82 @@
+{
+    "Name": "Skye",
+    "Url": "https://nookipedia.com/wiki/Skye",
+    "Biography": {
+        "Siblings": "Fourth of five",
+        "Skill": "Chopping vegetables",
+        "Goal": "Pastry Chef",
+        "Fear": "Mummy Mask"
+    },
+    "Favorites": {
+        "Clothing": "Cute",
+        "Color": "Aqua"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "None at all",
+        "Sugar": "None at all"
+    },
+    "Gifts": [
+        {
+            "Name": "Egg Lamp",
+            "Price": "-",
+            "Source": "Zipper"
+        },
+        {
+            "Name": "Ice Bed",
+            "Price": "-",
+            "Source": "Snowmam"
+        },
+        {
+            "Name": "Ice Chair",
+            "Price": "-",
+            "Source": "Snowmam"
+        },
+        {
+            "Name": "Ice Clock",
+            "Price": "-",
+            "Source": "Snowmam"
+        },
+        {
+            "Name": "Ice Closet",
+            "Price": "-",
+            "Source": "Snowmam"
+        },
+        {
+            "Name": "Ice Dresser",
+            "Price": "-",
+            "Source": "Snowmam"
+        },
+        {
+            "Name": "Ice Lamp",
+            "Price": "-",
+            "Source": "Snowmam"
+        },
+        {
+            "Name": "Ice Shelf",
+            "Price": "-",
+            "Source": "Snowmam"
+        },
+        {
+            "Name": "Ice Side Table",
+            "Price": "-",
+            "Source": "Snowmam"
+        },
+        {
+            "Name": "Ice Sofa",
+            "Price": "-",
+            "Source": "Snowmam"
+        }
+    ],
+    "Species": "Wolf",
+    "Personality": "Normal",
+    "Gender": "Female",
+    "Birthday": "March 24th",
+    "Star Sign": "Aries",
+    "Initial Phrase": "airmail",
+    "Initial Clothes": "Spring Shirt",
+    "Favorite Saying": "Love makes the world go 'round.",
+    "image": "/w/images/thumb/a/a9/Skye_NL.png/200px-Skye_NL.png",
+    "Song": "Forest Life",
+    "Style": "Cute"
+}

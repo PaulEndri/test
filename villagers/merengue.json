@@ -1,0 +1,62 @@
+{
+    "Name": "Merengue",
+    "Url": "https://nookipedia.com/wiki/Merengue",
+    "Biography": {
+        "Siblings": "Eldest triplet",
+        "Skill": "Doodling",
+        "Goal": "Pastry chef",
+        "Fear": "Ghost"
+    },
+    "Favorites": {
+        "Clothing": "Official",
+        "Color": "Beige"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "A little bit",
+        "Sugar": "One spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Flat Display Case",
+            "Price": "2,500",
+            "Source": "Museum Shop"
+        },
+        {
+            "Name": "Beige Emblem Blazer",
+            "Price": "420",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Green Lace-Up Dress",
+            "Price": "700",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Orange Lace-Up Dress",
+            "Price": "700",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Orange Retro Dress",
+            "Price": "680",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Trench Coat",
+            "Price": "5,200",
+            "Source": "GracieGrace (Winter)"
+        }
+    ],
+    "Species": "Rhino",
+    "Personality": "Normal",
+    "Gender": "Female",
+    "Birthday": "March 19th",
+    "Star Sign": "Pisces",
+    "Initial Phrase": "shortcake",
+    "Initial Clothes": "Chef's outfit",
+    "Favorite Saying": "Life is a piece of cake.",
+    "image": "/w/images/thumb/8/84/Merengue_NLa.png/175px-Merengue_NLa.png",
+    "Song": "K.K. Stroll",
+    "Style": "Official"
+}

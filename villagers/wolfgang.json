@@ -1,0 +1,82 @@
+{
+    "Name": "Wolfgang",
+    "Url": "https://nookipedia.com/wiki/Wolfgang",
+    "Biography": {
+        "Siblings": "Fourth of 5",
+        "Skill": "Memorizing stuff",
+        "Goal": "Journalist",
+        "Fear": "Werewolf Hood"
+    },
+    "Favorites": {
+        "Clothing": "Modern",
+        "Color": "Black"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "Lots",
+        "Sugar": "3"
+    },
+    "Gifts": [
+        {
+            "Name": "Digital-Photo Frame",
+            "Price": "-",
+            "Source": "Katie"
+        },
+        {
+            "Name": "Flat-Screen TV",
+            "Price": "4,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Hot Plate",
+            "Price": "1,680",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Modern Bed",
+            "Price": "2,320",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Modern Cabinet",
+            "Price": "2,580",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Modern Chair",
+            "Price": "1,500",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Modern Desk",
+            "Price": "2,480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Modern Dresser",
+            "Price": "2,250",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Modern End Table",
+            "Price": "1,900",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Modern Lamp",
+            "Price": "1,400",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Wolf",
+    "Personality": "Cranky",
+    "Gender": "Male",
+    "Birthday": "November 25th",
+    "Star Sign": "Sagittarius",
+    "Initial Phrase": "snarrrl",
+    "Initial Clothes": "Gracie's Top",
+    "Favorite Saying": "Don't be afraid to show your fangs.I could eat you for breakfast, short stack!",
+    "image": "/w/images/thumb/9/97/Wolfgang_NLa.png/200px-Wolfgang_NLa.png",
+    "Song": "K.K. Song",
+    "Style": "Modern"
+}

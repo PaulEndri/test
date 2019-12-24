@@ -1,0 +1,82 @@
+{
+    "Name": "Punchy",
+    "Url": "https://nookipedia.com/wiki/Punchy",
+    "Biography": {
+        "Siblings": "Youngest of six",
+        "Skill": "Staying awake",
+        "Goal": "Cartoonist",
+        "Fear": "Frankenstein / Monster Mask"
+    },
+    "Favorites": {
+        "Clothing": "Basic",
+        "Color": "Blue"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "None at all",
+        "Sugar": "None at all"
+    },
+    "Gifts": [
+        {
+            "Name": "Blue Bed",
+            "Price": "2,100",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Blue Bookcase",
+            "Price": "1,900",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Blue Bureau",
+            "Price": "2,160",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Blue Cabinet",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Blue Chair",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Blue Clock",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Blue Dresser",
+            "Price": "2,100",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Blue Table",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Blue Wall Shelf",
+            "Price": "2,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Blue Wardrobe",
+            "Price": "1,920",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Cat",
+    "Personality": "Lazy",
+    "Gender": "Male",
+    "Birthday": "April 11th",
+    "Star Sign": "Aries",
+    "Initial Phrase": "mrmpht",
+    "Initial Clothes": "GC Shirt*Cherry Top*Gray Tartan*",
+    "Favorite Saying": "There's always more fish in the sea!Turn the other cheek.",
+    "image": "/w/images/thumb/f/f0/Punchy_NLa.png/175px-Punchy_NLa.png",
+    "Song": "K.K. Love Song",
+    "Style": "Basic"
+}

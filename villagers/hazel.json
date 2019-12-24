@@ -1,0 +1,80 @@
+{
+    "Name": "Hazel",
+    "Url": "https://nookipedia.com/wiki/Hazel",
+    "Biography": {
+        "Siblings": "Eldest of two",
+        "Skill": "Making budgets",
+        "Goal": "Dentist",
+        "Fear": "Monster"
+    },
+    "Favorites": {
+        "Clothing": "Iconic",
+        "Color": "Orange"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "None of all",
+        "Sugar": "None of all"
+    },
+    "Gifts": [
+        {
+            "Name": "Festive Candle",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's (North America)"
+        },
+        {
+            "Name": "Sconce",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Zodiac Dog",
+            "Price": "-",
+            "Source": "New Year's Day"
+        },
+        {
+            "Name": "Zodiac Rooster",
+            "Price": "-",
+            "Source": "New Year's Day"
+        },
+        {
+            "Name": "Red Tartan Pants",
+            "Price": "360",
+            "Source": "Ables (Fall)"
+        },
+        {
+            "Name": "Blossoming Dress",
+            "Price": "620",
+            "Source": "Ables (Spring)"
+        },
+        {
+            "Name": "Muumuu",
+            "Price": "15 (medals)",
+            "Source": "Club Tortimer"
+        },
+        {
+            "Name": "Poncho",
+            "Price": "580",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Masquerade Mask",
+            "Price": "480",
+            "Source": "Accessory Corner"
+        },
+        {
+            "Name": "Argyle Tights",
+            "Price": "200",
+            "Source": "Kicks"
+        }
+    ],
+    "Species": "Squirrel",
+    "Personality": "Uchi",
+    "Gender": "Female",
+    "Birthday": "August 30th",
+    "Star Sign": "Virgo",
+    "Initial Phrase": "uni-wow",
+    "Initial Clothes": "Red Warmup Suit",
+    "Favorite Saying": "Never say never!",
+    "image": "/w/images/thumb/9/90/Hazel_NL.png/150px-Hazel_NL.png"
+}

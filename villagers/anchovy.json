@@ -1,0 +1,82 @@
+{
+    "Name": "Anchovy",
+    "Url": "https://nookipedia.com/wiki/Anchovy",
+    "Biography": {
+        "Siblings": "Eldest of nine",
+        "Skill": "Remembering stuff",
+        "Goal": "Explorer",
+        "Fear": "Mummies"
+    },
+    "Favorites": {
+        "Clothing": "Flashy",
+        "Color": "Colorful"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "The regular amount",
+        "Sugar": "Two spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Flashy-Flower Sign",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Neon Sign",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Sloppy Stereo",
+            "Price": "-",
+            "Source": "Re-Tail/Police Station"
+        },
+        {
+            "Name": "Hot-Dog Tank",
+            "Price": "6,000",
+            "Source": "GracieGrace (Fall)"
+        },
+        {
+            "Name": "Kiddie Tee",
+            "Price": "340",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Noodle Tee",
+            "Price": "380",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Prism Tee",
+            "Price": "370",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Sandwich Tank",
+            "Price": "6,400",
+            "Source": "GracieGrace (Fall)"
+        },
+        {
+            "Name": "Star Tee",
+            "Price": "370",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Star Tank Dress",
+            "Price": "720",
+            "Source": "Ables (Summer)"
+        }
+    ],
+    "Species": "Bird",
+    "Personality": "Lazy",
+    "Gender": "Male",
+    "Birthday": "March 4th",
+    "Star Sign": "Pisces",
+    "Initial Phrase": "chuuurp\"\"chuurp",
+    "Initial Clothes": "Straw Shirt*Earthy Knit*",
+    "Favorite Saying": "Why do today what you can put off until tomorrow.I'm hungry.",
+    "image": "/w/images/thumb/4/46/Anchovy_NLa.png/175px-Anchovy_NLa.png",
+    "Song": "K.K. Ragtime",
+    "Style": "Flashy"
+}

@@ -1,0 +1,36 @@
+{
+    "Name": "Inkwell",
+    "Url": "https://nookipedia.com/wiki/Inkwell",
+    "Biography": {
+        "Siblings": "Only child",
+        "Skill": "Defending territory",
+        "Goal": "Squid",
+        "Fear": "Mummy"
+    },
+    "Favorites": {
+        "Clothing": "Sporty"
+    },
+    "Coffee": {
+        "Type": "Blue mountain",
+        "Milk": "Lots",
+        "Sugar": "3 spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "(Name)",
+            "Price": "(Price)",
+            "Source": "(Available)"
+        }
+    ],
+    "Species": "Octopus",
+    "Personality": "Jock",
+    "Gender": "Male",
+    "Birthday": "June 2nd",
+    "Star Sign": "Gemini",
+    "Initial Phrase": "splat",
+    "Initial Clothes": "Black Anchor Tee",
+    "Favorite Saying": "A sucker is born every minute.",
+    "image": "/w/images/thumb/c/cc/Inkwell_NL.png/100px-Inkwell_NL.png",
+    "Song": "K.K. Adventure",
+    "Style": "Sporty"
+}

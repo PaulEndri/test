@@ -1,0 +1,82 @@
+{
+    "Name": "Cookie",
+    "Url": "https://nookipedia.com/wiki/Cookie",
+    "Biography": {
+        "Siblings": "Fifth of six",
+        "Skill": "Dancing",
+        "Goal": "Actor",
+        "Fear": "Bug Mask"
+    },
+    "Favorites": {
+        "Clothing": "Cute",
+        "Color": "Green"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "None at all",
+        "Sugar": "None at all"
+    },
+    "Gifts": [
+        {
+            "Name": "1-Up Mushroom",
+            "Price": "-",
+            "Source": "Fortune Cookie"
+        },
+        {
+            "Name": "Baby Panda",
+            "Price": "480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Big Festive Tree",
+            "Price": "2,480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Birdbath",
+            "Price": "1,450",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Caterpillar Sofa",
+            "Price": "-",
+            "Source": "Nat"
+        },
+        {
+            "Name": "Cosmos Fan",
+            "Price": "-",
+            "Source": "Leif"
+        },
+        {
+            "Name": "Festive Tree",
+            "Price": "1,300",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Festive Wreath",
+            "Price": "-",
+            "Source": "Toy Day"
+        },
+        {
+            "Name": "Firefly Lamp",
+            "Price": "-",
+            "Source": "Nat"
+        },
+        {
+            "Name": "Flounder Table",
+            "Price": "-",
+            "Source": "Chip"
+        }
+    ],
+    "Species": "Dog",
+    "Personality": "Peppy",
+    "Gender": "Female",
+    "Birthday": "June 18th",
+    "Star Sign": "Gemini",
+    "Initial Phrase": "arfer",
+    "Initial Clothes": "Blue Tartan",
+    "Favorite Saying": "Don't lose sight of what you're really after.",
+    "image": "/w/images/thumb/b/b6/Cookie_NLa.png/175px-Cookie_NLa.png",
+    "Song": "DJ K.K.",
+    "Style": "Cute"
+}

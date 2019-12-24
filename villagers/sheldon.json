@@ -1,0 +1,51 @@
+{
+    "Name": "Sheldon",
+    "Url": "https://nookipedia.com/wiki/Sheldon",
+    "Biography": {
+        "Skill": "Making Puns",
+        "Goal": "Mayor",
+        "Fear": "Mummies"
+    },
+    "Favorites": {
+        "Clothing": "Rock 'n' Roll",
+        "Color": "Orange"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "A little bit",
+        "Sugar": "One spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Varia Suit",
+            "Price": "-",
+            "Source": "Fortune Cookie"
+        },
+        {
+            "Name": "Varia Suit Pants",
+            "Price": "-",
+            "Source": "Fortune Cookie"
+        },
+        {
+            "Name": "Samus Mask",
+            "Price": "-",
+            "Source": "Fortune Cookie"
+        },
+        {
+            "Name": "Varia Suit Shoes",
+            "Price": "-",
+            "Source": "Fortune Cookie"
+        }
+    ],
+    "Species": "Squirrel",
+    "Personality": "Jock",
+    "Gender": "Male",
+    "Birthday": "February 26th",
+    "Star Sign": "Pisces",
+    "Initial Phrase": "cardio",
+    "Initial Clothes": "Tiger Jacket",
+    "Favorite Saying": "Winners don't quit, and quitters never win.",
+    "image": "/w/images/thumb/4/4e/Sheldon_NL.png/175px-Sheldon_NL.png",
+    "Song": "K.K. Folk",
+    "Style": "Rock 'n' roll"
+}

@@ -1,0 +1,82 @@
+{
+    "Name": "Truffles",
+    "Url": "https://nookipedia.com/wiki/Truffles",
+    "Biography": {
+        "Siblings": "Youngest of 6",
+        "Skill": "Trivia",
+        "Goal": "Actor",
+        "Fear": "Monster mask"
+    },
+    "Favorites": {
+        "Clothing": "Cute",
+        "Color": "Pink"
+    },
+    "Coffee": {
+        "Type": "Blue mountain",
+        "Milk": "A little",
+        "Sugar": "1 spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Azalea Stool",
+            "Price": "-",
+            "Source": "Leif"
+        },
+        {
+            "Name": "Boxed Figurine",
+            "Price": "-",
+            "Source": "Fireworks"
+        },
+        {
+            "Name": "Cradle",
+            "Price": "3,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Crane Game",
+            "Price": "1,680",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Dollhouse",
+            "Price": "2,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Flower Bouquet",
+            "Price": "-",
+            "Source": "Leif"
+        },
+        {
+            "Name": "Lotus Lamp",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Lovely Armoire",
+            "Price": "2,240",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Lovely Bed",
+            "Price": "2,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Lovely Chair",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Pig",
+    "Personality": "Peppy",
+    "Gender": "Female",
+    "Birthday": "July 28th",
+    "Star Sign": "Leo",
+    "Initial Phrase": "snoutie",
+    "Initial Clothes": "Turnip Top*Fern Tee*",
+    "Favorite Saying": "The best things in life are free.JUMPING JELLYBEANS!",
+    "image": "/w/images/thumb/9/9b/Truffles_NLa.png/175px-Truffles_NLa.png",
+    "Song": "Two Days Ago",
+    "Style": "Cute"
+}

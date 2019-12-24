@@ -1,0 +1,72 @@
+{
+    "Name": "Barold",
+    "Url": "https://nookipedia.com/wiki/Barold",
+    "Biography": {
+        "Siblings": "eldest of 2 kids",
+        "Skill": "Computing",
+        "Goal": "Programmer",
+        "Fear": "Ghosts"
+    },
+    "Favorites": {
+        "Clothing": "Historical",
+        "Color": "Aqua"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "None",
+        "Sugar": "None"
+    },
+    "Gifts": [
+        {
+            "Name": "Blue Vase",
+            "Price": "2,500",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "CD Player",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Shaved-Ice Maker",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Wall Fan",
+            "Price": "1,680",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Blue-Armor Suit",
+            "Price": "480",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Scale-Armor Pants",
+            "Price": "1,000",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Rimmed Glasses",
+            "Price": "240",
+            "Source": "Accessory Corner"
+        },
+        {
+            "Name": "Round Glasses",
+            "Price": "240",
+            "Source": "Accessory Corner"
+        }
+    ],
+    "Species": "Cub",
+    "Personality": "Lazy",
+    "Gender": "Male",
+    "Birthday": "March 2nd",
+    "Star Sign": "Pisces",
+    "Initial Phrase": "cubby",
+    "Initial Clothes": "Tiger Shirt",
+    "Favorite Saying": "Please DO feed the bears!",
+    "image": "/w/images/thumb/6/60/Barold_NL.png/175px-Barold_NL.png",
+    "Song": "My Place",
+    "Style": "Historical"
+}

@@ -1,0 +1,42 @@
+{
+    "Name": "Rod",
+    "Url": "https://nookipedia.com/wiki/Rod",
+    "Biography": {
+        "Siblings": "Youngest quadruplet",
+        "Skill": "Sprinting",
+        "Goal": "Explorer",
+        "Fear": "Bug"
+    },
+    "Favorites": {
+        "Clothing": "Rock 'n' Roll",
+        "Color": "Purple"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "None of all",
+        "Sugar": "None of all"
+    },
+    "Gifts": [
+        {
+            "Name": "Tiger Jacket",
+            "Price": "5,000",
+            "Source": "GracieGrace (Sales)"
+        },
+        {
+            "Name": "Funky Glasses",
+            "Price": "240",
+            "Source": "Accessory Corner"
+        }
+    ],
+    "Species": "Mouse",
+    "Personality": "Jock",
+    "Gender": "Male",
+    "Birthday": "August 14th",
+    "Star Sign": "",
+    "Initial Phrase": "ace",
+    "Initial Clothes": "Zipper Shirt",
+    "Favorite Saying": "If you can't beat 'em, work harder.You're not done 'til your muscles are screaming in agony!",
+    "image": "/w/images/thumb/6/64/Rod_NLa.png/175px-Rod_NLa.png",
+    "Song": "K.K. March",
+    "Style": "Rock 'n' roll"
+}

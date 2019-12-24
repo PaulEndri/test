@@ -1,0 +1,72 @@
+{
+    "Name": "Deirdre",
+    "Url": "https://nookipedia.com/wiki/Deirdre",
+    "Biography": {
+        "Siblings": "Youngest of 3 sisters",
+        "Skill": "Tiptoeing",
+        "Goal": "Journalist",
+        "Fear": "Ghosts"
+    },
+    "Favorites": {
+        "Clothing": "Historical",
+        "Color": "Orange"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "None at all",
+        "Sugar": "None at all"
+    },
+    "Gifts": [
+        {
+            "Name": "Milk Case",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Kitchen Wall",
+            "Price": "1,120",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Mod Wall",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Gold-Bar Shirt",
+            "Price": "420",
+            "Source": "Ables (Winter)"
+        },
+        {
+            "Name": "Gold-Bar Tee",
+            "Price": "360",
+            "Source": "Ables (Winter)"
+        },
+        {
+            "Name": "Straw Shirt",
+            "Price": "360",
+            "Source": "Ables (Fall)"
+        },
+        {
+            "Name": "Subdued-Print Tee",
+            "Price": "320",
+            "Source": "Ables (Fall)"
+        },
+        {
+            "Name": "Proper Painting",
+            "Price": "3,920",
+            "Source": "Redd/Villager"
+        }
+    ],
+    "Species": "Deer",
+    "Personality": "Uchi",
+    "Gender": "Female",
+    "Birthday": "May 4th",
+    "Star Sign": "Taurus",
+    "Initial Phrase": "whatevs",
+    "Initial Clothes": "Fall Leaf Shirt",
+    "Favorite Saying": "Legs of an antelope, heart of an eagle.",
+    "image": "/w/images/thumb/c/c6/Deirdre_NL.png/175px-Deirdre_NL.png",
+    "Song": "K.K. Cruisin'",
+    "Style": "Historical"
+}

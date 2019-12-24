@@ -1,0 +1,82 @@
+{
+    "Name": "Kiki",
+    "Url": "https://nookipedia.com/wiki/Kiki",
+    "Biography": {
+        "Siblings": "Second of five",
+        "Skill": "Fishing",
+        "Goal": "Writer",
+        "Fear": "Insects"
+    },
+    "Favorites": {
+        "Clothing": "Basic",
+        "Color": "Brown"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "A little bit",
+        "Sugar": "One spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Aloe",
+            "Price": "1,200",
+            "Source": "Garden Corner"
+        },
+        {
+            "Name": "Bass",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Birdcage",
+            "Price": "1,700",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Bread Box",
+            "Price": "800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Brown Pot",
+            "Price": "800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Cactus",
+            "Price": "1,700",
+            "Source": "Garden Corner"
+        },
+        {
+            "Name": "Caladium",
+            "Price": "1,300",
+            "Source": "Garden Corner"
+        },
+        {
+            "Name": "Cello",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Classic Bed",
+            "Price": "2,520",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Classic Bookcase",
+            "Price": "2,560",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Cat",
+    "Personality": "Normal",
+    "Gender": "Female",
+    "Birthday": "October 8th",
+    "Star Sign": "Libra",
+    "Initial Phrase": "kitty cat",
+    "Initial Clothes": "Argyle Knit*Dapper Shirt*",
+    "Favorite Saying": "Nothing ventured, nothing gained.Hang in there, kiddo.",
+    "image": "/w/images/thumb/8/8f/Kiki_NLa.png/175px-Kiki_NLa.png",
+    "Song": "K.K. Country",
+    "Style": "Basic"
+}

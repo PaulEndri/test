@@ -1,0 +1,52 @@
+{
+    "Name": "Gruff",
+    "Url": "https://nookipedia.com/wiki/Gruff",
+    "Biography": {
+        "Siblings": "Eldest of nine",
+        "Skill": "Staying up late",
+        "Goal": "Musician",
+        "Fear": "Skeleton"
+    },
+    "Favorites": {
+        "Clothing": "Historical",
+        "Color": "Purple"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "A little",
+        "Sugar": "One spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Painter's Shirt",
+            "Price": "420",
+            "Source": "Ables (Fall)"
+        },
+        {
+            "Name": "Painter's Tee",
+            "Price": "360",
+            "Source": "Ables (Fall)"
+        },
+        {
+            "Name": "Sharp Outfit",
+            "Price": "280",
+            "Source": "Ables (Winter)"
+        },
+        {
+            "Name": "Witch's Robe",
+            "Price": "7,200",
+            "Source": "GracieGrace (Fall)"
+        }
+    ],
+    "Species": "Goat",
+    "Personality": "Cranky",
+    "Gender": "Male",
+    "Birthday": "August 29th",
+    "Star Sign": "",
+    "Initial Phrase": "bleh eh eh",
+    "Initial Clothes": "Big Star Shirt",
+    "Favorite Saying": "Don't burn bridges.",
+    "image": "/w/images/thumb/b/bb/Gruff_NLa.png/200px-Gruff_NLa.png",
+    "Song": "K.K. Rockabilly",
+    "Style": "Historical"
+}

@@ -1,0 +1,67 @@
+{
+    "Name": "Alli",
+    "Url": "https://nookipedia.com/wiki/Alli",
+    "Biography": {
+        "Siblings": "Eldest triplet",
+        "Skill": "Yo-Yoing",
+        "Goal": "Stylist",
+        "Fear": "Ghosts"
+    },
+    "Favorites": {
+        "Clothing": "Ornate",
+        "Color": "Blue"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "Regular",
+        "Sugar": "2"
+    },
+    "Gifts": [
+        {
+            "Name": "Regal Carpet",
+            "Price": "2,850",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Amethyst Shirt",
+            "Price": "420",
+            "Source": "Ables (Fall)"
+        },
+        {
+            "Name": "Amethyst Tee",
+            "Price": "360",
+            "Source": "Ables (Fall)"
+        },
+        {
+            "Name": "Blue Ringmaster Coat",
+            "Price": "5,600",
+            "Source": "GracieGrace (Sales)"
+        },
+        {
+            "Name": "Coral Tank",
+            "Price": "5,600",
+            "Source": "GracieGrace (Summer"
+        },
+        {
+            "Name": "Coral Tee",
+            "Price": "6,200",
+            "Source": "GracieGrace (Summer"
+        },
+        {
+            "Name": "Princess Dress",
+            "Price": "1,000",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Alligator",
+    "Personality": "Snooty",
+    "Gender": "Female",
+    "Birthday": "November 8th",
+    "Star Sign": "Scorpio",
+    "Initial Phrase": ",graaagh",
+    "Initial Clothes": "Leopard Shirt",
+    "Favorite Saying": "Think before you act.The most important parts of any ensemble are the purse and shoes.",
+    "image": "/w/images/thumb/3/34/Alli_NLa.png/200px-Alli_NLa.png",
+    "Song": "K.K. Chorale",
+    "Style": "Ornate"
+}

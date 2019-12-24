@@ -1,0 +1,82 @@
+{
+    "Name": "Shep",
+    "Url": "https://nookipedia.com/wiki/Shep",
+    "Biography": {
+        "Siblings": "Third quadruplet",
+        "Skill": "Speed reading",
+        "Goal": "Professor",
+        "Fear": "Mummy"
+    },
+    "Favorites": {
+        "Clothing": "Historical",
+        "Color": "Beige"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "Lots",
+        "Sugar": "Three spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Covered Wagon",
+            "Price": "3,800",
+            "Source": "Spotlight/Wishy"
+        },
+        {
+            "Name": "General's Stool",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Ice-Cream Case",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Low Screen",
+            "Price": "1,480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Paper Lantern",
+            "Price": "800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Paper Wall Lamp",
+            "Price": "800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Paulownia Closet",
+            "Price": "1,300",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Tea Vase",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Chic Wall",
+            "Price": "1,960",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Beige Knit Shirt",
+            "Price": "320",
+            "Source": "Ables (Winter)"
+        }
+    ],
+    "Species": "Dog",
+    "Personality": "Smug",
+    "Gender": "Male",
+    "Birthday": "November 24th",
+    "Star Sign": "Sagittarius",
+    "Initial Phrase": "baaa man",
+    "Initial Clothes": "Denim Vest",
+    "Favorite Saying": "Even dogs won't get in the middle of true love.",
+    "image": "/w/images/thumb/4/42/Shep_NL.png/200px-Shep_NL.png",
+    "Song": "K.K. Reggae",
+    "Style": "Historical"
+}

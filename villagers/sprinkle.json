@@ -1,0 +1,82 @@
+{
+    "Name": "Sprinkle",
+    "Url": "https://nookipedia.com/wiki/Sprinkle",
+    "Biography": {
+        "Siblings": "Fourth of five",
+        "Skill": "Jumping rope",
+        "Goal": "Figure skater",
+        "Fear": "Skeleton Hood"
+    },
+    "Favorites": {
+        "Clothing": "Cute",
+        "Color": "Aqua"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "The regular amount",
+        "Sugar": "Two spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Egg Lamp",
+            "Price": "-",
+            "Source": "Zipper"
+        },
+        {
+            "Name": "Ice Bed",
+            "Price": "-",
+            "Source": "Snowmam"
+        },
+        {
+            "Name": "Ice Chair",
+            "Price": "-",
+            "Source": "Snowmam"
+        },
+        {
+            "Name": "Ice Clock",
+            "Price": "-",
+            "Source": "Snowmam"
+        },
+        {
+            "Name": "Ice Closet",
+            "Price": "-",
+            "Source": "Snowmam"
+        },
+        {
+            "Name": "Ice Dresser",
+            "Price": "-",
+            "Source": "Snowmam"
+        },
+        {
+            "Name": "Ice Lamp",
+            "Price": "-",
+            "Source": "Snowmam"
+        },
+        {
+            "Name": "Ice Shelf",
+            "Price": "-",
+            "Source": "Snowmam"
+        },
+        {
+            "Name": "Ice Side Table",
+            "Price": "-",
+            "Source": "Snowmam"
+        },
+        {
+            "Name": "Ice Sofa",
+            "Price": "-",
+            "Source": "Snowmam"
+        }
+    ],
+    "Species": "Penguin",
+    "Personality": "Peppy",
+    "Gender": "Female",
+    "Birthday": "February 20th",
+    "Star Sign": "Pisces",
+    "Initial Phrase": "frappe",
+    "Initial Clothes": "Icy Shirt",
+    "Favorite Saying": "Frosting is just the icing on the cake.",
+    "image": "/w/images/thumb/3/3d/Sprinkle_NL.png/175px-Sprinkle_NL.png",
+    "Song": "Cafe K.K.",
+    "Style": "Cute"
+}

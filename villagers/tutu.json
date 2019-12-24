@@ -1,0 +1,82 @@
+{
+    "Name": "Tutu",
+    "Url": "https://nookipedia.com/wiki/Tutu",
+    "Biography": {
+        "Siblings": "Eldest of three",
+        "Skill": "Skimming books",
+        "Goal": "Teacher",
+        "Fear": "Mummy Mask"
+    },
+    "Favorites": {
+        "Clothing": "Cute",
+        "Color": "Pink"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "Regular",
+        "Sugar": "2 spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Azalea Stool",
+            "Price": "-",
+            "Source": "Leif"
+        },
+        {
+            "Name": "Boxed Figurine",
+            "Price": "-",
+            "Source": "Fireworks"
+        },
+        {
+            "Name": "Cradle",
+            "Price": "3,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Crane Game",
+            "Price": "1,680",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Dollhouse",
+            "Price": "2,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Flower Bouquet",
+            "Price": "-",
+            "Source": "Leif"
+        },
+        {
+            "Name": "Lotus Lamp",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Lovely Armoire",
+            "Price": "2,240",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Lovely Bed",
+            "Price": "2,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Lovely Chair",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Bear",
+    "Personality": "Peppy",
+    "Gender": "Female",
+    "Birthday": "September 15",
+    "Star Sign": "Virgo",
+    "Initial Phrase": "twinkles",
+    "Initial Clothes": "Heart Shirt",
+    "Favorite Saying": "Even best friends start out as strangers!",
+    "image": "/w/images/thumb/0/01/Tutu_NLa.png/175px-Tutu_NLa.png",
+    "Song": "K.K. Steppe",
+    "Style": "Cute"
+}

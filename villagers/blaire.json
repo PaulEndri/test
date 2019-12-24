@@ -1,0 +1,52 @@
+{
+    "Name": "Blaire",
+    "Url": "https://nookipedia.com/wiki/Blaire",
+    "Biography": {
+        "Siblings": "Fourth of 5 kids",
+        "Skill": "Calligraphy",
+        "Goal": "Doctor",
+        "Fear": "Werewolf Hood"
+    },
+    "Favorites": {
+        "Clothing": "Official",
+        "Color": "Orange"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "None of all",
+        "Sugar": "None of all"
+    },
+    "Gifts": [
+        {
+            "Name": "Poster Stand",
+            "Price": "2,500",
+            "Source": "Museum Shop"
+        },
+        {
+            "Name": "Orange Lace-Up Dress",
+            "Price": "700",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Orange Retro Dress",
+            "Price": "680",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Mailman's Hat",
+            "Price": "-",
+            "Source": "Savings"
+        }
+    ],
+    "Species": "Squirrel",
+    "Personality": "Snooty",
+    "Gender": "Female",
+    "Birthday": "July 3rd",
+    "Star Sign": "Cancer",
+    "Initial Phrase": "nutlet",
+    "Initial Clothes": "Peachy Tee",
+    "Favorite Saying": "Practice makes perfect.My tail looks extra fluffy in this picture.",
+    "image": "/w/images/thumb/c/cc/Blaire_NLa.png/175px-Blaire_NLa.png",
+    "Song": "K.K. Island",
+    "Style": "Official"
+}

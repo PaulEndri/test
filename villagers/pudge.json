@@ -1,0 +1,82 @@
+{
+    "Name": "Pudge",
+    "Url": "https://nookipedia.com/wiki/Pudge",
+    "Biography": {
+        "Siblings": "Youngest of 5",
+        "Skill": "Blowing bubbles",
+        "Goal": "Chef",
+        "Fear": "Ghost Mask"
+    },
+    "Favorites": {
+        "Clothing": "Historical",
+        "Color": "Blue"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "A little bit",
+        "Sugar": "1 spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Kotatsu",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Master Sword",
+            "Price": "-",
+            "Source": "Fortune Cookie"
+        },
+        {
+            "Name": "Ninja Shirt",
+            "Price": "420",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Scale-Armor Suit",
+            "Price": "480",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Vertigo Shirt",
+            "Price": "420",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Vertigo Tee",
+            "Price": "380",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Ninja Pants",
+            "Price": "480",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Samurai Pants",
+            "Price": "800",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Scale-Armor Pants",
+            "Price": "1,000",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "King Tut Mask",
+            "Price": "12,000",
+            "Source": "Accessory Corner"
+        }
+    ],
+    "Species": "Cub",
+    "Personality": "Lazy",
+    "Gender": "Male",
+    "Birthday": "June 11th",
+    "Star Sign": "Gemini",
+    "Initial Phrase": "pudgy",
+    "Initial Clothes": "Green Ring Shirt*Chichi Print*",
+    "Favorite Saying": "There's no such thing as a free lunch.Keep it real. Yeah.",
+    "image": "/w/images/thumb/d/dc/Pudge_NLa.png/175px-Pudge_NLa.png",
+    "Song": "Rockin' K.K.",
+    "Style": "Historical"
+}

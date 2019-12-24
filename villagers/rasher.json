@@ -1,0 +1,82 @@
+{
+    "Name": "Rasher",
+    "Url": "https://nookipedia.com/wiki/Rasher",
+    "Biography": {
+        "Siblings": "Eldest of two",
+        "Skill": "Staying up late",
+        "Goal": "CEO",
+        "Fear": "Ghost"
+    },
+    "Favorites": {
+        "Clothing": "Rock 'n' Roll",
+        "Color": "Black"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "A little bit",
+        "Sugar": "One spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Amp",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Bingo Wheel",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "DJ's Turntable",
+            "Price": "3,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Effects Rack",
+            "Price": "2,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Metal Guitar",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Mic Stand",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Steamroller",
+            "Price": "4,500",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Striped Cone",
+            "Price": "800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Tabletop Game",
+            "Price": "2,480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Virtual Boy",
+            "Price": "-",
+            "Source": "Fortune Cookie"
+        }
+    ],
+    "Species": "Pig",
+    "Personality": "Cranky",
+    "Gender": "Male",
+    "Birthday": "April 7th",
+    "Star Sign": "Aries",
+    "Initial Phrase": "swine",
+    "Initial Clothes": "Three-Arc Shirt*Fortune Shirt*Rugby Shirt*",
+    "Favorite Saying": "Don't judge a book by its cover.Stop looking at me with those hungry eyes! I'm not a pork chop!",
+    "image": "/w/images/thumb/e/e1/Rasher_NLa.png/200px-Rasher_NLa.png",
+    "Song": "K.K. Faire",
+    "Style": "Rock 'n' roll"
+}

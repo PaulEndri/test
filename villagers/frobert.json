@@ -1,0 +1,72 @@
+{
+    "Name": "Frobert",
+    "Url": "https://nookipedia.com/wiki/Frobert",
+    "Biography": {
+        "Siblings": "Youngest of 2",
+        "Skill": "Eating quickly",
+        "Goal": "Artist",
+        "Fear": "Ghost Mask"
+    },
+    "Favorites": {
+        "Clothing": "Sporty",
+        "Color": "Colorful"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "Regular",
+        "Sugar": "2 spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Ball Return",
+            "Price": "6,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Diver Dan",
+            "Price": "60 (medals)",
+            "Source": "Island"
+        },
+        {
+            "Name": "Foosball Table",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Kitschy Clock",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Ski Rack",
+            "Price": "-",
+            "Source": "Snowman"
+        },
+        {
+            "Name": "Racing Shirt",
+            "Price": "460",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Rally Tank",
+            "Price": "280",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Rally Tee",
+            "Price": "380",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Frog",
+    "Personality": "Jock",
+    "Gender": "Male",
+    "Birthday": "February 8th",
+    "Star Sign": "Aquarius",
+    "Initial Phrase": "fribbit",
+    "Initial Clothes": "Gracie Top",
+    "Favorite Saying": "Always aim high!I don't wanna see any lily-livered jumping! Always aim high!",
+    "image": "/w/images/thumb/4/4f/Frobert_NLa.png/150px-Frobert_NLa.png",
+    "Song": "My Place",
+    "Style": "Sporty"
+}

@@ -1,0 +1,81 @@
+{
+    "Name": "Weber",
+    "Url": "https://nookipedia.com/wiki/Weber",
+    "Biography": {
+        "Siblings": "Youngest triplet",
+        "Skill": "Beat boxing",
+        "Goal": "Musician",
+        "Fear": "Monsters"
+    },
+    "Favorites": {
+        "Clothing": "Cute",
+        "Color": "White"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "Lots",
+        "Sugar": "3"
+    },
+    "Gifts": [
+        {
+            "Name": "Baby Bed",
+            "Price": "2,900",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Baby Panda",
+            "Price": "480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Bird Feeder",
+            "Price": "1,260",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Birthday Cake",
+            "Price": "-",
+            "Source": "Birthday"
+        },
+        {
+            "Name": "Birthday Table",
+            "Price": "-",
+            "Source": "Birthday"
+        },
+        {
+            "Name": "Card Bed",
+            "Price": "220,000",
+            "Source": "GracieGrace"
+        },
+        {
+            "Name": "Card Chair",
+            "Price": "100,000",
+            "Source": "GracieGrace"
+        },
+        {
+            "Name": "Card Closet",
+            "Price": "240,000",
+            "Source": "GracieGrace"
+        },
+        {
+            "Name": "Closet Dresser",
+            "Price": "120,000",
+            "Source": "GracieGrace"
+        },
+        {
+            "Name": "Card Lamp",
+            "Price": "80,000",
+            "Source": "GracieGrace"
+        }
+    ],
+    "Species": "Duck",
+    "Personality": "Lazy",
+    "Gender": "Male",
+    "Birthday": "June 30th",
+    "Star Sign": "Cancer",
+    "Initial Phrase": "quaa",
+    "Initial Clothes": "Fish Knit*Bubble Tee*",
+    "Favorite Saying": "Todays adults are yesterday's children.",
+    "image": "/w/images/thumb/6/62/Weber_NL.png/200px-Weber_NL.png",
+    "Song": "K.K. Fusion"
+}

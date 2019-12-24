@@ -1,0 +1,82 @@
+{
+    "Name": "Cyrano",
+    "Url": "https://nookipedia.com/wiki/Cyrano",
+    "Biography": {
+        "Siblings": "Eldest of five",
+        "Skill": "Whistling",
+        "Goal": "Journalist",
+        "Fear": "Bugs"
+    },
+    "Favorites": {
+        "Clothing": "Iconic",
+        "Color": "Yellow"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "A little bit",
+        "Sugar": "One spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Bell Knicknack",
+            "Price": "-",
+            "Source": "New Year's Countdown (Korea)"
+        },
+        {
+            "Name": "Bow",
+            "Price": "1,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Exotic Lamp",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Fruit Basket",
+            "Price": "-",
+            "Source": "Harvest Festival"
+        },
+        {
+            "Name": "Jasmin Bonsai",
+            "Price": "1,700",
+            "Source": "Garden Corner"
+        },
+        {
+            "Name": "Lefty Lucky Cat",
+            "Price": "1,700",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Lovely Doll",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Lucky Cat",
+            "Price": "1,700",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Lucky Gold Cat",
+            "Price": "6,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Oval Clock",
+            "Price": "800",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Anteater",
+    "Personality": "Cranky",
+    "Gender": "Male",
+    "Birthday": "March 9",
+    "Star Sign": "Pisces",
+    "Initial Phrase": "ah-CHOOO   ah-CHOO",
+    "Initial Clothes": "Wave Print*Dawn Shirt*",
+    "Favorite Saying": "Don't cut off your nose to spite your face.Wish you were here!",
+    "image": "/w/images/thumb/b/b0/Cyrano_NLa.png/200px-Cyrano_NLa.png",
+    "Song": "K.K. Faire",
+    "Style": "Iconic"
+}

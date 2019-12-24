@@ -1,0 +1,81 @@
+{
+    "Name": "Raddle",
+    "Url": "https://nookipedia.com/wiki/Raddle",
+    "Biography": {
+        "Siblings": "Third quadruplet",
+        "Skill": "Pretending to sleep",
+        "Goal": "Doctor",
+        "Fear": "Monster Mask"
+    },
+    "Favorites": {
+        "Clothing": "Official",
+        "Color": "White"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "Lots",
+        "Sugar": "Three spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Arrow Sign",
+            "Price": "3,500",
+            "Source": "Museum Shop"
+        },
+        {
+            "Name": "Coffee Cup",
+            "Price": "-",
+            "Source": "Brewster"
+        },
+        {
+            "Name": "Computer Desk",
+            "Price": "3,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Display Stand",
+            "Price": "1,500",
+            "Source": "Museum Shop"
+        },
+        {
+            "Name": "Exhibit Partition",
+            "Price": "3,000",
+            "Source": "Museum Shop"
+        },
+        {
+            "Name": "Flat Display Case",
+            "Price": "2,500",
+            "Source": "Museum Shop"
+        },
+        {
+            "Name": "Glass Display Case",
+            "Price": "2,000",
+            "Source": "Museum Shop"
+        },
+        {
+            "Name": "Homework Set",
+            "Price": "680",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Museum Chair",
+            "Price": "3,000",
+            "Source": "Museum Shop"
+        },
+        {
+            "Name": "Reception Table",
+            "Price": "2,000",
+            "Source": "Museum Shop"
+        }
+    ],
+    "Species": "Frog",
+    "Personality": "Lazy",
+    "Gender": "Male",
+    "Birthday": "June 6th",
+    "Star Sign": "Gemini",
+    "Initial Phrase": "aaach-",
+    "Initial Clothes": "Blue Aloha Shirt*Doctor's Coat*",
+    "Favorite Saying": "A healthy mind makes for a healthy body.",
+    "image": "/w/images/thumb/1/1f/Raddle_NL.png/150px-Raddle_NL.png",
+    "Song": "Mr. K.K."
+}

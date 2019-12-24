@@ -1,0 +1,82 @@
+{
+    "Name": "Alice",
+    "Url": "https://nookipedia.com/wiki/Alice",
+    "Biography": {
+        "Siblings": "Youngest of 2 kids",
+        "Skill": "Photography",
+        "Goal": "Stylist",
+        "Fear": "Mummies"
+    },
+    "Favorites": {
+        "Clothing": "Cute",
+        "Color": "Purple"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "None",
+        "Sugar": "None"
+    },
+    "Gifts": [
+        {
+            "Name": "Hammock",
+            "Price": "1,320",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Incense Burner",
+            "Price": "680",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Papa Panda",
+            "Price": "1,920",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Violet Screen",
+            "Price": "-",
+            "Source": "Leif"
+        },
+        {
+            "Name": "Beaded Tank",
+            "Price": "280",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Dazed Shirt",
+            "Price": "420",
+            "Source": "Ables (Fall)"
+        },
+        {
+            "Name": "Dazed Tee",
+            "Price": "350",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Floral Knit Tee",
+            "Price": "420",
+            "Source": "Ables (Spring)"
+        },
+        {
+            "Name": "Funky-Dot Tank",
+            "Price": "280",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Funky-Dot Tee",
+            "Price": "430",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Koala",
+    "Personality": "Normal",
+    "Gender": "Female",
+    "Birthday": "August 19th",
+    "Star Sign": "Leo",
+    "Initial Phrase": "guvnor",
+    "Initial Clothes": "Barber Shirt",
+    "Favorite Saying": "Treat others as you would like to be treated.I like having you around.",
+    "image": "/w/images/thumb/7/7e/Alice_NLa.png/200px-Alice_NLa.png",
+    "Song": "Surfin' K.K.",
+    "Style": "Cute"
+}

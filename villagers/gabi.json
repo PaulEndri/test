@@ -1,0 +1,82 @@
+{
+    "Name": "Gabi",
+    "Url": "https://nookipedia.com/wiki/Gabi",
+    "Biography": {
+        "Siblings": "Fourth of six",
+        "Skill": "Eating quickly",
+        "Goal": "Pianist",
+        "Fear": "Monster Mask"
+    },
+    "Favorites": {
+        "Clothing": "Ornate",
+        "Color": "Brown"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "Lots",
+        "Sugar": "Three spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Chaise Lounge",
+            "Price": "2,480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Chocolate Fountain",
+            "Price": "2,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Peacock Chair",
+            "Price": "3,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Rococo Bed",
+            "Price": "3,520",
+            "Source": "Spotlight/Wishy"
+        },
+        {
+            "Name": "Rococo Candlestick",
+            "Price": "3,120",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Rococo Chair",
+            "Price": "3,100",
+            "Source": "Spotlight/Wishy"
+        },
+        {
+            "Name": "Rococo Clock",
+            "Price": "3,360",
+            "Source": "Spotlight/Wishy"
+        },
+        {
+            "Name": "Rococo Dresser",
+            "Price": "2,540",
+            "Source": "Spotlight/Wishy"
+        },
+        {
+            "Name": "Rococo Lamp",
+            "Price": "3,200",
+            "Source": "Spotlight/Wishy"
+        },
+        {
+            "Name": "Rococo Shelf",
+            "Price": "3,820",
+            "Source": "Spotlight/Wishy"
+        }
+    ],
+    "Species": "Rabbit",
+    "Personality": "Peppy",
+    "Gender": "Female",
+    "Birthday": "December 16th",
+    "Star Sign": "Sagittarius",
+    "Initial Phrase": "honeybun",
+    "Initial Clothes": "Waffle Shirt",
+    "Favorite Saying": "The more the merrier.I'm trying out a new earstyle here.",
+    "image": "/w/images/thumb/1/14/Gabi_NLa.png/175px-Gabi_NLa.png",
+    "Song": "K.K. Love Song",
+    "Style": "Ornate"
+}

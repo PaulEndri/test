@@ -1,0 +1,82 @@
+{
+    "Name": "Cousteau",
+    "Url": "https://nookipedia.com/wiki/Cousteau",
+    "Biography": {
+        "Siblings": "Eldest of 7 Kids",
+        "Skill": "Telling Jokes",
+        "Goal": "C.E.O.",
+        "Fear": "Bugs"
+    },
+    "Favorites": {
+        "Clothing": "Iconic",
+        "Color": "Red"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "The regular amount",
+        "Sugar": "2 spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Bureom",
+            "Price": "-",
+            "Source": "Daeboreum (Korea)"
+        },
+        {
+            "Name": "Dala Horse",
+            "Price": "1,200",
+            "Source": "Gulliver"
+        },
+        {
+            "Name": "Doghouse",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Dream Catcher",
+            "Price": "1,600",
+            "Source": "Gulliver"
+        },
+        {
+            "Name": "Festival Lamp",
+            "Price": "900",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Fruit Basket",
+            "Price": "-",
+            "Source": "Harvest Festival"
+        },
+        {
+            "Name": "Hinaningyo",
+            "Price": "2,560",
+            "Source": "Timmy & Tommy's (Japan)"
+        },
+        {
+            "Name": "Hospital TV",
+            "Price": "1,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Hula Doll",
+            "Price": "1,800",
+            "Source": "Gulliver"
+        },
+        {
+            "Name": "Lawn Mower",
+            "Price": "2,760",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Frog",
+    "Personality": "Jock",
+    "Gender": "Male",
+    "Birthday": "December 17th",
+    "Star Sign": "Sagittarius",
+    "Initial Phrase": "oui oui",
+    "Initial Clothes": "Vegetarian Shirt*Rally Shirt*",
+    "Favorite Saying": "Jump first; ask questions later.",
+    "image": "/w/images/thumb/7/7d/Cousteau_NLa.png/150px-Cousteau_NLa.png",
+    "Song": "Imperial K.K.",
+    "Style": "Iconic"
+}

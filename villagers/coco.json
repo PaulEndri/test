@@ -1,0 +1,82 @@
+{
+    "Name": "Coco",
+    "Url": "https://nookipedia.com/wiki/Coco",
+    "Biography": {
+        "Siblings": "Second of 5 Kids",
+        "Skill": "Writing Backwards",
+        "Goal": "Astronaut",
+        "Fear": "Mummies"
+    },
+    "Favorites": {
+        "Clothing": "Iconic",
+        "Color": "Beige"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "Regular amount of milk",
+        "Sugar": "2 spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Big Ben",
+            "Price": "1,200",
+            "Source": "Gulliver"
+        },
+        {
+            "Name": "Exotic Lamp",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Stewpot",
+            "Price": "960",
+            "Source": "Igloo Camper"
+        },
+        {
+            "Name": "Taiko Drum",
+            "Price": "1,300",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Tent Wall",
+            "Price": "1,480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Planked Tatami",
+            "Price": "1,340",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Rococo Floor",
+            "Price": "2,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Hanten Shirt",
+            "Price": "420",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Hot Spring Tee",
+            "Price": "520",
+            "Source": "Ables (Spring)"
+        },
+        {
+            "Name": "Hot Spring Skirt",
+            "Price": "480",
+            "Source": "Ables (Spring)"
+        }
+    ],
+    "Species": "Rabbit",
+    "Personality": "Normal",
+    "Gender": "Female",
+    "Birthday": "March 1st",
+    "Star Sign": "Pisces",
+    "Initial Phrase": "doyoing",
+    "Initial Clothes": "Misty Shirt*Dawn Shirt*",
+    "Favorite Saying": "Don't put off till tomorrow what you can do today.I'm feeling kind of blank today.",
+    "image": "/w/images/thumb/9/97/Coco_NLa.png/175px-Coco_NLa.png",
+    "Song": "K.K. Dirge",
+    "Style": "Iconic"
+}

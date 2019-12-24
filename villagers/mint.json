@@ -1,0 +1,82 @@
+{
+    "Name": "Mint",
+    "Url": "https://nookipedia.com/wiki/Mint",
+    "Biography": {
+        "Siblings": "Second of four",
+        "Skill": "Cramming for tests",
+        "Goal": "Architect",
+        "Fear": "Werewolf Hood"
+    },
+    "Favorites": {
+        "Clothing": "Official",
+        "Color": "Blue"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "None",
+        "Sugar": "None"
+    },
+    "Gifts": [
+        {
+            "Name": "Arrow Sign",
+            "Price": "3,500",
+            "Source": "Museum Shop"
+        },
+        {
+            "Name": "Star Globe",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Captain's Jacket",
+            "Price": "800",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Flight-Crew Shirt",
+            "Price": "1,200",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Sailor's Shirt",
+            "Price": "420",
+            "Source": "Ables (Fall)"
+        },
+        {
+            "Name": "Sailor's Tee",
+            "Price": "320",
+            "Source": "Ables (Spring)"
+        },
+        {
+            "Name": "Waistcoat",
+            "Price": "5,400",
+            "Source": "GracieGrace (Sales)"
+        },
+        {
+            "Name": "Work Shirt",
+            "Price": "420",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Navy Formal Pants",
+            "Price": "480",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Sailor Skirt",
+            "Price": "600",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Squirrel",
+    "Personality": "Snooty",
+    "Gender": "Female",
+    "Birthday": "May 2nd",
+    "Star Sign": "Taurus",
+    "Initial Phrase": "ahhhhhh",
+    "Initial Clothes": "Gumdrop Shirt",
+    "Favorite Saying": "Always lead by example.I’m totally fresh and you know it!",
+    "image": "/w/images/thumb/c/cf/Mint_NLa.png/200px-Mint_NLa.png",
+    "Song": "K.K. Soul",
+    "Style": "Official"
+}

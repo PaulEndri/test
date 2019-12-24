@@ -1,0 +1,62 @@
+{
+    "Name": "Friga",
+    "Url": "https://nookipedia.com/wiki/Friga",
+    "Biography": {
+        "Siblings": "Eldest of two",
+        "Skill": "Board Games",
+        "Goal": "Drummer",
+        "Fear": "Mummy Mask"
+    },
+    "Favorites": {
+        "Clothing": "Ornate",
+        "Color": "Pink"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "A little bit",
+        "Sugar": "One spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Amethyst Shirt",
+            "Price": "420",
+            "Source": "Ables (Fall)"
+        },
+        {
+            "Name": "Amethyst Tee",
+            "Price": "360",
+            "Source": "Ables (Fall)"
+        },
+        {
+            "Name": "Classic Dress",
+            "Price": "720",
+            "Source": "Ables (Fall)"
+        },
+        {
+            "Name": "Pink Lace-Up Dress",
+            "Price": "7,2000",
+            "Source": "GracieGrace (Spring)"
+        },
+        {
+            "Name": "Festivale Accessory",
+            "Price": "680",
+            "Source": "Accessory Corner"
+        },
+        {
+            "Name": "Flashy Hairpin",
+            "Price": "4,800",
+            "Source": "GracieGrace (Summer)"
+        }
+    ],
+    "Species": "Penguin",
+    "Personality": "Snooty",
+    "Gender": "Female",
+    "Birthday": "October 16th",
+    "Star Sign": "Libra",
+    "Initial Phrase": "brrmph",
+    "Initial Clothes": "Cozy Sweater*Picnic Shirt*",
+    "Favorite Saying": "You can't learn a life lesson from a fortune cookie.This isn't a fortune cookie, it's an important life lesson!",
+    "image": "/w/images/thumb/d/d6/Friga_NLa.png/200px-Friga_NLa.png",
+    "Song": "K.K. Tango",
+    "Style": "Ornate"
+}

@@ -1,0 +1,82 @@
+{
+    "Name": "Bluebear",
+    "Url": "https://nookipedia.com/wiki/Bluebear",
+    "Biography": {
+        "Siblings": "Eldest of three",
+        "Skill": "Spoon bending",
+        "Goal": "Cartoonist",
+        "Fear": "Mummy Mask"
+    },
+    "Favorites": {
+        "Clothing": "Cute",
+        "Color": "Blue"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "Lots",
+        "Sugar": "Three spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Bug Zapper",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Cicada Stereo",
+            "Price": "-",
+            "Source": "Nat"
+        },
+        {
+            "Name": "Elephant Slide",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Football-Fish Lamp",
+            "Price": "-",
+            "Source": "Chip"
+        },
+        {
+            "Name": "Grapefruit Table",
+            "Price": "1,500",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Hydrangea Bed",
+            "Price": "-",
+            "Source": "Leif"
+        },
+        {
+            "Name": "Mini Butterfly Table",
+            "Price": "-",
+            "Source": "Nat"
+        },
+        {
+            "Name": "Pavé Bed",
+            "Price": "-",
+            "Source": "Pavé"
+        },
+        {
+            "Name": "Pavé Bookshelf",
+            "Price": "-",
+            "Source": "Pavé"
+        },
+        {
+            "Name": "Pavé Bureau",
+            "Price": "-",
+            "Source": "Pavé"
+        }
+    ],
+    "Species": "Cub",
+    "Personality": "Peppy",
+    "Gender": "Female",
+    "Birthday": "June 24th",
+    "Star Sign": "Cancer",
+    "Initial Phrase": "peach",
+    "Initial Clothes": "Lemon Gingham",
+    "Favorite Saying": "Candy makes the world go 'round.I enjoy tap dancing and raspberry jam!",
+    "image": "/w/images/thumb/2/25/Bluebear_NLa.png/200px-Bluebear_NLa.png",
+    "Song": "K.K. Ska",
+    "Style": "Cute"
+}

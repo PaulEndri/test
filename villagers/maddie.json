@@ -1,0 +1,81 @@
+{
+    "Name": "Maddie",
+    "Url": "https://nookipedia.com/wiki/Maddie",
+    "Biography": {
+        "Siblings": "Middle triplet",
+        "Skill": "Tongue twisters",
+        "Goal": "Tour guide",
+        "Fear": "Bug"
+    },
+    "Favorites": {
+        "Clothing": "Basic",
+        "Color": "Pink"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "Lots",
+        "Sugar": "3"
+    },
+    "Gifts": [
+        {
+            "Name": "Game Shelf",
+            "Price": "980",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Super Toilet",
+            "Price": "1,980",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Picnic Shirt",
+            "Price": "420",
+            "Source": "Ables (Fall)"
+        },
+        {
+            "Name": "Picnic Tee",
+            "Price": "330",
+            "Source": "Ables (Fall)"
+        },
+        {
+            "Name": "Pink Parka",
+            "Price": "420",
+            "Source": "Ables (Winter)"
+        },
+        {
+            "Name": "Pink PJ Shirt",
+            "Price": "240",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Red Tie-Dye Tank",
+            "Price": "280",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Red Tie-Dye Tee",
+            "Price": "380",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Picnic Skirt",
+            "Price": "480",
+            "Source": "Ables (Fall)"
+        },
+        {
+            "Name": "Pink PJ Bottoms",
+            "Price": "240",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Dog",
+    "Personality": "Peppy",
+    "Gender": "Female",
+    "Birthday": "January 11th",
+    "Star Sign": "Capricorn",
+    "Initial Phrase": "yippee",
+    "Initial Clothes": "Fetching outfit*Candy gingham tee*",
+    "Favorite Saying": "The IT revolution is under way.",
+    "image": "/w/images/thumb/9/95/Maddie_NL.png/200px-Maddie_NL.png",
+    "Song": "Forest Life"
+}

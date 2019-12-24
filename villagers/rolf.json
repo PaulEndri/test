@@ -1,0 +1,82 @@
+{
+    "Name": "Rolf",
+    "Url": "https://nookipedia.com/wiki/Rolf",
+    "Biography": {
+        "Siblings": "Eldest of five",
+        "Skill": "Doing handstands",
+        "Goal": "Pro wrestler",
+        "Fear": "Skeleton"
+    },
+    "Favorites": {
+        "Clothing": "Iconic",
+        "Color": "Yellow"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "A little bit",
+        "Sugar": "One spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Bell Knicknack",
+            "Price": "-",
+            "Source": "New Year's Countdown (Korea)"
+        },
+        {
+            "Name": "Bow",
+            "Price": "1,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Exotic Lamp",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Fruit Basket",
+            "Price": "-",
+            "Source": "Harvest Festival"
+        },
+        {
+            "Name": "Jasmin Bonsai",
+            "Price": "1,700",
+            "Source": "Garden Corner"
+        },
+        {
+            "Name": "Lefty Lucky Cat",
+            "Price": "1,700",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Lovely Doll",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Lucky Cat",
+            "Price": "1,700",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Lucky Gold Cat",
+            "Price": "6,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Oval Clock",
+            "Price": "800",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Tiger",
+    "Personality": "Cranky",
+    "Gender": "Male",
+    "Birthday": "August 22nd",
+    "Star Sign": "Leo",
+    "Initial Phrase": "grrrolf",
+    "Initial Clothes": "Bubble Shirt",
+    "Favorite Saying": "Don't skip lunch. Ever.I could eat you for lunch, you know.",
+    "image": "/w/images/thumb/f/f3/Rolf_NLa.png/175px-Rolf_NLa.png",
+    "Song": "Spring Blossoms",
+    "Style": "Iconic"
+}

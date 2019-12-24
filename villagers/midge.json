@@ -1,0 +1,82 @@
+{
+    "Name": "Midge",
+    "Url": "https://nookipedia.com/wiki/Midge",
+    "Biography": {
+        "Siblings": "Eldest of ten",
+        "Skill": "Tongue twisters",
+        "Goal": "Artist",
+        "Fear": "Ghost"
+    },
+    "Favorites": {
+        "Clothing": "Iconic",
+        "Color": "Pink"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "Lots",
+        "Sugar": "Three spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Azalea Bonsai",
+            "Price": "1,500",
+            "Source": "Garden Corner"
+        },
+        {
+            "Name": "Loom",
+            "Price": "3,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Plum Bonsai",
+            "Price": "1,900",
+            "Source": "Garden Corner"
+        },
+        {
+            "Name": "Ranch Wall",
+            "Price": "1,450",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Dawn Tank",
+            "Price": "280",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Dawn Tee",
+            "Price": "380",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Hot Spring Tee",
+            "Price": "520",
+            "Source": "Ables (Spring)"
+        },
+        {
+            "Name": "Hot Spring Skirt",
+            "Price": "480",
+            "Source": "Ables (Spring)"
+        },
+        {
+            "Name": "New Spring Skirt",
+            "Price": "480",
+            "Source": "Ables (Spring)"
+        },
+        {
+            "Name": "Pink Argyle Skirt",
+            "Price": "3,600",
+            "Source": "GracieGrace (Spring)"
+        }
+    ],
+    "Species": "Bird",
+    "Personality": "Normal",
+    "Gender": "Female",
+    "Birthday": "March 12th",
+    "Star Sign": "Pisces",
+    "Initial Phrase": "tweedledee",
+    "Initial Clothes": "New Spring Shirt",
+    "Favorite Saying": "When the world gets cold, just fly south.",
+    "image": "/w/images/thumb/a/a5/Midge_NLa.png/175px-Midge_NLa.png",
+    "Song": "K.K. Lullaby",
+    "Style": "Iconic"
+}

@@ -1,0 +1,81 @@
+{
+    "Name": "Piper",
+    "Url": "https://nookipedia.com/wiki/Piper",
+    "Biography": {
+        "Siblings": "Eldest of 2",
+        "Skill": "Board games",
+        "Goal": "Translator",
+        "Fear": "Mummy"
+    },
+    "Favorites": {
+        "Clothing": "Iconic",
+        "Color": "Black"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "Lots",
+        "Sugar": "3"
+    },
+    "Gifts": [
+        {
+            "Name": "Bagpipes",
+            "Price": "1,200",
+            "Source": "Gulliver"
+        },
+        {
+            "Name": "Black Katana",
+            "Price": "12,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Blossom Lantern",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's (Japan)"
+        },
+        {
+            "Name": "Bow",
+            "Price": "1,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Campfire Cookware",
+            "Price": "800",
+            "Source": "Tent Camper"
+        },
+        {
+            "Name": "Lucky Black Cat",
+            "Price": "1,700",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Mixer",
+            "Price": "1,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Mugho Bonsai",
+            "Price": "1,800",
+            "Source": "Garden Corner"
+        },
+        {
+            "Name": "New Year's Noodles",
+            "Price": "-",
+            "Source": "New Year's Countdown (Japan)"
+        },
+        {
+            "Name": "Paper Tiger",
+            "Price": "680",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Bird",
+    "Personality": "Peppy",
+    "Gender": "Female",
+    "Birthday": "April 18th",
+    "Star Sign": "Aries",
+    "Initial Phrase": "chickadee",
+    "Initial Clothes": "Striking Outfit",
+    "Favorite Saying": "When there's life, there's hope.",
+    "image": "/w/images/thumb/8/8e/Piper_NL.png/200px-Piper_NL.png",
+    "Song": "K.K. Synth"
+}

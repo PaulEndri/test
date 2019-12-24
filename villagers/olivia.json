@@ -1,0 +1,82 @@
+{
+    "Name": "Olivia",
+    "Url": "https://nookipedia.com/wiki/Olivia",
+    "Biography": {
+        "Siblings": "Eldest of four",
+        "Skill": "Brainteasers",
+        "Goal": "Drummer",
+        "Fear": "Monster"
+    },
+    "Favorites": {
+        "Clothing": "Modern",
+        "Color": "White"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "None",
+        "Sugar": "None"
+    },
+    "Gifts": [
+        {
+            "Name": "Copy Machine",
+            "Price": "3,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Cube Clock",
+            "Price": "1,100",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Electric Kettle",
+            "Price": "1,280",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Home-Computer Rack",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Hot Plate",
+            "Price": "1,680",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Humidifier",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Ironing Set",
+            "Price": "1,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Laptop",
+            "Price": "2,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Love Tester",
+            "Price": "-",
+            "Source": "Fireworks"
+        },
+        {
+            "Name": "Modern Chair",
+            "Price": "1,500",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Cat",
+    "Personality": "Snooty",
+    "Gender": "Female",
+    "Birthday": "February 3rd",
+    "Star Sign": "Aquarius",
+    "Initial Phrase": "purrr",
+    "Initial Clothes": "Floral Knit Shirt",
+    "Favorite Saying": "There's an exception to every rule.You're the best kind of friend because you make me look even prettier.",
+    "image": "/w/images/thumb/c/ce/Olivia_NLa.png/175px-Olivia_NLa.png",
+    "Song": "Two Days Ago",
+    "Style": "Modern"
+}

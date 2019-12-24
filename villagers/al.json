@@ -1,0 +1,82 @@
+{
+    "Name": "Al",
+    "Url": "https://nookipedia.com/wiki/Al",
+    "Biography": {
+        "Siblings": "Eldest of 7 kids",
+        "Skill": "Jumping rope",
+        "Goal": "Journalist",
+        "Fear": "Mummies"
+    },
+    "Favorites": {
+        "Clothing": "Basic",
+        "Color": "Pink"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "Lots",
+        "Sugar": "3"
+    },
+    "Gifts": [
+        {
+            "Name": "Game Shelf",
+            "Price": "980",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Super Toilet",
+            "Price": "1,980",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Picnic Shirt",
+            "Price": "420",
+            "Source": "Ables (Fall)"
+        },
+        {
+            "Name": "Picnic Tee",
+            "Price": "330",
+            "Source": "Ables (Fall)"
+        },
+        {
+            "Name": "Pink Parka",
+            "Price": "420",
+            "Source": "Ables (Winter)"
+        },
+        {
+            "Name": "Pink PJ Shirt",
+            "Price": "240",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Red Tie-Dye Tank",
+            "Price": "280",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Red Tie-Dye Tee",
+            "Price": "380",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Picnic Skirt",
+            "Price": "480",
+            "Source": "Ables (Fall)"
+        },
+        {
+            "Name": "Pink PJ Bottoms",
+            "Price": "240",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Gorilla",
+    "Personality": "Lazy",
+    "Gender": "Male",
+    "Birthday": "October 18th",
+    "Star Sign": "Libra",
+    "Initial Phrase": "hoo hoo ha ()Ayyeeee ()",
+    "Initial Clothes": "Red Warmup Suit",
+    "Favorite Saying": "Life is a buffet - always go back for seconds.",
+    "image": "/w/images/thumb/1/14/Al_NLa.png/175px-Al_NLa.png",
+    "Song": "Steep Hill",
+    "Style": "Basic"
+}

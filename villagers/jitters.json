@@ -1,0 +1,82 @@
+{
+    "Name": "Jitters",
+    "Url": "https://nookipedia.com/wiki/Jitters",
+    "Biography": {
+        "Siblings": "Second quintuplet",
+        "Skill": "Playing catch",
+        "Goal": "Soccer player",
+        "Fear": "Skulls"
+    },
+    "Favorites": {
+        "Clothing": "Sporty",
+        "Color": "Yellow"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "None at all",
+        "Sugar": "None at all"
+    },
+    "Gifts": [
+        {
+            "Name": "Camp Stove",
+            "Price": "1,200",
+            "Source": "Igloo Camper"
+        },
+        {
+            "Name": "Curling Stone",
+            "Price": "-",
+            "Source": "Snowman"
+        },
+        {
+            "Name": "Judge's Bell",
+            "Price": "1,790",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Kayak",
+            "Price": "3,460",
+            "Source": "Tent Camper"
+        },
+        {
+            "Name": "Mountain Bike",
+            "Price": "3,380",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Snowmobile",
+            "Price": "-",
+            "Source": "Snowman"
+        },
+        {
+            "Name": "Sprinkler",
+            "Price": "1,640",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Basketball Tank",
+            "Price": "420",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Firefighter Shirt",
+            "Price": "320",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Nine-Ball Shirt",
+            "Price": "340",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Bird",
+    "Personality": "Jock",
+    "Gender": "Male",
+    "Birthday": "February 2nd",
+    "Star Sign": "",
+    "Initial Phrase": "bzzert",
+    "Initial Clothes": "Soccer Tee",
+    "Favorite Saying": "When you're a team of one, you're always captain!",
+    "image": "/w/images/thumb/e/e4/Jitters_NLa.png/175px-Jitters_NLa.png",
+    "Song": "K.K. Samba",
+    "Style": "Sporty"
+}

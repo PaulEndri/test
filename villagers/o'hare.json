@@ -1,0 +1,57 @@
+{
+    "Name": "O'Hare",
+    "Url": "https://nookipedia.com/wiki/O%27Hare",
+    "Biography": {
+        "Siblings": "Second quintuplet",
+        "Skill": "Air guitar",
+        "Goal": "Musician",
+        "Fear": "Bug mask"
+    },
+    "Favorites": {
+        "Clothing": "Modern",
+        "Color": "Orange"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "None",
+        "Sugar": "None"
+    },
+    "Gifts": [
+        {
+            "Name": "Astro Wall",
+            "Price": "2,120",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Kitchen Flooring",
+            "Price": "1,230",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Go-Go Shirt",
+            "Price": "360",
+            "Source": "Ables (Fall)"
+        },
+        {
+            "Name": "Clogs",
+            "Price": "480",
+            "Source": "Kicks"
+        },
+        {
+            "Name": "Stripe Shoes",
+            "Price": "4,000",
+            "Source": "GracieGrace (Fall)"
+        }
+    ],
+    "Species": "Rabbit",
+    "Personality": "CrankySmug",
+    "Gender": "Male",
+    "Birthday": "July 24th",
+    "Star Sign": "LeoVirgo",
+    "Initial Phrase": "amigo",
+    "Initial Clothes": "Blue Aloha Shirt",
+    "Favorite Saying": "It's not old; it's vintage.",
+    "image": "/w/images/thumb/9/90/OHare_NLa.png/175px-OHare_NLa.png",
+    "Song": "K.K. Island",
+    "Style": "Modern"
+}

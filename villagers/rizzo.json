@@ -1,0 +1,82 @@
+{
+    "Name": "Rizzo",
+    "Url": "https://nookipedia.com/wiki/Rizzo",
+    "Biography": {
+        "Siblings": "Eldest of eight",
+        "Skill": "Subsistence living",
+        "Goal": "Police Officer",
+        "Fear": "Mummy mask"
+    },
+    "Favorites": {
+        "Clothing": "Iconic",
+        "Color": "Green"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "None",
+        "Sugar": "None"
+    },
+    "Gifts": [
+        {
+            "Name": "Bamboo Grass",
+            "Price": "-",
+            "Source": "Starcrossed Day (Japan)"
+        },
+        {
+            "Name": "Cucumber Horse",
+            "Price": "-",
+            "Source": "Obon (Japan)"
+        },
+        {
+            "Name": "Deer Scare",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Fan",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Hawthorn Bonsai",
+            "Price": "1,800",
+            "Source": "Garden Corner"
+        },
+        {
+            "Name": "Holly Bonsai",
+            "Price": "1,600",
+            "Source": "Garden Corner"
+        },
+        {
+            "Name": "Hourglass",
+            "Price": "480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Hula Doll",
+            "Price": "1,800",
+            "Source": "Gulliver"
+        },
+        {
+            "Name": "Kinderdijik Windmill",
+            "Price": "1,200",
+            "Source": "Gulliver"
+        },
+        {
+            "Name": "Mugho Bonsai",
+            "Price": "1,800",
+            "Source": "Garden Corner"
+        }
+    ],
+    "Species": "Mouse",
+    "Personality": "Cranky",
+    "Gender": "Male",
+    "Birthday": "January 17th",
+    "Star Sign": "",
+    "Initial Phrase": "squee",
+    "Initial Clothes": "Lavender Robe*Ninja Shirt*",
+    "Favorite Saying": "Evil lurks everywhere.",
+    "image": "/w/images/thumb/8/83/Rizzo_NLa.png/175px-Rizzo_NLa.png",
+    "Song": "K.K. Lament",
+    "Style": "Iconic"
+}

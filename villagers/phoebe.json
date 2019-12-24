@@ -1,0 +1,82 @@
+{
+    "Name": "Phoebe",
+    "Url": "https://nookipedia.com/wiki/Phoebe",
+    "Biography": {
+        "Siblings": "Fifth of six",
+        "Skill": "Eating frequently",
+        "Goal": "Swimmer",
+        "Fear": "Skeleton Hood"
+    },
+    "Favorites": {
+        "Clothing": "Ornate",
+        "Color": "Yellow"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "A little bit",
+        "Sugar": "One spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Golden Bed",
+            "Price": "-",
+            "Source": "Cyrus"
+        },
+        {
+            "Name": "Golden Bench",
+            "Price": "-",
+            "Source": "Cyrus"
+        },
+        {
+            "Name": "Golden Chair",
+            "Price": "-",
+            "Source": "Cyrus"
+        },
+        {
+            "Name": "Golden Clock",
+            "Price": "-",
+            "Source": "Cyrus"
+        },
+        {
+            "Name": "Golden Clock",
+            "Price": "-",
+            "Source": "Cyrus"
+        },
+        {
+            "Name": "Golden Dresser",
+            "Price": "-",
+            "Source": "Cyrus"
+        },
+        {
+            "Name": "Golden Man",
+            "Price": "-",
+            "Source": "Cyrus"
+        },
+        {
+            "Name": "Golden Screen",
+            "Price": "-",
+            "Source": "Cyrus"
+        },
+        {
+            "Name": "Golden Table",
+            "Price": "-",
+            "Source": "Cyrus"
+        },
+        {
+            "Name": "Golden Wall Torch",
+            "Price": "-",
+            "Source": "Cyrus"
+        }
+    ],
+    "Species": "Ostrich",
+    "Personality": "Uchi",
+    "Gender": "Female",
+    "Birthday": "April 22nd",
+    "Star Sign": "Taurus",
+    "Initial Phrase": "sparky",
+    "Initial Clothes": "Flame Tee",
+    "Favorite Saying": "You can't keep a good bird down.",
+    "image": "/w/images/thumb/2/20/Phoebe_NL.png/200px-Phoebe_NL.png",
+    "Song": "K.K. Flamenco",
+    "Style": "Ornate"
+}

@@ -1,0 +1,82 @@
+{
+    "Name": "Bonbon",
+    "Url": "https://nookipedia.com/wiki/Bonbon",
+    "Biography": {
+        "Siblings": "Youngest of two",
+        "Skill": "Competitive eating",
+        "Goal": "Swimmer",
+        "Fear": "Monster mask"
+    },
+    "Favorites": {
+        "Clothing": "Cute",
+        "Color": "White"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "The regular amount",
+        "Sugar": "2 spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Baby Bed",
+            "Price": "2,900",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Baby Panda",
+            "Price": "480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Bird Feeder",
+            "Price": "1,260",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Birthday Cake",
+            "Price": "-",
+            "Source": "Birthday"
+        },
+        {
+            "Name": "Birthday Table",
+            "Price": "-",
+            "Source": "Birthday"
+        },
+        {
+            "Name": "Card Bed",
+            "Price": "220,000",
+            "Source": "GracieGrace"
+        },
+        {
+            "Name": "Card Chair",
+            "Price": "100,000",
+            "Source": "GracieGrace"
+        },
+        {
+            "Name": "Card Closet",
+            "Price": "240,000",
+            "Source": "GracieGrace"
+        },
+        {
+            "Name": "Closet Dresser",
+            "Price": "120,000",
+            "Source": "GracieGrace"
+        },
+        {
+            "Name": "Card Lamp",
+            "Price": "80,000",
+            "Source": "GracieGrace"
+        }
+    ],
+    "Species": "Rabbit",
+    "Personality": "Peppy",
+    "Gender": "Female",
+    "Birthday": "March 3rd",
+    "Star Sign": "",
+    "Initial Phrase": "deelish",
+    "Initial Clothes": "Chocomint Shirt",
+    "Favorite Saying": "Hindsight is always 20/20.",
+    "image": "/w/images/thumb/1/1f/Bonbon_NL.png/175px-Bonbon_NL.png",
+    "Song": "K.K. Disco",
+    "Style": "Cute"
+}

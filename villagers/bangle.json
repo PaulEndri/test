@@ -1,0 +1,42 @@
+{
+    "Name": "Bangle",
+    "Url": "https://nookipedia.com/wiki/Bangle",
+    "Biography": {
+        "Siblings": "Second of six",
+        "Skill": "Tongue Twisters",
+        "Goal": "President",
+        "Fear": "Ghost Hood"
+    },
+    "Favorites": {
+        "Clothing": "Ornate",
+        "Color": "Orange"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "A little",
+        "Sugar": "1 spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Rococo Candlestick",
+            "Price": "3,120",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Stately Wall",
+            "Price": "2,450",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Tiger",
+    "Personality": "Peppy",
+    "Gender": "Female",
+    "Birthday": "August 27th",
+    "Star Sign": "Virgo",
+    "Initial Phrase": "growfgrouf",
+    "Initial Clothes": "Pop Bloom Shirt",
+    "Favorite Saying": "Don't blink or you'll miss it.",
+    "image": "/w/images/thumb/9/93/Bangle_NLa.png/200px-Bangle_NLa.png",
+    "Song": "K.K. Soul",
+    "Style": "Ornate"
+}

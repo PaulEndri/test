@@ -1,0 +1,82 @@
+{
+    "Name": "Candi",
+    "Url": "https://nookipedia.com/wiki/Candi",
+    "Biography": {
+        "Siblings": "Eldest of 7 kids",
+        "Skill": "Home repair",
+        "Goal": "Judge",
+        "Fear": "Frankenstein"
+    },
+    "Favorites": {
+        "Clothing": "Historical",
+        "Color": "Yellow"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "Lots of milk",
+        "Sugar": "3 spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Cash Register",
+            "Price": "6,480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Genie's Lamp",
+            "Price": "1,500",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Mummy's Casket",
+            "Price": "4,400",
+            "Source": "Gulliver"
+        },
+        {
+            "Name": "Odd Clock",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Phonograph",
+            "Price": "1,840",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Pyramid",
+            "Price": "3,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Screen",
+            "Price": "1,650",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Sphinx",
+            "Price": "3,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Throne",
+            "Price": "800,000",
+            "Source": "Spotlight/Wishy"
+        },
+        {
+            "Name": "Treasure Chest",
+            "Price": "150 (medals)",
+            "Source": "Island"
+        }
+    ],
+    "Species": "Mouse",
+    "Personality": "Peppy",
+    "Gender": "Female",
+    "Birthday": "April 13th",
+    "Star Sign": "Aries",
+    "Initial Phrase": "sweetie",
+    "Initial Clothes": "Ancient Knit*  Deer Shirt*",
+    "Favorite Saying": "The players may change, but the music stays the same.",
+    "image": "/w/images/thumb/5/5c/Candi_NL.png/150px-Candi_NL.png",
+    "Song": "K.K. Ragtime",
+    "Style": "Historical"
+}

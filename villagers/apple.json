@@ -1,0 +1,80 @@
+{
+    "Name": "Apple",
+    "Url": "https://nookipedia.com/wiki/Apple",
+    "Biography": {
+        "Siblings": "Third of four",
+        "Skill": "Karaoke",
+        "Goal": "Movie star",
+        "Fear": "Insects"
+    },
+    "Favorites": {
+        "Clothing": "Cute",
+        "Color": "Red"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "The regular amount",
+        "Sugar": "Two spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Balloon-Dog Lamp",
+            "Price": "-",
+            "Source": "Balloon"
+        },
+        {
+            "Name": "Birthday Cake",
+            "Price": "-",
+            "Source": "Birthday"
+        },
+        {
+            "Name": "Birthday Candles",
+            "Price": "-",
+            "Source": "Birthday"
+        },
+        {
+            "Name": "Birthday Table",
+            "Price": "-",
+            "Source": "Birthday"
+        },
+        {
+            "Name": "Candy Machine",
+            "Price": "980",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Capsule-Toy Machine",
+            "Price": "1,480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Card Bed",
+            "Price": "220,000",
+            "Source": "GracieGrace"
+        },
+        {
+            "Name": "Card Chair",
+            "Price": "100,000",
+            "Source": "GracieGrace"
+        },
+        {
+            "Name": "Card Closet",
+            "Price": "240,000",
+            "Source": "GracieGrace"
+        },
+        {
+            "Name": "Card Dresser",
+            "Price": "120,000",
+            "Source": "GracieGrace"
+        }
+    ],
+    "Species": "Hamster",
+    "Personality": "Peppy",
+    "Gender": "Female",
+    "Birthday": "September 24th",
+    "Star Sign": "Libra",
+    "Initial Phrase": "cheekers",
+    "Initial Clothes": "Lite Polka Tee",
+    "Favorite Saying": "One rotten apple spoils the barrel.",
+    "image": "/w/images/thumb/e/ea/Apple_NL.png/150px-Apple_NL.png"
+}

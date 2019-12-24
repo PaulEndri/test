@@ -1,0 +1,82 @@
+{
+    "Name": "Lucy",
+    "Url": "https://nookipedia.com/wiki/Lucy",
+    "Biography": {
+        "Siblings": "Youngest triplet",
+        "Skill": "Baton twirling",
+        "Goal": "Tour guide",
+        "Fear": "Monster"
+    },
+    "Favorites": {
+        "Clothing": "Cute",
+        "Color": "Orange"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "None of all",
+        "Sugar": "None of all"
+    },
+    "Gifts": [
+        {
+            "Name": "? Block",
+            "Price": "-",
+            "Source": "Fortune Cookie"
+        },
+        {
+            "Name": "1-Up Mushroom",
+            "Price": "-",
+            "Source": "Fortune Cookie"
+        },
+        {
+            "Name": "Baby Bear",
+            "Price": "800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Garden Gnome",
+            "Price": "3,380",
+            "Source": "Spotlight/Wishy"
+        },
+        {
+            "Name": "Grapefruit Table",
+            "Price": "1,500",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Mush Wall Lamp",
+            "Price": "-",
+            "Source": "Mushroom"
+        },
+        {
+            "Name": "Puffer-Fish TV",
+            "Price": "-",
+            "Source": "Chip"
+        },
+        {
+            "Name": "Sunflower Stereo",
+            "Price": "-",
+            "Source": "Leif"
+        },
+        {
+            "Name": "Super Mushroom",
+            "Price": "-",
+            "Source": "Fortune Cookie"
+        },
+        {
+            "Name": "Tangerine Chair",
+            "Price": "1,300",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Pig",
+    "Personality": "Normal",
+    "Gender": "Female",
+    "Birthday": "June 2nd",
+    "Star Sign": "Gemini",
+    "Initial Phrase": "snoooink",
+    "Initial Clothes": "Natty Shirt",
+    "Favorite Saying": "The best is yet to come.This picture entitles you to one free smile!",
+    "image": "/w/images/thumb/f/f2/Lucy_NLa.png/175px-Lucy_NLa.png",
+    "Song": "Comrade K.K.",
+    "Style": "Cute"
+}

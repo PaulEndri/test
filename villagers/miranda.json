@@ -1,0 +1,82 @@
+{
+    "Name": "Miranda",
+    "Url": "https://nookipedia.com/wiki/Miranda",
+    "Biography": {
+        "Siblings": "Older twin",
+        "Skill": "Subsistence living",
+        "Goal": "Model",
+        "Fear": "Mummy Mask"
+    },
+    "Favorites": {
+        "Clothing": "Ornate",
+        "Color": "Yellow"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "None",
+        "Sugar": "None"
+    },
+    "Gifts": [
+        {
+            "Name": "Golden Bed",
+            "Price": "-",
+            "Source": "Cyrus"
+        },
+        {
+            "Name": "Golden Bench",
+            "Price": "-",
+            "Source": "Cyrus"
+        },
+        {
+            "Name": "Golden Chair",
+            "Price": "-",
+            "Source": "Cyrus"
+        },
+        {
+            "Name": "Golden Clock",
+            "Price": "-",
+            "Source": "Cyrus"
+        },
+        {
+            "Name": "Golden Clock",
+            "Price": "-",
+            "Source": "Cyrus"
+        },
+        {
+            "Name": "Golden Dresser",
+            "Price": "-",
+            "Source": "Cyrus"
+        },
+        {
+            "Name": "Golden Man",
+            "Price": "-",
+            "Source": "Cyrus"
+        },
+        {
+            "Name": "Golden Screen",
+            "Price": "-",
+            "Source": "Cyrus"
+        },
+        {
+            "Name": "Golden Table",
+            "Price": "-",
+            "Source": "Cyrus"
+        },
+        {
+            "Name": "Golden Wall Torch",
+            "Price": "-",
+            "Source": "Cyrus"
+        }
+    ],
+    "Species": "Duck",
+    "Personality": "Snooty",
+    "Gender": "Female",
+    "Birthday": "April 23rd",
+    "Star Sign": "",
+    "Initial Phrase": "quackulous",
+    "Initial Clothes": "Laced Shirt*Amethyst Tee*",
+    "Favorite Saying": "If the world was flooded, it will be easy for the duck.",
+    "image": "/w/images/thumb/9/9a/Miranda_NLa.png/175px-Miranda_NLa.png",
+    "Song": "K.K. Sonata",
+    "Style": "Ornate"
+}

@@ -1,0 +1,72 @@
+{
+    "Name": "Simon",
+    "Url": "https://nookipedia.com/wiki/Simon",
+    "Biography": {
+        "Siblings": "Third of six",
+        "Skill": "Memorizing",
+        "Goal": "Movie director",
+        "Fear": "Monster Mask"
+    },
+    "Favorites": {
+        "Clothing": "Sporty",
+        "Color": "Colorful"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "None",
+        "Sugar": "None"
+    },
+    "Gifts": [
+        {
+            "Name": "Ball Return",
+            "Price": "6,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Diver Dan",
+            "Price": "60 (medals)",
+            "Source": "Island"
+        },
+        {
+            "Name": "Foosball Table",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Kitschy Clock",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Ski Rack",
+            "Price": "-",
+            "Source": "Snowman"
+        },
+        {
+            "Name": "Racing Shirt",
+            "Price": "460",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Rally Tank",
+            "Price": "280",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Rally Tee",
+            "Price": "380",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Monkey",
+    "Personality": "Lazy",
+    "Gender": "Male",
+    "Birthday": "January 19th",
+    "Star Sign": "Capricorn",
+    "Initial Phrase": "zzzook",
+    "Initial Clothes": "Red Bar Shirt",
+    "Favorite Saying": "Friends go together like peanut butter and bananas.It's kind of a stereotype, but I really do like bananas!",
+    "image": "/w/images/thumb/b/b0/Simon_NLa.png/175px-Simon_NLa.png",
+    "Song": "Forest Life",
+    "Style": "Sporty"
+}

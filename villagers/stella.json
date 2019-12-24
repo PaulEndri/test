@@ -1,0 +1,61 @@
+{
+    "Name": "Stella",
+    "Url": "https://nookipedia.com/wiki/Stella",
+    "Biography": {
+        "Siblings": "Eldest of three sisters",
+        "Skill": "Magic Tricks",
+        "Goal": "Professor",
+        "Fear": "Werewolf Hood"
+    },
+    "Favorites": {
+        "Clothing": "Ornate",
+        "Color": "Pink"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "Lots",
+        "Sugar": "Three spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Amethyst Shirt",
+            "Price": "420",
+            "Source": "Ables (Fall)"
+        },
+        {
+            "Name": "Amethyst Tee",
+            "Price": "360",
+            "Source": "Ables (Fall)"
+        },
+        {
+            "Name": "Classic Dress",
+            "Price": "720",
+            "Source": "Ables (Fall)"
+        },
+        {
+            "Name": "Pink Lace-Up Dress",
+            "Price": "7,2000",
+            "Source": "GracieGrace (Spring)"
+        },
+        {
+            "Name": "Festivale Accessory",
+            "Price": "680",
+            "Source": "Accessory Corner"
+        },
+        {
+            "Name": "Flashy Hairpin",
+            "Price": "4,800",
+            "Source": "GracieGrace (Summer)"
+        }
+    ],
+    "Species": "Sheep",
+    "Personality": "Normal",
+    "Gender": "Female",
+    "Birthday": "April 9th",
+    "Star Sign": "Aries",
+    "Initial Phrase": "baa-dabing",
+    "Initial Clothes": "Aurora Knit Shirt",
+    "Favorite Saying": "100% Natural Fiber.",
+    "image": "/w/images/thumb/1/1e/Stella_NL.png/200px-Stella_NL.png",
+    "Song": "Only Me"
+}

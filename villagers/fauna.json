@@ -1,0 +1,82 @@
+{
+    "Name": "Fauna",
+    "Url": "https://nookipedia.com/wiki/Fauna",
+    "Biography": {
+        "Siblings": "Middle of three",
+        "Skill": "Mental math",
+        "Goal": "Teacher",
+        "Fear": "Werewolf"
+    },
+    "Favorites": {
+        "Clothing": "Basic",
+        "Color": "Beige"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "Lots",
+        "Sugar": "Three spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Alarm Clock",
+            "Price": "1,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Conga Drum",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Kitchen Island",
+            "Price": "30 (medals)",
+            "Source": "Island"
+        },
+        {
+            "Name": "Mini Lamp",
+            "Price": "1,280",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Timpano Drum",
+            "Price": "2,100",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Kitchen Tile",
+            "Price": "1,890",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Round Carpet",
+            "Price": "1,080",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Blue-Grid Tee",
+            "Price": "340",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Chevron Shirt",
+            "Price": "320",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Earthy Knit Shirt",
+            "Price": "390",
+            "Source": "Ables (Winter)"
+        }
+    ],
+    "Species": "Deer",
+    "Personality": "Normal",
+    "Gender": "Female",
+    "Birthday": "March 26th",
+    "Star Sign": "Aries",
+    "Initial Phrase": "dearie",
+    "Initial Clothes": "Shearling Coat",
+    "Favorite Saying": "The first step is always the hardest.",
+    "image": "/w/images/thumb/d/dc/Fauna_NLa.png/175px-Fauna_NLa.png",
+    "Song": "K.K. Stroll",
+    "Style": "Basic"
+}

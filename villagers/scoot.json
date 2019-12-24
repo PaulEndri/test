@@ -1,0 +1,81 @@
+{
+    "Name": "Scoot",
+    "Url": "https://nookipedia.com/wiki/Scoot",
+    "Biography": {
+        "Skill": "Climbing trees",
+        "Goal": "Rugby player",
+        "Fear": "Werewolf Hood"
+    },
+    "Favorites": {
+        "Clothing": "Sporty",
+        "Color": "Blue"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "The regular amount",
+        "Sugar": "2 spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Backpack",
+            "Price": "1,980",
+            "Source": "Tent Camper"
+        },
+        {
+            "Name": "Ball Catcher",
+            "Price": "2,040",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Beach Table",
+            "Price": "30 (medals)",
+            "Source": "Island"
+        },
+        {
+            "Name": "Blue Corner",
+            "Price": "6,800",
+            "Source": "Spotlight/Wishy"
+        },
+        {
+            "Name": "Blue Falcon",
+            "Price": "-",
+            "Source": "Fortune Cookie"
+        },
+        {
+            "Name": "Boxing Barricade",
+            "Price": "1,050",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Boxing Mat",
+            "Price": "1,180",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Golf Bag",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Hurdle",
+            "Price": "980",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Snow Machine",
+            "Price": "-",
+            "Source": "Snowman"
+        }
+    ],
+    "Species": "Duck",
+    "Personality": "Jock",
+    "Gender": "Male",
+    "Birthday": "June 13th",
+    "Star Sign": "Gemini",
+    "Initial Phrase": "zip zoom",
+    "Initial Clothes": "Frog Shirt",
+    "Favorite Saying": "Some birds avoid the water; ducks look for it.",
+    "image": "/w/images/thumb/d/d9/Scoot_NLa.png/175px-Scoot_NLa.png",
+    "Song": "Marine Song 2001",
+    "Style": "Sporty"
+}

@@ -1,0 +1,81 @@
+{
+    "Name": "Tybalt",
+    "Url": "https://nookipedia.com/wiki/Tybalt",
+    "Biography": {
+        "Siblings": "Fourth quintuplet",
+        "Skill": "Bunting",
+        "Goal": "Soccer player",
+        "Fear": "Werewolf"
+    },
+    "Favorites": {
+        "Clothing": "Sporty",
+        "Color": "Green"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "None",
+        "Sugar": "None"
+    },
+    "Gifts": [
+        {
+            "Name": "High-Jump Mat",
+            "Price": "2,980",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Mountain Bike",
+            "Price": "3,380",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Sleeping Bag",
+            "Price": "1,960",
+            "Source": "Tent Camper"
+        },
+        {
+            "Name": "Tennis Table",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Fresh Tank",
+            "Price": "280",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Fresh Tee",
+            "Price": "380",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Green Gym Tee",
+            "Price": "420",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Green Warm-Up Jacket",
+            "Price": "420",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Green-Stripe Tank",
+            "Price": "320",
+            "Source": "Ables (Summer"
+        },
+        {
+            "Name": "Green-Zap Suit",
+            "Price": "640",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Tiger",
+    "Personality": "Jock",
+    "Gender": "Male",
+    "Birthday": "August 19th",
+    "Star Sign": "Leo",
+    "Initial Phrase": "grrRAH",
+    "Initial Clothes": "Two-Ball Shirt",
+    "Favorite Saying": "There's no excuse for half-baked potatoes.",
+    "image": "/w/images/thumb/6/64/Tybalt_NL.png/200px-Tybalt_NL.png",
+    "Song": "K.K. Salsa"
+}

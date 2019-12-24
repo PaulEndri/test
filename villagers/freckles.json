@@ -1,0 +1,82 @@
+{
+    "Name": "Freckles",
+    "Url": "https://nookipedia.com/wiki/Freckles",
+    "Biography": {
+        "Siblings": "Middle triplet",
+        "Skill": "Staying awake",
+        "Goal": "Pharmacist",
+        "Fear": "Werewolf"
+    },
+    "Favorites": {
+        "Clothing": "Flashy",
+        "Color": "Colorful"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "The regular amount",
+        "Sugar": "Two spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Flashy-Flower Sign",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Neon Sign",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Sloppy Stereo",
+            "Price": "-",
+            "Source": "Re-Tail/Police Station"
+        },
+        {
+            "Name": "Hot-Dog Tank",
+            "Price": "6,000",
+            "Source": "GracieGrace (Fall)"
+        },
+        {
+            "Name": "Kiddie Tee",
+            "Price": "340",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Noodle Tee",
+            "Price": "380",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Prism Tee",
+            "Price": "370",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Sandwich Tank",
+            "Price": "6,400",
+            "Source": "GracieGrace (Fall)"
+        },
+        {
+            "Name": "Star Tee",
+            "Price": "370",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Star Tank Dress",
+            "Price": "720",
+            "Source": "Ables (Summer)"
+        }
+    ],
+    "Species": "Duck",
+    "Personality": "Peppy",
+    "Gender": "Female",
+    "Birthday": "February 19th",
+    "Star Sign": "Aquarius",
+    "Initial Phrase": "ducky",
+    "Initial Clothes": "Bright Shirt",
+    "Favorite Saying": "Act now before you change your mind!\"\"CATAPULTING CUPCAKES!",
+    "image": "/w/images/thumb/1/19/Freckles_NLa.png/175px-Freckles_NLa.png",
+    "Song": "K.K. Song",
+    "Style": "Flashy"
+}

@@ -1,0 +1,51 @@
+{
+    "Name": "Claudia",
+    "Url": "https://nookipedia.com/wiki/Claudia",
+    "Biography": {
+        "Skill": "Stomping around",
+        "Goal": "CEO",
+        "Fear": "Monster Mask"
+    },
+    "Favorites": {
+        "Clothing": "Ornate",
+        "Color": "Purple"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "A little bit",
+        "Sugar": "One spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Beaded Shirt",
+            "Price": "420",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Corseted Shirt",
+            "Price": "400",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Blue Lace-Up Dress",
+            "Price": "700",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Frock Coat",
+            "Price": "1,000",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Tiger",
+    "Personality": "Snooty",
+    "Gender": "Female",
+    "Birthday": "November 22nd",
+    "Star Sign": "Scorpio",
+    "Initial Phrase": "ooh la la",
+    "Initial Clothes": "Spring Shirt",
+    "Favorite Saying": "A tiger can't change its stripes.",
+    "image": "/w/images/thumb/6/6f/Claudia_NL.png/200px-Claudia_NL.png",
+    "Song": "K.K. Synth",
+    "Style": "Ornate"
+}

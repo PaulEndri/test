@@ -1,0 +1,82 @@
+{
+    "Name": "Rowan",
+    "Url": "https://nookipedia.com/wiki/Rowan",
+    "Biography": {
+        "Siblings": "Middle triplet",
+        "Skill": "Waking up early",
+        "Goal": "Basketball player",
+        "Fear": "Werewolf"
+    },
+    "Favorites": {
+        "Clothing": "Rock 'n' Roll",
+        "Color": "Yellow"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "A little bit",
+        "Sugar": "One spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Bingo Wheel",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Cement Mixer",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Steamroller",
+            "Price": "4,500",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Striped Cone",
+            "Price": "800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Wet-Road Sign",
+            "Price": "850",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Circuit Tank",
+            "Price": "5,120",
+            "Source": "GracieGrace (Fall)"
+        },
+        {
+            "Name": "Fish Tee",
+            "Price": "380",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Jagged Tank",
+            "Price": "280",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Jagged Tee",
+            "Price": "360",
+            "Source": "(All)"
+        },
+        {
+            "Name": "Leopard Tank",
+            "Price": "280",
+            "Source": "Ables (Summer)"
+        }
+    ],
+    "Species": "Tiger",
+    "Personality": "CrankyJock",
+    "Gender": "Male",
+    "Birthday": "August 26th",
+    "Star Sign": "Virgo",
+    "Initial Phrase": "speedymango",
+    "Initial Clothes": "Blue Aloha Shirt*Aqua Polka Tee*",
+    "Favorite Saying": "Refuse to lose.Why be junior varsity when you can be VARSITY?!",
+    "image": "/w/images/thumb/7/74/Rowan_NLa.png/175px-Rowan_NLa.png",
+    "Song": "K.K. Love Song",
+    "Style": "Rock 'n' roll"
+}

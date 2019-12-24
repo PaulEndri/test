@@ -1,0 +1,82 @@
+{
+    "Name": "Mathilda",
+    "Url": "https://nookipedia.com/wiki/Mathilda",
+    "Biography": {
+        "Siblings": "Younger twin",
+        "Skill": "Pretending to sleep",
+        "Goal": "Writer",
+        "Fear": "Skull Mask"
+    },
+    "Favorites": {
+        "Clothing": "Rock 'n' Roll",
+        "Color": "Black"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "A little",
+        "Sugar": "1 spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Amp",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Bingo Wheel",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "DJ's Turntable",
+            "Price": "3,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Effects Rack",
+            "Price": "2,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Metal Guitar",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Mic Stand",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Steamroller",
+            "Price": "4,500",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Striped Cone",
+            "Price": "800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Tabletop Game",
+            "Price": "2,480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Virtual Boy",
+            "Price": "-",
+            "Source": "Fortune Cookie"
+        }
+    ],
+    "Species": "Kangaroo",
+    "Personality": "Snooty",
+    "Gender": "Female",
+    "Birthday": "November 12th",
+    "Star Sign": "Scorpio",
+    "Initial Phrase": "wee baby",
+    "Initial Clothes": "U R Here Shirt",
+    "Favorite Saying": "Nail polish is thicker than water.Blood is thicker than water!",
+    "image": "/w/images/thumb/c/cd/Mathilda_NLa.png/175px-Mathilda_NLa.png",
+    "Song": "K.K. Ragtime",
+    "Style": "Rock 'n' roll"
+}

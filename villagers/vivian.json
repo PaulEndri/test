@@ -1,0 +1,82 @@
+{
+    "Name": "Vivian",
+    "Url": "https://nookipedia.com/wiki/Vivian",
+    "Biography": {
+        "Siblings": "Eldest of 3",
+        "Skill": "Dusting",
+        "Goal": "Makeup Artist",
+        "Fear": "Bugs"
+    },
+    "Favorites": {
+        "Clothing": "Iconic",
+        "Color": "Red"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "Lots",
+        "Sugar": "Three spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Bureom",
+            "Price": "-",
+            "Source": "Daeboreum (Korea)"
+        },
+        {
+            "Name": "Dala Horse",
+            "Price": "1,200",
+            "Source": "Gulliver"
+        },
+        {
+            "Name": "Doghouse",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Dream Catcher",
+            "Price": "1,600",
+            "Source": "Gulliver"
+        },
+        {
+            "Name": "Festival Lamp",
+            "Price": "900",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Fruit Basket",
+            "Price": "-",
+            "Source": "Harvest Festival"
+        },
+        {
+            "Name": "Hinaningyo",
+            "Price": "2,560",
+            "Source": "Timmy & Tommy's (Japan)"
+        },
+        {
+            "Name": "Hospital TV",
+            "Price": "1,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Hula Doll",
+            "Price": "1,800",
+            "Source": "Gulliver"
+        },
+        {
+            "Name": "Lawn Mower",
+            "Price": "2,760",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Wolf",
+    "Personality": "Snooty",
+    "Gender": "Female",
+    "Birthday": "January 26",
+    "Star Sign": "Aquarius",
+    "Initial Phrase": "piffle",
+    "Initial Clothes": "Subdued Print*Dogtooth Shirt*",
+    "Favorite Saying": "Onwards and upwards!",
+    "image": "/w/images/thumb/6/68/Vivian_NL_2.png/200px-Vivian_NL_2.png",
+    "Song": "K.K. Cruisin'",
+    "Style": "Iconic"
+}

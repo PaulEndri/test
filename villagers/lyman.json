@@ -1,0 +1,67 @@
+{
+    "Name": "Lyman",
+    "Url": "https://nookipedia.com/wiki/Lyman",
+    "Biography": {
+        "Siblings": "Fifth of six kids",
+        "Skill": "Forgetting",
+        "Goal": "Astronaut",
+        "Fear": "Ghost Mask"
+    },
+    "Favorites": {
+        "Clothing": "Official",
+        "Color": "Green"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "None at all",
+        "Sugar": "None at all"
+    },
+    "Gifts": [
+        {
+            "Name": "Left Platform",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Right Platform",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Green Emblem Blazer",
+            "Price": "420",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Military Uniform",
+            "Price": "380",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Military Pants",
+            "Price": "600",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Green Lace-Up Dress",
+            "Price": "700",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Mailman's Hat",
+            "Price": "-",
+            "Source": "Savings"
+        }
+    ],
+    "Species": "Koala",
+    "Personality": "Jock",
+    "Gender": "Male",
+    "Birthday": "October 12th",
+    "Star Sign": "Libra",
+    "Initial Phrase": "chips",
+    "Initial Clothes": "Club Tee",
+    "Favorite Saying": "Eucalyptus is the spice of life.",
+    "image": "/w/images/thumb/8/87/Lyman_NL.png/200px-Lyman_NL.png",
+    "Song": "K.K. Island",
+    "Style": "Official"
+}

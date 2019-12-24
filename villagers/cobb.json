@@ -1,0 +1,82 @@
+{
+    "Name": "Cobb",
+    "Url": "https://nookipedia.com/wiki/Cobb",
+    "Biography": {
+        "Siblings": "Second of six",
+        "Skill": "Debating",
+        "Goal": "Teacher",
+        "Fear": "Mummy mask"
+    },
+    "Favorites": {
+        "Clothing": "Official",
+        "Color": "Gray"
+    },
+    "Coffee": {
+        "Type": "Blue mountain",
+        "Milk": "A little",
+        "Sugar": "1 spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Chalkboard",
+            "Price": "1,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Folding Chair",
+            "Price": "600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Mop",
+            "Price": "900",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Office Chair",
+            "Price": "1,100",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Office Desk",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Office Locker",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Poster Stand",
+            "Price": "2,500",
+            "Source": "Museum Shop"
+        },
+        {
+            "Name": "Scale",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "School Chair",
+            "Price": "800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "School Desk",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Pig",
+    "Personality": "Jock",
+    "Gender": "Male",
+    "Birthday": "October 7th",
+    "Star Sign": "Libra",
+    "Initial Phrase": "hot dog",
+    "Initial Clothes": "Racer Shirt",
+    "Favorite Saying": "Might makes right.",
+    "image": "/w/images/thumb/1/1e/Cobb_NLa.png/175px-Cobb_NLa.png",
+    "Song": "Pondering",
+    "Style": "Official"
+}

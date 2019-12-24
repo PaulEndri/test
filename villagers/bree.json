@@ -1,0 +1,82 @@
+{
+    "Name": "Bree",
+    "Url": "https://nookipedia.com/wiki/Bree",
+    "Biography": {
+        "Siblings": "Third of 5",
+        "Skill": "Doodling",
+        "Goal": "Dermatologist",
+        "Fear": "Skeleton Hood"
+    },
+    "Favorites": {
+        "Clothing": "Official",
+        "Color": "White"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "Regular",
+        "Sugar": "2"
+    },
+    "Gifts": [
+        {
+            "Name": "Arrow Sign",
+            "Price": "3,500",
+            "Source": "Museum Shop"
+        },
+        {
+            "Name": "Coffee Cup",
+            "Price": "-",
+            "Source": "Brewster"
+        },
+        {
+            "Name": "Computer Desk",
+            "Price": "3,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Display Stand",
+            "Price": "1,500",
+            "Source": "Museum Shop"
+        },
+        {
+            "Name": "Exhibit Partition",
+            "Price": "3,000",
+            "Source": "Museum Shop"
+        },
+        {
+            "Name": "Flat Display Case",
+            "Price": "2,500",
+            "Source": "Museum Shop"
+        },
+        {
+            "Name": "Glass Display Case",
+            "Price": "2,000",
+            "Source": "Museum Shop"
+        },
+        {
+            "Name": "Homework Set",
+            "Price": "680",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Museum Chair",
+            "Price": "3,000",
+            "Source": "Museum Shop"
+        },
+        {
+            "Name": "Reception Table",
+            "Price": "2,000",
+            "Source": "Museum Shop"
+        }
+    ],
+    "Species": "Mouse",
+    "Personality": "Snooty",
+    "Gender": "Female",
+    "Birthday": "July 7th",
+    "Star Sign": "Cancer",
+    "Initial Phrase": "cheeseball",
+    "Initial Clothes": "Floral Knit",
+    "Favorite Saying": "The gift says more about the giver.Just in case you were wondering, I like presents.",
+    "image": "/w/images/thumb/0/0e/Bree_NLa.png/175px-Bree_NLa.png",
+    "Song": "Two Days Ago",
+    "Style": "Official"
+}

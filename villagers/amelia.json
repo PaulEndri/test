@@ -1,0 +1,82 @@
+{
+    "Name": "Amelia",
+    "Url": "https://nookipedia.com/wiki/Amelia",
+    "Biography": {
+        "Siblings": "Eldest of five",
+        "Skill": "Playing poker",
+        "Goal": "Lawyer",
+        "Fear": "Skeleton Hood"
+    },
+    "Favorites": {
+        "Clothing": "Ornate",
+        "Color": "Red"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "Lots",
+        "Sugar": "Three spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Gorgeous Bed",
+            "Price": "300,000",
+            "Source": "GracieGrace (Winter)"
+        },
+        {
+            "Name": "Gorgeous Counter",
+            "Price": "180,000",
+            "Source": "GracieGrace (Winter)"
+        },
+        {
+            "Name": "Gorgeous Lamp",
+            "Price": "60,000",
+            "Source": "GracieGrace (Winter)"
+        },
+        {
+            "Name": "Gorgeous Seat",
+            "Price": "90,000",
+            "Source": "GracieGrace (Winter)"
+        },
+        {
+            "Name": "Gorgeous Sofa",
+            "Price": "120,000",
+            "Source": "GracieGrace (Winter)"
+        },
+        {
+            "Name": "Gorgeous Stool",
+            "Price": "80,000",
+            "Source": "GracieGrace (Winter)"
+        },
+        {
+            "Name": "Gorgeous Wall Clock",
+            "Price": "350,000",
+            "Source": "GracieGrace (Winter)"
+        },
+        {
+            "Name": "Red Ringmaster Coat",
+            "Price": "6,000",
+            "Source": "GracieGrace (Sales)"
+        },
+        {
+            "Name": "Royal Shirt",
+            "Price": "380",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Royal Shorts",
+            "Price": "1,200",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Eagle",
+    "Personality": "Snooty",
+    "Gender": "Female",
+    "Birthday": "November 19th",
+    "Star Sign": "Scorpio",
+    "Initial Phrase": "eaglet   cuz",
+    "Initial Clothes": "Spiderweb Shirt",
+    "Favorite Saying": "Pampering yourself is as important as food, water, and shelter!",
+    "image": "/w/images/thumb/5/54/Amelia_NLa.png/200px-Amelia_NLa.png",
+    "Song": "K.K. Condor",
+    "Style": "Ornate"
+}

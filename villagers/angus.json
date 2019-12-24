@@ -1,0 +1,82 @@
+{
+    "Name": "Angus",
+    "Url": "https://nookipedia.com/wiki/Angus",
+    "Biography": {
+        "Siblings": "Second of six",
+        "Skill": "Doing handstands",
+        "Goal": "Forest ranger",
+        "Fear": "Mummies"
+    },
+    "Favorites": {
+        "Clothing": "Rock 'n' Roll",
+        "Color": "Green"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "None",
+        "Sugar": "None"
+    },
+    "Gifts": [
+        {
+            "Name": "Billiard Table",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Dentist's Chair",
+            "Price": "3,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Mahjong Table",
+            "Price": "4,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Oil Barrel",
+            "Price": "800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Robo-Lamp",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Rock Guitar",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Circuit Tank",
+            "Price": "5,120",
+            "Source": "GracieGrace (Fall)"
+        },
+        {
+            "Name": "Jungle-Camo Shirt",
+            "Price": "420",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Kanji Tee",
+            "Price": "420",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Pulse Shirt",
+            "Price": "6,400",
+            "Source": "GracieGrace (Winter)"
+        }
+    ],
+    "Species": "Bull",
+    "Personality": "Cranky",
+    "Gender": "Male",
+    "Birthday": "April 30th",
+    "Star Sign": "Taurus",
+    "Initial Phrase": "macmoo",
+    "Initial Clothes": "Flame Shirt",
+    "Favorite Saying": "Even strong men cry.",
+    "image": "/w/images/thumb/e/ef/Angus_NLa.png/175px-Angus_NLa.png",
+    "Song": "Señor K.K.",
+    "Style": "Rock 'n' roll"
+}

@@ -1,0 +1,81 @@
+{
+    "Name": "Tasha",
+    "Url": "https://nookipedia.com/wiki/Tasha",
+    "Biography": {
+        "Siblings": "Third of five",
+        "Skill": "Photography",
+        "Goal": "Hairstylist",
+        "Fear": "Wolf"
+    },
+    "Favorites": {
+        "Clothing": "Cute",
+        "Color": "Green"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "The regular amount",
+        "Sugar": "Two spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "1-Up Mushroom",
+            "Price": "-",
+            "Source": "Fortune Cookie"
+        },
+        {
+            "Name": "Baby Panda",
+            "Price": "480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Big Festive Tree",
+            "Price": "2,480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Birdbath",
+            "Price": "1,450",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Caterpillar Sofa",
+            "Price": "-",
+            "Source": "Nat"
+        },
+        {
+            "Name": "Cosmos Fan",
+            "Price": "-",
+            "Source": "Leif"
+        },
+        {
+            "Name": "Festive Tree",
+            "Price": "1,300",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Festive Wreath",
+            "Price": "-",
+            "Source": "Toy Day"
+        },
+        {
+            "Name": "Firefly Lamp",
+            "Price": "-",
+            "Source": "Nat"
+        },
+        {
+            "Name": "Flounder Table",
+            "Price": "-",
+            "Source": "Chip"
+        }
+    ],
+    "Species": "Squirrel",
+    "Personality": "Snooty",
+    "Gender": "Female",
+    "Birthday": "November 30th",
+    "Star Sign": "Sagittarius",
+    "Initial Phrase": "nice nice",
+    "Initial Clothes": "Leather Jerkin*Shearling Coat*",
+    "Favorite Saying": "There's no such thing as a safe secret.",
+    "image": "/w/images/thumb/8/8f/Tasha_NL.png/150px-Tasha_NL.png",
+    "Song": "K.K. Disco"
+}

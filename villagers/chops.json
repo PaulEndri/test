@@ -1,0 +1,35 @@
+{
+    "Name": "Chops",
+    "Url": "https://nookipedia.com/wiki/Chops",
+    "Biography": {
+        "Siblings": "Eldest of three",
+        "Skill": "Making crafts",
+        "Goal": "Politician",
+        "Fear": "Warewolf Hood"
+    },
+    "Favorites": {
+        "Clothing": "Ornate",
+        "Color": "Gray"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "None at all",
+        "Sugar": "None at all"
+    },
+    "Gifts": [
+        {
+            "Name": "No Gray Ornate Items"
+        }
+    ],
+    "Species": "Pig",
+    "Personality": "Smug",
+    "Gender": "Male",
+    "Birthday": "October 13th",
+    "Star Sign": "Libra",
+    "Initial Phrase": "zoink",
+    "Initial Clothes": "Red Ringmaster Coat",
+    "Favorite Saying": "You can't have your cake and eat it too.",
+    "image": "/w/images/thumb/a/af/Chops_NL.png/200px-Chops_NL.png",
+    "Song": "K.K. Moody",
+    "Style": "Ornate"
+}

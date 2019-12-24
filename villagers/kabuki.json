@@ -1,0 +1,52 @@
+{
+    "Name": "Kabuki",
+    "Url": "https://nookipedia.com/wiki/Kabuki",
+    "Biography": {
+        "Siblings": "Eldest of three",
+        "Skill": "Drawing circles",
+        "Goal": "Actor",
+        "Fear": "Skeleton Hood"
+    },
+    "Favorites": {
+        "Clothing": "Historical",
+        "Color": "Purple"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "The regular amount",
+        "Sugar": "Two spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Painter's Shirt",
+            "Price": "420",
+            "Source": "Ables (Fall)"
+        },
+        {
+            "Name": "Painter's Tee",
+            "Price": "360",
+            "Source": "Ables (Fall)"
+        },
+        {
+            "Name": "Sharp Outfit",
+            "Price": "280",
+            "Source": "Ables (Winter)"
+        },
+        {
+            "Name": "Witch's Robe",
+            "Price": "7,200",
+            "Source": "GracieGrace (Fall)"
+        }
+    ],
+    "Species": "Cat",
+    "Personality": "Cranky",
+    "Gender": "Male",
+    "Birthday": "November 29th",
+    "Star Sign": "Sagittarius",
+    "Initial Phrase": "meooo-OH",
+    "Initial Clothes": "Lavender Robe*  Misty Tee*",
+    "Favorite Saying": "If you make your opponent flinch, you have already won.Hoo-ha konichiwa!",
+    "image": "/w/images/thumb/e/ec/Kabuki_NLa.png/175px-Kabuki_NLa.png",
+    "Song": "K.K. Folk",
+    "Style": "Historical"
+}

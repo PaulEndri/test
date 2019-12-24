@@ -1,0 +1,82 @@
+{
+    "Name": "Ava",
+    "Url": "https://nookipedia.com/wiki/Ava",
+    "Biography": {
+        "Siblings": "Eldest of six",
+        "Skill": "Peeling apples",
+        "Goal": "Pastry chef",
+        "Fear": "Monsters"
+    },
+    "Favorites": {
+        "Clothing": "Official",
+        "Color": "Brown"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "The regular amount",
+        "Sugar": "Two spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Coffee Cup",
+            "Price": "-",
+            "Source": "Brewster"
+        },
+        {
+            "Name": "Cubbyhole",
+            "Price": "2,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Editor's Desk",
+            "Price": "5,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Globe",
+            "Price": "-",
+            "Source": "Katie"
+        },
+        {
+            "Name": "Left Platform",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Mop",
+            "Price": "900",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Podium",
+            "Price": "1,280",
+            "Source": "Spotlight/Wishy"
+        },
+        {
+            "Name": "Right Platform",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "School Chair",
+            "Price": "800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "School Desk",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Chicken",
+    "Personality": "Normal",
+    "Gender": "Female",
+    "Birthday": "April 28th",
+    "Star Sign": "Taurus",
+    "Initial Phrase": "beaker",
+    "Initial Clothes": "Checkerboard Tee",
+    "Favorite Saying": "Early to bed, early to rise.",
+    "image": "/w/images/thumb/c/c8/Ava_NLa.png/200px-Ava_NLa.png",
+    "Song": "K.K. Country",
+    "Style": "Official"
+}

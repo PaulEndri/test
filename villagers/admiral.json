@@ -1,0 +1,81 @@
+{
+    "Name": "Admiral",
+    "Url": "https://nookipedia.com/wiki/Admiral",
+    "Biography": {
+        "Siblings": "Eldest of 4 kids",
+        "Skill": "Writing about pickles",
+        "Goal": "Fisherman",
+        "Fear": "Bugs"
+    },
+    "Favorites": {
+        "Clothing": "Modern",
+        "Color": "Black"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "Regular",
+        "Sugar": "2"
+    },
+    "Gifts": [
+        {
+            "Name": "Digital-Photo Frame",
+            "Price": "-",
+            "Source": "Katie"
+        },
+        {
+            "Name": "Flat-Screen TV",
+            "Price": "4,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Hot Plate",
+            "Price": "1,680",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Modern Bed",
+            "Price": "2,320",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Modern Cabinet",
+            "Price": "2,580",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Modern Chair",
+            "Price": "1,500",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Modern Desk",
+            "Price": "2,480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Modern Dresser",
+            "Price": "2,250",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Modern End Table",
+            "Price": "1,900",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Modern Lamp",
+            "Price": "1,400",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Bird",
+    "Personality": "Cranky",
+    "Gender": "Male",
+    "Birthday": "January 27th",
+    "Star Sign": "Aquarius",
+    "Initial Phrase": "aye aye",
+    "Initial Clothes": "Orange Pinstripe",
+    "Favorite Saying": "Only quitters give up.",
+    "image": "/w/images/thumb/0/02/Admiral_NL.png/200px-Admiral_NL.png",
+    "Song": "Steep Hill"
+}

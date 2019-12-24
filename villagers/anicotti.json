@@ -1,0 +1,67 @@
+{
+    "Name": "Anicotti",
+    "Url": "https://nookipedia.com/wiki/Anicotti",
+    "Biography": {
+        "Siblings": "Middle triplet",
+        "Skill": "Oversleeping",
+        "Goal": "Photographer",
+        "Fear": "Monsters"
+    },
+    "Favorites": {
+        "Clothing": "Flashy",
+        "Color": "Pink"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "None",
+        "Sugar": "None"
+    },
+    "Gifts": [
+        {
+            "Name": "Groovy Tank",
+            "Price": "5,800",
+            "Source": "GracieGrace (Summer)"
+        },
+        {
+            "Name": "Groovy Tee",
+            "Price": "6,400",
+            "Source": "GracieGrace (Summer)"
+        },
+        {
+            "Name": "Optical Shirt",
+            "Price": "430",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Optical Tank",
+            "Price": "280",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Flashy Hairpin",
+            "Price": "4,800",
+            "Source": "GracieGrace (Summer)"
+        },
+        {
+            "Name": "Purple-Pumpkin Head",
+            "Price": "-",
+            "Source": "Halloween"
+        },
+        {
+            "Name": "Shower Cap",
+            "Price": "240",
+            "Source": "Accessory Corner"
+        }
+    ],
+    "Species": "Mouse",
+    "Personality": "Peppy",
+    "Gender": "Female",
+    "Birthday": "February 24th",
+    "Star Sign": "Pisces",
+    "Initial Phrase": "cannoli",
+    "Initial Clothes": "Desert Shirt*Peachy Tee*",
+    "Favorite Saying": "The walls have ears.",
+    "image": "/w/images/thumb/b/bb/Anicotti_NLa.png/175px-Anicotti_NLa.png",
+    "Song": "Neapolitan",
+    "Style": "Flashy"
+}

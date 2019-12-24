@@ -1,0 +1,82 @@
+{
+    "Name": "Poncho",
+    "Url": "https://nookipedia.com/wiki/Poncho",
+    "Biography": {
+        "Siblings": "Second of six",
+        "Skill": "Making puns",
+        "Goal": "Astronaut",
+        "Fear": "Wolf Mask"
+    },
+    "Favorites": {
+        "Clothing": "Basic",
+        "Color": "Orange"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "Lots",
+        "Sugar": "Three spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Corkboard",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Deluxe Washer",
+            "Price": "5,200",
+            "Source": "Spotlight/Wishy"
+        },
+        {
+            "Name": "Gerbera",
+            "Price": "780",
+            "Source": "Garden Corner"
+        },
+        {
+            "Name": "Green Bed",
+            "Price": "2,160",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Green Chair",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Green Dresser",
+            "Price": "2,320",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Green Lamp",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Green Table",
+            "Price": "1,700",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Green Wall Clock",
+            "Price": "1,680",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Astro Floor",
+            "Price": "2,120",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Cub",
+    "Personality": "Jock",
+    "Gender": "Male",
+    "Birthday": "January 2nd",
+    "Star Sign": "Capricorn",
+    "Initial Phrase": "li'l bearbabà",
+    "Initial Clothes": "Blue-Grid Tee",
+    "Favorite Saying": "Fortune favors the brave!C'mere! I wanna bench-press you!",
+    "image": "/w/images/thumb/f/fa/Poncho_NLa.png/175px-Poncho_NLa.png",
+    "Song": "K.K. Condor",
+    "Style": "Basic"
+}

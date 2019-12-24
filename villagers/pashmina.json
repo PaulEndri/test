@@ -1,0 +1,42 @@
+{
+    "Name": "Pashmina",
+    "Url": "https://nookipedia.com/wiki/Pashmina",
+    "Biography": {
+        "Siblings": "Youngest of two",
+        "Skill": "Eating frequently",
+        "Goal": "Pro golfer",
+        "Fear": "Mummy Mask"
+    },
+    "Favorites": {
+        "Clothing": "Modern",
+        "Color": "Beige"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "Lots of milk",
+        "Sugar": "Three spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Crew Member's Seat",
+            "Price": "2,800",
+            "Source": "Spotlight/Wishy"
+        },
+        {
+            "Name": "Space Captain's Seat",
+            "Price": "3,680",
+            "Source": "Spotlight/Wishy"
+        }
+    ],
+    "Species": "Goat",
+    "Personality": "Uchi",
+    "Gender": "Female",
+    "Birthday": "December 26",
+    "Star Sign": "Capricorn",
+    "Initial Phrase": "kidders",
+    "Initial Clothes": "Corseted shirt",
+    "Favorite Saying": "Before you judge someone, walk a mile in her hooves.",
+    "image": "/w/images/thumb/6/6e/Pashmina_NL.png/200px-Pashmina_NL.png",
+    "Song": "K.K. Tango",
+    "Style": "Modern"
+}

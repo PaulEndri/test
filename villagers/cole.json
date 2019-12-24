@@ -1,0 +1,82 @@
+{
+    "Name": "Cole",
+    "Url": "https://nookipedia.com/wiki/Cole",
+    "Biography": {
+        "Siblings": "Only Child",
+        "Skill": "Drawing circles",
+        "Goal": "Painter",
+        "Fear": "Ghost Mask"
+    },
+    "Favorites": {
+        "Clothing": "Modern",
+        "Color": "Black"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "None at all",
+        "Sugar": "None at all"
+    },
+    "Gifts": [
+        {
+            "Name": "Digital-Photo Frame",
+            "Price": "-",
+            "Source": "Katie"
+        },
+        {
+            "Name": "Flat-Screen TV",
+            "Price": "4,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Hot Plate",
+            "Price": "1,680",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Modern Bed",
+            "Price": "2,320",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Modern Cabinet",
+            "Price": "2,580",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Modern Chair",
+            "Price": "1,500",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Modern Desk",
+            "Price": "2,480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Modern Dresser",
+            "Price": "2,250",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Modern End Table",
+            "Price": "1,900",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Modern Lamp",
+            "Price": "1,400",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Rabbit",
+    "Personality": "Lazy",
+    "Gender": "Male",
+    "Birthday": "August 10th",
+    "Star Sign": "Leo",
+    "Initial Phrase": "duuude",
+    "Initial Clothes": "Citrus Shirt",
+    "Favorite Saying": "Little pitchers have big ears.",
+    "image": "/w/images/thumb/6/68/Cole_NL.png/200px-Cole_NL.png",
+    "Song": "Spring Blossoms",
+    "Style": "Modern"
+}

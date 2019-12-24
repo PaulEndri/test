@@ -1,0 +1,82 @@
+{
+    "Name": "Wendy",
+    "Url": "https://nookipedia.com/wiki/Wendy",
+    "Biography": {
+        "Siblings": "Youngest of 3",
+        "Skill": "Ventriloquism",
+        "Goal": "Violinist",
+        "Fear": "Werewolf Hood"
+    },
+    "Favorites": {
+        "Clothing": "Flashy",
+        "Color": "White"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "The regular amount",
+        "Sugar": "Two spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Astro Bed",
+            "Price": "3,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Astro CD Player",
+            "Price": "3,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Astro Chair",
+            "Price": "2,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Astro Clock",
+            "Price": "2,980",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Astro Closet",
+            "Price": "3,480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Astro Dresser",
+            "Price": "3,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Astro Lamp",
+            "Price": "2,680",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Astro Shelf",
+            "Price": "2,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Astro Sofa",
+            "Price": "3,280",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Astro Table",
+            "Price": "3,000",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Sheep",
+    "Personality": "Peppy",
+    "Gender": "Female",
+    "Birthday": "August 15th",
+    "Star Sign": "Leo",
+    "Initial Phrase": "lambkins",
+    "Initial Clothes": "Watermelon Shirt",
+    "Favorite Saying": "Every cloud has a silver lining.",
+    "image": "/w/images/thumb/6/65/Wendy_NLa.png/175px-Wendy_NLa.png",
+    "Song": "K.K. Bossa",
+    "Style": "Flashy"
+}

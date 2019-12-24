@@ -1,0 +1,80 @@
+{
+    "Name": "Spike",
+    "Url": "https://nookipedia.com/wiki/Spike",
+    "Biography": {
+        "Siblings": "Third of 4",
+        "Skill": "Climbing trees",
+        "Goal": "Actor",
+        "Fear": "Bug"
+    },
+    "Favorites": {
+        "Clothing": "Rock 'n' Roll",
+        "Color": "Blue"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "Regular",
+        "Sugar": "2"
+    },
+    "Gifts": [
+        {
+            "Name": "Robo-Bed",
+            "Price": "2,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Robo-Sofa",
+            "Price": "2,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Acid-Washed Jacket",
+            "Price": "5,600",
+            "Source": "GracieGrace (Fall)"
+        },
+        {
+            "Name": "Blue Letter Jacket",
+            "Price": "420",
+            "Source": "Ables (Winter)"
+        },
+        {
+            "Name": "Chain-Gang Shirt",
+            "Price": "420",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Chain-Gang Tee",
+            "Price": "260",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Denim Vest",
+            "Price": "420",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Dragon Jacket",
+            "Price": "5,200",
+            "Source": "GracieGrace (Sales)"
+        },
+        {
+            "Name": "Lightning Tee",
+            "Price": "380",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Rugby Shirt",
+            "Price": "420",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Rhino",
+    "Personality": "Cranky",
+    "Gender": "Male",
+    "Birthday": "June 17th",
+    "Star Sign": "Cancer",
+    "Initial Phrase": "punk",
+    "Initial Clothes": "Skull Shirt",
+    "Favorite Saying": "Keep your eye on the ball.",
+    "image": "/w/images/thumb/1/13/Spike_NL.png/200px-Spike_NL.png"
+}

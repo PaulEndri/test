@@ -1,0 +1,52 @@
+{
+    "Name": "Elise",
+    "Url": "https://nookipedia.com/wiki/Elise",
+    "Biography": {
+        "Siblings": "Eldest of four sisters",
+        "Skill": "Mental math",
+        "Goal": "Archaeologist",
+        "Fear": "Bugs"
+    },
+    "Favorites": {
+        "Clothing": "Official",
+        "Color": "Colorful"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "None at all",
+        "Sugar": "None at all"
+    },
+    "Gifts": [
+        {
+            "Name": "Homework Set",
+            "Price": "680",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Clerk's Shirt",
+            "Price": "420",
+            "Source": "DLC (Japan & Europe)"
+        },
+        {
+            "Name": "Imperial Wall",
+            "Price": "2,660",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Exquisite Rug",
+            "Price": "1,960",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Monkey",
+    "Personality": "Snooty",
+    "Gender": "Female",
+    "Birthday": "March 21st",
+    "Star Sign": "Aries",
+    "Initial Phrase": "puh-lease",
+    "Initial Clothes": "Cool Shirt*Gumdrop Tee*",
+    "Favorite Saying": "Do as I say, not as I do.If you say anything stupid about bananas or monkeying around, I'll scream!",
+    "image": "/w/images/thumb/f/fe/Elise_NLa.png/150px-Elise_NLa.png",
+    "Song": "Neapolitan",
+    "Style": "Official"
+}

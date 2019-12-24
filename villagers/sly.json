@@ -1,0 +1,67 @@
+{
+    "Name": "Sly",
+    "Url": "https://nookipedia.com/wiki/Sly",
+    "Biography": {
+        "Siblings": "Eldest of seven",
+        "Skill": "Pretending to sleep",
+        "Goal": "Explorer",
+        "Fear": "Monster"
+    },
+    "Favorites": {
+        "Clothing": "Rock 'n' Roll",
+        "Color": "Colorful"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "Lots",
+        "Sugar": "Three spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Arcade Machine",
+            "Price": "4,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "CD Shelf",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Colorful Wheel",
+            "Price": "2,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Pinball Machine",
+            "Price": "1,960",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Dragon Jacket",
+            "Price": "5,200",
+            "Source": "GracieGrace (Sales)"
+        },
+        {
+            "Name": "Tiger Jacket",
+            "Price": "5,000",
+            "Source": "GracieGrace (Sales)"
+        },
+        {
+            "Name": "Combat Helmet",
+            "Price": "960",
+            "Source": "Accessory Corner"
+        }
+    ],
+    "Species": "Alligator",
+    "Personality": "Jock",
+    "Gender": "Male",
+    "Birthday": "November 15th",
+    "Star Sign": "Scorpio",
+    "Initial Phrase": "hoo-rah",
+    "Initial Clothes": "Jungle Camo Shirt",
+    "Favorite Saying": "Don't bite off more than you can chew.",
+    "image": "/w/images/thumb/9/9f/Sly_NL.png/175px-Sly_NL.png",
+    "Song": "K.K. Safari",
+    "Style": "Rock 'n' roll"
+}

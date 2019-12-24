@@ -1,0 +1,77 @@
+{
+    "Name": "Joey",
+    "Url": "https://nookipedia.com/wiki/Joey",
+    "Biography": {
+        "Siblings": "Fourth quintuplet",
+        "Skill": "Blowing bubbles",
+        "Goal": "Sumo wrestler",
+        "Fear": "Frankenstein"
+    },
+    "Favorites": {
+        "Clothing": "Basic",
+        "Color": "Purple"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "None",
+        "Sugar": "None"
+    },
+    "Gifts": [
+        {
+            "Name": "Cityscape Wall",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Big-Star Tee",
+            "Price": "400",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Paw Tee",
+            "Price": "360",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Picnic Shirt",
+            "Price": "420",
+            "Source": "Ables (Fall)"
+        },
+        {
+            "Name": "Picnic Tee",
+            "Price": "330",
+            "Source": "Ables (Fall)"
+        },
+        {
+            "Name": "Purple Tie-Dye Tank",
+            "Price": "280",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Purple Tie-Dye Tee",
+            "Price": "380",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Picnic Skirt",
+            "Price": "480",
+            "Source": "Ables (Fall)"
+        },
+        {
+            "Name": "Purple Glasses",
+            "Price": "240",
+            "Source": "Accessory Corner"
+        }
+    ],
+    "Species": "Duck",
+    "Personality": "Lazy",
+    "Gender": "Male",
+    "Birthday": "January 3rd",
+    "Star Sign": "Capricorn",
+    "Initial Phrase": "bleeeeeck",
+    "Initial Clothes": "No. 3 Shirt",
+    "Favorite Saying": "Don't get your feathers all ruffled. Just chill.",
+    "image": "/w/images/thumb/4/47/Joey_NLa.png/175px-Joey_NLa.png",
+    "Song": "K.K. Calypso",
+    "Style": "Basic"
+}

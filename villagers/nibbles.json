@@ -1,0 +1,82 @@
+{
+    "Name": "Nibbles",
+    "Url": "https://nookipedia.com/wiki/Nibbles",
+    "Biography": {
+        "Siblings": "Eldest of nine",
+        "Skill": "Juggling",
+        "Goal": "Journalist",
+        "Fear": "Bugs"
+    },
+    "Favorites": {
+        "Clothing": "Cute",
+        "Color": "Brown"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "The regular amount",
+        "Sugar": "Two spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "? Block",
+            "Price": "-",
+            "Source": "Fortune Cookie"
+        },
+        {
+            "Name": "Beetle Chair",
+            "Price": "-",
+            "Source": "Nat"
+        },
+        {
+            "Name": "Bird Feeder",
+            "Price": "1,260",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Birdhouse",
+            "Price": "1,620",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Block",
+            "Price": "-",
+            "Source": "Fortune Cookie"
+        },
+        {
+            "Name": "Box of Chocolates",
+            "Price": "-",
+            "Source": "Club Tortimer"
+        },
+        {
+            "Name": "Chocolate Cake",
+            "Price": "-",
+            "Source": "Valentine's Day"
+        },
+        {
+            "Name": "Cicada Stereo",
+            "Price": "-",
+            "Source": "Nat"
+        },
+        {
+            "Name": "Clackercart",
+            "Price": "1,380",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Dab Table",
+            "Price": "-",
+            "Source": "Chip"
+        }
+    ],
+    "Species": "Squirrel",
+    "Personality": "Peppy",
+    "Gender": "Female",
+    "Birthday": "July 19th",
+    "Star Sign": "Cancer",
+    "Initial Phrase": "niblet",
+    "Initial Clothes": "Watermelon Shirt",
+    "Favorite Saying": "Appearances are, like, totally deceiving.Coming to a billboard near you!",
+    "image": "/w/images/thumb/b/b5/Nibbles_NLa.png/175px-Nibbles_NLa.png",
+    "Song": "K.K. Technopop",
+    "Style": "Cute"
+}

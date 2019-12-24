@@ -1,0 +1,80 @@
+{
+    "Name": "June",
+    "Url": "https://nookipedia.com/wiki/June_(villager)",
+    "Biography": {
+        "Siblings": "Eldest of 3",
+        "Skill": "Photography",
+        "Goal": "Pharmacist",
+        "Fear": "Bug"
+    },
+    "Favorites": {
+        "Clothing": "Cute",
+        "Color": "White"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "None",
+        "Sugar": "None"
+    },
+    "Gifts": [
+        {
+            "Name": "Baby Bed",
+            "Price": "2,900",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Baby Panda",
+            "Price": "480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Bird Feeder",
+            "Price": "1,260",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Birthday Cake",
+            "Price": "-",
+            "Source": "Birthday"
+        },
+        {
+            "Name": "Birthday Table",
+            "Price": "-",
+            "Source": "Birthday"
+        },
+        {
+            "Name": "Card Bed",
+            "Price": "220,000",
+            "Source": "GracieGrace"
+        },
+        {
+            "Name": "Card Chair",
+            "Price": "100,000",
+            "Source": "GracieGrace"
+        },
+        {
+            "Name": "Card Closet",
+            "Price": "240,000",
+            "Source": "GracieGrace"
+        },
+        {
+            "Name": "Closet Dresser",
+            "Price": "120,000",
+            "Source": "GracieGrace"
+        },
+        {
+            "Name": "Card Lamp",
+            "Price": "80,000",
+            "Source": "GracieGrace"
+        }
+    ],
+    "Species": "Cub",
+    "Personality": "Normal",
+    "Gender": "Female",
+    "Birthday": "May 21st",
+    "Star Sign": "Gemini",
+    "Initial Phrase": "rainbow",
+    "Initial Clothes": "Red Aloha Shirt*Garden Tank*",
+    "Favorite Saying": "Dream big, expect little.",
+    "image": "/w/images/thumb/2/2c/June_NL.png/200px-June_NL.png"
+}

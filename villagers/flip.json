@@ -1,0 +1,82 @@
+{
+    "Name": "Flip",
+    "Url": "https://nookipedia.com/wiki/Flip",
+    "Biography": {
+        "Siblings": "Second of four",
+        "Skill": "Climbing trees",
+        "Goal": "Pro golfer",
+        "Fear": "Ghost"
+    },
+    "Favorites": {
+        "Clothing": "Sporty",
+        "Color": "Yellow"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "A little bit",
+        "Sugar": "One spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Camp Stove",
+            "Price": "1,200",
+            "Source": "Igloo Camper"
+        },
+        {
+            "Name": "Curling Stone",
+            "Price": "-",
+            "Source": "Snowman"
+        },
+        {
+            "Name": "Judge's Bell",
+            "Price": "1,790",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Kayak",
+            "Price": "3,460",
+            "Source": "Tent Camper"
+        },
+        {
+            "Name": "Mountain Bike",
+            "Price": "3,380",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Snowmobile",
+            "Price": "-",
+            "Source": "Snowman"
+        },
+        {
+            "Name": "Sprinkler",
+            "Price": "1,640",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Basketball Tank",
+            "Price": "420",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Firefighter Shirt",
+            "Price": "320",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Nine-Ball Shirt",
+            "Price": "340",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Monkey",
+    "Personality": "Jock",
+    "Gender": "Male",
+    "Birthday": "November 21st",
+    "Star Sign": "Sagittarius",
+    "Initial Phrase": "rerack",
+    "Initial Clothes": "Happi Tee",
+    "Favorite Saying": "See no donut, hear no donut, speak no donut.",
+    "image": "/w/images/thumb/1/11/Flip_NLa.png/175px-Flip_NLa.png",
+    "Song": "K.K. Rally",
+    "Style": "Sporty"
+}

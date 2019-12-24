@@ -1,0 +1,82 @@
+{
+    "Name": "Bertha",
+    "Url": "https://nookipedia.com/wiki/Bertha",
+    "Biography": {
+        "Siblings": "Youngest of 3 sisters",
+        "Skill": "Drawing circles",
+        "Goal": "Professor",
+        "Fear": "Bug Mask"
+    },
+    "Favorites": {
+        "Clothing": "Iconic",
+        "Color": "Gray"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "Lots",
+        "Sugar": "Three spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Alpine Bed",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Alpine Chair",
+            "Price": "2,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Alpine Closet",
+            "Price": "2,380",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Alpine Dresser",
+            "Price": "2,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Alpine Kitchen Cart",
+            "Price": "1,960",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Alpine Lamp",
+            "Price": "2,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Alpine Low Table",
+            "Price": "2,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Alpine Panel",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Alpine Shelf",
+            "Price": "2,100",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Alpine Sofa",
+            "Price": "2,360",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Hippo",
+    "Personality": "Normal",
+    "Gender": "Female",
+    "Birthday": "April 25",
+    "Star Sign": "Taurus",
+    "Initial Phrase": "bloop",
+    "Initial Clothes": "Pink Tartan*Funky Dot Shirt*",
+    "Favorite Saying": "The best part of spring is the picnics!",
+    "image": "/w/images/thumb/3/37/Bertha_NLa.png/200px-Bertha_NLa.png",
+    "Song": "Space K.K.",
+    "Style": "Iconic"
+}

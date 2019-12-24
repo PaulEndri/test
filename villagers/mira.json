@@ -1,0 +1,82 @@
+{
+    "Name": "Mira",
+    "Url": "https://nookipedia.com/wiki/Mira",
+    "Biography": {
+        "Siblings": "Younger twin sister",
+        "Skill": "Telling jokes",
+        "Goal": "Makeup artist",
+        "Fear": "Bug Mask"
+    },
+    "Favorites": {
+        "Clothing": "Rock 'n' Roll",
+        "Color": "Yellow"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "A little bit",
+        "Sugar": "1 spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Bingo Wheel",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Cement Mixer",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Steamroller",
+            "Price": "4,500",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Striped Cone",
+            "Price": "800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Wet-Road Sign",
+            "Price": "850",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Circuit Tank",
+            "Price": "5,120",
+            "Source": "GracieGrace (Fall)"
+        },
+        {
+            "Name": "Fish Tee",
+            "Price": "380",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Jagged Tank",
+            "Price": "280",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Jagged Tee",
+            "Price": "360",
+            "Source": "(All)"
+        },
+        {
+            "Name": "Leopard Tank",
+            "Price": "280",
+            "Source": "Ables (Summer)"
+        }
+    ],
+    "Species": "Rabbit",
+    "Personality": "Uchi",
+    "Gender": "Female",
+    "Birthday": "July 6",
+    "Star Sign": "Cancer",
+    "Initial Phrase": "cottontail",
+    "Initial Clothes": "Red-Zap Suit",
+    "Favorite Saying": "Always help a friend in need.",
+    "image": "/w/images/thumb/0/0c/Mira_NL.png/200px-Mira_NL.png",
+    "Song": "K.K. Tango",
+    "Style": "Rock 'n' roll"
+}

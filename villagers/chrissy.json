@@ -1,0 +1,82 @@
+{
+    "Name": "Chrissy",
+    "Url": "https://nookipedia.com/wiki/Chrissy",
+    "Biography": {
+        "Siblings": "Youngest of 4 Sisters",
+        "Skill": "Staying awake",
+        "Goal": "Model",
+        "Fear": "Monster mask"
+    },
+    "Favorites": {
+        "Clothing": "Cute",
+        "Color": "Pink"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "Lots",
+        "Sugar": "3 spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Azalea Stool",
+            "Price": "-",
+            "Source": "Leif"
+        },
+        {
+            "Name": "Boxed Figurine",
+            "Price": "-",
+            "Source": "Fireworks"
+        },
+        {
+            "Name": "Cradle",
+            "Price": "3,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Crane Game",
+            "Price": "1,680",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Dollhouse",
+            "Price": "2,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Flower Bouquet",
+            "Price": "-",
+            "Source": "Leif"
+        },
+        {
+            "Name": "Lotus Lamp",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Lovely Armoire",
+            "Price": "2,240",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Lovely Bed",
+            "Price": "2,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Lovely Chair",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Rabbit",
+    "Personality": "Peppy",
+    "Gender": "Female",
+    "Birthday": "August 28th",
+    "Star Sign": "Virgo",
+    "Initial Phrase": ",sparkles",
+    "Initial Clothes": "Polka Dot Tee",
+    "Favorite Saying": "A fool and her Bells are soon parted.",
+    "image": "/w/images/thumb/6/60/Chrissy_NLa.png/175px-Chrissy_NLa.png",
+    "Song": "K.K. Waltz",
+    "Style": "Cute"
+}

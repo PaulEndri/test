@@ -1,0 +1,82 @@
+{
+    "Name": "Bella",
+    "Url": "https://nookipedia.com/wiki/Bella",
+    "Biography": {
+        "Siblings": "Youngest of 4 sisters",
+        "Skill": "Staying up late",
+        "Goal": "Singer",
+        "Fear": "Monster mask"
+    },
+    "Favorites": {
+        "Clothing": "Rock 'n' Roll",
+        "Color": "Black"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "None",
+        "Sugar": "None"
+    },
+    "Gifts": [
+        {
+            "Name": "Amp",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Bingo Wheel",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "DJ's Turntable",
+            "Price": "3,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Effects Rack",
+            "Price": "2,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Metal Guitar",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Mic Stand",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Steamroller",
+            "Price": "4,500",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Striped Cone",
+            "Price": "800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Tabletop Game",
+            "Price": "2,480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Virtual Boy",
+            "Price": "-",
+            "Source": "Fortune Cookie"
+        }
+    ],
+    "Species": "Mouse",
+    "Personality": "Peppy",
+    "Gender": "Female",
+    "Birthday": "December 28th",
+    "Star Sign": "Capricorn",
+    "Initial Phrase": "eeks",
+    "Initial Clothes": "Skull Shirt",
+    "Favorite Saying": "A head shot is worth a thousand words.Would you like my autograph?",
+    "image": "/w/images/thumb/1/1b/Bella_NLa.png/175px-Bella_NLa.png",
+    "Song": "K.K. Metal",
+    "Style": "Rock 'n' roll"
+}

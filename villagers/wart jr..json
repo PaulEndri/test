@@ -1,0 +1,77 @@
+{
+    "Name": "Wart Jr.",
+    "Url": "https://nookipedia.com/wiki/Wart_Jr.",
+    "Biography": {
+        "Siblings": "Second of quadruplets",
+        "Skill": "Writing Backwards",
+        "Goal": "Detective",
+        "Fear": "Mummies"
+    },
+    "Favorites": {
+        "Clothing": "Historical",
+        "Color": "Green"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "Regular",
+        "Sugar": "2"
+    },
+    "Gifts": [
+        {
+            "Name": "Desert Cactus",
+            "Price": "890",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Retro Fridge",
+            "Price": "2,300",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Screen",
+            "Price": "1,650",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Treasure Chest",
+            "Price": "150 (medals)",
+            "Source": "Island"
+        },
+        {
+            "Name": "Chichi-Print Tee",
+            "Price": "180",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Misty Tank",
+            "Price": "280",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Misty Tee",
+            "Price": "380",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Monkey Shirt",
+            "Price": "380",
+            "Source": "Ables (Winter)"
+        },
+        {
+            "Name": "Headkerchief",
+            "Price": "480",
+            "Source": "Accessory Corner"
+        }
+    ],
+    "Species": "Frog",
+    "Personality": "Cranky",
+    "Gender": "Male",
+    "Birthday": "August 21st",
+    "Star Sign": "Leo",
+    "Initial Phrase": "grr-ribbit",
+    "Initial Clothes": "Static Shirt*Sharp Outfit*",
+    "Favorite Saying": "Age before beauty.I've got my eye on you.",
+    "image": "/w/images/thumb/5/50/Wart_Jr._NLa.png/150px-Wart_Jr._NLa.png",
+    "Song": "To the Edge",
+    "Style": "Historical"
+}

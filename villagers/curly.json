@@ -1,0 +1,82 @@
+{
+    "Name": "Curly",
+    "Url": "https://nookipedia.com/wiki/Curly",
+    "Biography": {
+        "Siblings": "Middle triplet",
+        "Skill": "Cleaning plates",
+        "Goal": "Explorer",
+        "Fear": "Mummy Mask"
+    },
+    "Favorites": {
+        "Clothing": "Basic",
+        "Color": "Red"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "A little",
+        "Sugar": "1 spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Common Bed",
+            "Price": "800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Extinguisher",
+            "Price": "1,300",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Fire Hydrant",
+            "Price": "960",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Gas Pump",
+            "Price": "1,280",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Metronome",
+            "Price": "1,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Rope Partition",
+            "Price": "1,800",
+            "Source": "Museum Shop"
+        },
+        {
+            "Name": "Round Clock",
+            "Price": "960",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Simple Armchair",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Simple Kettle",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Simple Love Seat",
+            "Price": "2,050",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Pig",
+    "Personality": "Jock",
+    "Gender": "Male",
+    "Birthday": "July 26th",
+    "Star Sign": "Leo",
+    "Initial Phrase": "nyoink",
+    "Initial Clothes": "Green-Bar Shirt",
+    "Favorite Saying": "Get fired up!",
+    "image": "/w/images/thumb/f/f3/Curly_NLa.png/175px-Curly_NLa.png",
+    "Song": "K.K. Reggae",
+    "Style": "Basic"
+}

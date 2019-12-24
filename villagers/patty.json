@@ -1,0 +1,82 @@
+{
+    "Name": "Patty",
+    "Url": "https://nookipedia.com/wiki/Patty",
+    "Biography": {
+        "Siblings": "Eldest of four sisters",
+        "Skill": "Competitive eating",
+        "Goal": "Pastry chef",
+        "Fear": "Wolves"
+    },
+    "Favorites": {
+        "Clothing": "Modern",
+        "Color": "Red"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "The regular amount",
+        "Sugar": "Two spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Captain's Monitor",
+            "Price": "2,800",
+            "Source": "Spotlight/Wishy"
+        },
+        {
+            "Name": "Crew Member's Seat",
+            "Price": "2,800",
+            "Source": "Spotlight/Wishy"
+        },
+        {
+            "Name": "Ironing Set",
+            "Price": "1,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Love Tester",
+            "Price": "-",
+            "Source": "Fireworks"
+        },
+        {
+            "Name": "Poinsettia",
+            "Price": "1,200",
+            "Source": "Garden Corner"
+        },
+        {
+            "Name": "Space Captain's Seat",
+            "Price": "3,680",
+            "Source": "Spotlight/Wishy"
+        },
+        {
+            "Name": "Stool",
+            "Price": "1,360",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Jade Plaid Shirt",
+            "Price": "360",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Jade Plaid Tee",
+            "Price": "360",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Cloche Hat",
+            "Price": "4,800",
+            "Source": "GracieGrace (Winter)"
+        }
+    ],
+    "Species": "Cow",
+    "Personality": "Peppy",
+    "Gender": "Female",
+    "Birthday": "May 10th",
+    "Star Sign": "Taurus",
+    "Initial Phrase": "how-now",
+    "Initial Clothes": "Citrus shirt",
+    "Favorite Saying": "A friend in need is a friend indeed!This month's Ms. Nintendique cover girl!",
+    "image": "/w/images/thumb/f/fc/Patty_NLa.png/200px-Patty_NLa.png",
+    "Song": "K.K. Calypso",
+    "Style": "Modern"
+}

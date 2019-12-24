@@ -1,0 +1,82 @@
+{
+    "Name": "Rocco",
+    "Url": "https://nookipedia.com/wiki/Rocco",
+    "Biography": {
+        "Siblings": "Eldest of six",
+        "Skill": "Making puns",
+        "Goal": "Boxer",
+        "Fear": "Monster"
+    },
+    "Favorites": {
+        "Clothing": "Iconic",
+        "Color": "Yellow"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "None of all",
+        "Sugar": "None of all"
+    },
+    "Gifts": [
+        {
+            "Name": "Bell Knicknack",
+            "Price": "-",
+            "Source": "New Year's Countdown (Korea)"
+        },
+        {
+            "Name": "Bow",
+            "Price": "1,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Exotic Lamp",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Fruit Basket",
+            "Price": "-",
+            "Source": "Harvest Festival"
+        },
+        {
+            "Name": "Jasmin Bonsai",
+            "Price": "1,700",
+            "Source": "Garden Corner"
+        },
+        {
+            "Name": "Lefty Lucky Cat",
+            "Price": "1,700",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Lovely Doll",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Lucky Cat",
+            "Price": "1,700",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Lucky Gold Cat",
+            "Price": "6,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Oval Clock",
+            "Price": "800",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Hippo",
+    "Personality": "Cranky",
+    "Gender": "Male",
+    "Birthday": "August 18th",
+    "Star Sign": "",
+    "Initial Phrase": "hippie",
+    "Initial Clothes": "Danger Shirt",
+    "Favorite Saying": "The only thing to fear is fear itself... and bees.You smell like patchouli!",
+    "image": "/w/images/thumb/c/cb/Rocco_NLa.png/200px-Rocco_NLa.png",
+    "Song": "K.K. Lament",
+    "Style": "Iconic"
+}

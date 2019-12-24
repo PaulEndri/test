@@ -1,0 +1,37 @@
+{
+    "Name": "Viché",
+    "Url": "https://nookipedia.com/wiki/Vich%C3%A9",
+    "Biography": {
+        "Siblings": "Eldest of 2",
+        "Skill": "Cosplay",
+        "Goal": "Illustrator",
+        "Fear": "Blank"
+    },
+    "Favorites": {
+        "Clothing": "Sporty",
+        "Color": "None"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "Lots",
+        "Sugar": "3 spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "(Name)",
+            "Price": "(Price)",
+            "Source": "(Available)"
+        }
+    ],
+    "Species": "Squirrel",
+    "Personality": "Normal",
+    "Gender": "Female",
+    "Birthday": "July 7th",
+    "Star Sign": "Cancer",
+    "Initial Phrase": "splatastic",
+    "Initial Clothes": "Marie shirt",
+    "Favorite Saying": "TWO heads are better than one!",
+    "image": "/w/images/thumb/2/2f/Viche_NL.png/100px-Viche_NL.png",
+    "Song": "Bubblegum K.K.",
+    "Style": "Sporty"
+}

@@ -1,0 +1,82 @@
+{
+    "Name": "Genji",
+    "Url": "https://nookipedia.com/wiki/Genji",
+    "Biography": {
+        "Siblings": "Youngest of six",
+        "Skill": "Subsistence living",
+        "Goal": "Politician",
+        "Fear": "Bug"
+    },
+    "Favorites": {
+        "Clothing": "Iconic",
+        "Color": "Green"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "Lots",
+        "Sugar": "Three spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Bamboo Grass",
+            "Price": "-",
+            "Source": "Starcrossed Day (Japan)"
+        },
+        {
+            "Name": "Cucumber Horse",
+            "Price": "-",
+            "Source": "Obon (Japan)"
+        },
+        {
+            "Name": "Deer Scare",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Fan",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Hawthorn Bonsai",
+            "Price": "1,800",
+            "Source": "Garden Corner"
+        },
+        {
+            "Name": "Holly Bonsai",
+            "Price": "1,600",
+            "Source": "Garden Corner"
+        },
+        {
+            "Name": "Hourglass",
+            "Price": "480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Hula Doll",
+            "Price": "1,800",
+            "Source": "Gulliver"
+        },
+        {
+            "Name": "Kinderdijik Windmill",
+            "Price": "1,200",
+            "Source": "Gulliver"
+        },
+        {
+            "Name": "Mugho Bonsai",
+            "Price": "1,800",
+            "Source": "Garden Corner"
+        }
+    ],
+    "Species": "Rabbit",
+    "Personality": "Jock",
+    "Gender": "Male",
+    "Birthday": "January 21st",
+    "Star Sign": "Aquarius",
+    "Initial Phrase": "otaku",
+    "Initial Clothes": "Misty Shirt",
+    "Favorite Saying": "Fall down seven times, get up eight.Hai-ya!",
+    "image": "/w/images/thumb/9/96/Genji_NLa.png/175px-Genji_NLa.png",
+    "Song": "King K.K.",
+    "Style": "Iconic"
+}

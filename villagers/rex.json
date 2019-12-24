@@ -1,0 +1,82 @@
+{
+    "Name": "Rex",
+    "Url": "https://nookipedia.com/wiki/Rex",
+    "Biography": {
+        "Siblings": "Youngest quadruplet",
+        "Skill": "Hitting snooze",
+        "Goal": "Firefighter",
+        "Fear": "Werewolf"
+    },
+    "Favorites": {
+        "Clothing": "Basic",
+        "Color": "Blue"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "Little bit",
+        "Sugar": "1"
+    },
+    "Gifts": [
+        {
+            "Name": "Blue Bed",
+            "Price": "2,100",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Blue Bookcase",
+            "Price": "1,900",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Blue Bureau",
+            "Price": "2,160",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Blue Cabinet",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Blue Chair",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Blue Clock",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Blue Dresser",
+            "Price": "2,100",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Blue Table",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Blue Wall Shelf",
+            "Price": "2,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Blue Wardrobe",
+            "Price": "1,920",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Lion",
+    "Personality": "Lazy",
+    "Gender": "Male",
+    "Birthday": "July 24th",
+    "Star Sign": "Leo",
+    "Initial Phrase": "cool-cat",
+    "Initial Clothes": "Blue Pinstripe",
+    "Favorite Saying": "Two wrongs don't make a right, but three rights make a left.",
+    "image": "/w/images/thumb/7/74/Rex_NL.png/200px-Rex_NL.png",
+    "Song": "Wandering",
+    "Style": "Basic"
+}

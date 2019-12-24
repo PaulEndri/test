@@ -1,0 +1,62 @@
+{
+    "Name": "Kitt",
+    "Url": "https://nookipedia.com/wiki/Kitt",
+    "Biography": {
+        "Siblings": "Eldest of 2",
+        "Skill": "Whistling",
+        "Goal": "Cartoonist",
+        "Fear": "Werewolves"
+    },
+    "Favorites": {
+        "Clothing": "Official",
+        "Color": "Beige"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "The regular amount",
+        "Sugar": "Two spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Flat Display Case",
+            "Price": "2,500",
+            "Source": "Museum Shop"
+        },
+        {
+            "Name": "Beige Emblem Blazer",
+            "Price": "420",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Green Lace-Up Dress",
+            "Price": "700",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Orange Lace-Up Dress",
+            "Price": "700",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Orange Retro Dress",
+            "Price": "680",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Trench Coat",
+            "Price": "5,200",
+            "Source": "GracieGrace (Winter)"
+        }
+    ],
+    "Species": "Kangaroo",
+    "Personality": "Normal",
+    "Gender": "Female",
+    "Birthday": "October 11th",
+    "Star Sign": "Libra",
+    "Initial Phrase": "child",
+    "Initial Clothes": "Moody Blue Shirt*Blue Diamond Shirt*",
+    "Favorite Saying": "Funny parents have funny kids.They say ugly parents have ugly children.",
+    "image": "/w/images/thumb/b/b0/Kitt_NLa.png/200px-Kitt_NLa.png",
+    "Song": "K.K. Chorale",
+    "Style": "Official"
+}

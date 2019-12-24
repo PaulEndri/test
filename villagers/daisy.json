@@ -1,0 +1,82 @@
+{
+    "Name": "Daisy",
+    "Url": "https://nookipedia.com/wiki/Daisy",
+    "Biography": {
+        "Siblings": "Eldest of nine kids",
+        "Skill": "Making budgets",
+        "Goal": "Archaeologist",
+        "Fear": "Wolves"
+    },
+    "Favorites": {
+        "Clothing": "Basic",
+        "Color": "Brown"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "Lots",
+        "Sugar": "3 spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Aloe",
+            "Price": "1,200",
+            "Source": "Garden Corner"
+        },
+        {
+            "Name": "Bass",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Birdcage",
+            "Price": "1,700",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Bread Box",
+            "Price": "800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Brown Pot",
+            "Price": "800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Cactus",
+            "Price": "1,700",
+            "Source": "Garden Corner"
+        },
+        {
+            "Name": "Caladium",
+            "Price": "1,300",
+            "Source": "Garden Corner"
+        },
+        {
+            "Name": "Cello",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Classic Bed",
+            "Price": "2,520",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Classic Bookcase",
+            "Price": "2,560",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Dog",
+    "Personality": "Normal",
+    "Gender": "Female",
+    "Birthday": "November 16th",
+    "Star Sign": "Scorpio",
+    "Initial Phrase": "bow-WOW",
+    "Initial Clothes": "Kiddie Shirt",
+    "Favorite Saying": "It's not always a dog-eat-dog world.Just a regular girl in a crazy world!",
+    "image": "/w/images/thumb/9/9b/Daisy_NLa.png/175px-Daisy_NLa.png",
+    "Song": "K.K. Soul",
+    "Style": "Basic"
+}

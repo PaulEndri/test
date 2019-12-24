@@ -1,0 +1,82 @@
+{
+    "Name": "Twiggy",
+    "Url": "https://nookipedia.com/wiki/Twiggy",
+    "Biography": {
+        "Siblings": "Second of four sisters",
+        "Skill": "Spoon bending",
+        "Goal": "Dentist",
+        "Fear": "Mummy Mask"
+    },
+    "Favorites": {
+        "Clothing": "Flashy",
+        "Color": "Blue"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "None at all",
+        "Sugar": "None at all"
+    },
+    "Gifts": [
+        {
+            "Name": "Clear Model",
+            "Price": "3,360",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Metroid",
+            "Price": "-",
+            "Source": "Fortune Cookie"
+        },
+        {
+            "Name": "Sloppy Carpet",
+            "Price": "-",
+            "Source": "Re-Tail/Police Station"
+        },
+        {
+            "Name": "Barber Tee",
+            "Price": "640",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Striking Outfit",
+            "Price": "460",
+            "Source": "Ables (Winter)"
+        },
+        {
+            "Name": "Twinkle Tank",
+            "Price": "280",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Twinkle Tee",
+            "Price": "480",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Twinkle Tank Dress",
+            "Price": "720",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Blue Ogre Mask",
+            "Price": "-",
+            "Source": "Bean Day (Japan)"
+        },
+        {
+            "Name": "Monster Mask",
+            "Price": "1,031",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Bird",
+    "Personality": "Peppy",
+    "Gender": "Female",
+    "Birthday": "July 13th",
+    "Star Sign": "Cancer",
+    "Initial Phrase": "cheepers",
+    "Initial Clothes": "Barber Shirt",
+    "Favorite Saying": "It's the early bird that catches the worm!Do you want my autograph, too?",
+    "image": "/w/images/thumb/9/9a/Twiggy_NLa.png/175px-Twiggy_NLa.png",
+    "Song": "K.K. Calypso",
+    "Style": "Flashy"
+}

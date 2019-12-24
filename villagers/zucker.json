@@ -1,0 +1,57 @@
+{
+    "Name": "Zucker",
+    "Url": "https://nookipedia.com/wiki/Zucker",
+    "Biography": {
+        "Siblings": "Third of five",
+        "Skill": "Baton twirling",
+        "Goal": "Chef",
+        "Fear": "Bug Mask"
+    },
+    "Favorites": {
+        "Clothing": "Official",
+        "Color": "Yellow"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "A little bit",
+        "Sugar": "One spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Fancy Frame",
+            "Price": "10,000",
+            "Source": "Museum Shop"
+        },
+        {
+            "Name": "Small Spotlight",
+            "Price": "1,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Standing Spotlight",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Canary Shirt",
+            "Price": "480",
+            "Source": "Ables (Spring)"
+        },
+        {
+            "Name": "School Hat",
+            "Price": "240",
+            "Source": "Accessory Corner"
+        }
+    ],
+    "Species": "Octopus",
+    "Personality": "Lazy",
+    "Gender": "Male",
+    "Birthday": "March 8th",
+    "Star Sign": "Pisces",
+    "Initial Phrase": "bloop",
+    "Initial Clothes": "Flan Tank",
+    "Favorite Saying": "There's no such thing as luck.",
+    "image": "/w/images/thumb/1/19/Zucker_NL.png/200px-Zucker_NL.png",
+    "Song": "Spring Blossoms",
+    "Style": "Official"
+}

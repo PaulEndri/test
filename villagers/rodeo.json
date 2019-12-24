@@ -1,0 +1,82 @@
+{
+    "Name": "Rodeo",
+    "Url": "https://nookipedia.com/wiki/Rodeo",
+    "Biography": {
+        "Siblings": "Youngest triplet",
+        "Skill": "Spoon bending",
+        "Goal": "Astronaut",
+        "Fear": "Ghost"
+    },
+    "Favorites": {
+        "Clothing": "Historical",
+        "Color": "Red"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "The regular amount",
+        "Sugar": "Two spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Beacon Fire",
+            "Price": "1,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Cassette Player",
+            "Price": "1,500",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Circle Banner",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Cuckoo Clock",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Red Vase",
+            "Price": "2,450",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Stove",
+            "Price": "1,980",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Throne",
+            "Price": "800,000",
+            "Source": "Spotlight/Wishy"
+        },
+        {
+            "Name": "Vacuum Cleaner",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Graceful Painting",
+            "Price": "3,920",
+            "Source": "Redd/Villager"
+        },
+        {
+            "Name": "Graceful Painting (Counterfeit)",
+            "Price": "3,920",
+            "Source": "Redd/Villager"
+        }
+    ],
+    "Species": "Bull",
+    "Personality": "Lazy",
+    "Gender": "Male",
+    "Birthday": "October 29th",
+    "Star Sign": "Scorpio",
+    "Initial Phrase": "chaps",
+    "Initial Clothes": "Beatnik Shirt",
+    "Favorite Saying": "Zzzzzzzzzzzzz...",
+    "image": "/w/images/thumb/f/ff/Rodeo_NLa.png/175px-Rodeo_NLa.png",
+    "Song": "Stale Cupcakes",
+    "Style": "Historical"
+}

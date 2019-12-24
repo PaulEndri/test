@@ -1,0 +1,81 @@
+{
+    "Name": "Ken",
+    "Url": "https://nookipedia.com/wiki/Ken",
+    "Biography": {
+        "Skill": "Clearing my plate",
+        "Goal": "Architect",
+        "Fear": "Monster"
+    },
+    "Favorites": {
+        "Clothing": "Iconic",
+        "Color": "Purple"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "The regular amount",
+        "Sugar": "Two spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Eggplant Cow",
+            "Price": "-",
+            "Source": "Obon (Japan)"
+        },
+        {
+            "Name": "Zodiac Dragon",
+            "Price": "-",
+            "Source": "New Year's Day"
+        },
+        {
+            "Name": "Zodiac Monkey",
+            "Price": "-",
+            "Source": "New Year's Day"
+        },
+        {
+            "Name": "Zodiac Rat",
+            "Price": "-",
+            "Source": "New Year's Day"
+        },
+        {
+            "Name": "Bad Plaid Shirt",
+            "Price": "420",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Bad Plaid Tee",
+            "Price": "420",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Genie Shirt",
+            "Price": "640",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Genie Vest",
+            "Price": "280",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "New Spring Tee",
+            "Price": "520",
+            "Source": "Ables (Spring)"
+        },
+        {
+            "Name": "Periwinkle Shirt",
+            "Price": "380",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Chicken",
+    "Personality": "Smug",
+    "Gender": "Male",
+    "Birthday": "December 23rd",
+    "Star Sign": "Capricorn",
+    "Initial Phrase": "no doubt",
+    "Initial Clothes": "Ninja Shirt",
+    "Favorite Saying": "C'est la vie!",
+    "image": "/w/images/thumb/7/78/Ken_NLa.png/175px-Ken_NLa.png",
+    "Song": "Comrade K.K.",
+    "Style": "Iconic"
+}

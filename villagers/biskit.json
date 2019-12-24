@@ -1,0 +1,82 @@
+{
+    "Name": "Biskit",
+    "Url": "https://nookipedia.com/wiki/Biskit",
+    "Biography": {
+        "Siblings": "youngest of 4 kids",
+        "Skill": "hitting snooze",
+        "Goal": "architect",
+        "Fear": "Mummies"
+    },
+    "Favorites": {
+        "Clothing": "Basic",
+        "Color": "Orange"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "Regular",
+        "Sugar": "Two spoonsful"
+    },
+    "Gifts": [
+        {
+            "Name": "Corkboard",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Deluxe Washer",
+            "Price": "5,200",
+            "Source": "Spotlight/Wishy"
+        },
+        {
+            "Name": "Gerbera",
+            "Price": "780",
+            "Source": "Garden Corner"
+        },
+        {
+            "Name": "Green Bed",
+            "Price": "2,160",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Green Chair",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Green Dresser",
+            "Price": "2,320",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Green Lamp",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Green Table",
+            "Price": "1,700",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Green Wall Clock",
+            "Price": "1,680",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Astro Floor",
+            "Price": "2,120",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Dog",
+    "Personality": "Lazy",
+    "Gender": "Male",
+    "Birthday": "May 13th",
+    "Star Sign": "Taurus",
+    "Initial Phrase": "dawg",
+    "Initial Clothes": "Mod Top*Deep-Blue Tee*",
+    "Favorite Saying": "Let sleeping dogs lie.",
+    "image": "/w/images/thumb/d/de/Biskit_NLa.png/175px-Biskit_NLa.png",
+    "Song": "K.K. Mambo",
+    "Style": "Basic"
+}

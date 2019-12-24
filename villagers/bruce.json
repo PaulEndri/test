@@ -1,0 +1,82 @@
+{
+    "Name": "Bruce",
+    "Url": "https://nookipedia.com/wiki/Bruce",
+    "Biography": {
+        "Siblings": "Eldest of 3 Kids",
+        "Skill": "Trivia",
+        "Goal": "Pro Golfer",
+        "Fear": "Insect Mask"
+    },
+    "Favorites": {
+        "Clothing": "Rock 'n' Roll",
+        "Color": "Blue"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "None at all",
+        "Sugar": "None at all"
+    },
+    "Gifts": [
+        {
+            "Name": "Robo-Bed",
+            "Price": "2,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Robo-Sofa",
+            "Price": "2,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Acid-Washed Jacket",
+            "Price": "5,600",
+            "Source": "GracieGrace (Fall)"
+        },
+        {
+            "Name": "Blue Letter Jacket",
+            "Price": "420",
+            "Source": "Ables (Winter)"
+        },
+        {
+            "Name": "Chain-Gang Shirt",
+            "Price": "420",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Chain-Gang Tee",
+            "Price": "260",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Denim Vest",
+            "Price": "420",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Dragon Jacket",
+            "Price": "5,200",
+            "Source": "GracieGrace (Sales)"
+        },
+        {
+            "Name": "Lightning Tee",
+            "Price": "380",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Rugby Shirt",
+            "Price": "420",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Deer",
+    "Personality": "Cranky",
+    "Gender": "Male",
+    "Birthday": "May 26th",
+    "Star Sign": "Gemini",
+    "Initial Phrase": "gruff",
+    "Initial Clothes": "After School Jacket",
+    "Favorite Saying": "Nobody's perfect.",
+    "image": "/w/images/thumb/a/a1/Bruce_NL.png/200px-Bruce_NL.png",
+    "Song": "K.K. Blues",
+    "Style": "Rock 'n' roll"
+}

@@ -1,0 +1,82 @@
+{
+    "Name": "Savannah",
+    "Url": "https://nookipedia.com/wiki/Savannah",
+    "Biography": {
+        "Siblings": "Second of six",
+        "Skill": "Calculating tips",
+        "Goal": "Tour guide",
+        "Fear": "Monster"
+    },
+    "Favorites": {
+        "Clothing": "Modern",
+        "Color": "Gray"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "None",
+        "Sugar": "None"
+    },
+    "Gifts": [
+        {
+            "Name": "Aluminum Briefcase",
+            "Price": "-",
+            "Source": "Savings"
+        },
+        {
+            "Name": "Arwing",
+            "Price": "-",
+            "Source": "Fortune Cookie"
+        },
+        {
+            "Name": "Dishwasher",
+            "Price": "1,980",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Drinking Fountain",
+            "Price": "2,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Espresso Maker",
+            "Price": "-",
+            "Source": "Brewster"
+        },
+        {
+            "Name": "Hologram Machine",
+            "Price": "3,600",
+            "Source": "Spotlight/Wishy"
+        },
+        {
+            "Name": "Large Space Console",
+            "Price": "3,200",
+            "Source": "Spotlight/Wishy"
+        },
+        {
+            "Name": "Salad Bar",
+            "Price": "3,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Small Space Console",
+            "Price": "2,680",
+            "Source": "Spotlight/Wishy"
+        },
+        {
+            "Name": "Space Console",
+            "Price": "3,000",
+            "Source": "Spotlight/Wishy"
+        }
+    ],
+    "Species": "Horse",
+    "Personality": "Normal",
+    "Gender": "Female",
+    "Birthday": "January 25th",
+    "Star Sign": "Aquarius",
+    "Initial Phrase": "y'all",
+    "Initial Clothes": "Deep Blue Tee",
+    "Favorite Saying": "Keep your chin up!",
+    "image": "/w/images/thumb/2/29/Savannah_NLa.png/200px-Savannah_NLa.png",
+    "Song": "Forest Life",
+    "Style": "Modern"
+}

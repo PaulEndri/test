@@ -1,0 +1,81 @@
+{
+    "Name": "Hamphrey",
+    "Url": "https://nookipedia.com/wiki/Hamphrey",
+    "Biography": {
+        "Skill": "Eating quickly",
+        "Goal": "Fisherman",
+        "Fear": "Skeleton"
+    },
+    "Favorites": {
+        "Clothing": "Historical",
+        "Color": "Black"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "A little",
+        "Sugar": "One spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Anchor",
+            "Price": "-",
+            "Source": "Pascal"
+        },
+        {
+            "Name": "Beacon Fire",
+            "Price": "1,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Circle Banner",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "General's Fan",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "General's Stool",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Jolly Roger",
+            "Price": "-",
+            "Source": "Pascal"
+        },
+        {
+            "Name": "Record Player",
+            "Price": "1,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Reel-to-Reel",
+            "Price": "2,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Retro Streo",
+            "Price": "5,500",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Ship Cannon",
+            "Price": "-",
+            "Source": "Pascal"
+        }
+    ],
+    "Species": "Hamster",
+    "Personality": "Cranky",
+    "Gender": "Male",
+    "Birthday": "February 25th",
+    "Star Sign": "Pisces",
+    "Initial Phrase": "snort",
+    "Initial Clothes": "Beige Knit",
+    "Favorite Saying": "Children should be seen and not heard.",
+    "image": "/w/images/thumb/1/1a/Hamphrey_NL.png/150px-Hamphrey_NL.png",
+    "Song": "K.K. Rally",
+    "Style": "Historical"
+}

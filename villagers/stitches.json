@@ -1,0 +1,82 @@
+{
+    "Name": "Stitches",
+    "Url": "https://nookipedia.com/wiki/Stitches",
+    "Biography": {
+        "Siblings": "Youngest of four",
+        "Skill": "Forgetting stuff",
+        "Goal": "Lawyer",
+        "Fear": "Ghost Mask"
+    },
+    "Favorites": {
+        "Clothing": "Flashy",
+        "Color": "Colorful"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "A little bit",
+        "Sugar": "One spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Flashy-Flower Sign",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Neon Sign",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Sloppy Stereo",
+            "Price": "-",
+            "Source": "Re-Tail/Police Station"
+        },
+        {
+            "Name": "Hot-Dog Tank",
+            "Price": "6,000",
+            "Source": "GracieGrace (Fall)"
+        },
+        {
+            "Name": "Kiddie Tee",
+            "Price": "340",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Noodle Tee",
+            "Price": "380",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Prism Tee",
+            "Price": "370",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Sandwich Tank",
+            "Price": "6,400",
+            "Source": "GracieGrace (Fall)"
+        },
+        {
+            "Name": "Star Tee",
+            "Price": "370",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Star Tank Dress",
+            "Price": "720",
+            "Source": "Ables (Summer)"
+        }
+    ],
+    "Species": "Cub",
+    "Personality": "Lazy",
+    "Gender": "Male",
+    "Birthday": "February 10th",
+    "Star Sign": "Aquarius",
+    "Initial Phrase": "stuffin'",
+    "Initial Clothes": "Star Shirt",
+    "Favorite Saying": "One stitch in time saves nine!Sometimes the sum is greater than its parts! Get it? A huh huh huh!",
+    "image": "/w/images/thumb/b/b1/Stitches_NLa.png/175px-Stitches_NLa.png",
+    "Song": "K.K. Lullaby",
+    "Style": "Flashy"
+}

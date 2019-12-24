@@ -1,0 +1,82 @@
+{
+    "Name": "Gigi",
+    "Url": "https://nookipedia.com/wiki/Gigi",
+    "Biography": {
+        "Siblings": "Eldest of four",
+        "Skill": "Subsistence living",
+        "Goal": "President",
+        "Fear": "Wolves"
+    },
+    "Favorites": {
+        "Clothing": "Ornate",
+        "Color": "Black"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "None at all",
+        "Sugar": "None at all"
+    },
+    "Gifts": [
+        {
+            "Name": "Gorgeous Bed",
+            "Price": "300,000",
+            "Source": "GracieGrace (Winter)"
+        },
+        {
+            "Name": "Gorgeous Chest",
+            "Price": "90,000",
+            "Source": "GracieGrace (Winter)"
+        },
+        {
+            "Name": "Gorgeous Closet",
+            "Price": "140,000",
+            "Source": "GracieGrace (Winter)"
+        },
+        {
+            "Name": "Gorgeous Counter",
+            "Price": "180,000",
+            "Source": "GracieGrace (Winter)"
+        },
+        {
+            "Name": "Gorgeous Desk",
+            "Price": "250,000",
+            "Source": "GracieGrace (Winter)"
+        },
+        {
+            "Name": "Gorgeous Lamp",
+            "Price": "60,000",
+            "Source": "GracieGrace (Winter)"
+        },
+        {
+            "Name": "Gorgeous Table",
+            "Price": "250,000",
+            "Source": "GracieGrace (Winter)"
+        },
+        {
+            "Name": "Gorgeous Wall Clock",
+            "Price": "350,000",
+            "Source": "GracieGrace (Winter)"
+        },
+        {
+            "Name": "Beaded Shirt",
+            "Price": "420",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Corseted Shirt",
+            "Price": "400",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Frog",
+    "Personality": "Snooty",
+    "Gender": "Female",
+    "Birthday": "August 11th",
+    "Star Sign": "Leo",
+    "Initial Phrase": "ribbette      gurghigù",
+    "Initial Clothes": "Beaded shirt",
+    "Favorite Saying": "Look at the world through rose-colored glasses.",
+    "image": "/w/images/thumb/9/9c/Gigi_NLa.png/150px-Gigi_NLa.png",
+    "Song": "Only Me",
+    "Style": "Ornate"
+}

@@ -1,0 +1,82 @@
+{
+    "Name": "Jeremiah",
+    "Url": "https://nookipedia.com/wiki/Jeremiah",
+    "Biography": {
+        "Siblings": "Second of 4",
+        "Skill": "Hitting snooze",
+        "Goal": "Writer",
+        "Fear": "Monster Mask"
+    },
+    "Favorites": {
+        "Clothing": "Basic",
+        "Color": "Blue"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "None",
+        "Sugar": "None"
+    },
+    "Gifts": [
+        {
+            "Name": "Blue Bed",
+            "Price": "2,100",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Blue Bookcase",
+            "Price": "1,900",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Blue Bureau",
+            "Price": "2,160",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Blue Cabinet",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Blue Chair",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Blue Clock",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Blue Dresser",
+            "Price": "2,100",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Blue Table",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Blue Wall Shelf",
+            "Price": "2,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Blue Wardrobe",
+            "Price": "1,920",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Frog",
+    "Personality": "Lazy",
+    "Gender": "Male",
+    "Birthday": "July 8th",
+    "Star Sign": "Cancer",
+    "Initial Phrase": "nee-deep",
+    "Initial Clothes": "Sunset Top",
+    "Favorite Saying": "Sleep before you leap.Think about it, man. Bullfrog is only one letter away from blue frog.",
+    "image": "/w/images/thumb/1/11/Jeremiah_NLa.png/175px-Jeremiah_NLa.png",
+    "Song": "K.K. Mambo",
+    "Style": "Basic"
+}

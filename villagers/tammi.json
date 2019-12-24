@@ -1,0 +1,82 @@
+{
+    "Name": "Tammi",
+    "Url": "https://nookipedia.com/wiki/Tammi",
+    "Biography": {
+        "Siblings": "Youngest of three",
+        "Skill": "Making puns",
+        "Goal": "Artist",
+        "Fear": "Mummy"
+    },
+    "Favorites": {
+        "Clothing": "Flashy",
+        "Color": "Brown"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "The regular amount",
+        "Sugar": "Two spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Asteroid",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Cardboard Bed",
+            "Price": "-",
+            "Source": "Re-Tail/Police Station"
+        },
+        {
+            "Name": "Cardboard Box",
+            "Price": "100",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Cardboard Chair",
+            "Price": "-",
+            "Source": "Re-Tail/Police Station"
+        },
+        {
+            "Name": "Cardboard Closet",
+            "Price": "-",
+            "Source": "Re-Tail/Police Station"
+        },
+        {
+            "Name": "Cardboard Sofa",
+            "Price": "-",
+            "Source": "Re-Tail/Police Station"
+        },
+        {
+            "Name": "Cardboard Table",
+            "Price": "-",
+            "Source": "Re-Tail/Police Station"
+        },
+        {
+            "Name": "Creepy Clock",
+            "Price": "-",
+            "Source": "Halloween"
+        },
+        {
+            "Name": "Creepy Coffin",
+            "Price": "-",
+            "Source": "Halloween"
+        },
+        {
+            "Name": "Afro Cap",
+            "Price": "720",
+            "Source": "Accessory Corner"
+        }
+    ],
+    "Species": "Monkey",
+    "Personality": "Peppy",
+    "Gender": "Female",
+    "Birthday": "April",
+    "Star Sign": "Aries",
+    "Initial Phrase": "chimpy",
+    "Initial Clothes": "New Spring Shirt",
+    "Favorite Saying": "Always be down to monkey around.EEEEEEEEEEK!",
+    "image": "/w/images/thumb/7/71/Tammi_NLa.png/175px-Tammi_NLa.png",
+    "Song": "Imperial K.K.",
+    "Style": "Flashy"
+}

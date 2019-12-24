@@ -1,0 +1,82 @@
+{
+    "Name": "Rosie",
+    "Url": "https://nookipedia.com/wiki/Rosie",
+    "Biography": {
+        "Siblings": "Eldest of two",
+        "Skill": "Karaoke",
+        "Goal": "Movie star",
+        "Fear": "Werewolf hood"
+    },
+    "Favorites": {
+        "Clothing": "Cute",
+        "Color": "Red"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "A little",
+        "Sugar": "1 spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Balloon-Dog Lamp",
+            "Price": "-",
+            "Source": "Balloon"
+        },
+        {
+            "Name": "Birthday Cake",
+            "Price": "-",
+            "Source": "Birthday"
+        },
+        {
+            "Name": "Birthday Candles",
+            "Price": "-",
+            "Source": "Birthday"
+        },
+        {
+            "Name": "Birthday Table",
+            "Price": "-",
+            "Source": "Birthday"
+        },
+        {
+            "Name": "Candy Machine",
+            "Price": "980",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Capsule-Toy Machine",
+            "Price": "1,480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Card Bed",
+            "Price": "220,000",
+            "Source": "GracieGrace"
+        },
+        {
+            "Name": "Card Chair",
+            "Price": "100,000",
+            "Source": "GracieGrace"
+        },
+        {
+            "Name": "Card Closet",
+            "Price": "240,000",
+            "Source": "GracieGrace"
+        },
+        {
+            "Name": "Card Dresser",
+            "Price": "120,000",
+            "Source": "GracieGrace"
+        }
+    ],
+    "Species": "Cat",
+    "Personality": "Peppy",
+    "Gender": "Female",
+    "Birthday": "February 27th",
+    "Star Sign": "Pisces",
+    "Initial Phrase": "silly",
+    "Initial Clothes": "Short cake shirt*Dazed shirt*",
+    "Favorite Saying": "One good purr deserves another.To the president of the Rosie Fan club!",
+    "image": "/w/images/thumb/a/a1/Rosie_NLa.png/175px-Rosie_NLa.png",
+    "Song": "Bubblegum K.K.",
+    "Style": "Cute"
+}

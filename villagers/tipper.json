@@ -1,0 +1,82 @@
+{
+    "Name": "Tipper",
+    "Url": "https://nookipedia.com/wiki/Tipper",
+    "Biography": {
+        "Siblings": "Third of 6",
+        "Skill": "Staying up late",
+        "Goal": "Violinist",
+        "Fear": "Ghosts"
+    },
+    "Favorites": {
+        "Clothing": "Flashy",
+        "Color": "Colorful"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "None at all",
+        "Sugar": "None at all"
+    },
+    "Gifts": [
+        {
+            "Name": "Flashy-Flower Sign",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Neon Sign",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Sloppy Stereo",
+            "Price": "-",
+            "Source": "Re-Tail/Police Station"
+        },
+        {
+            "Name": "Hot-Dog Tank",
+            "Price": "6,000",
+            "Source": "GracieGrace (Fall)"
+        },
+        {
+            "Name": "Kiddie Tee",
+            "Price": "340",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Noodle Tee",
+            "Price": "380",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Prism Tee",
+            "Price": "370",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Sandwich Tank",
+            "Price": "6,400",
+            "Source": "GracieGrace (Fall)"
+        },
+        {
+            "Name": "Star Tee",
+            "Price": "370",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Star Tank Dress",
+            "Price": "720",
+            "Source": "Ables (Summer)"
+        }
+    ],
+    "Species": "Cow",
+    "Personality": "Snooty",
+    "Gender": "Female",
+    "Birthday": "August 25th",
+    "Star Sign": "Virgo",
+    "Initial Phrase": "pushy",
+    "Initial Clothes": "Rainbow Shirt",
+    "Favorite Saying": "It takes two to tango.I know you'll treasure this forever.",
+    "image": "/w/images/thumb/0/0f/Tipper_NLa.png/175px-Tipper_NLa.png",
+    "Song": "Soulful K.K.",
+    "Style": "Flashy"
+}

@@ -1,0 +1,81 @@
+{
+    "Name": "Louie",
+    "Url": "https://nookipedia.com/wiki/Louie",
+    "Biography": {
+        "Siblings": "Eldest of 5",
+        "Skill": "Doing handstands",
+        "Goal": "Rugby player",
+        "Fear": "Skeleton"
+    },
+    "Favorites": {
+        "Clothing": "Sporty",
+        "Color": "Blue"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "None",
+        "Sugar": "None"
+    },
+    "Gifts": [
+        {
+            "Name": "Backpack",
+            "Price": "1,980",
+            "Source": "Tent Camper"
+        },
+        {
+            "Name": "Ball Catcher",
+            "Price": "2,040",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Beach Table",
+            "Price": "30 (medals)",
+            "Source": "Island"
+        },
+        {
+            "Name": "Blue Corner",
+            "Price": "6,800",
+            "Source": "Spotlight/Wishy"
+        },
+        {
+            "Name": "Blue Falcon",
+            "Price": "-",
+            "Source": "Fortune Cookie"
+        },
+        {
+            "Name": "Boxing Barricade",
+            "Price": "1,050",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Boxing Mat",
+            "Price": "1,180",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Golf Bag",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Hurdle",
+            "Price": "980",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Snow Machine",
+            "Price": "-",
+            "Source": "Snowman"
+        }
+    ],
+    "Species": "Gorilla",
+    "Personality": "Jock",
+    "Gender": "Male",
+    "Birthday": "",
+    "Star Sign": "Aries",
+    "Initial Phrase": "tootsodelay",
+    "Initial Clothes": "Little Bro Shirt*Big Bro Shirt*",
+    "Favorite Saying": "It's all about the muscle.",
+    "image": "/w/images/thumb/2/23/Louie_NL.png/200px-Louie_NL.png",
+    "Style": "Sporty"
+}

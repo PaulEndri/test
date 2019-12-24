@@ -1,0 +1,82 @@
+{
+    "Name": "Phil",
+    "Url": "https://nookipedia.com/wiki/Phil",
+    "Biography": {
+        "Siblings": "Eldest quintuplet",
+        "Skill": "Beatboxing",
+        "Goal": "Baseball player",
+        "Fear": "Mummies"
+    },
+    "Favorites": {
+        "Clothing": "Iconic",
+        "Color": "Blue"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "The regular amount",
+        "Sugar": "Two spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Azalea Bonsai",
+            "Price": "1,500",
+            "Source": "Garden Corner"
+        },
+        {
+            "Name": "Cabana Lamp",
+            "Price": "40 (medals)",
+            "Source": "Island"
+        },
+        {
+            "Name": "Pine Bonsai",
+            "Price": "1,800",
+            "Source": "Garden Corner"
+        },
+        {
+            "Name": "Quince Bonsai",
+            "Price": "1,600",
+            "Source": "Garden Corner"
+        },
+        {
+            "Name": "Tuk-Tuk",
+            "Price": "1,200",
+            "Source": "Gulliver"
+        },
+        {
+            "Name": "Ultra Hand",
+            "Price": "-",
+            "Source": "Fireworks"
+        },
+        {
+            "Name": "Zodiac Boar",
+            "Price": "-",
+            "Source": "New Year's Day"
+        },
+        {
+            "Name": "Zodiac Goat",
+            "Price": "-",
+            "Source": "New Year's Day"
+        },
+        {
+            "Name": "Palace Tile",
+            "Price": "3,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Blue Aloha Tee",
+            "Price": "15 (medals)",
+            "Source": "Island"
+        }
+    ],
+    "Species": "Ostrich",
+    "Personality": "Smug",
+    "Gender": "Male",
+    "Birthday": "November 27th",
+    "Star Sign": "Sagittarius",
+    "Initial Phrase": "Hurk",
+    "Initial Clothes": "Dawn Shirt",
+    "Favorite Saying": "Best not to say too much.",
+    "image": "/w/images/thumb/8/80/Phil_NL.png/200px-Phil_NL.png",
+    "Song": "Steep Hill",
+    "Style": "Iconic"
+}

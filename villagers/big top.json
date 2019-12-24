@@ -1,0 +1,82 @@
+{
+    "Name": "Big Top",
+    "Url": "https://nookipedia.com/wiki/Big_Top",
+    "Biography": {
+        "Siblings": "3rd of 5 kids",
+        "Skill": "tiptoeing",
+        "Goal": "superhero",
+        "Fear": "Bugs"
+    },
+    "Favorites": {
+        "Clothing": "Basic",
+        "Color": "Blue"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "Lots",
+        "Sugar": "Three Spoonsful"
+    },
+    "Gifts": [
+        {
+            "Name": "Blue Bed",
+            "Price": "2,100",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Blue Bookcase",
+            "Price": "1,900",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Blue Bureau",
+            "Price": "2,160",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Blue Cabinet",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Blue Chair",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Blue Clock",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Blue Dresser",
+            "Price": "2,100",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Blue Table",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Blue Wall Shelf",
+            "Price": "2,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Blue Wardrobe",
+            "Price": "1,920",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Elephant",
+    "Personality": "Lazy",
+    "Gender": "Male",
+    "Birthday": "October 3rd",
+    "Star Sign": "Libra",
+    "Initial Phrase": "villain",
+    "Initial Clothes": "No. 3 shirt",
+    "Favorite Saying": "A big nose never spoiled a handsome face.World domination!",
+    "image": "/w/images/thumb/2/2b/Big_Top_NLa.png/200px-Big_Top_NLa.png",
+    "Song": "K.K. Metal",
+    "Style": "Basic"
+}

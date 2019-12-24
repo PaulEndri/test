@@ -1,0 +1,70 @@
+{
+    "Name": "Moe",
+    "Url": "https://nookipedia.com/wiki/Moe",
+    "Biography": {
+        "Siblings": "Youngest of 5",
+        "Skill": "Fishing",
+        "Goal": "CEO",
+        "Fear": "Monster mask"
+    },
+    "Favorites": {
+        "Clothing": "Sporty",
+        "Color": "Colorful"
+    },
+    "Coffee": {
+        
+    },
+    "Gifts": [
+        {
+            "Name": "Ball Return",
+            "Price": "6,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Diver Dan",
+            "Price": "60 (medals)",
+            "Source": "Island"
+        },
+        {
+            "Name": "Foosball Table",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Kitschy Clock",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Ski Rack",
+            "Price": "-",
+            "Source": "Snowman"
+        },
+        {
+            "Name": "Racing Shirt",
+            "Price": "460",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Rally Tank",
+            "Price": "280",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Rally Tee",
+            "Price": "380",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Cat",
+    "Personality": "Lazy",
+    "Gender": "Male",
+    "Birthday": "January 12th",
+    "Star Sign": "Capricorn",
+    "Initial Phrase": "myawn",
+    "Initial Clothes": "Fish Bone Shirt*BB Shirt*",
+    "Favorite Saying": "Ignorance is bliss.Whoa...",
+    "image": "/w/images/thumb/d/d6/Moe_NLa.png/175px-Moe_NLa.png",
+    "Song": "K.K. Ragtime",
+    "Style": "Sporty"
+}

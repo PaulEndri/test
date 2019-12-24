@@ -1,0 +1,82 @@
+{
+    "Name": "Henry",
+    "Url": "https://nookipedia.com/wiki/Henry",
+    "Biography": {
+        "Siblings": "Youngest quintuplet",
+        "Skill": "Oversleeping",
+        "Goal": "Writer",
+        "Fear": "Werewolf"
+    },
+    "Favorites": {
+        "Clothing": "Basic",
+        "Color": "Aqua"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "A little bit",
+        "Sugar": "One spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Bathtub",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Men's Toilet",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Shower Stall",
+            "Price": "2,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Spa Chair",
+            "Price": "600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Table Lamp",
+            "Price": "640",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Trash Can",
+            "Price": "1,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Washbasin",
+            "Price": "2,880",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Water Cooler",
+            "Price": "2,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Backyard Fence",
+            "Price": "800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Aqua Polka Tank",
+            "Price": "280",
+            "Source": "Ables (Summer)"
+        }
+    ],
+    "Species": "Frog",
+    "Personality": "Smug",
+    "Gender": "Male",
+    "Birthday": "September 21",
+    "Star Sign": "Virgo",
+    "Initial Phrase": "snoozit",
+    "Initial Clothes": "Chain-Gang Tee",
+    "Favorite Saying": "The way to a frog's heart is through his stomach.",
+    "image": "/w/images/thumb/3/34/Henry_NL.png/150px-Henry_NL.png",
+    "Song": "K.K. Soul",
+    "Style": "Basic"
+}

@@ -1,0 +1,36 @@
+{
+    "Name": "Cece",
+    "Url": "https://nookipedia.com/wiki/Cece",
+    "Biography": {
+        "Siblings": "Youngest of 2",
+        "Skill": "Cosplay",
+        "Goal": "Stylist",
+        "Fear": "Bugs"
+    },
+    "Favorites": {
+        "Clothing": "Sporty",
+        "Color": "None"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "A little bit",
+        "Sugar": "One spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "(Name)",
+            "Price": "(Price)",
+            "Source": "(Available)"
+        }
+    ],
+    "Species": "Squirrel",
+    "Personality": "Peppy",
+    "Gender": "Female",
+    "Birthday": "May 28th",
+    "Star Sign": "Gemini",
+    "Initial Phrase": "Stay fresh",
+    "Initial Clothes": "Callie Shirt",
+    "Favorite Saying": "Too heads are better than one!",
+    "image": "/w/images/thumb/1/1e/Cece_NL.png/100px-Cece_NL.png",
+    "Song": "Bubblegum K.K."
+}

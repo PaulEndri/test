@@ -1,0 +1,82 @@
+{
+    "Name": "Astrid",
+    "Url": "https://nookipedia.com/wiki/Astrid",
+    "Biography": {
+        "Siblings": "Second of five",
+        "Skill": "Karaoke",
+        "Goal": "Singer",
+        "Fear": "Skulls"
+    },
+    "Favorites": {
+        "Clothing": "Rock 'n' Roll",
+        "Color": "Gray"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "A little milk",
+        "Sugar": "One spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "DJ's Turntable",
+            "Price": "3,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Drip Pail",
+            "Price": "800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Jackhammer",
+            "Price": "1,880",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Karaoke System",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Manhole Cover",
+            "Price": "1,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Mic Stand",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Wave Breaker",
+            "Price": "35 (medals)",
+            "Source": "Island"
+        },
+        {
+            "Name": "Illusion Wall",
+            "Price": "1,360",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Lab Wall",
+            "Price": "1,460",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Lab Floor",
+            "Price": "1,280",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Kangaroo",
+    "Personality": "Snooty",
+    "Gender": "Female",
+    "Birthday": "September 8th",
+    "Star Sign": "Virgo",
+    "Initial Phrase": "my pet",
+    "Initial Clothes": "Star Shirt",
+    "Favorite Saying": "The apple doesn't fall far from the tree.",
+    "image": "/w/images/thumb/6/63/Astrid_NLa.png/175px-Astrid_NLa.png",
+    "Song": "I Love You",
+    "Style": "Rock 'n' roll"
+}

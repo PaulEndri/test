@@ -1,0 +1,72 @@
+{
+    "Name": "Vic",
+    "Url": "https://nookipedia.com/wiki/Vic",
+    "Biography": {
+        "Siblings": "Eldest of eight",
+        "Skill": "Doing push-ups",
+        "Goal": "Archaeologist",
+        "Fear": "Mummy"
+    },
+    "Favorites": {
+        "Clothing": "Historical",
+        "Color": "Aqua"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "Regular amount",
+        "Sugar": "Two spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Blue Vase",
+            "Price": "2,500",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "CD Player",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Shaved-Ice Maker",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Wall Fan",
+            "Price": "1,680",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Blue-Armor Suit",
+            "Price": "480",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Scale-Armor Pants",
+            "Price": "1,000",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Rimmed Glasses",
+            "Price": "240",
+            "Source": "Accessory Corner"
+        },
+        {
+            "Name": "Round Glasses",
+            "Price": "240",
+            "Source": "Accessory Corner"
+        }
+    ],
+    "Species": "Bull",
+    "Personality": "Cranky",
+    "Gender": "Male",
+    "Birthday": "December 29th",
+    "Star Sign": "Capricorn",
+    "Initial Phrase": "cud",
+    "Initial Clothes": "Scale Armor Suit",
+    "Favorite Saying": "You mess with the bull, you get the horns.",
+    "image": "/w/images/thumb/b/b1/Vic_NL.png/200px-Vic_NL.png",
+    "Song": "Lucky K.K.",
+    "Style": "Historical"
+}

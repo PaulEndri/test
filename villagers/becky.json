@@ -1,0 +1,52 @@
+{
+    "Name": "Becky",
+    "Url": "https://nookipedia.com/wiki/Becky",
+    "Biography": {
+        "Siblings": "Second of 3",
+        "Skill": "Writing letters",
+        "Goal": "Singer",
+        "Fear": "Ghost mask"
+    },
+    "Favorites": {
+        "Clothing": "Ornate",
+        "Color": "Purple"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "A little",
+        "Sugar": "One spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Beaded Shirt",
+            "Price": "420",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Corseted Shirt",
+            "Price": "400",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Blue Lace-Up Dress",
+            "Price": "700",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Frock Coat",
+            "Price": "1,000",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Chicken",
+    "Personality": "Snooty",
+    "Gender": "Female",
+    "Birthday": "December 9th",
+    "Star Sign": "Sagittarius",
+    "Initial Phrase": "chicklet",
+    "Initial Clothes": "Kaffe's Shirt*Noble Shirt*",
+    "Favorite Saying": "A fool and his Bells are soon parted.",
+    "image": "/w/images/thumb/0/09/Becky_NLa.png/175px-Becky_NLa.png",
+    "Song": "K.K. Aria",
+    "Style": "Ornate"
+}

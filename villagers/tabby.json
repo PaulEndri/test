@@ -1,0 +1,82 @@
+{
+    "Name": "Tabby",
+    "Url": "https://nookipedia.com/wiki/Tabby",
+    "Biography": {
+        "Siblings": "Eldest of 9",
+        "Skill": "Telling Jokes",
+        "Goal": "Tennis Player",
+        "Fear": "Werewolf"
+    },
+    "Favorites": {
+        "Clothing": "Sporty",
+        "Color": "Black"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "Regular amount",
+        "Sugar": "Two spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Butterfly Machine",
+            "Price": "2,680",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Camp Stove",
+            "Price": "1,200",
+            "Source": "Igloo Camper"
+        },
+        {
+            "Name": "Dartboard",
+            "Price": "1,520",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Snowmobile",
+            "Price": "-",
+            "Source": "Snowman"
+        },
+        {
+            "Name": "Telescope",
+            "Price": "5,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Treadmill",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Volleyball Net",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Weight Bench",
+            "Price": "3,590",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Basketball Tank",
+            "Price": "420",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Beatnik Shirt",
+            "Price": "420",
+            "Source": "Ables (Fall)"
+        }
+    ],
+    "Species": "Cat",
+    "Personality": "Peppy",
+    "Gender": "Female",
+    "Birthday": "August 13th",
+    "Star Sign": "Leo",
+    "Initial Phrase": "me-WOW",
+    "Initial Clothes": "Tomato Juice Shirt*Fish Bone Shirt*Bone Shirt*",
+    "Favorite Saying": "You can never have too much of a good thing!This is my new headshot!",
+    "image": "/w/images/thumb/c/c6/Tabby_NLa.png/175px-Tabby_NLa.png",
+    "Song": "To the Edge",
+    "Style": "Sporty"
+}

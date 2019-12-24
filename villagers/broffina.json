@@ -1,0 +1,82 @@
+{
+    "Name": "Broffina",
+    "Url": "https://nookipedia.com/wiki/Broffina",
+    "Biography": {
+        "Siblings": "Younger twin",
+        "Skill": "Typing",
+        "Goal": "Translator",
+        "Fear": "Ghost Mask"
+    },
+    "Favorites": {
+        "Clothing": "Flashy",
+        "Color": "Black"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "Lots",
+        "Sugar": "Three spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Amazing Machine",
+            "Price": "3,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Complex Machine",
+            "Price": "3,840",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Neon Sign",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Sloppy Stereo",
+            "Price": "-",
+            "Source": "Re-Tail/Police Station"
+        },
+        {
+            "Name": "Cow Tank",
+            "Price": "5,800",
+            "Source": "GracieGrace (Summer)"
+        },
+        {
+            "Name": "Cow Tee",
+            "Price": "6,400",
+            "Source": "GracieGrace (Winter)"
+        },
+        {
+            "Name": "Danger Tee",
+            "Price": "340",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Dice Tank",
+            "Price": "340",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Fiendish Shirt",
+            "Price": "680",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Ladybug Tank",
+            "Price": "5,400",
+            "Source": "GracieGrace (Spring)"
+        }
+    ],
+    "Species": "Chicken",
+    "Personality": "Snooty",
+    "Gender": "Female",
+    "Birthday": "October 24th",
+    "Star Sign": "Scorpio",
+    "Initial Phrase": "cluckadoo",
+    "Initial Clothes": "Fiendish Shirt",
+    "Favorite Saying": "Don't peck the hand that feeds you.",
+    "image": "/w/images/thumb/c/c0/Broffina_NL.png/200px-Broffina_NL.png",
+    "Song": "K.K. Flamenco",
+    "Style": "Flashy"
+}

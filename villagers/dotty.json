@@ -1,0 +1,82 @@
+{
+    "Name": "Dotty",
+    "Url": "https://nookipedia.com/wiki/Dotty",
+    "Biography": {
+        "Siblings": "Youngest Triplet",
+        "Skill": "Home Repair",
+        "Goal": "Tennis Player",
+        "Fear": "Frankenstein"
+    },
+    "Favorites": {
+        "Clothing": "Modern",
+        "Color": "Black"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "Lots of milk",
+        "Sugar": "3 spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Digital-Photo Frame",
+            "Price": "-",
+            "Source": "Katie"
+        },
+        {
+            "Name": "Flat-Screen TV",
+            "Price": "4,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Hot Plate",
+            "Price": "1,680",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Modern Bed",
+            "Price": "2,320",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Modern Cabinet",
+            "Price": "2,580",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Modern Chair",
+            "Price": "1,500",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Modern Desk",
+            "Price": "2,480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Modern Dresser",
+            "Price": "2,250",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Modern End Table",
+            "Price": "1,900",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Modern Lamp",
+            "Price": "1,400",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Rabbit",
+    "Personality": "Peppy",
+    "Gender": "Female",
+    "Birthday": "March 14th",
+    "Star Sign": "Pisces",
+    "Initial Phrase": "wee one",
+    "Initial Clothes": "Blue Check Shirt",
+    "Favorite Saying": "It's always a good hare day.Hop to it, wee one!",
+    "image": "/w/images/thumb/5/5e/Dotty_NLa.png/175px-Dotty_NLa.png",
+    "Song": "K.K. Technopop",
+    "Style": "Modern"
+}

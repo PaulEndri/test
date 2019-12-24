@@ -1,0 +1,82 @@
+{
+    "Name": "Muffy",
+    "Url": "https://nookipedia.com/wiki/Muffy",
+    "Biography": {
+        "Siblings": "Only child",
+        "Skill": "Playing poker",
+        "Goal": "Dermatologist",
+        "Fear": "Werewolf"
+    },
+    "Favorites": {
+        "Clothing": "Ornate",
+        "Color": "Black"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "None",
+        "Sugar": "None"
+    },
+    "Gifts": [
+        {
+            "Name": "Gorgeous Bed",
+            "Price": "300,000",
+            "Source": "GracieGrace (Winter)"
+        },
+        {
+            "Name": "Gorgeous Chest",
+            "Price": "90,000",
+            "Source": "GracieGrace (Winter)"
+        },
+        {
+            "Name": "Gorgeous Closet",
+            "Price": "140,000",
+            "Source": "GracieGrace (Winter)"
+        },
+        {
+            "Name": "Gorgeous Counter",
+            "Price": "180,000",
+            "Source": "GracieGrace (Winter)"
+        },
+        {
+            "Name": "Gorgeous Desk",
+            "Price": "250,000",
+            "Source": "GracieGrace (Winter)"
+        },
+        {
+            "Name": "Gorgeous Lamp",
+            "Price": "60,000",
+            "Source": "GracieGrace (Winter)"
+        },
+        {
+            "Name": "Gorgeous Table",
+            "Price": "250,000",
+            "Source": "GracieGrace (Winter)"
+        },
+        {
+            "Name": "Gorgeous Wall Clock",
+            "Price": "350,000",
+            "Source": "GracieGrace (Winter)"
+        },
+        {
+            "Name": "Beaded Shirt",
+            "Price": "420",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Corseted Shirt",
+            "Price": "400",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Sheep",
+    "Personality": "Uchi",
+    "Gender": "Female",
+    "Birthday": "February 14th",
+    "Star Sign": "Aquarius",
+    "Initial Phrase": "nightshade",
+    "Initial Clothes": "Natty Shirt",
+    "Favorite Saying": "There's a black sheep in every family.",
+    "image": "/w/images/thumb/a/aa/Muffy_NL.png/200px-Muffy_NL.png",
+    "Song": "K.K. Sonata",
+    "Style": "Ornate"
+}

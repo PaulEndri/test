@@ -1,0 +1,82 @@
+{
+    "Name": "Snake",
+    "Url": "https://nookipedia.com/wiki/Snake",
+    "Biography": {
+        "Siblings": "3rd quadruplet",
+        "Skill": "Playing jacks",
+        "Goal": "Soccer player",
+        "Fear": "Bug mask"
+    },
+    "Favorites": {
+        "Clothing": "Sporty",
+        "Color": "Black"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "A lot",
+        "Sugar": "3 spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Butterfly Machine",
+            "Price": "2,680",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Camp Stove",
+            "Price": "1,200",
+            "Source": "Igloo Camper"
+        },
+        {
+            "Name": "Dartboard",
+            "Price": "1,520",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Snowmobile",
+            "Price": "-",
+            "Source": "Snowman"
+        },
+        {
+            "Name": "Telescope",
+            "Price": "5,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Treadmill",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Volleyball Net",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Weight Bench",
+            "Price": "3,590",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Basketball Tank",
+            "Price": "420",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Beatnik Shirt",
+            "Price": "420",
+            "Source": "Ables (Fall)"
+        }
+    ],
+    "Species": "Rabbit",
+    "Personality": "Jock",
+    "Gender": "Male",
+    "Birthday": "November 3rd",
+    "Star Sign": "Scorpio",
+    "Initial Phrase": "bunyip",
+    "Initial Clothes": "Zipper Shirt",
+    "Favorite Saying": "A good ninja is neither seen, nor heard.Snake's number one!",
+    "image": "/w/images/thumb/6/61/Snake_NLa.png/200px-Snake_NLa.png",
+    "Song": "K.K. Lullaby",
+    "Style": "Sporty"
+}

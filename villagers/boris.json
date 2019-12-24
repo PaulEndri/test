@@ -1,0 +1,81 @@
+{
+    "Name": "Boris",
+    "Url": "https://nookipedia.com/wiki/Boris",
+    "Biography": {
+        "Siblings": "Second Quadruplet",
+        "Skill": "Tongue Twisters",
+        "Goal": "Singer",
+        "Fear": "Ghosts"
+    },
+    "Favorites": {
+        "Clothing": "Flashy",
+        "Color": "Black"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "Lots",
+        "Sugar": "3"
+    },
+    "Gifts": [
+        {
+            "Name": "Amazing Machine",
+            "Price": "3,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Complex Machine",
+            "Price": "3,840",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Neon Sign",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Sloppy Stereo",
+            "Price": "-",
+            "Source": "Re-Tail/Police Station"
+        },
+        {
+            "Name": "Cow Tank",
+            "Price": "5,800",
+            "Source": "GracieGrace (Summer)"
+        },
+        {
+            "Name": "Cow Tee",
+            "Price": "6,400",
+            "Source": "GracieGrace (Winter)"
+        },
+        {
+            "Name": "Danger Tee",
+            "Price": "340",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Dice Tank",
+            "Price": "340",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Fiendish Shirt",
+            "Price": "680",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Ladybug Tank",
+            "Price": "5,400",
+            "Source": "GracieGrace (Spring)"
+        }
+    ],
+    "Species": "Pig",
+    "Personality": "Cranky",
+    "Gender": "Male",
+    "Birthday": "November 6th",
+    "Star Sign": "Scorpio",
+    "Initial Phrase": "schnort",
+    "Initial Clothes": "Kaffe's Shirt*Splendid Shirt*",
+    "Favorite Saying": "Life's short. Eat chocolate.",
+    "image": "/w/images/thumb/a/a4/Boris_NL.png/200px-Boris_NL.png",
+    "Song": "K.K. House"
+}

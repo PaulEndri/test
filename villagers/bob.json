@@ -1,0 +1,82 @@
+{
+    "Name": "Bob",
+    "Url": "https://nookipedia.com/wiki/Bob",
+    "Biography": {
+        "Siblings": "Fourth of six",
+        "Skill": "Shadow puppetry",
+        "Goal": "Detective",
+        "Fear": "Monster"
+    },
+    "Favorites": {
+        "Clothing": "Flashy",
+        "Color": "Colorful"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "None at all",
+        "Sugar": "None at all"
+    },
+    "Gifts": [
+        {
+            "Name": "Flashy-Flower Sign",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Neon Sign",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Sloppy Stereo",
+            "Price": "-",
+            "Source": "Re-Tail/Police Station"
+        },
+        {
+            "Name": "Hot-Dog Tank",
+            "Price": "6,000",
+            "Source": "GracieGrace (Fall)"
+        },
+        {
+            "Name": "Kiddie Tee",
+            "Price": "340",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Noodle Tee",
+            "Price": "380",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Prism Tee",
+            "Price": "370",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Sandwich Tank",
+            "Price": "6,400",
+            "Source": "GracieGrace (Fall)"
+        },
+        {
+            "Name": "Star Tee",
+            "Price": "370",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Star Tank Dress",
+            "Price": "720",
+            "Source": "Ables (Summer)"
+        }
+    ],
+    "Species": "Cat",
+    "Personality": "Lazy",
+    "Gender": "Male",
+    "Birthday": "January 1st",
+    "Star Sign": "Capricorn",
+    "Initial Phrase": "pthhpth pfioupf psssps baffo zarpas",
+    "Initial Clothes": "Blossom Shirt",
+    "Favorite Saying": "You only live once...or nine times.I'm a cat. Chillin' is in my blood, man.",
+    "image": "/w/images/thumb/7/79/Bob_NLa.png/175px-Bob_NLa.png",
+    "Song": "K.K. Ragtime",
+    "Style": "Flashy"
+}

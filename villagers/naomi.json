@@ -1,0 +1,82 @@
+{
+    "Name": "Naomi",
+    "Url": "https://nookipedia.com/wiki/Naomi",
+    "Biography": {
+        "Siblings": "Eldest of 3",
+        "Skill": "Photography",
+        "Goal": "Designer",
+        "Fear": "Ghosts"
+    },
+    "Favorites": {
+        "Clothing": "Modern",
+        "Color": "Colorful"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "The regular amount",
+        "Sugar": "2 spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Captain's Monitor",
+            "Price": "2,800",
+            "Source": "Spotlight/Wishy"
+        },
+        {
+            "Name": "Conveyor-Belt Sushi",
+            "Price": "3,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Crew's Monitor",
+            "Price": "2,400",
+            "Source": "Spotlight/Wishy"
+        },
+        {
+            "Name": "Gaudi's Lizard",
+            "Price": "1,200",
+            "Source": "Gulliver"
+        },
+        {
+            "Name": "Gracie Bench",
+            "Price": "110,000",
+            "Source": "GracieGrace (Summer)"
+        },
+        {
+            "Name": "Gracie Chair",
+            "Price": "150,000",
+            "Source": "GracieGrace (Summer)"
+        },
+        {
+            "Name": "Gracie Lamp",
+            "Price": "120,000",
+            "Source": "GracieGrace (Summer)"
+        },
+        {
+            "Name": "Gracie Low Table",
+            "Price": "68,000",
+            "Source": "GracieGrace (Summer)"
+        },
+        {
+            "Name": "Gracie Shelf",
+            "Price": "350,000",
+            "Source": "GracieGrace (Summer)"
+        },
+        {
+            "Name": "Gracie Wagon",
+            "Price": "300,000",
+            "Source": "GracieGrace (Summer)"
+        }
+    ],
+    "Species": "Cow",
+    "Personality": "Snooty",
+    "Gender": "Female",
+    "Birthday": "February 28th",
+    "Star Sign": "Pisces",
+    "Initial Phrase": "moolah",
+    "Initial Clothes": "Groovy Shirt",
+    "Favorite Saying": "Moo like there's no tomorrow.",
+    "image": "/w/images/thumb/f/f8/Naomi_NL.png/170px-Naomi_NL.png",
+    "Song": "K.K. Milonga",
+    "Style": "Modern"
+}

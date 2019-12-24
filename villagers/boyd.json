@@ -1,0 +1,81 @@
+{
+    "Name": "Boyd",
+    "Url": "https://nookipedia.com/wiki/Boyd",
+    "Biography": {
+        "Siblings": "Second of 5 Kids",
+        "Skill": "Baton Twirling",
+        "Goal": "Pro Wrestler Someday",
+        "Fear": "Frankenstein"
+    },
+    "Favorites": {
+        "Clothing": "Sporty",
+        "Color": "Blue"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "Lots of milk",
+        "Sugar": "3 spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Backpack",
+            "Price": "1,980",
+            "Source": "Tent Camper"
+        },
+        {
+            "Name": "Ball Catcher",
+            "Price": "2,040",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Beach Table",
+            "Price": "30 (medals)",
+            "Source": "Island"
+        },
+        {
+            "Name": "Blue Corner",
+            "Price": "6,800",
+            "Source": "Spotlight/Wishy"
+        },
+        {
+            "Name": "Blue Falcon",
+            "Price": "-",
+            "Source": "Fortune Cookie"
+        },
+        {
+            "Name": "Boxing Barricade",
+            "Price": "1,050",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Boxing Mat",
+            "Price": "1,180",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Golf Bag",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Hurdle",
+            "Price": "980",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Snow Machine",
+            "Price": "-",
+            "Source": "Snowman"
+        }
+    ],
+    "Species": "Gorilla",
+    "Personality": "Cranky",
+    "Gender": "Male",
+    "Birthday": "October 1st",
+    "Star Sign": "Libra",
+    "Initial Phrase": "uh-oh",
+    "Initial Clothes": "Good-Fortune Clothes",
+    "Favorite Saying": "There's always time to take a second look.",
+    "image": "/w/images/thumb/f/fb/Boyd_NL.png/200px-Boyd_NL.png",
+    "Song": "K.K. Groove"
+}

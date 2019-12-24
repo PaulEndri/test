@@ -1,0 +1,82 @@
+{
+    "Name": "Tangy",
+    "Url": "https://nookipedia.com/wiki/Tangy",
+    "Biography": {
+        "Siblings": "Third of six",
+        "Skill": "Doing handstands",
+        "Goal": "Hair stylist",
+        "Fear": "Werewolf Hood"
+    },
+    "Favorites": {
+        "Clothing": "Flashy",
+        "Color": "Orange"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "The regular amount",
+        "Sugar": "2 spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Astro Bed",
+            "Price": "3,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Astro CD Player",
+            "Price": "3,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Astro Chair",
+            "Price": "2,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Astro Clock",
+            "Price": "2,980",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Astro Closet",
+            "Price": "3,480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Astro Dresser",
+            "Price": "3,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Astro Lamp",
+            "Price": "2,680",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Astro Shelf",
+            "Price": "2,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Astro Sofa",
+            "Price": "3,280",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Astro Table",
+            "Price": "3,000",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Cat",
+    "Personality": "Peppy",
+    "Gender": "Female",
+    "Birthday": "June 17th",
+    "Star Sign": "Gemini",
+    "Initial Phrase": "reeeeOWR",
+    "Initial Clothes": "Chain-Gang Shirt",
+    "Favorite Saying": "When life gives you lemons, make lemonade!\"\"They say cats hate citrus. THAT REALLY HURTS MY FEELINGS!\"",
+    "image": "/w/images/thumb/6/67/Tangy_NLa.png/175px-Tangy_NLa.png",
+    "Song": "K.K. Island",
+    "Style": "Flashy"
+}

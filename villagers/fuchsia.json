@@ -1,0 +1,37 @@
+{
+    "Name": "Fuchsia",
+    "Url": "https://nookipedia.com/wiki/Fuchsia",
+    "Biography": {
+        "Siblings": "Youngest of two",
+        "Skill": "Home repair",
+        "Goal": "Makeup artist",
+        "Fear": "Ghost mask"
+    },
+    "Favorites": {
+        "Clothing": "<img alt=\"Smallcheckmark.png\" src=\"/w/images/f/fa/Smallcheckmark.png\" decoding=\"async\" width=\"15\" height=\"15\" style=\"vertical-align: text-top\">  Rock 'n' Roll",
+        "Color": "Pink"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "None",
+        "Sugar": "None"
+    },
+    "Gifts": [
+        {
+            "Name": "Birthday Shades",
+            "Price": "-",
+            "Source": "Birthday"
+        }
+    ],
+    "Species": "Deer",
+    "Personality": "Uchi",
+    "Gender": "Female",
+    "Birthday": "September 19th",
+    "Star Sign": "Virgo",
+    "Initial Phrase": "girlfriend",
+    "Initial Clothes": "Dark Polka Shirt",
+    "Favorite Saying": "It takes one to know one.",
+    "image": "/w/images/thumb/2/2d/Fuchsia_NL.png/200px-Fuchsia_NL.png",
+    "Song": "K.K. Rock",
+    "Style": "Rock 'n' roll"
+}

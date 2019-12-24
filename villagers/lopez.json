@@ -1,0 +1,82 @@
+{
+    "Name": "Lopez",
+    "Url": "https://nookipedia.com/wiki/Lopez",
+    "Biography": {
+        "Siblings": "Second of six",
+        "Skill": "Debating",
+        "Goal": "CEO",
+        "Fear": "Skeleton"
+    },
+    "Favorites": {
+        "Clothing": "Flashy",
+        "Color": "Gray"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "A little bit",
+        "Sugar": "One spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Asteroid",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Complex Machine",
+            "Price": "3,840",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Creepy Stone Bat",
+            "Price": "-",
+            "Source": "Halloween"
+        },
+        {
+            "Name": "Creepy Statue",
+            "Price": "-",
+            "Source": "Halloween"
+        },
+        {
+            "Name": "Creepy Stone",
+            "Price": "-",
+            "Source": "Halloween"
+        },
+        {
+            "Name": "Florence Flask",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Flying Saucer",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Hospital Screen",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "IV Drip",
+            "Price": "1,480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Lab Bench",
+            "Price": "4,800",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Deer",
+    "Personality": "Smug",
+    "Gender": "Male",
+    "Birthday": "August 20th",
+    "Star Sign": "Leo",
+    "Initial Phrase": "buckaroo   badoom",
+    "Initial Clothes": "Orange Pinstripe",
+    "Favorite Saying": "Always look both ways before crossing the street.",
+    "image": "/w/images/thumb/9/93/Lopez_NL.png/200px-Lopez_NL.png",
+    "Song": "K.K. Milonga",
+    "Style": "Flashy"
+}

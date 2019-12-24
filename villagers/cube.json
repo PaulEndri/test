@@ -1,0 +1,82 @@
+{
+    "Name": "Cube",
+    "Url": "https://nookipedia.com/wiki/Cube",
+    "Biography": {
+        "Siblings": "Youngest of four",
+        "Skill": "Staying awake",
+        "Goal": "Astronaut",
+        "Fear": "Werewolf Hood"
+    },
+    "Favorites": {
+        "Clothing": "Cute",
+        "Color": "Colorful"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "A little bit",
+        "Sugar": "One spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Anatomical Model",
+            "Price": "3,360",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Baby Bed",
+            "Price": "2,900",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Balloon Bed",
+            "Price": "-",
+            "Source": "Balloon"
+        },
+        {
+            "Name": "Balloon Chair",
+            "Price": "-",
+            "Source": "Balloon"
+        },
+        {
+            "Name": "Balloon Clock",
+            "Price": "-",
+            "Source": "Balloon"
+        },
+        {
+            "Name": "Balloon Closet",
+            "Price": "-",
+            "Source": "Balloon"
+        },
+        {
+            "Name": "Balloon Dresser",
+            "Price": "-",
+            "Source": "Balloon"
+        },
+        {
+            "Name": "Balloon Lamp",
+            "Price": "-",
+            "Source": "Balloon"
+        },
+        {
+            "Name": "Balloon Sofa",
+            "Price": "-",
+            "Source": "Balloon"
+        },
+        {
+            "Name": "Balloon Table",
+            "Price": "-",
+            "Source": "Balloon"
+        }
+    ],
+    "Species": "Penguin",
+    "Personality": "Lazy",
+    "Gender": "Male",
+    "Birthday": "January 29th",
+    "Star Sign": "Aquarius",
+    "Initial Phrase": "d-d-dude",
+    "Initial Clothes": "N Logo Shirt*G Logo Shirt*Big Dot Shirt*",
+    "Favorite Saying": "Sometimes you gotta learn to chill.Stay cool.",
+    "image": "/w/images/thumb/3/3b/Cube_NLa.png/200px-Cube_NLa.png",
+    "Song": "K.K. Technopop",
+    "Style": "Cute"
+}

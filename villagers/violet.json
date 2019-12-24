@@ -1,0 +1,41 @@
+{
+    "Name": "Violet",
+    "Url": "https://nookipedia.com/wiki/Violet",
+    "Biography": {
+        "Skill": "Blowing bubbles",
+        "Goal": "Pharmacist",
+        "Fear": "Wolves"
+    },
+    "Favorites": {
+        "Clothing": "Historical",
+        "Color": "Pink"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "Lots",
+        "Sugar": "3"
+    },
+    "Gifts": [
+        {
+            "Name": "Motherly Statue",
+            "Price": "3,920",
+            "Source": "Redd"
+        },
+        {
+            "Name": "Motherly Statue (Counterfeit)",
+            "Price": "3,920",
+            "Source": "Redd"
+        }
+    ],
+    "Species": "Gorilla",
+    "Personality": "PeppySnooty",
+    "Gender": "Female",
+    "Birthday": "September 1st",
+    "Star Sign": "Virgo",
+    "Initial Phrase": "faboomsweetie",
+    "Initial Clothes": "Red Aloha Shirt*Misty Shirt*",
+    "Favorite Saying": "Pearls are a pink gorilla's best friend.",
+    "image": "/w/images/thumb/4/41/Violet_NLa.png/175px-Violet_NLa.png",
+    "Song": "K.K. Faire",
+    "Style": "Historical"
+}

@@ -1,0 +1,77 @@
+{
+    "Name": "Prince",
+    "Url": "https://nookipedia.com/wiki/Prince",
+    "Biography": {
+        "Siblings": "Eldest of ten",
+        "Skill": "Playing Old Maid",
+        "Goal": "Carpenter",
+        "Fear": "Monster"
+    },
+    "Favorites": {
+        "Clothing": "Historical",
+        "Color": "Green"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "None",
+        "Sugar": "None"
+    },
+    "Gifts": [
+        {
+            "Name": "Desert Cactus",
+            "Price": "890",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Retro Fridge",
+            "Price": "2,300",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Screen",
+            "Price": "1,650",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Treasure Chest",
+            "Price": "150 (medals)",
+            "Source": "Island"
+        },
+        {
+            "Name": "Chichi-Print Tee",
+            "Price": "180",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Misty Tank",
+            "Price": "280",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Misty Tee",
+            "Price": "380",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Monkey Shirt",
+            "Price": "380",
+            "Source": "Ables (Winter)"
+        },
+        {
+            "Name": "Headkerchief",
+            "Price": "480",
+            "Source": "Accessory Corner"
+        }
+    ],
+    "Species": "Frog",
+    "Personality": "Lazy",
+    "Gender": "Male",
+    "Birthday": "July 21st",
+    "Star Sign": "Cancer",
+    "Initial Phrase": "burrup",
+    "Initial Clothes": "Yellow Bar Shirt",
+    "Favorite Saying": "Catch more flies with honey than vinegar.",
+    "image": "/w/images/thumb/3/3f/Prince_NLa.png/150px-Prince_NLa.png",
+    "Song": "To the Edge",
+    "Style": "Historical"
+}

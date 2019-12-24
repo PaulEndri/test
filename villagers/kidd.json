@@ -1,0 +1,81 @@
+{
+    "Name": "Kidd",
+    "Url": "https://nookipedia.com/wiki/Kidd",
+    "Biography": {
+        "Skill": "Blowing bubbles",
+        "Goal": "Hair stylist",
+        "Fear": "Monster Mask"
+    },
+    "Favorites": {
+        "Clothing": "Official",
+        "Color": "Gray"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "The regular amount",
+        "Sugar": "Two spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Chalkboard",
+            "Price": "1,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Folding Chair",
+            "Price": "600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Mop",
+            "Price": "900",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Office Chair",
+            "Price": "1,100",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Office Desk",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Office Locker",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Poster Stand",
+            "Price": "2,500",
+            "Source": "Museum Shop"
+        },
+        {
+            "Name": "Scale",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "School Chair",
+            "Price": "800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "School Desk",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Goat",
+    "Personality": "LazySmug",
+    "Gender": "Male",
+    "Birthday": "June 28th",
+    "Star Sign": "Cancer",
+    "Initial Phrase": "wut",
+    "Initial Clothes": "Blue Aloha Shirt*  Waistcoat*",
+    "Favorite Saying": "Be yourself - everyone else is already taken.",
+    "image": "/w/images/thumb/4/44/Kidd_NL.png/200px-Kidd_NL.png",
+    "Song": "Comrade K.K.",
+    "Style": "Official"
+}

@@ -1,0 +1,82 @@
+{
+    "Name": "Moose",
+    "Url": "https://nookipedia.com/wiki/Moose",
+    "Biography": {
+        "Siblings": "Third of five",
+        "Skill": "Telling jokes",
+        "Goal": "Mayor",
+        "Fear": "Bug"
+    },
+    "Favorites": {
+        "Clothing": "Flashy",
+        "Color": "Yellow"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "None",
+        "Sugar": "None"
+    },
+    "Gifts": [
+        {
+            "Name": "Flying Saucer",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "LED Display",
+            "Price": "3,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Lunar Lander",
+            "Price": "3,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Small LED Display",
+            "Price": "2,500",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Bold-Check Tee",
+            "Price": "360",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Caterpillar Tee",
+            "Price": "6,800",
+            "Source": "GracieGrace (Spring)"
+        },
+        {
+            "Name": "Dr. Shrunk's Jacket",
+            "Price": "-",
+            "Source": "Shrunk"
+        },
+        {
+            "Name": "Future Tank",
+            "Price": "390",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Giraffe Tank",
+            "Price": "5,800",
+            "Source": "GracieGrace (Summer)"
+        },
+        {
+            "Name": "Giraffe Tee",
+            "Price": "6,200",
+            "Source": "GracieGrace (Winter)"
+        }
+    ],
+    "Species": "Mouse",
+    "Personality": "Jock",
+    "Gender": "Male",
+    "Birthday": "September 13th",
+    "Star Sign": "",
+    "Initial Phrase": "shorty",
+    "Initial Clothes": "Big Star Shirt",
+    "Favorite Saying": "A cornered rat will summon the courage to bite a cat.",
+    "image": "/w/images/thumb/c/c1/Moose_NLa.png/175px-Moose_NLa.png",
+    "Song": "Agent K.K.",
+    "Style": "Flashy"
+}

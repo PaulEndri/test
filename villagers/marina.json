@@ -1,0 +1,52 @@
+{
+    "Name": "Marina",
+    "Url": "https://nookipedia.com/wiki/Marina",
+    "Biography": {
+        "Siblings": "Middle triplet",
+        "Skill": "Tongue twisters",
+        "Goal": "Pharmacist",
+        "Fear": "Skeletons"
+    },
+    "Favorites": {
+        "Clothing": "Official",
+        "Color": "Pink"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "Lots",
+        "Sugar": "Three spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Flight-Crew Shirt",
+            "Price": "1,200",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Nurse's Uniform",
+            "Price": "800",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Pink Party Dress",
+            "Price": "8,000",
+            "Source": "GracieGrace (Sales)"
+        },
+        {
+            "Name": "Waitress Dress",
+            "Price": "800",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Octopus",
+    "Personality": "Normal",
+    "Gender": "Female",
+    "Birthday": "June 26th",
+    "Star Sign": "Cancer",
+    "Initial Phrase": "blurp",
+    "Initial Clothes": "Red Aloha Shirt*  Bubble Gum Shirt*",
+    "Favorite Saying": "If you can't say something nice, don't say anything at all.",
+    "image": "/w/images/thumb/c/c4/Marina_NLa.png/175px-Marina_NLa.png",
+    "Song": "Soulful K.K.",
+    "Style": "Official"
+}

@@ -1,0 +1,82 @@
+{
+    "Name": "Caroline",
+    "Url": "https://nookipedia.com/wiki/Caroline",
+    "Biography": {
+        "Siblings": "Second of 4 Sisters",
+        "Skill": "Shadow puppetry",
+        "Goal": "Volleyball player",
+        "Fear": "Skull"
+    },
+    "Favorites": {
+        "Clothing": "Cute",
+        "Color": "Colorful"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "A little",
+        "Sugar": "1 spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Anatomical Model",
+            "Price": "3,360",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Baby Bed",
+            "Price": "2,900",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Balloon Bed",
+            "Price": "-",
+            "Source": "Balloon"
+        },
+        {
+            "Name": "Balloon Chair",
+            "Price": "-",
+            "Source": "Balloon"
+        },
+        {
+            "Name": "Balloon Clock",
+            "Price": "-",
+            "Source": "Balloon"
+        },
+        {
+            "Name": "Balloon Closet",
+            "Price": "-",
+            "Source": "Balloon"
+        },
+        {
+            "Name": "Balloon Dresser",
+            "Price": "-",
+            "Source": "Balloon"
+        },
+        {
+            "Name": "Balloon Lamp",
+            "Price": "-",
+            "Source": "Balloon"
+        },
+        {
+            "Name": "Balloon Sofa",
+            "Price": "-",
+            "Source": "Balloon"
+        },
+        {
+            "Name": "Balloon Table",
+            "Price": "-",
+            "Source": "Balloon"
+        }
+    ],
+    "Species": "Squirrel",
+    "Personality": "Normal",
+    "Gender": "Female",
+    "Birthday": "July 15th",
+    "Star Sign": "Cancer",
+    "Initial Phrase": "hulaaaa",
+    "Initial Clothes": "Red Aloha Shirt*Gelato Shirt*",
+    "Favorite Saying": "New brooms sweep clean.Relax!",
+    "image": "/w/images/thumb/8/83/Caroline_NLa.png/175px-Caroline_NLa.png",
+    "Song": "DJ K.K.",
+    "Style": "Cute"
+}

@@ -1,0 +1,82 @@
+{
+    "Name": "Grizzly",
+    "Url": "https://nookipedia.com/wiki/Grizzly",
+    "Biography": {
+        "Siblings": "Eldest of four",
+        "Skill": "Brainteasers",
+        "Goal": "Photographer",
+        "Fear": "Bugs"
+    },
+    "Favorites": {
+        "Clothing": "Basic",
+        "Color": "Brown"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "The regular amount",
+        "Sugar": "Two spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Aloe",
+            "Price": "1,200",
+            "Source": "Garden Corner"
+        },
+        {
+            "Name": "Bass",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Birdcage",
+            "Price": "1,700",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Bread Box",
+            "Price": "800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Brown Pot",
+            "Price": "800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Cactus",
+            "Price": "1,700",
+            "Source": "Garden Corner"
+        },
+        {
+            "Name": "Caladium",
+            "Price": "1,300",
+            "Source": "Garden Corner"
+        },
+        {
+            "Name": "Cello",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Classic Bed",
+            "Price": "2,520",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Classic Bookcase",
+            "Price": "2,560",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Bear",
+    "Personality": "Cranky",
+    "Gender": "Male",
+    "Birthday": "July 31",
+    "Star Sign": "Leo",
+    "Initial Phrase": "\"\"grrr\"\"grrr...",
+    "Initial Clothes": "W Shirt*Houndstooth Tee*3 Ball Shirt*",
+    "Favorite Saying": "Those who live in glass houses shouldn't throw stones.",
+    "image": "/w/images/thumb/8/88/Grizzly_NLa.png/175px-Grizzly_NLa.png",
+    "Song": "K.K. Dirge",
+    "Style": "Basic"
+}

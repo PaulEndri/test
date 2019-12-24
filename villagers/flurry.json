@@ -1,0 +1,82 @@
+{
+    "Name": "Flurry",
+    "Url": "https://nookipedia.com/wiki/Flurry",
+    "Biography": {
+        "Siblings": "Eldest of ten",
+        "Skill": "Peeling apples",
+        "Goal": "Superhero",
+        "Fear": "Bug"
+    },
+    "Favorites": {
+        "Clothing": "Iconic",
+        "Color": "Beige"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "None",
+        "Sugar": "None"
+    },
+    "Gifts": [
+        {
+            "Name": "Big Ben",
+            "Price": "1,200",
+            "Source": "Gulliver"
+        },
+        {
+            "Name": "Exotic Lamp",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Stewpot",
+            "Price": "960",
+            "Source": "Igloo Camper"
+        },
+        {
+            "Name": "Taiko Drum",
+            "Price": "1,300",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Tent Wall",
+            "Price": "1,480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Planked Tatami",
+            "Price": "1,340",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Rococo Floor",
+            "Price": "2,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Hanten Shirt",
+            "Price": "420",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Hot Spring Tee",
+            "Price": "520",
+            "Source": "Ables (Spring)"
+        },
+        {
+            "Name": "Hot Spring Skirt",
+            "Price": "480",
+            "Source": "Ables (Spring)"
+        }
+    ],
+    "Species": "Hamster",
+    "Personality": "Normal",
+    "Gender": "Female",
+    "Birthday": "January 30th",
+    "Star Sign": "Aquarius",
+    "Initial Phrase": "powderpuff",
+    "Initial Clothes": "Folk Shirt",
+    "Favorite Saying": "Squeak your mind, even if your voice shakes.",
+    "image": "/w/images/thumb/8/8c/Flurry_NL.png/200px-Flurry_NL.png",
+    "Song": "Hypno K.K.",
+    "Style": "Iconic"
+}

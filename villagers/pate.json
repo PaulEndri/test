@@ -1,0 +1,57 @@
+{
+    "Name": "Pate",
+    "Url": "https://nookipedia.com/wiki/Pate",
+    "Biography": {
+        "Siblings": "Fourth of five",
+        "Skill": "Pretending to sleep",
+        "Goal": "Archaeologist",
+        "Fear": "Werewolf"
+    },
+    "Favorites": {
+        "Clothing": "Modern",
+        "Color": "Yellow"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "Regular amount",
+        "Sugar": "Two spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Cube Clock",
+            "Price": "1,100",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Ceramic Tile",
+            "Price": "1,390",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Cheese Floor",
+            "Price": "1,360",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Swell Shirt",
+            "Price": "400",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Swell Tee",
+            "Price": "400",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Duck",
+    "Personality": "Peppy",
+    "Gender": "Female",
+    "Birthday": "February 23rd",
+    "Star Sign": "Pisces",
+    "Initial Phrase": "quackle",
+    "Initial Clothes": "Winter Sweater",
+    "Favorite Saying": "A duck won't bite you.\"\"SHRIEKING SUGARCUBES!",
+    "image": "/w/images/thumb/b/b2/Pate_NLa.png/175px-Pate_NLa.png",
+    "Song": "K.K. Steppe",
+    "Style": "Modern"
+}

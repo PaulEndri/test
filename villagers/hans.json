@@ -1,0 +1,82 @@
+{
+    "Name": "Hans",
+    "Url": "https://nookipedia.com/wiki/Hans",
+    "Biography": {
+        "Siblings": "Youngest of three",
+        "Skill": "Spoon bending",
+        "Goal": "Painter",
+        "Fear": "Ghost Mask"
+    },
+    "Favorites": {
+        "Clothing": "Official",
+        "Color": "Gray"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "None at all",
+        "Sugar": "None at all"
+    },
+    "Gifts": [
+        {
+            "Name": "Chalkboard",
+            "Price": "1,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Folding Chair",
+            "Price": "600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Mop",
+            "Price": "900",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Office Chair",
+            "Price": "1,100",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Office Desk",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Office Locker",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Poster Stand",
+            "Price": "2,500",
+            "Source": "Museum Shop"
+        },
+        {
+            "Name": "Scale",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "School Chair",
+            "Price": "800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "School Desk",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Gorilla",
+    "Personality": "Smug",
+    "Gender": "Male",
+    "Birthday": "December 5th",
+    "Star Sign": "Sagittarius",
+    "Initial Phrase": "groovy",
+    "Initial Clothes": "Blue Argyle Tee",
+    "Favorite Saying": "One good turn deserves another.",
+    "image": "/w/images/thumb/9/9d/Hans_NL.png/200px-Hans_NL.png",
+    "Song": "K.K. D & B",
+    "Style": "Official"
+}

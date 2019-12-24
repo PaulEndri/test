@@ -1,0 +1,82 @@
+{
+    "Name": "Rory",
+    "Url": "https://nookipedia.com/wiki/Rory",
+    "Biography": {
+        "Siblings": "Middle triplet",
+        "Skill": "Tiptoeing",
+        "Goal": "Firefighter",
+        "Fear": "Ghost"
+    },
+    "Favorites": {
+        "Clothing": "Iconic",
+        "Color": "Red"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "Lots",
+        "Sugar": "Three spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Bureom",
+            "Price": "-",
+            "Source": "Daeboreum (Korea)"
+        },
+        {
+            "Name": "Dala Horse",
+            "Price": "1,200",
+            "Source": "Gulliver"
+        },
+        {
+            "Name": "Doghouse",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Dream Catcher",
+            "Price": "1,600",
+            "Source": "Gulliver"
+        },
+        {
+            "Name": "Festival Lamp",
+            "Price": "900",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Fruit Basket",
+            "Price": "-",
+            "Source": "Harvest Festival"
+        },
+        {
+            "Name": "Hinaningyo",
+            "Price": "2,560",
+            "Source": "Timmy & Tommy's (Japan)"
+        },
+        {
+            "Name": "Hospital TV",
+            "Price": "1,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Hula Doll",
+            "Price": "1,800",
+            "Source": "Gulliver"
+        },
+        {
+            "Name": "Lawn Mower",
+            "Price": "2,760",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Lion",
+    "Personality": "Jock",
+    "Gender": "Male",
+    "Birthday": "August 7st",
+    "Star Sign": "",
+    "Initial Phrase": "capital",
+    "Initial Clothes": "Periwinkle Shirt",
+    "Favorite Saying": "Set 'em up and knock 'em down.",
+    "image": "/w/images/thumb/d/d7/Rory_NLa.png/175px-Rory_NLa.png",
+    "Song": "K.K. Faire",
+    "Style": "Iconic"
+}

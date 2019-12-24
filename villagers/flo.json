@@ -1,0 +1,52 @@
+{
+    "Name": "Flo",
+    "Url": "https://nookipedia.com/wiki/Flo",
+    "Biography": {
+        "Siblings": "Youngest of four",
+        "Skill": "Limboing",
+        "Goal": "Marathon runner",
+        "Fear": "Werewolf"
+    },
+    "Favorites": {
+        "Clothing": "Ornate",
+        "Color": "Purple"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "A little",
+        "Sugar": "One spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Beaded Shirt",
+            "Price": "420",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Corseted Shirt",
+            "Price": "400",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Blue Lace-Up Dress",
+            "Price": "700",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Frock Coat",
+            "Price": "1,000",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Penguin",
+    "Personality": "Uchi",
+    "Gender": "Female",
+    "Birthday": "September 2nd",
+    "Star Sign": "",
+    "Initial Phrase": "cha",
+    "Initial Clothes": "Fiendish Shirt",
+    "Favorite Saying": "Always keep a straight face.",
+    "image": "/w/images/thumb/6/61/Flo_NL.png/175px-Flo_NL.png",
+    "Song": "Space K.K.",
+    "Style": "Ornate"
+}

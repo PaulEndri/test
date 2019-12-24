@@ -1,0 +1,82 @@
+{
+    "Name": "Boone",
+    "Url": "https://nookipedia.com/wiki/Boone",
+    "Biography": {
+        "Siblings": "Eldest of four",
+        "Skill": "Dancing",
+        "Goal": "Rugby player",
+        "Fear": "Skull"
+    },
+    "Favorites": {
+        "Clothing": "Iconic",
+        "Color": "Colorful"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "A little",
+        "Sugar": "One spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Bamboo Grass",
+            "Price": "-",
+            "Source": "Starcrossed Day (Japan)"
+        },
+        {
+            "Name": "Bear Pole",
+            "Price": "1,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Cabin Armchair",
+            "Price": "2,280",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Cabin Bed",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Cabin Bookcase",
+            "Price": "2,300",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Cabin Couch",
+            "Price": "2,480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Cabin Dresser",
+            "Price": "2,160",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Cabin Low Table",
+            "Price": "2,100",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Cabin Table",
+            "Price": "2,100",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Carp Banner",
+            "Price": "2,020",
+            "Source": "Timmy & Tommy's (Japan)"
+        }
+    ],
+    "Species": "Gorilla",
+    "Personality": "Jock",
+    "Gender": "Male",
+    "Birthday": "September 12th",
+    "Star Sign": "Virgo",
+    "Initial Phrase": "baboom",
+    "Initial Clothes": "Comfy Sweater",
+    "Favorite Saying": "Never settle for second best.Words to live by: Don't ever wimp out!",
+    "image": "/w/images/thumb/d/d5/Boone_NLa.png/175px-Boone_NLa.png",
+    "Song": "K.K. Western",
+    "Style": "Iconic"
+}

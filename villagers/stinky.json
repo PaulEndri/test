@@ -1,0 +1,82 @@
+{
+    "Name": "Stinky",
+    "Url": "https://nookipedia.com/wiki/Stinky",
+    "Biography": {
+        "Siblings": "Third of 5",
+        "Skill": "Chugging milk",
+        "Goal": "Rugby player",
+        "Fear": "Ghost"
+    },
+    "Favorites": {
+        "Clothing": "Sporty",
+        "Color": "Blue"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "A regular amount",
+        "Sugar": "Two spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Backpack",
+            "Price": "1,980",
+            "Source": "Tent Camper"
+        },
+        {
+            "Name": "Ball Catcher",
+            "Price": "2,040",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Beach Table",
+            "Price": "30 (medals)",
+            "Source": "Island"
+        },
+        {
+            "Name": "Blue Corner",
+            "Price": "6,800",
+            "Source": "Spotlight/Wishy"
+        },
+        {
+            "Name": "Blue Falcon",
+            "Price": "-",
+            "Source": "Fortune Cookie"
+        },
+        {
+            "Name": "Boxing Barricade",
+            "Price": "1,050",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Boxing Mat",
+            "Price": "1,180",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Golf Bag",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Hurdle",
+            "Price": "980",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Snow Machine",
+            "Price": "-",
+            "Source": "Snowman"
+        }
+    ],
+    "Species": "Cat",
+    "Personality": "Jock",
+    "Gender": "Male",
+    "Birthday": "August 17th",
+    "Star Sign": "Leo",
+    "Initial Phrase": "GAAHHH",
+    "Initial Clothes": "Splendid Shirt",
+    "Favorite Saying": "If the mask fits, wear it!",
+    "image": "/w/images/thumb/b/b7/Stinky_NLa.png/175px-Stinky_NLa.png",
+    "Song": "Go K.K. Rider!",
+    "Style": "Sporty"
+}

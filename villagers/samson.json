@@ -1,0 +1,81 @@
+{
+    "Name": "Samson",
+    "Url": "https://nookipedia.com/wiki/Samson",
+    "Biography": {
+        "Skill": "Eating frequently",
+        "Goal": "Photographer",
+        "Fear": "Bug Mask"
+    },
+    "Favorites": {
+        "Clothing": "Modern",
+        "Color": "Colorful"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "None at all",
+        "Sugar": "None at all"
+    },
+    "Gifts": [
+        {
+            "Name": "Captain's Monitor",
+            "Price": "2,800",
+            "Source": "Spotlight/Wishy"
+        },
+        {
+            "Name": "Conveyor-Belt Sushi",
+            "Price": "3,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Crew's Monitor",
+            "Price": "2,400",
+            "Source": "Spotlight/Wishy"
+        },
+        {
+            "Name": "Gaudi's Lizard",
+            "Price": "1,200",
+            "Source": "Gulliver"
+        },
+        {
+            "Name": "Gracie Bench",
+            "Price": "110,000",
+            "Source": "GracieGrace (Summer)"
+        },
+        {
+            "Name": "Gracie Chair",
+            "Price": "150,000",
+            "Source": "GracieGrace (Summer)"
+        },
+        {
+            "Name": "Gracie Lamp",
+            "Price": "120,000",
+            "Source": "GracieGrace (Summer)"
+        },
+        {
+            "Name": "Gracie Low Table",
+            "Price": "68,000",
+            "Source": "GracieGrace (Summer)"
+        },
+        {
+            "Name": "Gracie Shelf",
+            "Price": "350,000",
+            "Source": "GracieGrace (Summer)"
+        },
+        {
+            "Name": "Gracie Wagon",
+            "Price": "300,000",
+            "Source": "GracieGrace (Summer)"
+        }
+    ],
+    "Species": "Mouse",
+    "Personality": "Jock",
+    "Gender": "Male",
+    "Birthday": "July 5th",
+    "Star Sign": "Cancer",
+    "Initial Phrase": "pipsqueak",
+    "Initial Clothes": "Airy Shirt",
+    "Favorite Saying": "Squeak softly and carry a big stick.This isn't a dress I'm wearing, it's a muscle tee.",
+    "image": "/w/images/thumb/1/1e/Samson_NLa.png/175px-Samson_NLa.png",
+    "Song": "Go K.K. Rider!",
+    "Style": "Modern"
+}

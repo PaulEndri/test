@@ -1,0 +1,52 @@
+{
+    "Name": "Gwen",
+    "Url": "https://nookipedia.com/wiki/Gwen",
+    "Biography": {
+        "Siblings": "Second of four",
+        "Skill": "Skimming books",
+        "Goal": "CEO",
+        "Fear": "Mummy Mask"
+    },
+    "Favorites": {
+        "Clothing": "Ornate",
+        "Color": "Purple"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "A little bit",
+        "Sugar": "One spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Beaded Shirt",
+            "Price": "420",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Corseted Shirt",
+            "Price": "400",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Blue Lace-Up Dress",
+            "Price": "700",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Frock Coat",
+            "Price": "1,000",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Penguin",
+    "Personality": "Snooty",
+    "Gender": "Female",
+    "Birthday": "January 23rd",
+    "Star Sign": "",
+    "Initial Phrase": "h-h-hon",
+    "Initial Clothes": "Yellow Bolero*Melon Gingham Shirt*",
+    "Favorite Saying": "Mind your manners, or someone else will.I'm just that cool.",
+    "image": "/w/images/thumb/0/0e/Gwen_NLa.png/200px-Gwen_NLa.png",
+    "Song": "Cafe K.K.",
+    "Style": "Ornate"
+}

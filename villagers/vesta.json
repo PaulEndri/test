@@ -1,0 +1,72 @@
+{
+    "Name": "Vesta",
+    "Url": "https://nookipedia.com/wiki/Vesta",
+    "Biography": {
+        "Siblings": "Eldest of seven",
+        "Skill": "Computing",
+        "Goal": "Archaeologist",
+        "Fear": "Werewolf"
+    },
+    "Favorites": {
+        "Clothing": "Historical",
+        "Color": "Orange"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "A little",
+        "Sugar": "One spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Milk Case",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Kitchen Wall",
+            "Price": "1,120",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Mod Wall",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Gold-Bar Shirt",
+            "Price": "420",
+            "Source": "Ables (Winter)"
+        },
+        {
+            "Name": "Gold-Bar Tee",
+            "Price": "360",
+            "Source": "Ables (Winter)"
+        },
+        {
+            "Name": "Straw Shirt",
+            "Price": "360",
+            "Source": "Ables (Fall)"
+        },
+        {
+            "Name": "Subdued-Print Tee",
+            "Price": "320",
+            "Source": "Ables (Fall)"
+        },
+        {
+            "Name": "Proper Painting",
+            "Price": "3,920",
+            "Source": "Redd/Villager"
+        }
+    ],
+    "Species": "Sheep",
+    "Personality": "Normal",
+    "Gender": "Female",
+    "Birthday": "April 16th",
+    "Star Sign": "Aries",
+    "Initial Phrase": "baaaffo",
+    "Initial Clothes": "Fall Plaid Shirt",
+    "Favorite Saying": "No sweater off my back.I'm so lucky to have this wool coat!",
+    "image": "/w/images/thumb/0/01/Vesta_NLa.png/175px-Vesta_NLa.png",
+    "Song": "K.K. Steppe",
+    "Style": "Historical"
+}

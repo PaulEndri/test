@@ -1,0 +1,81 @@
+{
+    "Name": "Boots",
+    "Url": "https://nookipedia.com/wiki/Boots",
+    "Biography": {
+        "Siblings": "Second of 4 kids",
+        "Skill": "Writing Backwards",
+        "Goal": "Sumo Wrestler",
+        "Fear": "Frankenstein"
+    },
+    "Favorites": {
+        "Clothing": "Flashy",
+        "Color": "Brown"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "Lots of milk",
+        "Sugar": "3 spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Asteroid",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Cardboard Bed",
+            "Price": "-",
+            "Source": "Re-Tail/Police Station"
+        },
+        {
+            "Name": "Cardboard Box",
+            "Price": "100",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Cardboard Chair",
+            "Price": "-",
+            "Source": "Re-Tail/Police Station"
+        },
+        {
+            "Name": "Cardboard Closet",
+            "Price": "-",
+            "Source": "Re-Tail/Police Station"
+        },
+        {
+            "Name": "Cardboard Sofa",
+            "Price": "-",
+            "Source": "Re-Tail/Police Station"
+        },
+        {
+            "Name": "Cardboard Table",
+            "Price": "-",
+            "Source": "Re-Tail/Police Station"
+        },
+        {
+            "Name": "Creepy Clock",
+            "Price": "-",
+            "Source": "Halloween"
+        },
+        {
+            "Name": "Creepy Coffin",
+            "Price": "-",
+            "Source": "Halloween"
+        },
+        {
+            "Name": "Afro Cap",
+            "Price": "720",
+            "Source": "Accessory Corner"
+        }
+    ],
+    "Species": "Alligator",
+    "Personality": "Jock",
+    "Gender": "Male",
+    "Birthday": "August 7th",
+    "Star Sign": "Leo",
+    "Initial Phrase": "munchie",
+    "Initial Clothes": "Jester shirt",
+    "Favorite Saying": "Strength lies in muscles.",
+    "image": "/w/images/thumb/8/81/Boots_NL.png/200px-Boots_NL.png",
+    "Song": "K.K. Rally"
+}

@@ -1,0 +1,82 @@
+{
+    "Name": "Kyle",
+    "Url": "https://nookipedia.com/wiki/Kyle",
+    "Biography": {
+        "Siblings": "Eldest of ten",
+        "Skill": "Typing",
+        "Goal": "Singer",
+        "Fear": "Skeleton"
+    },
+    "Favorites": {
+        "Clothing": "Rock 'n' Roll",
+        "Color": "Gray"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "A regular amount",
+        "Sugar": "Two spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "DJ's Turntable",
+            "Price": "3,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Drip Pail",
+            "Price": "800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Jackhammer",
+            "Price": "1,880",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Karaoke System",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Manhole Cover",
+            "Price": "1,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Mic Stand",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Wave Breaker",
+            "Price": "35 (medals)",
+            "Source": "Island"
+        },
+        {
+            "Name": "Illusion Wall",
+            "Price": "1,360",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Lab Wall",
+            "Price": "1,460",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Lab Floor",
+            "Price": "1,280",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Wolf",
+    "Personality": "Smug",
+    "Gender": "Male",
+    "Birthday": "December 6th",
+    "Star Sign": "Sagittarius",
+    "Initial Phrase": "alpha",
+    "Initial Clothes": "Pleather Vest",
+    "Favorite Saying": "Never trust a sheep in wolf's clothing.",
+    "image": "/w/images/thumb/3/3e/Kyle_NL.png/200px-Kyle_NL.png",
+    "Song": "K.K. Adventure",
+    "Style": "Rock 'n' roll"
+}

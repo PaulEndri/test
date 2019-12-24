@@ -1,0 +1,82 @@
+{
+    "Name": "Beardo",
+    "Url": "https://nookipedia.com/wiki/Beardo",
+    "Biography": {
+        "Siblings": "Middle child",
+        "Skill": "Memorizing",
+        "Goal": "Professor",
+        "Fear": "Ghosts"
+    },
+    "Favorites": {
+        "Clothing": "Official",
+        "Color": "Brown"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "A little bit",
+        "Sugar": "One spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Coffee Cup",
+            "Price": "-",
+            "Source": "Brewster"
+        },
+        {
+            "Name": "Cubbyhole",
+            "Price": "2,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Editor's Desk",
+            "Price": "5,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Globe",
+            "Price": "-",
+            "Source": "Katie"
+        },
+        {
+            "Name": "Left Platform",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Mop",
+            "Price": "900",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Podium",
+            "Price": "1,280",
+            "Source": "Spotlight/Wishy"
+        },
+        {
+            "Name": "Right Platform",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "School Chair",
+            "Price": "800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "School Desk",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Bear",
+    "Personality": "Smug",
+    "Gender": "Male",
+    "Birthday": "September 27",
+    "Star Sign": "Libra",
+    "Initial Phrase": "whiskers",
+    "Initial Clothes": "Detective's Outfit",
+    "Favorite Saying": "Ladies first!",
+    "image": "/w/images/thumb/1/11/Beardo_NL.png/200px-Beardo_NL.png",
+    "Song": "K.K. Sonata",
+    "Style": "Official"
+}

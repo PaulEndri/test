@@ -1,0 +1,81 @@
+{
+    "Name": "Carrie",
+    "Url": "https://nookipedia.com/wiki/Carrie",
+    "Biography": {
+        "Siblings": "Middle of 3",
+        "Skill": "Making budgets",
+        "Goal": "Illustrator",
+        "Fear": "Werewolf Hood"
+    },
+    "Favorites": {
+        "Clothing": "Cute",
+        "Color": "Pink"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "None at all",
+        "Sugar": "None at all"
+    },
+    "Gifts": [
+        {
+            "Name": "Azalea Stool",
+            "Price": "-",
+            "Source": "Leif"
+        },
+        {
+            "Name": "Boxed Figurine",
+            "Price": "-",
+            "Source": "Fireworks"
+        },
+        {
+            "Name": "Cradle",
+            "Price": "3,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Crane Game",
+            "Price": "1,680",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Dollhouse",
+            "Price": "2,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Flower Bouquet",
+            "Price": "-",
+            "Source": "Leif"
+        },
+        {
+            "Name": "Lotus Lamp",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Lovely Armoire",
+            "Price": "2,240",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Lovely Bed",
+            "Price": "2,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Lovely Chair",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Kangaroo",
+    "Personality": "Normal",
+    "Gender": "Female",
+    "Birthday": "",
+    "Star Sign": "Sagittarius",
+    "Initial Phrase": "little one",
+    "Initial Clothes": "Toad Tee",
+    "Favorite Saying": "A mother's work is never done.",
+    "image": "/w/images/thumb/b/b1/Carrie_NL.png/200px-Carrie_NL.png",
+    "Song": "K.K. Lullaby"
+}

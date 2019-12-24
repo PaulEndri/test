@@ -1,0 +1,67 @@
+{
+    "Name": "Francine",
+    "Url": "https://nookipedia.com/wiki/Francine",
+    "Biography": {
+        "Siblings": "Eldest of 4",
+        "Skill": "Pretending to sleep",
+        "Goal": "Designer",
+        "Fear": "Skeleton Hood"
+    },
+    "Favorites": {
+        "Clothing": "Ornate",
+        "Color": "Blue"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "A little bit",
+        "Sugar": "One spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Regal Carpet",
+            "Price": "2,850",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Amethyst Shirt",
+            "Price": "420",
+            "Source": "Ables (Fall)"
+        },
+        {
+            "Name": "Amethyst Tee",
+            "Price": "360",
+            "Source": "Ables (Fall)"
+        },
+        {
+            "Name": "Blue Ringmaster Coat",
+            "Price": "5,600",
+            "Source": "GracieGrace (Sales)"
+        },
+        {
+            "Name": "Coral Tank",
+            "Price": "5,600",
+            "Source": "GracieGrace (Summer"
+        },
+        {
+            "Name": "Coral Tee",
+            "Price": "6,200",
+            "Source": "GracieGrace (Summer"
+        },
+        {
+            "Name": "Princess Dress",
+            "Price": "1,000",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Rabbit",
+    "Personality": "Snooty",
+    "Gender": "Female",
+    "Birthday": "January 22nd",
+    "Star Sign": "Aquarius",
+    "Initial Phrase": ", karat",
+    "Initial Clothes": "Dark Polka Shirt",
+    "Favorite Saying": "You can't have wise men if you don't have fools too.",
+    "image": "/w/images/thumb/3/33/Francine_NLa.png/175px-Francine_NLa.png",
+    "Song": "I Love You",
+    "Style": "Ornate"
+}

@@ -1,0 +1,82 @@
+{
+    "Name": "Diana",
+    "Url": "https://nookipedia.com/wiki/Diana",
+    "Biography": {
+        "Siblings": "Oldest of five",
+        "Skill": "Writing about pickles",
+        "Goal": "Dermatologist",
+        "Fear": "Monster Mask"
+    },
+    "Favorites": {
+        "Clothing": "Iconic",
+        "Color": "White"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "Regular",
+        "Sugar": "2 spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Berliner",
+            "Price": "-",
+            "Source": "New Year's Countdown (Europe: German)"
+        },
+        {
+            "Name": "Blossom Lantern",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's (Japan)"
+        },
+        {
+            "Name": "Blue Certificate",
+            "Price": "960",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Bunk Bed",
+            "Price": "2,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Cabana Armchair",
+            "Price": "40 (medals)",
+            "Source": "Island"
+        },
+        {
+            "Name": "Cabana Bed",
+            "Price": "40 (medals)",
+            "Source": "Island"
+        },
+        {
+            "Name": "Dango",
+            "Price": "-",
+            "Source": "Tsukimi (Japan)"
+        },
+        {
+            "Name": "Elder Mask",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Exotic Chair",
+            "Price": "1,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Fancy Doll",
+            "Price": "1,400",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Deer",
+    "Personality": "Snooty",
+    "Gender": "Female",
+    "Birthday": "January 4th",
+    "Star Sign": "Capricorn",
+    "Initial Phrase": "no doy",
+    "Initial Clothes": "Natty shirt",
+    "Favorite Saying": "Sometimes you have to lose to win.",
+    "image": "/w/images/thumb/c/c2/Diana_NLa.png/175px-Diana_NLa.png",
+    "Song": "Stale Cupcakes",
+    "Style": "Iconic"
+}

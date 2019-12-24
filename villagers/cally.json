@@ -1,0 +1,67 @@
+{
+    "Name": "Cally",
+    "Url": "https://nookipedia.com/wiki/Cally",
+    "Biography": {
+        "Siblings": "Eldest of 4 Sisters",
+        "Skill": "Whistling",
+        "Goal": "Lawyer",
+        "Fear": "Skulls"
+    },
+    "Favorites": {
+        "Clothing": "Official",
+        "Color": "Green"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "A little bit of milk",
+        "Sugar": "One spoonful of sugar"
+    },
+    "Gifts": [
+        {
+            "Name": "Left Platform",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Right Platform",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Green Emblem Blazer",
+            "Price": "420",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Military Uniform",
+            "Price": "380",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Military Pants",
+            "Price": "600",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Green Lace-Up Dress",
+            "Price": "700",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Mailman's Hat",
+            "Price": "-",
+            "Source": "Savings"
+        }
+    ],
+    "Species": "Squirrel",
+    "Personality": "Normal",
+    "Gender": "Female",
+    "Birthday": "September 4th",
+    "Star Sign": "Virgo",
+    "Initial Phrase": "WHEE",
+    "Initial Clothes": "Ladybug Shirt",
+    "Favorite Saying": "It's always teatime somewhere.",
+    "image": "/w/images/thumb/c/c4/Cally_NLa.png/175px-Cally_NLa.png",
+    "Song": "K.K. Love Song",
+    "Style": "Official"
+}

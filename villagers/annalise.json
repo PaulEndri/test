@@ -1,0 +1,52 @@
+{
+    "Name": "Annalise",
+    "Url": "https://nookipedia.com/wiki/Annalise",
+    "Biography": {
+        "Siblings": "Youngest of three",
+        "Skill": "Brainteasers",
+        "Goal": "Chef",
+        "Fear": "Mummies"
+    },
+    "Favorites": {
+        "Clothing": "Official",
+        "Color": "Purple"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "Lots of milk",
+        "Sugar": "Three spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "24-Hour-Shop Uniform",
+            "Price": "-",
+            "Source": "DLC (Japan)"
+        },
+        {
+            "Name": "Sweater-Vest",
+            "Price": "420",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Pilot's Hat",
+            "Price": "960",
+            "Source": "Accessory Corner"
+        },
+        {
+            "Name": "Purple Pumps",
+            "Price": "480",
+            "Source": "Kicks"
+        }
+    ],
+    "Species": "Horse",
+    "Personality": "Snooty",
+    "Gender": "Female",
+    "Birthday": "December 2nd",
+    "Star Sign": "Sagittarius",
+    "Initial Phrase": "nipper",
+    "Initial Clothes": "Red Aloha Shirt*Tropical Shirt*",
+    "Favorite Saying": "Let gossip in one ear and out the other.",
+    "image": "/w/images/thumb/5/53/Annalise_NLa.png/175px-Annalise_NLa.png",
+    "Song": "K.K. Sonata",
+    "Style": "Official"
+}

@@ -1,0 +1,82 @@
+{
+    "Name": "Benjamin",
+    "Url": "https://nookipedia.com/wiki/Benjamin",
+    "Biography": {
+        "Siblings": "Eldest of 8 kids",
+        "Skill": "Brainteasers",
+        "Goal": "Archaeologist",
+        "Fear": "Mummies"
+    },
+    "Favorites": {
+        "Clothing": "Historical",
+        "Color": "Beige"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "A Little Bit",
+        "Sugar": "One Spoonsful"
+    },
+    "Gifts": [
+        {
+            "Name": "Covered Wagon",
+            "Price": "3,800",
+            "Source": "Spotlight/Wishy"
+        },
+        {
+            "Name": "General's Stool",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Ice-Cream Case",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Low Screen",
+            "Price": "1,480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Paper Lantern",
+            "Price": "800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Paper Wall Lamp",
+            "Price": "800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Paulownia Closet",
+            "Price": "1,300",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Tea Vase",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Chic Wall",
+            "Price": "1,960",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Beige Knit Shirt",
+            "Price": "320",
+            "Source": "Ables (Winter)"
+        }
+    ],
+    "Species": "Dog",
+    "Personality": "Lazy",
+    "Gender": "Male",
+    "Birthday": "August 3rd",
+    "Star Sign": "Leo",
+    "Initial Phrase": "alrighty",
+    "Initial Clothes": "Subdued-Print Tee",
+    "Favorite Saying": "A good dog deserves a good treat.",
+    "image": "/w/images/thumb/3/3a/Benjamin_NL.png/175px-Benjamin_NL.png",
+    "Song": "Wandering",
+    "Style": "Historical"
+}

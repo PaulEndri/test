@@ -1,0 +1,82 @@
+{
+    "Name": "Ribbot",
+    "Url": "https://nookipedia.com/wiki/Ribbot",
+    "Biography": {
+        "Siblings": "Eldest of nine",
+        "Skill": "Ventriloquism",
+        "Goal": "Astronaut",
+        "Fear": "Bug"
+    },
+    "Favorites": {
+        "Clothing": "Flashy",
+        "Color": "Gray"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "The regular amount",
+        "Sugar": "Two spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Asteroid",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Complex Machine",
+            "Price": "3,840",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Creepy Stone Bat",
+            "Price": "-",
+            "Source": "Halloween"
+        },
+        {
+            "Name": "Creepy Statue",
+            "Price": "-",
+            "Source": "Halloween"
+        },
+        {
+            "Name": "Creepy Stone",
+            "Price": "-",
+            "Source": "Halloween"
+        },
+        {
+            "Name": "Florence Flask",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Flying Saucer",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Hospital Screen",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "IV Drip",
+            "Price": "1,480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Lab Bench",
+            "Price": "4,800",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Frog",
+    "Personality": "Jock",
+    "Gender": "Male",
+    "Birthday": "February 13th",
+    "Star Sign": "Aquarius",
+    "Initial Phrase": "zzrrbbitttoady",
+    "Initial Clothes": "Pulse Shirt*Lightning Tee*",
+    "Favorite Saying": "Never rest, never rust.",
+    "image": "/w/images/thumb/1/15/Ribbot_NLa.png/150px-Ribbot_NLa.png",
+    "Song": "Go K.K. Rider!",
+    "Style": "Flashy"
+}

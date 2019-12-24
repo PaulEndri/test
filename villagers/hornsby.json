@@ -1,0 +1,81 @@
+{
+    "Name": "Hornsby",
+    "Url": "https://nookipedia.com/wiki/Hornsby",
+    "Biography": {
+        "Siblings": "Youngest of 3",
+        "Skill": "Bunting",
+        "Goal": "Artist",
+        "Fear": "Monster"
+    },
+    "Favorites": {
+        "Clothing": "Basic",
+        "Color": "Brown"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "Little bit",
+        "Sugar": "1"
+    },
+    "Gifts": [
+        {
+            "Name": "Aloe",
+            "Price": "1,200",
+            "Source": "Garden Corner"
+        },
+        {
+            "Name": "Bass",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Birdcage",
+            "Price": "1,700",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Bread Box",
+            "Price": "800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Brown Pot",
+            "Price": "800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Cactus",
+            "Price": "1,700",
+            "Source": "Garden Corner"
+        },
+        {
+            "Name": "Caladium",
+            "Price": "1,300",
+            "Source": "Garden Corner"
+        },
+        {
+            "Name": "Cello",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Classic Bed",
+            "Price": "2,520",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Classic Bookcase",
+            "Price": "2,560",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Rhino",
+    "Personality": "Lazy",
+    "Gender": "Male",
+    "Birthday": "March 20th",
+    "Star Sign": "Pisces",
+    "Initial Phrase": "schnozzle",
+    "Initial Clothes": "Chevron Shirt",
+    "Favorite Saying": "You can't hit a mosquito with a horseshoe.",
+    "image": "/w/images/thumb/5/57/Hornsby_NL.png/200px-Hornsby_NL.png",
+    "Song": "[[Aloha K.K. (AC)K.K. Lament (NL)]]"
+}

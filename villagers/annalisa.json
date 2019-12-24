@@ -1,0 +1,82 @@
+{
+    "Name": "Annalisa",
+    "Url": "https://nookipedia.com/wiki/Annalisa",
+    "Biography": {
+        "Siblings": "Second of three sisters",
+        "Skill": "Waking up early",
+        "Goal": "Astronaut",
+        "Fear": "Skulls"
+    },
+    "Favorites": {
+        "Clothing": "Iconic",
+        "Color": "Red"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "The regular amount",
+        "Sugar": "Two spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Bureom",
+            "Price": "-",
+            "Source": "Daeboreum (Korea)"
+        },
+        {
+            "Name": "Dala Horse",
+            "Price": "1,200",
+            "Source": "Gulliver"
+        },
+        {
+            "Name": "Doghouse",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Dream Catcher",
+            "Price": "1,600",
+            "Source": "Gulliver"
+        },
+        {
+            "Name": "Festival Lamp",
+            "Price": "900",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Fruit Basket",
+            "Price": "-",
+            "Source": "Harvest Festival"
+        },
+        {
+            "Name": "Hinaningyo",
+            "Price": "2,560",
+            "Source": "Timmy & Tommy's (Japan)"
+        },
+        {
+            "Name": "Hospital TV",
+            "Price": "1,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Hula Doll",
+            "Price": "1,800",
+            "Source": "Gulliver"
+        },
+        {
+            "Name": "Lawn Mower",
+            "Price": "2,760",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Anteater",
+    "Personality": "Normal",
+    "Gender": "Female",
+    "Birthday": "February 6",
+    "Star Sign": "Aquarius",
+    "Initial Phrase": "gumdrop",
+    "Initial Clothes": "Dazed Shirt",
+    "Favorite Saying": "Home is where the heart is.",
+    "image": "/w/images/thumb/9/9b/Annalisa_NL.png/200px-Annalisa_NL.png",
+    "Song": "King K.K.",
+    "Style": "Iconic"
+}

@@ -1,0 +1,82 @@
+{
+    "Name": "Walker",
+    "Url": "https://nookipedia.com/wiki/Walker",
+    "Biography": {
+        "Siblings": "Eldest of 10",
+        "Skill": "Clearing my plate",
+        "Goal": "Photographer",
+        "Fear": "Mummies"
+    },
+    "Favorites": {
+        "Clothing": "Historical",
+        "Color": "Red"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "Regular",
+        "Sugar": "2"
+    },
+    "Gifts": [
+        {
+            "Name": "Beacon Fire",
+            "Price": "1,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Cassette Player",
+            "Price": "1,500",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Circle Banner",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Cuckoo Clock",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Red Vase",
+            "Price": "2,450",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Stove",
+            "Price": "1,980",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Throne",
+            "Price": "800,000",
+            "Source": "Spotlight/Wishy"
+        },
+        {
+            "Name": "Vacuum Cleaner",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Graceful Painting",
+            "Price": "3,920",
+            "Source": "Redd/Villager"
+        },
+        {
+            "Name": "Graceful Painting (Counterfeit)",
+            "Price": "3,920",
+            "Source": "Redd/Villager"
+        }
+    ],
+    "Species": "Dog",
+    "Personality": "Lazy",
+    "Gender": "Male",
+    "Birthday": "June 10th",
+    "Star Sign": "Gemini",
+    "Initial Phrase": "wuh",
+    "Initial Clothes": "No. 67 Shirt",
+    "Favorite Saying": "The dog wags his tail, not for you, but for your bread.",
+    "image": "/w/images/thumb/1/14/Walker_NLa.png/175px-Walker_NLa.png",
+    "Song": "Two Days Ago",
+    "Style": "Historical"
+}

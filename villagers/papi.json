@@ -1,0 +1,82 @@
+{
+    "Name": "Papi",
+    "Url": "https://nookipedia.com/wiki/Papi",
+    "Biography": {
+        "Siblings": "Middle child",
+        "Skill": "Ventriloquism",
+        "Goal": "Cartoonist",
+        "Fear": "Skeleton Hood"
+    },
+    "Favorites": {
+        "Clothing": "Basic",
+        "Color": "Beige"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "The regular amount",
+        "Sugar": "Two spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Alarm Clock",
+            "Price": "1,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Conga Drum",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Kitchen Island",
+            "Price": "30 (medals)",
+            "Source": "Island"
+        },
+        {
+            "Name": "Mini Lamp",
+            "Price": "1,280",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Timpano Drum",
+            "Price": "2,100",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Kitchen Tile",
+            "Price": "1,890",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Round Carpet",
+            "Price": "1,080",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Blue-Grid Tee",
+            "Price": "340",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Chevron Shirt",
+            "Price": "320",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Earthy Knit Shirt",
+            "Price": "390",
+            "Source": "Ables (Winter)"
+        }
+    ],
+    "Species": "Horse",
+    "Personality": "Lazy",
+    "Gender": "Male",
+    "Birthday": "January 10th",
+    "Star Sign": "Capricorn",
+    "Initial Phrase": "haaay",
+    "Initial Clothes": "Speedway Tee",
+    "Favorite Saying": "Never say neigh.",
+    "image": "/w/images/thumb/1/10/Papi_NL.png/200px-Papi_NL.png",
+    "Song": "Hypno K.K.",
+    "Style": "Basic"
+}

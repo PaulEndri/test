@@ -1,0 +1,82 @@
+{
+    "Name": "Buck",
+    "Url": "https://nookipedia.com/wiki/Buck",
+    "Biography": {
+        "Siblings": "Only child",
+        "Skill": "Vaulting",
+        "Goal": "Basketball player",
+        "Fear": "Werewolf Hood"
+    },
+    "Favorites": {
+        "Clothing": "Sporty",
+        "Color": "Brown"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "A little bit",
+        "Sugar": "One spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Backpack",
+            "Price": "1,980",
+            "Source": "Tent Camper"
+        },
+        {
+            "Name": "Ball Catcher",
+            "Price": "2,040",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Bonfire",
+            "Price": "2,240",
+            "Source": "Tent Camper"
+        },
+        {
+            "Name": "Campfire",
+            "Price": "1,360",
+            "Source": "Igloo Camper"
+        },
+        {
+            "Name": "Foosball Table",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "High-Jump Mat",
+            "Price": "2,980",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Judge's Bell",
+            "Price": "1,790",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Ringside Table",
+            "Price": "1,320",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Ski Rack",
+            "Price": "-",
+            "Source": "Snowman"
+        },
+        {
+            "Name": "Sleigh",
+            "Price": "-",
+            "Source": "Snowtyke"
+        }
+    ],
+    "Species": "Horse",
+    "Personality": "Jock",
+    "Gender": "Male",
+    "Birthday": "April 4th",
+    "Star Sign": "Aries",
+    "Initial Phrase": "pardner",
+    "Initial Clothes": "Eight-Ball Tee",
+    "Favorite Saying": "Keep your eyes on the prize.What are you staring at?!",
+    "image": "/w/images/thumb/e/ec/Buck_NLa.png/175px-Buck_NLa.png",
+    "Song": "My Place",
+    "Style": "Sporty"
+}

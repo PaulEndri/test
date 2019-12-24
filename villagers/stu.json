@@ -1,0 +1,80 @@
+{
+    "Name": "Stu",
+    "Url": "https://nookipedia.com/wiki/Stu",
+    "Biography": {
+        "Siblings": "Youngest of 2",
+        "Skill": "Hitting snooze",
+        "Goal": "Firefighter"
+    },
+    "Favorites": {
+        "Clothing": "Sporty",
+        "Color": "Brown"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "Little bit",
+        "Sugar": "1"
+    },
+    "Gifts": [
+        {
+            "Name": "Backpack",
+            "Price": "1,980",
+            "Source": "Tent Camper"
+        },
+        {
+            "Name": "Ball Catcher",
+            "Price": "2,040",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Bonfire",
+            "Price": "2,240",
+            "Source": "Tent Camper"
+        },
+        {
+            "Name": "Campfire",
+            "Price": "1,360",
+            "Source": "Igloo Camper"
+        },
+        {
+            "Name": "Foosball Table",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "High-Jump Mat",
+            "Price": "2,980",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Judge's Bell",
+            "Price": "1,790",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Ringside Table",
+            "Price": "1,320",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Ski Rack",
+            "Price": "-",
+            "Source": "Snowman"
+        },
+        {
+            "Name": "Sleigh",
+            "Price": "-",
+            "Source": "Snowtyke"
+        }
+    ],
+    "Species": "Bull",
+    "Personality": "Lazy",
+    "Gender": "Male",
+    "Birthday": "April 20th",
+    "Star Sign": "Taurus",
+    "Initial Phrase": "moo-dude",
+    "Initial Clothes": "Seven-ball Shirt",
+    "Favorite Saying": "As a cow grows, so does its nostrils.",
+    "image": "/w/images/thumb/1/1c/Stu_NL.png/100px-Stu_NL.png",
+    "Song": "K.K. Rockabilly"
+}

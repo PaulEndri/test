@@ -1,0 +1,82 @@
+{
+    "Name": "Bunnie",
+    "Url": "https://nookipedia.com/wiki/Bunnie",
+    "Biography": {
+        "Siblings": "Eldest of three",
+        "Skill": "Staying positive",
+        "Goal": "Gymnast",
+        "Fear": "Monster mask"
+    },
+    "Favorites": {
+        "Clothing": "Cute",
+        "Color": "Pink"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "Lots",
+        "Sugar": "Three spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Azalea Stool",
+            "Price": "-",
+            "Source": "Leif"
+        },
+        {
+            "Name": "Boxed Figurine",
+            "Price": "-",
+            "Source": "Fireworks"
+        },
+        {
+            "Name": "Cradle",
+            "Price": "3,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Crane Game",
+            "Price": "1,680",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Dollhouse",
+            "Price": "2,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Flower Bouquet",
+            "Price": "-",
+            "Source": "Leif"
+        },
+        {
+            "Name": "Lotus Lamp",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Lovely Armoire",
+            "Price": "2,240",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Lovely Bed",
+            "Price": "2,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Lovely Chair",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Rabbit",
+    "Personality": "Peppy",
+    "Gender": "Female",
+    "Birthday": "May 9th",
+    "Star Sign": "Taurus",
+    "Initial Phrase": "tee-hee",
+    "Initial Clothes": "Flicker Shirt*Jade Check Print*",
+    "Favorite Saying": "Hare today, gone tomorrow.Come on! Get amped!",
+    "image": "/w/images/thumb/5/57/Bunnie_NLa.png/200px-Bunnie_NLa.png",
+    "Song": "K.K. Aria",
+    "Style": "Cute"
+}

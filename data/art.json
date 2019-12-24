@@ -1,0 +1,102 @@
+[
+    {
+        "Name": "Ancient Statue",
+        "Fake": "Half eyes"
+    },
+    {
+        "Name": "Beautiful Statue",
+        "Fake": "Long hair"
+    },
+    {
+        "Name": "Gallant Sculpture",
+        "Fake": "Cloth on both shoulders"
+    },
+    {
+        "Name": "Great Sculpture",
+        "Fake": "Palm is down"
+    },
+    {
+        "Name": "Motherly Sculpture",
+        "Fake": "1 child"
+    },
+    {
+        "Name": "Mystic Sculpture",
+        "Fake": "Rounded top"
+    },
+    {
+        "Name": "Robust Sculpture",
+        "Fake": "Holding a UFO"
+    },
+    {
+        "Name": "Valiant Sculpture",
+        "Fake": "Bat wings"
+    },
+    {
+        "Name": "Graceful Painting",
+        "Fake": "Head is forward"
+    },
+    {
+        "Name": "Jolly Painting",
+        "Fake": "Carrot for nose"
+    },
+    {
+        "Name": "Moody Painting",
+        "Fake": "No fake"
+    },
+    {
+        "Name": "Moving Painting",
+        "Fake": "Shell is closed"
+    },
+    {
+        "Name": "Neutral Painting",
+        "Fake": "Bug bite on leaf"
+    },
+    {
+        "Name": "Nice Painting",
+        "Fake": "No fake"
+    },
+    {
+        "Name": "Perfect Painting",
+        "Fake": "No fake"
+    },
+    {
+        "Name": "Proper Painting",
+        "Fake": "No fake"
+    },
+    {
+        "Name": "Quaint Painting",
+        "Fake": "No bonnet"
+    },
+    {
+        "Name": "Scary Painting",
+        "Fake": "Index finger is longer"
+    },
+    {
+        "Name": "Scenic Painting",
+        "Fake": "No fake"
+    },
+    {
+        "Name": "Serene Painting",
+        "Fake": "Holding a cat"
+    },
+    {
+        "Name": "Solemn Painting",
+        "Fake": "Middle person is tall"
+    },
+    {
+        "Name": "Warm Painting",
+        "Fake": "No fake"
+    },
+    {
+        "Name": "Wild Painting",
+        "Fake": "White is on the right"
+    },
+    {
+        "Name": "Wistful Painting",
+        "Fake": "Orange head dress"
+    },
+    {
+        "Name": "Worthy Painting",
+        "Fake": "No fake"
+    }
+]

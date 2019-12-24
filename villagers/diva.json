@@ -1,0 +1,52 @@
+{
+    "Name": "Diva",
+    "Url": "https://nookipedia.com/wiki/Diva",
+    "Biography": {
+        "Siblings": "Middle of three kids",
+        "Skill": "Home repair",
+        "Goal": "Hair stylist",
+        "Fear": "Ghost Mask"
+    },
+    "Favorites": {
+        "Clothing": "Ornate",
+        "Color": "Purple"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "None at all",
+        "Sugar": "None at all"
+    },
+    "Gifts": [
+        {
+            "Name": "Beaded Shirt",
+            "Price": "420",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Corseted Shirt",
+            "Price": "400",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Blue Lace-Up Dress",
+            "Price": "700",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Frock Coat",
+            "Price": "1,000",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Frog",
+    "Personality": "Uchi",
+    "Gender": "Female",
+    "Birthday": "October 2nd",
+    "Star Sign": "Libra",
+    "Initial Phrase": "ya know",
+    "Initial Clothes": "Amethyst Shirt",
+    "Favorite Saying": "Eyes are the windows to the soul.",
+    "image": "/w/images/thumb/3/36/Diva_NL.png/150px-Diva_NL.png",
+    "Song": "K.K.  Bazaar",
+    "Style": "Ornate"
+}

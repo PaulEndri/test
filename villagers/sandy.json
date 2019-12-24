@@ -1,0 +1,36 @@
+{
+    "Name": "Sandy",
+    "Url": "https://nookipedia.com/wiki/Sandy",
+    "Biography": {
+        "Siblings": "Fourth of six",
+        "Skill": "Making puns",
+        "Goal": "Artist",
+        "Fear": "Bug Mask"
+    },
+    "Favorites": {
+        "Clothing": "Rock 'n' Roll",
+        "Color": "Pink"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "None",
+        "Sugar": "None"
+    },
+    "Gifts": [
+        {
+            "Name": "Birthday Shades",
+            "Price": "-",
+            "Source": "Birthday"
+        }
+    ],
+    "Species": "Ostrich",
+    "Personality": "Normal",
+    "Gender": "Female",
+    "Birthday": "October 21st",
+    "Star Sign": "Libra",
+    "Initial Phrase": "speedy",
+    "Initial Clothes": "Blue Scale Shirt*Wide-Stripe Tee* (Chain-Gang Tee in NL and PC before 1.2.0)",
+    "Favorite Saying": "Soaring through the sky takes more than a pair of wings.",
+    "image": "/w/images/thumb/f/fa/Sandy_NL.png/200px-Sandy_NL.png",
+    "Song": "K.K. Soul"
+}

@@ -1,0 +1,82 @@
+{
+    "Name": "Rhonda",
+    "Url": "https://nookipedia.com/wiki/Rhonda",
+    "Biography": {
+        "Siblings": "Only child",
+        "Skill": "Making crafts",
+        "Goal": "Writer",
+        "Fear": "Ghost"
+    },
+    "Favorites": {
+        "Clothing": "Ornate",
+        "Color": "White"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "Lots",
+        "Sugar": "Three spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Moth Orchid",
+            "Price": "2,480",
+            "Source": "Garden Corner"
+        },
+        {
+            "Name": "Regal Armoire",
+            "Price": "3,820",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Regal Bed",
+            "Price": "3,120",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Regal Bookcase",
+            "Price": "3,120",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Regal Chair",
+            "Price": "2,100",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Regal Clock",
+            "Price": "3,360",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Regal Dresser",
+            "Price": "3,520",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Regal Lamp",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Regal Sofa",
+            "Price": "3,100",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Regal Table",
+            "Price": "2,540",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Rhino",
+    "Personality": "Normal",
+    "Gender": "Female",
+    "Birthday": "January 24th",
+    "Star Sign": "Aquarius",
+    "Initial Phrase": "bigfoot",
+    "Initial Clothes": "Bodice",
+    "Favorite Saying": "Don't look down your nose at people!",
+    "image": "/w/images/thumb/0/07/Rhonda_NLa.png/150px-Rhonda_NLa.png",
+    "Song": "K.K. Ballad",
+    "Style": "Ornate"
+}

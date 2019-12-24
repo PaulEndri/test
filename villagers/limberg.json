@@ -1,0 +1,77 @@
+{
+    "Name": "Limberg",
+    "Url": "https://nookipedia.com/wiki/Limberg",
+    "Biography": {
+        "Siblings": "Eldest of seven",
+        "Skill": "Making faces",
+        "Goal": "Mayor",
+        "Fear": "Mummy mask"
+    },
+    "Favorites": {
+        "Clothing": "Historical",
+        "Color": "Green"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "None",
+        "Sugar": "None"
+    },
+    "Gifts": [
+        {
+            "Name": "Desert Cactus",
+            "Price": "890",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Retro Fridge",
+            "Price": "2,300",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Screen",
+            "Price": "1,650",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Treasure Chest",
+            "Price": "150 (medals)",
+            "Source": "Island"
+        },
+        {
+            "Name": "Chichi-Print Tee",
+            "Price": "180",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Misty Tank",
+            "Price": "280",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Misty Tee",
+            "Price": "380",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Monkey Shirt",
+            "Price": "380",
+            "Source": "Ables (Winter)"
+        },
+        {
+            "Name": "Headkerchief",
+            "Price": "480",
+            "Source": "Accessory Corner"
+        }
+    ],
+    "Species": "Mouse",
+    "Personality": "Cranky",
+    "Gender": "Male",
+    "Birthday": "October 17th",
+    "Star Sign": "Libra",
+    "Initial Phrase": "squinky",
+    "Initial Clothes": "Thunder Shirt*Subdued Print*",
+    "Favorite Saying": "Don't build a better mousetrap.Something stinks!",
+    "image": "/w/images/thumb/3/3e/Limberg_NLa.png/175px-Limberg_NLa.png",
+    "Song": "K.K. Folk",
+    "Style": "Historical"
+}

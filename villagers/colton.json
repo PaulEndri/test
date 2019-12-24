@@ -1,0 +1,41 @@
+{
+    "Name": "Colton",
+    "Url": "https://nookipedia.com/wiki/Colton",
+    "Biography": {
+        "Skill": "Writing about pickles",
+        "Goal": "Model",
+        "Fear": "Bug Mask"
+    },
+    "Favorites": {
+        "Clothing": "Ornate",
+        "Color": "Beige"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "None at all",
+        "Sugar": "None at all"
+    },
+    "Gifts": [
+        {
+            "Name": "Chaise Lounge",
+            "Price": "2,480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Noble Shirt",
+            "Price": "380",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Horse",
+    "Personality": "Smug",
+    "Gender": "Male",
+    "Birthday": "May 22nd",
+    "Star Sign": "Gemini",
+    "Initial Phrase": "check it",
+    "Initial Clothes": "Blue Ringmaster Coat",
+    "Favorite Saying": "Make hay while the sun shines.",
+    "image": "/w/images/thumb/1/12/Colton_NL.png/200px-Colton_NL.png",
+    "Song": "Only Me",
+    "Style": "Ornate"
+}

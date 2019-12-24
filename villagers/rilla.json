@@ -1,0 +1,81 @@
+{
+    "Name": "Rilla",
+    "Url": "https://nookipedia.com/wiki/Rilla",
+    "Biography": {
+        "Siblings": "Older twin sister",
+        "Skill": "Baking",
+        "Goal": "Kitty White"
+    },
+    "Favorites": {
+        "Clothing": "Cute",
+        "Color": "Red"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "None",
+        "Sugar": "None"
+    },
+    "Gifts": [
+        {
+            "Name": "Balloon-Dog Lamp",
+            "Price": "-",
+            "Source": "Balloon"
+        },
+        {
+            "Name": "Birthday Cake",
+            "Price": "-",
+            "Source": "Birthday"
+        },
+        {
+            "Name": "Birthday Candles",
+            "Price": "-",
+            "Source": "Birthday"
+        },
+        {
+            "Name": "Birthday Table",
+            "Price": "-",
+            "Source": "Birthday"
+        },
+        {
+            "Name": "Candy Machine",
+            "Price": "980",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Capsule-Toy Machine",
+            "Price": "1,480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Card Bed",
+            "Price": "220,000",
+            "Source": "GracieGrace"
+        },
+        {
+            "Name": "Card Chair",
+            "Price": "100,000",
+            "Source": "GracieGrace"
+        },
+        {
+            "Name": "Card Closet",
+            "Price": "240,000",
+            "Source": "GracieGrace"
+        },
+        {
+            "Name": "Card Dresser",
+            "Price": "120,000",
+            "Source": "GracieGrace"
+        }
+    ],
+    "Species": "Gorilla",
+    "Personality": "Peppy",
+    "Gender": "Female",
+    "Birthday": "November 1st",
+    "Star Sign": "Scorpio",
+    "Initial Phrase": "hello",
+    "Initial Clothes": "Hello Kitty Outfit",
+    "Favorite Saying": "When there's a will, there's a way.",
+    "image": "/w/images/thumb/e/ee/Rilla_NL_Model.png/100px-Rilla_NL_Model.png",
+    "Song": "Bubblegum K.K.",
+    "Style": "Cute"
+}

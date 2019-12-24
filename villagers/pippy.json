@@ -1,0 +1,82 @@
+{
+    "Name": "Pippy",
+    "Url": "https://nookipedia.com/wiki/Pippy",
+    "Biography": {
+        "Siblings": "Eldest of nine",
+        "Skill": "Debating",
+        "Goal": "Superhero",
+        "Fear": "Monster Mask"
+    },
+    "Favorites": {
+        "Clothing": "Basic",
+        "Color": "Pink"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "Lots",
+        "Sugar": "Three spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Game Shelf",
+            "Price": "980",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Super Toilet",
+            "Price": "1,980",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Picnic Shirt",
+            "Price": "420",
+            "Source": "Ables (Fall)"
+        },
+        {
+            "Name": "Picnic Tee",
+            "Price": "330",
+            "Source": "Ables (Fall)"
+        },
+        {
+            "Name": "Pink Parka",
+            "Price": "420",
+            "Source": "Ables (Winter)"
+        },
+        {
+            "Name": "Pink PJ Shirt",
+            "Price": "240",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Red Tie-Dye Tank",
+            "Price": "280",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Red Tie-Dye Tee",
+            "Price": "380",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Picnic Skirt",
+            "Price": "480",
+            "Source": "Ables (Fall)"
+        },
+        {
+            "Name": "Pink PJ Bottoms",
+            "Price": "240",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Rabbit",
+    "Personality": "Peppy",
+    "Gender": "Female",
+    "Birthday": "June 14th",
+    "Star Sign": "Gemini",
+    "Initial Phrase": "li'l hare",
+    "Initial Clothes": "Ugly Shirt*  Mint Gingham Top*",
+    "Favorite Saying": "Fake it till you make it.",
+    "image": "/w/images/thumb/6/64/Pippy_NLa.png/175px-Pippy_NLa.png",
+    "Song": "K.K. Mambo",
+    "Style": "Basic"
+}

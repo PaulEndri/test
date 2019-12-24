@@ -1,0 +1,82 @@
+{
+    "Name": "Rodney",
+    "Url": "https://nookipedia.com/wiki/Rodney",
+    "Biography": {
+        "Siblings": "Eldest of nine",
+        "Skill": "Hitting snooze",
+        "Goal": "Chef",
+        "Fear": "Werewolf"
+    },
+    "Favorites": {
+        "Clothing": "Flashy",
+        "Color": "Colorful"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "Regular amnout",
+        "Sugar": "Two spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Flashy-Flower Sign",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Neon Sign",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Sloppy Stereo",
+            "Price": "-",
+            "Source": "Re-Tail/Police Station"
+        },
+        {
+            "Name": "Hot-Dog Tank",
+            "Price": "6,000",
+            "Source": "GracieGrace (Fall)"
+        },
+        {
+            "Name": "Kiddie Tee",
+            "Price": "340",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Noodle Tee",
+            "Price": "380",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Prism Tee",
+            "Price": "370",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Sandwich Tank",
+            "Price": "6,400",
+            "Source": "GracieGrace (Fall)"
+        },
+        {
+            "Name": "Star Tee",
+            "Price": "370",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Star Tank Dress",
+            "Price": "720",
+            "Source": "Ables (Summer)"
+        }
+    ],
+    "Species": "Hamster",
+    "Personality": "Smug",
+    "Gender": "Male",
+    "Birthday": "November 10th",
+    "Star Sign": "Scorpio",
+    "Initial Phrase": "le ham",
+    "Initial Clothes": "Red Bar Shirt",
+    "Favorite Saying": "Everything is temporary.",
+    "image": "/w/images/thumb/f/f0/Rodney_NL.png/150px-Rodney_NL.png",
+    "Song": "K.K. Rockabilly",
+    "Style": "Flashy"
+}

@@ -1,0 +1,81 @@
+{
+    "Name": "Sparro",
+    "Url": "https://nookipedia.com/wiki/Sparro",
+    "Biography": {
+        "Siblings": "Fourth of five",
+        "Skill": "Playing poker",
+        "Goal": "Musician",
+        "Fear": "Skeleton Hood"
+    },
+    "Favorites": {
+        "Clothing": "Historical",
+        "Color": "Gray"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "Lots",
+        "Sugar": "Three spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Broken Post",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Clay Furnace",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Coffee Grinder",
+            "Price": "-",
+            "Source": "Brewster"
+        },
+        {
+            "Name": "Corinthian Post",
+            "Price": "3,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Cow Skull",
+            "Price": "1,020",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Ionian Post",
+            "Price": "3,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Master Sword",
+            "Price": "-",
+            "Source": "Fortune Cookie"
+        },
+        {
+            "Name": "Old Sewing Machine",
+            "Price": "1,350",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Pantheon Post",
+            "Price": "3,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Plate Armor",
+            "Price": "6,400",
+            "Source": "Spotlight/Wishy"
+        }
+    ],
+    "Species": "Bird",
+    "Personality": "Jock",
+    "Gender": "Male",
+    "Birthday": "November 20th",
+    "Star Sign": "Scorpio",
+    "Initial Phrase": "like whoa",
+    "Initial Clothes": "BB Shirt",
+    "Favorite Saying": "The proof of the pudding is in the eating.",
+    "Song": "Steep Hill",
+    "Style": "Historical"
+}

@@ -1,0 +1,52 @@
+{
+    "Name": "Velma",
+    "Url": "https://nookipedia.com/wiki/Velma",
+    "Biography": {
+        "Siblings": "Eldest of two",
+        "Skill": "Speed reading",
+        "Goal": "Lawyer",
+        "Fear": "Bug Mask"
+    },
+    "Favorites": {
+        "Clothing": "Official",
+        "Color": "Purple"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "Lots",
+        "Sugar": "3 spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "24-Hour-Shop Uniform",
+            "Price": "-",
+            "Source": "DLC (Japan)"
+        },
+        {
+            "Name": "Sweater-Vest",
+            "Price": "420",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Pilot's Hat",
+            "Price": "960",
+            "Source": "Accessory Corner"
+        },
+        {
+            "Name": "Purple Pumps",
+            "Price": "480",
+            "Source": "Kicks"
+        }
+    ],
+    "Species": "Goat",
+    "Personality": "Snooty",
+    "Gender": "Female",
+    "Birthday": "January 14th",
+    "Star Sign": "Capricorn",
+    "Initial Phrase": "blih",
+    "Initial Clothes": "Cool shirt*Swell shirt*",
+    "Favorite Saying": "Work smarter, not harder.",
+    "image": "/w/images/thumb/0/06/Velma_NLa.png/175px-Velma_NLa.png",
+    "Song": "K.K. Étude",
+    "Style": "Official"
+}

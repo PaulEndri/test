@@ -1,0 +1,62 @@
+{
+    "Name": "Sylvia",
+    "Url": "https://nookipedia.com/wiki/Sylvia",
+    "Biography": {
+        "Siblings": "Youngest of five",
+        "Skill": "Playing jacks",
+        "Goal": "Tour guide",
+        "Fear": "Mummy Mask"
+    },
+    "Favorites": {
+        "Clothing": "Ornate",
+        "Color": "Pink"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "None",
+        "Sugar": "None"
+    },
+    "Gifts": [
+        {
+            "Name": "Amethyst Shirt",
+            "Price": "420",
+            "Source": "Ables (Fall)"
+        },
+        {
+            "Name": "Amethyst Tee",
+            "Price": "360",
+            "Source": "Ables (Fall)"
+        },
+        {
+            "Name": "Classic Dress",
+            "Price": "720",
+            "Source": "Ables (Fall)"
+        },
+        {
+            "Name": "Pink Lace-Up Dress",
+            "Price": "7,2000",
+            "Source": "GracieGrace (Spring)"
+        },
+        {
+            "Name": "Festivale Accessory",
+            "Price": "680",
+            "Source": "Accessory Corner"
+        },
+        {
+            "Name": "Flashy Hairpin",
+            "Price": "4,800",
+            "Source": "GracieGrace (Summer)"
+        }
+    ],
+    "Species": "Kangaroo",
+    "Personality": "SnootyUchi",
+    "Gender": "Female",
+    "Birthday": "May 3rd",
+    "Star Sign": "Taurus",
+    "Initial Phrase": "boing",
+    "Initial Clothes": "Yellow Aloha Tee",
+    "Favorite Saying": "Hop first; ask questions later.",
+    "image": "/w/images/thumb/a/ac/Sylvia_NL.png/200px-Sylvia_NL.png",
+    "Song": "Rockin' K.K.",
+    "Style": "Ornate"
+}

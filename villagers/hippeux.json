@@ -1,0 +1,42 @@
+{
+    "Name": "Hippeux",
+    "Url": "https://nookipedia.com/wiki/Hippeux",
+    "Biography": {
+        "Siblings": "Youngest of three",
+        "Skill": "Juggling",
+        "Goal": "Actor",
+        "Fear": "Skeleton Hood"
+    },
+    "Favorites": {
+        "Clothing": "Ornate",
+        "Color": "Aqua"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "Lots",
+        "Sugar": "Three spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Corseted Skirt",
+            "Price": "480",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Princess Dress",
+            "Price": "1,000",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Hippo",
+    "Personality": "Smug",
+    "Gender": "Male",
+    "Birthday": "October 15th",
+    "Star Sign": "Libra",
+    "Initial Phrase": "natch",
+    "Initial Clothes": "Beige Emblem Blazer",
+    "Favorite Saying": "Mottoes are for the unoriginal.",
+    "image": "/w/images/thumb/4/4b/Hippeux_NL.png/200px-Hippeux_NL.png",
+    "Song": "K.K. Moody",
+    "Style": "Ornate"
+}

@@ -1,0 +1,82 @@
+{
+    "Name": "Merry",
+    "Url": "https://nookipedia.com/wiki/Merry",
+    "Biography": {
+        "Siblings": "Eldest of two",
+        "Skill": "Vaulting",
+        "Goal": "Figure skater",
+        "Fear": "Werewolf Hood"
+    },
+    "Favorites": {
+        "Clothing": "Cute",
+        "Color": "Aqua"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "The regular amount",
+        "Sugar": "Two spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Egg Lamp",
+            "Price": "-",
+            "Source": "Zipper"
+        },
+        {
+            "Name": "Ice Bed",
+            "Price": "-",
+            "Source": "Snowmam"
+        },
+        {
+            "Name": "Ice Chair",
+            "Price": "-",
+            "Source": "Snowmam"
+        },
+        {
+            "Name": "Ice Clock",
+            "Price": "-",
+            "Source": "Snowmam"
+        },
+        {
+            "Name": "Ice Closet",
+            "Price": "-",
+            "Source": "Snowmam"
+        },
+        {
+            "Name": "Ice Dresser",
+            "Price": "-",
+            "Source": "Snowmam"
+        },
+        {
+            "Name": "Ice Lamp",
+            "Price": "-",
+            "Source": "Snowmam"
+        },
+        {
+            "Name": "Ice Shelf",
+            "Price": "-",
+            "Source": "Snowmam"
+        },
+        {
+            "Name": "Ice Side Table",
+            "Price": "-",
+            "Source": "Snowmam"
+        },
+        {
+            "Name": "Ice Sofa",
+            "Price": "-",
+            "Source": "Snowmam"
+        }
+    ],
+    "Species": "Cat",
+    "Personality": "Peppy",
+    "Gender": "Female",
+    "Birthday": "June 29th",
+    "Star Sign": "Cancer",
+    "Initial Phrase": "mweee",
+    "Initial Clothes": "Daisy Shirt",
+    "Favorite Saying": "A smile increases your face value.",
+    "image": "/w/images/thumb/3/34/Merry_NLa.png/175px-Merry_NLa.png",
+    "Song": "DJ K.K.",
+    "Style": "Cute"
+}

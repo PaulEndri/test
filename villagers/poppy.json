@@ -1,0 +1,67 @@
+{
+    "Name": "Poppy",
+    "Url": "https://nookipedia.com/wiki/Poppy",
+    "Biography": {
+        "Siblings": "Youngest of five",
+        "Skill": "Making budgets",
+        "Goal": "Stylist",
+        "Fear": "Skeleton"
+    },
+    "Favorites": {
+        "Clothing": "Modern",
+        "Color": "Green"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "A little",
+        "Sugar": "One spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Poinsettia",
+            "Price": "1,200",
+            "Source": "Garden Corner"
+        },
+        {
+            "Name": "Diner Tile",
+            "Price": "1,300",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Brown-Bar Shirt",
+            "Price": "5,000",
+            "Source": "GracieGrace (Spring)"
+        },
+        {
+            "Name": "Brown-Bar Tee",
+            "Price": "5,000",
+            "Source": "GracieGrace (Spring)"
+        },
+        {
+            "Name": "Crewel Tee",
+            "Price": "380",
+            "Source": "Ables (Winter)"
+        },
+        {
+            "Name": "Jade Plaid Shirt",
+            "Price": "360",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Jade Plaid Tee",
+            "Price": "360",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Squirrel",
+    "Personality": "Normal",
+    "Gender": "Female",
+    "Birthday": "August 5th",
+    "Star Sign": "Leo",
+    "Initial Phrase": "nutty",
+    "Initial Clothes": "Rally Shirt",
+    "Favorite Saying": "It's all about positive thinking!",
+    "image": "/w/images/thumb/b/b9/Poppy_NLa.png/185px-Poppy_NLa.png",
+    "Song": "K.K. Lullaby",
+    "Style": "Modern"
+}

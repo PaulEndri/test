@@ -1,0 +1,81 @@
+{
+    "Name": "Maggie",
+    "Url": "https://nookipedia.com/wiki/Maggie",
+    "Biography": {
+        "Siblings": "Youngest of 3",
+        "Skill": "Memorizing stuff",
+        "Goal": "Gymnast",
+        "Fear": "Monster"
+    },
+    "Favorites": {
+        "Clothing": "Cute",
+        "Color": "Green"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "Regular",
+        "Sugar": "2"
+    },
+    "Gifts": [
+        {
+            "Name": "1-Up Mushroom",
+            "Price": "-",
+            "Source": "Fortune Cookie"
+        },
+        {
+            "Name": "Baby Panda",
+            "Price": "480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Big Festive Tree",
+            "Price": "2,480",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Birdbath",
+            "Price": "1,450",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Caterpillar Sofa",
+            "Price": "-",
+            "Source": "Nat"
+        },
+        {
+            "Name": "Cosmos Fan",
+            "Price": "-",
+            "Source": "Leif"
+        },
+        {
+            "Name": "Festive Tree",
+            "Price": "1,300",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Festive Wreath",
+            "Price": "-",
+            "Source": "Toy Day"
+        },
+        {
+            "Name": "Firefly Lamp",
+            "Price": "-",
+            "Source": "Nat"
+        },
+        {
+            "Name": "Flounder Table",
+            "Price": "-",
+            "Source": "Chip"
+        }
+    ],
+    "Species": "Pig",
+    "Personality": "Normal",
+    "Gender": "Female",
+    "Birthday": "",
+    "Star Sign": "Virgo",
+    "Initial Phrase": "schep",
+    "Initial Clothes": "Yodel Shirt (Doubutsu no Mori e+)Mint Shirt (New Leaf onwards)",
+    "Favorite Saying": "All a plant needs is love...and sun and water and soil.",
+    "image": "/w/images/thumb/0/05/Maggie_NL.png/200px-Maggie_NL.png",
+    "Song": "Forest Life"
+}

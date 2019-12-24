@@ -1,0 +1,82 @@
+{
+    "Name": "Beau",
+    "Url": "https://nookipedia.com/wiki/Beau",
+    "Biography": {
+        "Siblings": "Eldest of eight kids",
+        "Skill": "Staying awake",
+        "Goal": "Mayor",
+        "Fear": "Wolves"
+    },
+    "Favorites": {
+        "Clothing": "Basic",
+        "Color": "Beige"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "Lots",
+        "Sugar": "Three Spoonfuls."
+    },
+    "Gifts": [
+        {
+            "Name": "Alarm Clock",
+            "Price": "1,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Conga Drum",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Kitchen Island",
+            "Price": "30 (medals)",
+            "Source": "Island"
+        },
+        {
+            "Name": "Mini Lamp",
+            "Price": "1,280",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Timpano Drum",
+            "Price": "2,100",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Kitchen Tile",
+            "Price": "1,890",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Round Carpet",
+            "Price": "1,080",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Blue-Grid Tee",
+            "Price": "340",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Chevron Shirt",
+            "Price": "320",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Earthy Knit Shirt",
+            "Price": "390",
+            "Source": "Ables (Winter)"
+        }
+    ],
+    "Species": "Deer",
+    "Personality": "Lazy",
+    "Gender": "Male",
+    "Birthday": "April 5th",
+    "Star Sign": "Aries",
+    "Initial Phrase": "saltlick",
+    "Initial Clothes": "Deer Shirt",
+    "Favorite Saying": "You snooze, you lose.",
+    "image": "/w/images/thumb/0/09/Beau_NLa.png/200px-Beau_NLa.png",
+    "Song": "Mountain Song",
+    "Style": "Basic"
+}

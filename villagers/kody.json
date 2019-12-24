@@ -1,0 +1,72 @@
+{
+    "Name": "Kody",
+    "Url": "https://nookipedia.com/wiki/Kody",
+    "Biography": {
+        "Siblings": "Third quadruplet",
+        "Skill": "Eating frequently",
+        "Goal": "Baseball player",
+        "Fear": "Monster"
+    },
+    "Favorites": {
+        "Clothing": "Sporty",
+        "Color": "Colorful"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "Lots",
+        "Sugar": "Three spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Ball Return",
+            "Price": "6,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Diver Dan",
+            "Price": "60 (medals)",
+            "Source": "Island"
+        },
+        {
+            "Name": "Foosball Table",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Kitschy Clock",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Ski Rack",
+            "Price": "-",
+            "Source": "Snowman"
+        },
+        {
+            "Name": "Racing Shirt",
+            "Price": "460",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Rally Tank",
+            "Price": "280",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Rally Tee",
+            "Price": "380",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Cub",
+    "Personality": "Jock",
+    "Gender": "Male",
+    "Birthday": "September 28th",
+    "Star Sign": "Libra",
+    "Initial Phrase": "okey-dokeygrah grah",
+    "Initial Clothes": "Far-Out Shirt*Orange Check Shirt*Racer Tee*",
+    "Favorite Saying": "The sky's the limit!Drop and give me twenty!",
+    "image": "/w/images/thumb/4/4c/Kody_NLa.png/175px-Kody_NLa.png",
+    "Song": "K.K. Country",
+    "Style": "Sporty"
+}

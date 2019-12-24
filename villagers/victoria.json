@@ -1,0 +1,82 @@
+{
+    "Name": "Victoria",
+    "Url": "https://nookipedia.com/wiki/Victoria",
+    "Biography": {
+        "Siblings": "One of 4",
+        "Skill": "Playing horseshoes",
+        "Goal": "Marathon runner",
+        "Fear": "Wolves"
+    },
+    "Favorites": {
+        "Clothing": "Sporty",
+        "Color": "Red"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "A little bit",
+        "Sugar": "1 spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Barbecue",
+            "Price": "1,760",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Bilboquet",
+            "Price": "2,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Bonfire",
+            "Price": "2,240",
+            "Source": "Tent Camper"
+        },
+        {
+            "Name": "Campfire",
+            "Price": "1,360",
+            "Source": "Igloo Camper"
+        },
+        {
+            "Name": "Lantern",
+            "Price": "1,180",
+            "Source": "Isabelle/Timmy & Tommy's"
+        },
+        {
+            "Name": "Life Ring",
+            "Price": "20 (medals)",
+            "Source": "Island"
+        },
+        {
+            "Name": "Miniature Car",
+            "Price": "-",
+            "Source": "Fireworks"
+        },
+        {
+            "Name": "Red Corner",
+            "Price": "6,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Sandbag",
+            "Price": "3,190",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Slalom Gate",
+            "Price": "-",
+            "Source": "Snowman"
+        }
+    ],
+    "Species": "Horse",
+    "Personality": "Peppy",
+    "Gender": "Female",
+    "Birthday": "July 11th",
+    "Star Sign": "Cancer",
+    "Initial Phrase": "sugar cube",
+    "Initial Clothes": "Racer 6 Shirt*One-Ball Shirt*",
+    "Favorite Saying": "Don't put the cart before the horse.CATERWAULING CARROT CAKE!",
+    "image": "/w/images/thumb/d/dd/Victoria_NLa.png/175px-Victoria_NLa.png",
+    "Song": "K.K. Country",
+    "Style": "Sporty"
+}

@@ -1,0 +1,62 @@
+{
+    "Name": "Fang",
+    "Url": "https://nookipedia.com/wiki/Fang",
+    "Biography": {
+        "Siblings": "Eldest of five",
+        "Skill": "Mental math",
+        "Goal": "Hair stylist",
+        "Fear": "Werewolf"
+    },
+    "Favorites": {
+        "Clothing": "Official",
+        "Color": "Beige"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "Lots",
+        "Sugar": "Three spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Flat Display Case",
+            "Price": "2,500",
+            "Source": "Museum Shop"
+        },
+        {
+            "Name": "Beige Emblem Blazer",
+            "Price": "420",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Green Lace-Up Dress",
+            "Price": "700",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Orange Lace-Up Dress",
+            "Price": "700",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Orange Retro Dress",
+            "Price": "680",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Trench Coat",
+            "Price": "5,200",
+            "Source": "GracieGrace (Winter)"
+        }
+    ],
+    "Species": "Wolf",
+    "Personality": "Cranky",
+    "Gender": "Male",
+    "Birthday": "December 18th",
+    "Star Sign": "Sagittarius",
+    "Initial Phrase": "cha-chomp",
+    "Initial Clothes": "Icy Shirt",
+    "Favorite Saying": "You mess with the wolf, you get the fangs.",
+    "image": "/w/images/thumb/7/72/Fang_NLa.png/175px-Fang_NLa.png",
+    "Song": "K.K. Calypso",
+    "Style": "Official"
+}

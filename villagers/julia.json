@@ -1,0 +1,81 @@
+{
+    "Name": "Julia",
+    "Url": "https://nookipedia.com/wiki/Julia",
+    "Biography": {
+        "Siblings": "Youngest triplet",
+        "Skill": "Computing",
+        "Goal": "CEO",
+        "Fear": "Mummy Mask"
+    },
+    "Favorites": {
+        "Clothing": "Basic",
+        "Color": "Red"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "Lots",
+        "Sugar": "Three spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Common Bed",
+            "Price": "800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Extinguisher",
+            "Price": "1,300",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Fire Hydrant",
+            "Price": "960",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Gas Pump",
+            "Price": "1,280",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Metronome",
+            "Price": "1,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Rope Partition",
+            "Price": "1,800",
+            "Source": "Museum Shop"
+        },
+        {
+            "Name": "Round Clock",
+            "Price": "960",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Simple Armchair",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Simple Kettle",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Simple Love Seat",
+            "Price": "2,050",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Ostrich",
+    "Personality": "Snooty",
+    "Gender": "Female",
+    "Birthday": "July 31st",
+    "Star Sign": "Leo",
+    "Initial Phrase": "dahling",
+    "Initial Clothes": "Red Aloha Shirt*Purple Tie-Dye Tee*",
+    "Favorite Saying": "Cut once, measure twice... Wait- reverse that.",
+    "image": "/w/images/thumb/6/6f/Julia_NL.png/200px-Julia_NL.png",
+    "Song": "K.K. Sonata"
+}

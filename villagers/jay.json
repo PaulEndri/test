@@ -1,0 +1,82 @@
+{
+    "Name": "Jay",
+    "Url": "https://nookipedia.com/wiki/Jay",
+    "Biography": {
+        "Siblings": "Third out of six",
+        "Skill": "Tongue twisters",
+        "Goal": "Race car driver",
+        "Fear": "Skeleton Hood"
+    },
+    "Favorites": {
+        "Clothing": "Sporty",
+        "Color": "Blue"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "None at all",
+        "Sugar": "None at all"
+    },
+    "Gifts": [
+        {
+            "Name": "Backpack",
+            "Price": "1,980",
+            "Source": "Tent Camper"
+        },
+        {
+            "Name": "Ball Catcher",
+            "Price": "2,040",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Beach Table",
+            "Price": "30 (medals)",
+            "Source": "Island"
+        },
+        {
+            "Name": "Blue Corner",
+            "Price": "6,800",
+            "Source": "Spotlight/Wishy"
+        },
+        {
+            "Name": "Blue Falcon",
+            "Price": "-",
+            "Source": "Fortune Cookie"
+        },
+        {
+            "Name": "Boxing Barricade",
+            "Price": "1,050",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Boxing Mat",
+            "Price": "1,180",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Golf Bag",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Hurdle",
+            "Price": "980",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Snow Machine",
+            "Price": "-",
+            "Source": "Snowman"
+        }
+    ],
+    "Species": "Bird",
+    "Personality": "Jock",
+    "Gender": "Male",
+    "Birthday": "July 17th",
+    "Star Sign": "Cancer",
+    "Initial Phrase": "heeeeeyy",
+    "Initial Clothes": "Six-Ball Shirt",
+    "Favorite Saying": "He who hesitates has lost!You gotta want it!",
+    "image": "/w/images/thumb/9/90/Jay_NLa.png/175px-Jay_NLa.png",
+    "Song": "K.K. Waltz",
+    "Style": "Sporty"
+}

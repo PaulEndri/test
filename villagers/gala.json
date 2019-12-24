@@ -1,0 +1,82 @@
+{
+    "Name": "Gala",
+    "Url": "https://nookipedia.com/wiki/Gala",
+    "Biography": {
+        "Siblings": "Younger twin",
+        "Skill": "Rock paper scissors",
+        "Goal": "Violinist",
+        "Fear": "Frankenstein"
+    },
+    "Favorites": {
+        "Clothing": "Cute",
+        "Color": "Pink"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "None",
+        "Sugar": "None"
+    },
+    "Gifts": [
+        {
+            "Name": "Azalea Stool",
+            "Price": "-",
+            "Source": "Leif"
+        },
+        {
+            "Name": "Boxed Figurine",
+            "Price": "-",
+            "Source": "Fireworks"
+        },
+        {
+            "Name": "Cradle",
+            "Price": "3,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Crane Game",
+            "Price": "1,680",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Dollhouse",
+            "Price": "2,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Flower Bouquet",
+            "Price": "-",
+            "Source": "Leif"
+        },
+        {
+            "Name": "Lotus Lamp",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Lovely Armoire",
+            "Price": "2,240",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Lovely Bed",
+            "Price": "2,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Lovely Chair",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Pig",
+    "Personality": "Normal",
+    "Gender": "Female",
+    "Birthday": "March 5th",
+    "Star Sign": "Pisces",
+    "Initial Phrase": "snortie",
+    "Initial Clothes": "Daisy shirt",
+    "Favorite Saying": "Still waters run deep.",
+    "image": "/w/images/thumb/0/05/Gala_NLa.png/175px-Gala_NLa.png",
+    "Song": "Two Days Ago",
+    "Style": "Cute"
+}

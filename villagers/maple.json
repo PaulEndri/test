@@ -1,0 +1,81 @@
+{
+    "Name": "Maple",
+    "Url": "https://nookipedia.com/wiki/Maple",
+    "Biography": {
+        "Skill": "Writing letters",
+        "Goal": "Architect",
+        "Fear": "Bug Mask"
+    },
+    "Favorites": {
+        "Clothing": "Basic",
+        "Color": "Yellow"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "The regular amount",
+        "Sugar": "2 spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Blue Bed",
+            "Price": "2,100",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Blue Table",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Bucket",
+            "Price": "600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Candle",
+            "Price": "1,280",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Classic Sofa",
+            "Price": "2,240",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Drum Set",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Gold House Model",
+            "Price": "-",
+            "Source": "HHA"
+        },
+        {
+            "Name": "Gold Stereo",
+            "Price": "2,640",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Harpsichord",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Kettle",
+            "Price": "800",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Cub",
+    "Personality": "Normal",
+    "Gender": "Female",
+    "Birthday": "June 15th",
+    "Star Sign": "Gemini",
+    "Initial Phrase": "honey",
+    "Initial Clothes": "Citrus Gingham*Dapper Shirt*",
+    "Favorite Saying": "Waste not, want not.Maple +  = BFF!",
+    "image": "/w/images/thumb/4/4d/Maple_NLa.png/175px-Maple_NLa.png",
+    "Song": "I Love You",
+    "Style": "Basic"
+}

@@ -1,0 +1,82 @@
+{
+    "Name": "Apollo",
+    "Url": "https://nookipedia.com/wiki/Apollo",
+    "Biography": {
+        "Siblings": "Eldest quintuplet",
+        "Skill": "Staying up late",
+        "Goal": "Pilot",
+        "Fear": "Ghosts"
+    },
+    "Favorites": {
+        "Clothing": "Rock 'n' Roll",
+        "Color": "White"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "A little milk",
+        "Sugar": "One spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Arcade Machine",
+            "Price": "4,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Dentist's Chair",
+            "Price": "3,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Detour Arrow",
+            "Price": "600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Robo-Bed",
+            "Price": "2,000",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Robo-Chair",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Robo-Clock",
+            "Price": "1,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Robo-Closet",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Robo-Dresser",
+            "Price": "2,560",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Robo-Lamp",
+            "Price": "1,800",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Robo-Sofa",
+            "Price": "2,000",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Eagle",
+    "Personality": "Cranky",
+    "Gender": "Male",
+    "Birthday": "July 4th",
+    "Star Sign": "Cancer",
+    "Initial Phrase": "pah",
+    "Initial Clothes": "Zipper Shirt",
+    "Favorite Saying": "What goes up must come down.I'm not bald! I've just got fine feathers, that's all!",
+    "image": "/w/images/thumb/1/1c/Apollo_NLa.png/175px-Apollo_NLa.png",
+    "Song": "K.K. Rock",
+    "Style": "Rock 'n' roll"
+}

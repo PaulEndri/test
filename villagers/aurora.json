@@ -1,0 +1,50 @@
+{
+    "Name": "Aurora",
+    "Url": "https://nookipedia.com/wiki/Aurora",
+    "Biography": {
+        "Siblings": "Youngest of two",
+        "Skill": "Making budgets",
+        "Goal": "Doctor",
+        "Fear": "Skulls"
+    },
+    "Favorites": {
+        "Clothing": "Official",
+        "Color": "Pink"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "The regular amount",
+        "Sugar": "Two spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Flight-Crew Shirt",
+            "Price": "1,200",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Nurse's Uniform",
+            "Price": "800",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Pink Party Dress",
+            "Price": "8,000",
+            "Source": "GracieGrace (Sales)"
+        },
+        {
+            "Name": "Waitress Dress",
+            "Price": "800",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Penguin",
+    "Personality": "Normal",
+    "Gender": "Female",
+    "Birthday": "January 27th",
+    "Star Sign": "Aquarius",
+    "Initial Phrase": "b-b-baby",
+    "Initial Clothes": "Classic Top*Pink Tartan*",
+    "Favorite Saying": "Always keep your cool.Just keep your cool.",
+    "image": "/w/images/thumb/e/e4/Aurora_NLa.png/200px-Aurora_NLa.png"
+}

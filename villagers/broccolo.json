@@ -1,0 +1,82 @@
+{
+    "Name": "Broccolo",
+    "Url": "https://nookipedia.com/wiki/Broccolo",
+    "Biography": {
+        "Siblings": "Youngest triplet",
+        "Skill": "climbing trees",
+        "Goal": "movie director",
+        "Fear": "Wolves"
+    },
+    "Favorites": {
+        "Clothing": "Flashy",
+        "Color": "Colorful"
+    },
+    "Coffee": {
+        "Type": "Blend",
+        "Milk": "The regular amount of milk",
+        "Sugar": "Two spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Flashy-Flower Sign",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Neon Sign",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Sloppy Stereo",
+            "Price": "-",
+            "Source": "Re-Tail/Police Station"
+        },
+        {
+            "Name": "Hot-Dog Tank",
+            "Price": "6,000",
+            "Source": "GracieGrace (Fall)"
+        },
+        {
+            "Name": "Kiddie Tee",
+            "Price": "340",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Noodle Tee",
+            "Price": "380",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Prism Tee",
+            "Price": "370",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Sandwich Tank",
+            "Price": "6,400",
+            "Source": "GracieGrace (Fall)"
+        },
+        {
+            "Name": "Star Tee",
+            "Price": "370",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Star Tank Dress",
+            "Price": "720",
+            "Source": "Ables (Summer)"
+        }
+    ],
+    "Species": "Mouse",
+    "Personality": "Lazy",
+    "Gender": "Male",
+    "Birthday": "June 30th",
+    "Star Sign": "",
+    "Initial Phrase": "eat it",
+    "Initial Clothes": "Kiddie Shirt",
+    "Favorite Saying": "One nap leads to another.",
+    "image": "/w/images/thumb/8/89/Broccolo_NLa.png/175px-Broccolo_NLa.png",
+    "Song": "K.K. Ragtime",
+    "Style": "Flashy"
+}

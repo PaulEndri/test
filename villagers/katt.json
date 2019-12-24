@@ -1,0 +1,42 @@
+{
+    "Name": "Katt",
+    "Url": "https://nookipedia.com/wiki/Katt",
+    "Biography": {
+        "Siblings": "Third of 4",
+        "Skill": "Playing old maid",
+        "Goal": "Swimmer",
+        "Fear": "Mummy Mask"
+    },
+    "Favorites": {
+        "Clothing": "Rock 'n' Roll",
+        "Color": "Purple"
+    },
+    "Coffee": {
+        "Type": "Kilimanjaro",
+        "Milk": "None",
+        "Sugar": "None"
+    },
+    "Gifts": [
+        {
+            "Name": "Tiger Jacket",
+            "Price": "5,000",
+            "Source": "GracieGrace (Sales)"
+        },
+        {
+            "Name": "Funky Glasses",
+            "Price": "240",
+            "Source": "Accessory Corner"
+        }
+    ],
+    "Species": "Cat",
+    "Personality": "Uchi",
+    "Gender": "Female",
+    "Birthday": "April 27th",
+    "Star Sign": "Taurus",
+    "Initial Phrase": "purrty",
+    "Initial Clothes": "Pep Squad Shirt",
+    "Favorite Saying": "MeowMEOWmeow!",
+    "image": "/w/images/thumb/1/15/Katt_NL.png/175px-Katt_NL.png",
+    "Song": "Surfin' K.K.",
+    "Style": "Rock 'n' roll"
+}

@@ -1,0 +1,57 @@
+{
+    "Name": "Rudy",
+    "Url": "https://nookipedia.com/wiki/Rudy",
+    "Biography": {
+        "Siblings": "Third of six",
+        "Skill": "Cramming for tests",
+        "Goal": "Artist",
+        "Fear": "Ghost Mask"
+    },
+    "Favorites": {
+        "Clothing": "Sporty",
+        "Color": "Beige"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "A little bit",
+        "Sugar": "One spoonful"
+    },
+    "Gifts": [
+        {
+            "Name": "Vaulting Horse",
+            "Price": "1,200",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Sporty Floor",
+            "Price": "-",
+            "Source": "Saharah"
+        },
+        {
+            "Name": "Explorer Tee",
+            "Price": "400",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Wrap Shirt",
+            "Price": "320",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Explorer Pants",
+            "Price": "360",
+            "Source": "Ables (All)"
+        }
+    ],
+    "Species": "Cat",
+    "Personality": "Jock",
+    "Gender": "Male",
+    "Birthday": "December 20th",
+    "Star Sign": "Sagittarius",
+    "Initial Phrase": "mush",
+    "Initial Clothes": "Red-grid Tee",
+    "Favorite Saying": "Always land on your feet!",
+    "image": "/w/images/thumb/a/a8/Rudy_NL.png/175px-Rudy_NL.png",
+    "Song": "The K. Funk",
+    "Style": "Sporty"
+}

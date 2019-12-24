@@ -1,0 +1,82 @@
+{
+    "Name": "Gaston",
+    "Url": "https://nookipedia.com/wiki/Gaston",
+    "Biography": {
+        "Siblings": "Eldest triplet",
+        "Skill": "Ventriloquism",
+        "Goal": "Tycoon",
+        "Fear": "Werewolf"
+    },
+    "Favorites": {
+        "Clothing": "Flashy",
+        "Color": "Green"
+    },
+    "Coffee": {
+        "Type": "Blue Mountain",
+        "Milk": "Lots",
+        "Sugar": "Three spoonfuls"
+    },
+    "Gifts": [
+        {
+            "Name": "Creepy Cauldron",
+            "Price": "-",
+            "Source": "Halloween"
+        },
+        {
+            "Name": "Florence Flask",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Hospital Bed",
+            "Price": "3,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Caterpillar Tee",
+            "Price": "6,800",
+            "Source": "GracieGrace (Spring)"
+        },
+        {
+            "Name": "Crossing Shirt",
+            "Price": "420",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Kappa Costume",
+            "Price": "20 (medals)",
+            "Source": "Island"
+        },
+        {
+            "Name": "Loud Bloom Tee",
+            "Price": "360",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Pop Bloom Tee",
+            "Price": "360",
+            "Source": "Ables (All)"
+        },
+        {
+            "Name": "Sundae Tank",
+            "Price": "420",
+            "Source": "Ables (Summer)"
+        },
+        {
+            "Name": "Kappa-Costume Pants",
+            "Price": "15 (medals)",
+            "Source": "Island"
+        }
+    ],
+    "Species": "Rabbit",
+    "Personality": "Cranky",
+    "Gender": "Male",
+    "Birthday": "October 28th",
+    "Star Sign": "Scorpio",
+    "Initial Phrase": "mon chou",
+    "Initial Clothes": "Swell Tee",
+    "Favorite Saying": "An ear for an ear leaves everyone deaf.Sacre bleu!",
+    "image": "/w/images/thumb/b/bb/Gaston_NLa.png/175px-Gaston_NLa.png",
+    "Song": "K.K. Dirge",
+    "Style": "Flashy"
+}

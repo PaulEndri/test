@@ -1,0 +1,82 @@
+{
+    "Name": "Melba",
+    "Url": "https://nookipedia.com/wiki/Melba",
+    "Biography": {
+        "Siblings": "Second of four",
+        "Skill": "Yo-Yoing",
+        "Goal": "Professor",
+        "Fear": "Mummy"
+    },
+    "Favorites": {
+        "Clothing": "Basic",
+        "Color": "Green"
+    },
+    "Coffee": {
+        "Type": "Mocha",
+        "Milk": "None of all",
+        "Sugar": "None of all"
+    },
+    "Gifts": [
+        {
+            "Name": "Aloe",
+            "Price": "1,200",
+            "Source": "Garden Corner"
+        },
+        {
+            "Name": "Bath Mat",
+            "Price": "600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Box Corner Sofa",
+            "Price": "1,600",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Box Sofa",
+            "Price": "2,400",
+            "Source": "Timmy & Tommy's"
+        },
+        {
+            "Name": "Bromeliaceae",
+            "Price": "1,300",
+            "Source": "Garden Corner"
+        },
+        {
+            "Name": "Cacao Tree",
+            "Price": "-",
+            "Source": "Valentine's Day"
+        },
+        {
+            "Name": "Cactus",
+            "Price": "1,700",
+            "Source": "Garden Corner"
+        },
+        {
+            "Name": "Caladium",
+            "Price": "1,300",
+            "Source": "Garden Corner"
+        },
+        {
+            "Name": "Coconut Palm",
+            "Price": "1,200",
+            "Source": "Garden Corner"
+        },
+        {
+            "Name": "Common Chair",
+            "Price": "800",
+            "Source": "Timmy & Tommy's"
+        }
+    ],
+    "Species": "Koala",
+    "Personality": "Normal",
+    "Gender": "Female",
+    "Birthday": "April 12th",
+    "Star Sign": "Aries",
+    "Initial Phrase": "toasty",
+    "Initial Clothes": "Green Striped Shirt",
+    "Favorite Saying": "A friend who shares is a friend who cares.You're my new best bud!",
+    "image": "/w/images/thumb/2/20/Melba_NLa.png/175px-Melba_NLa.png",
+    "Song": "K.K. Ragtime",
+    "Style": "Basic"
+}
